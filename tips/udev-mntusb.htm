@@ -1,0 +1,40 @@
+<article>
+        <header>
+            <h1>Auto-mounting USB storage with udev</h1>
+            <span class="postinfo">
+                <time datetime="2013-12-09">9 Dec 2013</time>
+                
+                    in
+                    
+                        <a href="/docs/tag/data-storage/">Data Storage</a>,
+                    
+                        <a href="/docs/tag/system/">System</a>
+                    
+                
+            </span>
+        </header>
+
+        
+        <p>Auto-mounting external USB devices can be very handy, especially when using headless (no GUI) servers, or in my case a Raspberry Pi. A simple udev script is all that is needed, and assumed that any external storage device connected via USB will need to be mounted automatically in a subdirectory of <code>/media</code></p>
+<p>Simply create a file <code>/etc/udev/rules.d/11-media-by-label-auto-mount.rules</code> with the following:</p>
+<pre><code class=" hljs perl">KERNEL!=<span class="hljs-string">"sd[a-z][0-9]"</span>, GOTO=<span class="hljs-string">"media_by_label_auto_mount_end"</span>  
+<span class="hljs-comment"># Import FS infos  </span>
+IMPORT<span class="hljs-string">{program}</span>=<span class="hljs-string">"/sbin/blkid -o udev -p <span class="hljs-variable">%N</span>"</span>  
+<span class="hljs-comment"># Get a label if present, otherwise specify one  </span>
+ENV<span class="hljs-string">{ID_FS_LABEL}</span>!=<span class="hljs-string">""</span>, ENV<span class="hljs-string">{dir_name}</span>=<span class="hljs-string">"<span class="hljs-variable">%E</span>{ID_FS_LABEL}"</span>  
+ENV<span class="hljs-string">{ID_FS_LABEL}</span>==<span class="hljs-string">""</span>, ENV<span class="hljs-string">{dir_name}</span>=<span class="hljs-string">"usbhd-<span class="hljs-variable">%k</span>"</span>  
+<span class="hljs-comment"># Global mount options  </span>
+ACTION==<span class="hljs-string">"add"</span>, ENV<span class="hljs-string">{mount_options}</span>=<span class="hljs-string">"relatime"</span>  
+<span class="hljs-comment"># Filesystem-specific mount options  </span>
+ACTION==<span class="hljs-string">"add"</span>, ENV<span class="hljs-string">{ID_FS_TYPE}</span>==<span class="hljs-string">"vfat|ntfs"</span>, ENV<span class="hljs-string">{mount_options}</span>=<span class="hljs-string">"<span class="hljs-variable">$env</span>{mount_options},utf8,gid=100,umask=002"</span>  
+<span class="hljs-comment"># Mount the device  </span>
+ACTION==<span class="hljs-string">"add"</span>, RUN+=<span class="hljs-string">"/bin/mkdir -p /media/<span class="hljs-variable">%E</span>{dir_name}"</span>, RUN+=<span class="hljs-string">"/bin/mount -o <span class="hljs-variable">$env</span>{mount_options} /dev/<span class="hljs-variable">%k</span> /media/<span class="hljs-variable">%E</span>{dir_name}"</span>  
+<span class="hljs-comment"># Clean up after removal  </span>
+ACTION==<span class="hljs-string">"remove"</span>, ENV<span class="hljs-string">{dir_name}</span>!=<span class="hljs-string">""</span>, RUN+=<span class="hljs-string">"/bin/umount -l /media/<span class="hljs-variable">%E</span>{dir_name}"</span>, RUN+=<span class="hljs-string">"/bin/rmdir /media/<span class="hljs-variable">%E</span>{dir_name}"</span>  
+<span class="hljs-comment"># Exit  </span>
+LABEL=<span class="hljs-string">"media_by_label_auto_mount_end"</span></code></pre>
+<p>Once you have created your script and saved it, reload udev with:</p>
+<pre><code class="language-bash hljs ">udevadm control --reload-rules</code></pre>
+<p>Now, when you connect the USB storage device, udev should automatically create a directory under <code>/media</code> with either the device ID, or device label (if you have assigned one), and mount the device. If you disconnect the device, the drive directory (in <code>/media</code>) will be automatically removed.</p>
+
+</article>

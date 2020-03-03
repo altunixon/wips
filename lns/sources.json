@@ -1,0 +1,37 @@
+{
+    "FQDN_group_yoraikun": {
+        "Sevens WN": {
+            "ChapterTable": "URL_HERE",
+            "ChapterLatest": "LATEST_HERE",
+            "ChapterList": [],
+            "Status": "Completed"
+        },
+        "Shield Bruh": {},
+    },
+    "FQDN_group_skythewood": {
+        "Overlawd": {
+            "ChapterTable": "URL_HERE",
+            "ChapterLatest": "LATEST_HERE",
+            "ChapterList": [],
+            "Status": "Dropped"
+        },
+        "Isek Cook": {
+            "ChapterTable": "URL_HERE",
+            "ChapterLatest": "LATEST_HERE",
+            "ChapterList": [],
+            "Status": "Licensed"
+        },
+        "K&M": {
+            "ChapterTable": "URL_HERE",
+            "ChapterLatest": "LATEST_HERE",
+            "ChapterList": [],
+            "Status": "Dropped"
+        },
+        "Altina": {
+            "ChapterTable": "URL_HERE",
+            "ChapterLatest": "LATEST_HERE",
+            "ChapterList": [],
+            "Status": "Licensed"
+        },
+    },
+}

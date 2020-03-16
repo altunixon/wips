@@ -215,7 +215,7 @@ Next to him, Elise was doing the same.
 The driver slept under the wagon's hood.
 “The stars…”
 「……What’s wrong?」
-"...In the past, I got angry and ran away from the grand chamberlain and went into the mountain. I didn't go back even after night falls. At that moment, I looked at the sky just like this."
+"...In the past, I got angry and ran away from the grand chamberlain and went into the mountain. I didn't go back even after night falls. At that moment, I looked at the sky just like this."<br/>
 The night sky could be seen in between the vegetation, it seemed possible to reach the glittering stars with their hands.
 Elise changed her posture.
 It could be heard the sound of the cloth rubbing.
@@ -333,7 +333,7 @@ With their hands together, they continued to walk towards Gray Bridge Fort.
 ==================================================
 A few days before Bastian and Elise reached the fort
 This happened on the night of the 19th.
-“Pardon me."
+“Pardon me."<br/>
 With her forehead wrapped in bandage, Glenda gave a bow..
 This was Oswald’s office in the capital.
 Books and data were lined neatly on one side of the wall. In addition, there was a large work desk.

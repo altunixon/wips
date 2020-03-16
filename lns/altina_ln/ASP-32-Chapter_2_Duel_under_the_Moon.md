@@ -73,7 +73,7 @@ Latreille was waving and displayed a lonely smile while moving towards the stair
 “That’s apparent, he can stand against strong political enemies, so the way he acts is normal.”
 “Be more courageous, Regis, you absolutely need to do something.”
 “Starting tomorrow is the 3 day long Empire’s founding Anniversary, if nothing happens during this period of time, my role will be just enjoying these 3 days.”
-"Why does it look as though you have found a frog in my bag?"
+"Why does it look as though you have found a frog in my bag?"<br/>
 “...If there’s really a frog, I hope it’s alive.”
 The palace’s staff appeared and proceeded to remove the luggage from the carriage.
 Finally, they could take a break.

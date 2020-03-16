@@ -6,7 +6,7 @@ He met a girl with red hair and crimson eyes when he was reassigned to the north
 The girl was actually Beglaria’s fourth princess, Marie Quatre Argentina de Belgaria.
 Also known as Altina.
 As her mother was a commoner, she was alienated in the palace and was sent to be the border as a commander at the age of fourteen. Though she was not upset about this, she wanted to change the empire because of the citizens who were suffering.
-"I need your wisdom if I am to be empress."
+"I need your wisdom if I am to be empress."<br/>
 Altina shown her strength as a commander and Regis promised to be her strategist despite lacking in self-confidence.
 February, the Second Prince, Latreille, who controlled the military, gave an impossible order.
 “— to seize fort Volks of Varden Republic and the Germanian federation.”

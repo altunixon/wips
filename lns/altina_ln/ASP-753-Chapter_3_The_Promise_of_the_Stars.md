@@ -190,7 +190,7 @@ The classmate he was debating against was a man who waxed his hair stiffly, and 
 “Foolish! You want the country to not grant special privileges to the nobles?”
 “That’s a nation of equality.”
 “Then who will defend the nation? When the enemy attacks, aren’t the nobles the ones who resist courageously? The nobles are special, so they should receive special treatment. You might not know, but I came from a lineage of knights, so I understand honour and valor.”
-"The military should be a professional organization. If defending the nation is honourable, then why should the commoners, the ones conscripted for cheap, take to the field with the nobles?"
+"The military should be a professional organization. If defending the nation is honourable, then why should the commoners, the ones conscripted for cheap, take to the field with the nobles?"<br/>
 “That’s because the nobles have to take command. Without a commander, no matter how large a force is, it will still lose.”
 “Someone without professional training is appointed as a commander just because he is a noble. And they are fighting battles that have not changed for the past 300 years. That means there must be commoners who can be excellent commanders too.”
 “Fufu, how can those illiterate people take on the role of a commander?”

@@ -384,7 +384,7 @@ Facing this smile, it felt like the fatigue from the journey of fifteen days sud
  
 That… … because this is an army headquarter with four thousand soldiers protecting it? After all, the important people of the regiment are here, so I didn’t think that anyone could come here easily.”
  
-“If that’s the case, you should have come and find me! When I heard that the Marie Quatre Army was coming, I thought Regis-chan would be tagging along too. I was wondering when you will come and visit me, whether you are on the way here. If I keep waiting and you don’t come, then in the end I will still need to come and find you personally. How are you going to compensate me for that!"
+“If that’s the case, you should have come and find me! When I heard that the Marie Quatre Army was coming, I thought Regis-chan would be tagging along too. I was wondering when you will come and visit me, whether you are on the way here. If I keep waiting and you don’t come, then in the end I will still need to come and find you personally. How are you going to compensate me for that!"<br/>
  
 “It’s my fault?!”
  

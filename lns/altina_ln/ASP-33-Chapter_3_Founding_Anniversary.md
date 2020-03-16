@@ -121,7 +121,7 @@ How cute, was what Regis thought. He never thought about wanting to wear such dr
 “... … I did read such things before, just that I’m not good in things like a dance.”
 “Ahh, in that case it’s fine, because I’m not good in it too.”
 “Even though your motor coordination is great, how strange.”
-"That's because the dance instructor kept getting mad. She kept saying 'your movement is too sharp because you learnt fencing. Dancing requires working together with your partner, synchronizing both of your breathing is the most important point. Why do the men dancing with your highness kept getting tossed around? Men are not the swords in your hands, alright?'"
+"That's because the dance instructor kept getting mad. She kept saying 'your movement is too sharp because you learnt fencing. Dancing requires working together with your partner, synchronizing both of your breathing is the most important point. Why do the men dancing with your highness kept getting tossed around? Men are not the swords in your hands, alright?'"<br/>
 “I see… It’s because the difference in arm strength is too large. In that case, isn’t it better if the royalty teach you? Doesn’t the royalty excel in this?”
 “Latreille is more strict than the instructor, so it’s definitely a no! Auguste seldom comes to such events and Bastian was banned from attending such events.”
 “What did prince Bastian do?”

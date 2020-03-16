@@ -105,7 +105,7 @@ She raised her legs alternatively, causing the skirt of her dress to slip even m
 “I like Liz very much. She is a good girl.”
 “Is that so?”
 “Hence, when you bring back the corpse, I want to see her before you present her to Aunt Charlotte. Of course, that is before she rots. If it’s about this season, there shouldn’t be any problem. I believe bringing back Applewood’s pie shouldn’t be a problem too.”
-"Understood."
+"Understood."<br/>
 Oswald bowed her head deeply and respectfully, as if she was the queen.
 Margaret stood up.
 She walked while swinging her silk dress, she went to the door that connected the room interior with the terrace.
@@ -523,7 +523,7 @@ Bastian grabbed her small hand and started running.
 Bastian who has a keen hearing able to detect the armoured soldiers in the forest, was unable to utilise it in this alley.
 The soldiers were moving quietly, with no sound of footsteps.
 “We screwed up!”
-“Bastian, hurry and escape!"
+“Bastian, hurry and escape!"<br/>
 “Enough is enough, Elise! How can you, who is carrying the fate of the nation, act like this and worry about me!?  Who will stop the war if you die!? To protect this peace, you have to live even if you have to eat mud!”
 “Ah…”
 She was reprimanded.

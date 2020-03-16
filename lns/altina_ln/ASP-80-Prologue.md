@@ -8,7 +8,7 @@ She was ostracised by the courts because her mother was a commoner, and was assi
 “I want to be empress, so I am in need of your knowledge.”
 Altina then displayed her capability as a commander. Even though Regis lacked confidence… He still promised to be her strategist.
 February —— Second Prince Latreille who held overall command of the military issued an impossible order.
-『Take down the Germanian Federation’s Fort Volks in Varden Grand duchy』
+"Take down the Germanian Federation’s Fort Volks in Varden Grand duchy"<br/>
 It was an invulnerable fort, and attacking it with so few troops would be suicidal.
 But Regis used a stratagem he read once in a book, and guided Altina’s Border Regiment to victory.
 April —— Altina was summoned back to the Imperial Palace Le Brane.

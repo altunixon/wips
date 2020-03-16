@@ -251,7 +251,7 @@ He flung the pierced soldier aside.
 The soldier landed heavily, spilling blood everywhere.
 “Open fire! Rifle units! This way!”
 An order that captures the style of the High Britannians perfectly. Soldiers with the guns turned their horses and aimed their rifles.
-"Too slow!!"
+"Too slow!!"<br/>
 Jerome thrust his treasured lance.
 He knocked aside the rifle aimed at him and opened a huge hole in the enemy soldier’s chest.
 At this moment— The cavalry had broken through the makeshift fences of the camp, and defeated the enemy soldiers one after another.
@@ -783,7 +783,7 @@ Gilbert gritted his teeth.
 Just like how he broke the sword moments ago, Gilbert unleashed high speed thrusts.
 At this moment, Baltasar who was on the ground shouted:
 “Don’t swing! Push it back!”
-"!!"
+"!!"<br/>
 Altina nodded.
 When facing the enemy’s thrusting attack, she shouldn’t swing her sword— and should block with the blade.
 After blocking the attack, push the enemy back with her sword.

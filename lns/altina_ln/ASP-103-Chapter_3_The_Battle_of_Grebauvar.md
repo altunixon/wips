@@ -268,7 +268,7 @@ Regis looked towards the river.
 ‘... The water level… had fallen a lot.”
 “Hmm, the enemy haven’t noticed yet?’
 Germaine squinted and looked towards the fortress.
-“Yes— They are not reacting, so they probably haven’t noticed yet."
+“Yes— They are not reacting, so they probably haven’t noticed yet."<br/>
 Regis looked at his pocket watch.
 It wasn’t 1500 hours yet.
 “... I hope we can stall for another hour.”

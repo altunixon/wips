@@ -45,7 +45,7 @@ older type, right?”
 “Eh?! You can’t really say that; in Count Rudsel’s work
 ‘Messenger from the Stars’, it was a "ground-breaking and fantastic misty
 heroine”
-"Is Misty her name?"
+"Is Misty her name?"<br/>
 “No, it’s a creature made of mist. Do not mind the small
 details like the race difference, Groys, the protagonist, is a tortoise.”
 “At the least the characters should be human.”

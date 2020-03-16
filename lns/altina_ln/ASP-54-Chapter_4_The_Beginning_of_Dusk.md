@@ -197,7 +197,7 @@ He was cheering and cursing in his heart at the same time.
 Barguesonne seemed unhappy over the enemy commander’s blunder. Rather than feeling relieved, he looked disappointed.
 “Ara, are you looking forward to the clash where both side will use all their strength, general?”
 “It’s nothing to be proud of winning against the enemy who are like new recruits.”
-"It can't be helped since the High Britannia Army is a place where fresh recruits gathers. The corpse of their comrades lying side by side would be proof that they protected their nation."
+"It can't be helped since the High Britannia Army is a place where fresh recruits gathers. The corpse of their comrades lying side by side would be proof that they protected their nation."<br/>
 “Even though I hoped they were opponents that had some capability.”
 Compared to the enemy who obviously became complacent and failed, the commander who wished for a strong opponent made those in the headquarter burst into laughter. 
 Even though they were still a little uneasy due to the huge damage caused by the new cannons, there were no other thoughts than victory in their mind.

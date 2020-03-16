@@ -15,7 +15,7 @@ From that day, even if Weingartner would only get out of bed when the hands of t
  
 But his daily routine was changed by a report.
  
-"The imperial army is attacking from the south!"
+"The imperial army is attacking from the south!"<br/>
  
 Fort Volks was filled with tension and excitement.
  
@@ -31,15 +31,15 @@ In this battle conference room, Weingartner and his 7 staff held a meeting.
  
 The new chief of staff read the report again.
  
-"-- We will probably see the Imperial army tomorrow."
+"-- We will probably see the Imperial army tomorrow."<br/>
  
 The young general stood up and said:
  
-"Our Fort Volks is invincible! We will send them flying back home!"
+"Our Fort Volks is invincible! We will send them flying back home!"<br/>
  
-"That's right!"
+"That's right!"<br/>
  
-"No matter how many thousands of soldiers the empire might send, they won't take a single step into our Fort Volks!"
+"No matter how many thousands of soldiers the empire might send, they won't take a single step into our Fort Volks!"<br/>
  
 Everyone was in high spirits too.
  
@@ -49,7 +49,7 @@ He simply listened to his staff conversing.
  
 After a while, he spoke:
  
-"There were no reports of the imperial army mustering their forces. We didn't receive any intelligence about a massive overhaul in Fort Sierck too. From the scale of the Fort, it's impossible to raise an army over 10,000 in numbers. From the looks of things, there must be some issues in the empire. Probably something to do with the royals and nobles... We can't be careless... But there's no need to panic."
+"There were no reports of the imperial army mustering their forces. We didn't receive any intelligence about a massive overhaul in Fort Sierck too. From the scale of the Fort, it's impossible to raise an army over 10,000 in numbers. From the looks of things, there must be some issues in the empire. Probably something to do with the royals and nobles... We can't be careless... But there's no need to panic."<br/>
  
 So that's how it was. The staff members nodded in agreement.
  
@@ -57,37 +57,37 @@ They felt uneasy because a strong nation was attacking, making them spout agitat
  
 The chief of staff asked.
  
-"Commander, what should we do?"
+"Commander, what should we do?"<br/>
  
-"First, we need accurate intelligence of our opponent."
+"First, we need accurate intelligence of our opponent."<br/>
  
-"Understood. I will dispatch a reconnaissance team. We will get a clearer picture in an hour."
+"Understood. I will dispatch a reconnaissance team. We will get a clearer picture in an hour."<br/>
  
-"I leave it in your hands."
+"I leave it in your hands."<br/>
  
 The chief of staff gave his instructions to his subordinate standing by behind him.
  
 The others staff expressed their views.
  
-"Conduct the inspection of the cannons that were scheduled for next week now."
+"Conduct the inspection of the cannons that were scheduled for next week now."<br/>
  
-"That's right."
+"That's right."<br/>
  
-"I will prepare the men for battle."
+"I will prepare the men for battle."<br/>
  
-"I will check the walls."
+"I will check the walls."<br/>
  
 With their roles assigned, the staff went about their task.
  
 As the members started to take action, Weingartner asked one of the staff:
  
-"What happened to the cavalry unit that went out a few days ago?"
+"What happened to the cavalry unit that went out a few days ago?"<br/>
  
-"... There is still no news. They were probably attacked by the savages. We sent out a 500 men group to search for them twice, but we can't locate their bodies."
+"... There is still no news. They were probably attacked by the savages. We sent out a 500 men group to search for them twice, but we can't locate their bodies."<br/>
  
-"Is that so... It's regrettable, we will send their families our condolences along with the death notice and the entitled payout."
+"Is that so... It's regrettable, we will send their families our condolences along with the death notice and the entitled payout."<br/>
  
-"Yes sir!"
+"Yes sir!"<br/>
  
 The staff stood at attention and saluted.
  
@@ -95,7 +95,7 @@ He pivoted on his heel to turn right and jogged out of the conference room.
  
 Weingartner was left alone.
  
-"..."
+"..."<br/>
  
 News of general Jerome losing the duel at the end of last year and the 4th princess gaining actual command had reached his ears.
  
@@ -115,11 +115,11 @@ Weingartner got up from his seat and went to the dining hall as usual. The chefs
  
 The chief of staff in charge of reconnaissance charged into the conference room.
  
-"The imperial army is here!"
+"The imperial army is here!"<br/>
  
-"That's slower than expected."
+"That's slower than expected."<br/>
  
-"That's because they positioned the cannons in the forest..."
+"That's because they positioned the cannons in the forest..."<br/>
  
 An explosion boomed at this very moment.
  
@@ -145,13 +145,13 @@ According to scouting reports, the imperial army seemed to have prepared medium 
  
 The range was said to be 28Ar (2km). Both parties couldn't hit each other from this range.
  
-"The bastards from the empire... What are they thinking, setting up their cannons at such a distance?"
+"The bastards from the empire... What are they thinking, setting up their cannons at such a distance?"<br/>
  
 They fired another round.
  
 White smoke came out of the cannon, and an explosion could be heard shortly after.
  
-"Misfire?"
+"Misfire?"<br/>
  
 None of the staff could answer this question.
  
@@ -163,29 +163,29 @@ The explosion was quite a distance from the fort.
  
 Weingartner frowned.
  
-"Did the reconnaissance team see anything else? Just cavalry, infantry and cannons?"
+"Did the reconnaissance team see anything else? Just cavalry, infantry and cannons?"<br/>
  
-"Yes! There were huge amounts of food and supplies too."
+"Yes! There were huge amounts of food and supplies too."<br/>
  
-"Supplies?"
+"Supplies?"<br/>
  
-"We confirmed a large amount of crates and large tents."
+"We confirmed a large amount of crates and large tents."<br/>
  
-"Are they planning a long campaign?"
+"Are they planning a long campaign?"<br/>
  
-"That seems to be so!"
+"That seems to be so!"<br/>
  
 The staff felt uneasy over the unfathomable actions of the imperial army.
  
 Weingartner fell into deep thought.
  
-"... With their cannons, it's hard to draw near to scout them. Increase the men on the observation deck; be wary of night raids."
+"... With their cannons, it's hard to draw near to scout them. Increase the men on the observation deck; be wary of night raids."<br/>
  
-"Yes sir!"
+"Yes sir!"<br/>
  
-"Also, send scouts to Sierck Fort periodically. They might be planning for the advance party to stall for time while they plan a massive reinforcement."
+"Also, send scouts to Sierck Fort periodically. They might be planning for the advance party to stall for time while they plan a massive reinforcement."<br/>
  
-"So, so that's it!"
+"So, so that's it!"<br/>
  
 The unknown was scary.
  
@@ -195,9 +195,9 @@ Setting up a base right before the fort while mustering their strength there. Th
  
 On the flip side, this meant that they were thinking optimistically that 'Fort Volks won't fall unless the opponents send an unbelievably huge army.'
  
-"If the empire is planning a large reinforcement, we need to defeat the advance party before they link up with the main force. There might be a need to leave the fort for battle, make preparations."
+"If the empire is planning a large reinforcement, we need to defeat the advance party before they link up with the main force. There might be a need to leave the fort for battle, make preparations."<br/>
  
-"Yes sir!"
+"Yes sir!"<br/>
  
 The staffs closed their feet in attention and saluted in response to Weingartner's command.
  
@@ -213,29 +213,29 @@ The earth was also trembling.
  
 The faces of the staff looked frail.
  
-"Some of the troops reported insomnia and feeling ill. There were also concerns that the tremors might cause the mines to collapse."
+"Some of the troops reported insomnia and feeling ill. There were also concerns that the tremors might cause the mines to collapse."<br/>
  
 Weingartner shook his head and said:
  
-"What nonsense, the mines were excavated by dynamites in the past, the caves wouldn't collapse with just this amount of shock... And the walls were actually hit by cannons in previous battles. How would cannon fires that couldn't even hit us cause it to collapse. Shut the mouths of those saying such nonsense. If they want to protest, throw them into the dungeons."
+"What nonsense, the mines were excavated by dynamites in the past, the caves wouldn't collapse with just this amount of shock... And the walls were actually hit by cannons in previous battles. How would cannon fires that couldn't even hit us cause it to collapse. Shut the mouths of those saying such nonsense. If they want to protest, throw them into the dungeons."<br/>
  
-"Yes sir!"
+"Yes sir!"<br/>
  
 The staff who held that view remained silent.
  
 A different staff stood up.
  
-"The scouts had returned from Sierck Fort. There is no signs of major reinforcements... Yet."
+"The scouts had returned from Sierck Fort. There is no signs of major reinforcements... Yet."<br/>
  
-"Continue the reconnaissance."
+"Continue the reconnaissance."<br/>
  
-"Yes sir!"
+"Yes sir!"<br/>
  
-"Commander, let's attack! The opponents are just 2000 strong! We have more than 4000 troops! We will definitely emerge the victor in an open plain battle!"
+"Commander, let's attack! The opponents are just 2000 strong! We have more than 4000 troops! We will definitely emerge the victor in an open plain battle!"<br/>
  
-"... They have the black knight."
+"... They have the black knight."<br/>
  
-"What can one man do!?"
+"What can one man do!?"<br/>
  
 This hot blooded young man was named Zechmeister.
  
@@ -245,13 +245,13 @@ In a skirmish with the neighboring nation of Beyerberg and was complimented by t
  
 Weingartner squinted his eyes.
  
-"I took part of the battle of Erstein... That was a joint campaign by the kingdom of St. Prussia, Kingdom of Sturmgart and us, the Duchy of Varden. The total force number 20,000 men, with a heavy cavalry vanguard 3,000 strong."
+"I took part of the battle of Erstein... That was a joint campaign by the kingdom of St. Prussia, Kingdom of Sturmgart and us, the Duchy of Varden. The total force number 20,000 men, with a heavy cavalry vanguard 3,000 strong."<br/>
  
-"I know but..."
+"I know but..."<br/>
  
-"Then you should know he is not someone to be trifled with. The heavy cavalry was shattered by black knight Jerome and his 500 riders, and that campaign ended in failure."
+"Then you should know he is not someone to be trifled with. The heavy cavalry was shattered by black knight Jerome and his 500 riders, and that campaign ended in failure."<br/>
  
-"But commander! We the green bronze knights are different from the useless St. Prussia heavy cavalry! And we have the silver lances bestowed to us by the Duke!"
+"But commander! We the green bronze knights are different from the useless St. Prussia heavy cavalry! And we have the silver lances bestowed to us by the Duke!"<br/>
  
 The newly developed metal shipped in from high Britannia was evaluated to be as good as fairy silver.
  
@@ -263,13 +263,13 @@ Even Weingartner wondered if the achievements of the black knight were thanks to
  
 But the cautious old general shook his head.
  
-"The empire's cannons won't reach us and the outer walls are unharmed. It is meaningless to leave the fort. Isn't that the enemies' ploy?"
+"The empire's cannons won't reach us and the outer walls are unharmed. It is meaningless to leave the fort. Isn't that the enemies' ploy?"<br/>
  
-"That, that is..."
+"That, that is..."<br/>
  
-"Zechmeister, sharpen the lance bestowed to you by the Duke. It would be put to use soon."
+"Zechmeister, sharpen the lance bestowed to you by the Duke. It would be put to use soon."<br/>
  
-"..."
+"..."<br/>
  
 The youth lowered his gaze.
  
@@ -285,13 +285,13 @@ With the constant bombardment, even Weingartner couldn't keep to his sleep routi
  
 The door was knocked loudly.
  
-"Commander!"
+"Commander!"<br/>
  
-"What happened?"
+"What happened?"<br/>
  
-"The green bronze knights have moved out!"
+"The green bronze knights have moved out!"<br/>
  
-"!?"
+"!?"<br/>
  
 Weingartner jumped out of bed. He was still wearing his uniform, and he knew he wouldn't have time to change in an emergency.
  
@@ -303,15 +303,15 @@ And of course, Zechmeister wasn't there.
  
 The chief of staff pointed through the cracks of the boulders.
  
-"They are clashing now!"
+"They are clashing now!"<br/>
  
-"Why did it turn out this way..."
+"Why did it turn out this way..."<br/>
  
 Weingartner could only pray, hoping the green bronze knights could defeat the black knight Jerome.
  
 The cavalry charged through the cannon fire and survived the shots of the muskets. Zechmeister led the 500 green bronze knights and closed in on the imperial army.
  
-"Wargghh--!!"
+"Wargghh--!!"<br/>
  
 They were about 10Ar (715m) from the annoying cannons.
  
@@ -319,7 +319,7 @@ The black knight appeared there. Their opponents were 300 horsemen.
  
 He said in Belgarian:
  
-"Hmmp... I was just getting bored. Do your best to entertain me, moles of the Duchy!"
+"Hmmp... I was just getting bored. Do your best to entertain me, moles of the Duchy!"<br/>
  
 Because Fort Volks was originally a mine, so moles were used to describe those dwelling in that fort.
  
@@ -327,11 +327,11 @@ Zechmeister knew that too.
  
 He retorted in Germanian:
  
-"Hmmp! The black knight is just a rusty lance that basks in its past glory! I will take you down with my silver lance!"
+"Hmmp! The black knight is just a rusty lance that basks in its past glory! I will take you down with my silver lance!"<br/>
  
-"A mole out of its hole is worse than rats."
+"A mole out of its hole is worse than rats."<br/>
  
-"Shut your trap!"
+"Shut your trap!"<br/>
  
 Zechmeister spurred his horse on.
  
@@ -342,9 +342,9 @@ The green bronze knights of the Varden Duchy and the knights led by Jerome clash
 Urging his horse forward, Zechmeister lunged his lance made from new metal. 
 Black knight Jerome blocked the blow with his silver lance 'Dame's Hair'.
  
-"Huh. Is that lance just good for its color?"
+"Huh. Is that lance just good for its color?"<br/>
  
-"Stop your nonsense! You are at your limits with just defending!"
+"Stop your nonsense! You are at your limits with just defending!"<br/>
  
 Zechmeister didn't give his opponent any chance to fight back, attacking consecutively.
  
@@ -356,13 +356,13 @@ He had the advantage!
  
 His foe was barely able to keep up with defense.
  
-"I can win! I can defeat the black knight!"
+"I can win! I can defeat the black knight!"<br/>
  
-"Kukuku... This seems to be a new type of lance. I thought it might be something special... But it's hard to judge if the user is only at this level. I will pick it up for further research."
+"Kukuku... This seems to be a new type of lance. I thought it might be something special... But it's hard to judge if the user is only at this level. I will pick it up for further research."<br/>
  
-"What!?"
+"What!?"<br/>
  
-"Hah!"
+"Hah!"<br/>
  
 In response to Zechmeister thrust attack, Jerome lunged strongly with his lance.
  
@@ -372,9 +372,9 @@ It almost flew out of his hands.
  
 Zechmeister held on to his weapon, but he showed a gap-- the tables had turned.
  
-"Haaah!!"
+"Haaah!!"<br/>
  
-"Uguoohh--!?"
+"Uguoohh--!?"<br/>
  
 Attacks too fast for the eyes to see were sent out repeatedly.
  
@@ -392,21 +392,21 @@ He followed the lance closely with his eyes and managed to fend it off. The blow
  
 He couldn’t find a chance to counter.
  
-"Kukuku... Quite impressive. Could you keep up if I go faster?"
+"Kukuku... Quite impressive. Could you keep up if I go faster?"<br/>
  
-"Stop your arrogant lies!"
+"Stop your arrogant lies!"<br/>
  
 Jerome should be using his full strength.
  
 Zechmeister only noticed when he felt a warmth spreading from his left arm.
  
-"Shyaa... Ah...!"
+"Shyaa... Ah...!"<br/>
  
 Jerome’s lance had stabbed him in the arm.
  
 Zechmeister struggled to thrust his lance, attempting to push his foe away.
  
-"Hmmp, useless scum. If you don't watch the opponent when aiming..."
+"Hmmp, useless scum. If you don't watch the opponent when aiming..."<br/>
  
 The thrust was dodged and Zechmeister couldn't create any distance.
  
@@ -416,13 +416,13 @@ Zechmeister couldn't defend.
  
 He twisted his body but his flank was still hit.
  
-"Uguuuu--!!"
+"Uguuuu--!!"<br/>
  
 With the rider slumping down, the horse understood it had lost and fled. The green bronze knights retreated in a panic too.
  
 Jerome lifted one hand, restraining his knights from pursuing.
  
-"The cannonballs will come flying if we get any closer! Fall back!"
+"The cannonballs will come flying if we get any closer! Fall back!"<br/>
  
 The black knights retreated.
  
@@ -450,33 +450,33 @@ He looked towards the main gate absent mindedly
  
 The gate was closed, so he couldn't see the imperial army.
  
-"... The bombardment stopped."
+"... The bombardment stopped."<br/>
  
 He mumbled.
  
 The chief of staff tilted his head.
  
-"Did they finally exhaust their ammunition?"
+"Did they finally exhaust their ammunition?"<br/>
  
-"No, it should begin again shortly. They started firing immediately from the very beginning, they only stopped now. This is probably a moment of silence for the dead."
+"No, it should begin again shortly. They started firing immediately from the very beginning, they only stopped now. This is probably a moment of silence for the dead."<br/>
  
-"Eh!? No, that... Indeed..."
+"Eh!? No, that... Indeed..."<br/>
  
 When a general fell in battle and the horse ferried the body back, it was normal to offer prayers on the grounds of religion.
  
 But how could the Belgarians know their enemies so well with the gate closed?
  
-"From what I know about Jerome, he is not interested in such matters. Could it be the instructions of the new commander, 4th princess Marie Quatre..."
+"From what I know about Jerome, he is not interested in such matters. Could it be the instructions of the new commander, 4th princess Marie Quatre..."<br/>
  
-"It does seem like something royals who like grand ceremonies would take note of."
+"It does seem like something royals who like grand ceremonies would take note of."<br/>
  
-"I did think it was preposterous for a 14 year old girl to be a commander... But she might be better at war than expected. But in that case... What's the reason behind the bombardment that won't reach?"
+"I did think it was preposterous for a 14 year old girl to be a commander... But she might be better at war than expected. But in that case... What's the reason behind the bombardment that won't reach?"<br/>
  
-"So it is indeed a ploy for us to rush out impatiently like Zechmeister?"
+"So it is indeed a ploy for us to rush out impatiently like Zechmeister?"<br/>
  
-"That might be so. Ban all units from attacking without orders. Convey this command to everyone."
+"That might be so. Ban all units from attacking without orders. Convey this command to everyone."<br/>
  
-"Yes sir!"
+"Yes sir!"<br/>
  
 The chief of staff answered with a salute.
  
@@ -484,29 +484,29 @@ The 7th day of the battle.
  
 The chief of staff reported at noon.
  
-"The reinforcements from the capital would arrive tomorrow morning. We would then be able to repel the enemies."
+"The reinforcements from the capital would arrive tomorrow morning. We would then be able to repel the enemies."<br/>
  
-"Hmm."
+"Hmm."<br/>
  
 Moving troops from the capital to the fort would only take 2 days, it had been several days since these enemies showed up. Weingartner thought the capital was taking things too lightly.
  
-"There have been no casualties, but a lot of the men complained they couldn't sleep because of the cannons. There is a line before the infirmary right now."
+"There have been no casualties, but a lot of the men complained they couldn't sleep because of the cannons. There is a line before the infirmary right now."<br/>
  
-"Please do what you can about this."
+"Please do what you can about this."<br/>
  
-"Yes! Recently, the soldiers had the illusion of hearing sounds besides cannon fire."
+"Yes! Recently, the soldiers had the illusion of hearing sounds besides cannon fire."<br/>
  
-"They kept hearing things?"
+"They kept hearing things?"<br/>
  
 The chief of staff nodded.
  
 Weingartner bended his head to the side and said:
  
-"I didn't feel anything at all... Did a lot of the men have this problem?"
+"I didn't feel anything at all... Did a lot of the men have this problem?"<br/>
  
-"Several of the troops residing on the first level seemed to be hearing things. Maybe the impact from the bombardment is too strong."
+"Several of the troops residing on the first level seemed to be hearing things. Maybe the impact from the bombardment is too strong."<br/>
  
-"When doing my rounds, I felt the higher levels to be shaking harder though."
+"When doing my rounds, I felt the higher levels to be shaking harder though."<br/>
  
 Something felt off.
  
@@ -526,11 +526,11 @@ Sound.
  
 Weingartner stared at his feet.
  
-"... Could it be..."
+"... Could it be..."<br/>
  
-"What's the matter?"
+"What's the matter?"<br/>
  
-"Chief of staff, gather the men. The floor of the armory--"
+"Chief of staff, gather the men. The floor of the armory--"<br/>
  
 An exceptionally large tremor shook Fort Volks.
  
@@ -538,9 +538,9 @@ Several of the staff couldn't stand and fell onto their knees.
  
 Weingartner charged out.
  
-"Gather the men! From underground! The enemy must be coming in through the armory!"
+"Gather the men! From underground! The enemy must be coming in through the armory!"<br/>
  
-"General!"
+"General!"<br/>
  
 None of the staff understood these words immediately.
  
@@ -554,7 +554,7 @@ There were sounds of swords clashing.
  
 One soldier shouted:
  
-"It's the enemy!"
+"It's the enemy!"<br/>
  
 Weingartner realized Fort Sierck had been infiltrated by the Imperial army.
  
@@ -569,17 +569,17 @@ Using one of the boulders as a table, Regis spread out his map.
  
 The work team leader squatted besides him.
  
-"We finally made it, Mr. Strategist."
+"We finally made it, Mr. Strategist."<br/>
  
-"So it's done?"
+"So it's done?"<br/>
  
-"If we were aiming for the main gate, we would have finished last night..."
+"If we were aiming for the main gate, we would have finished last night..."<br/>
  
-"It can't be helped. Just reaching the main gate would increases casualties as we can’t achieve a decisive victory... If they found out about the tunnel and attacked it with cannons, the hastily constructed tunnels might collapse..."
+"It can't be helped. Just reaching the main gate would increases casualties as we can’t achieve a decisive victory... If they found out about the tunnel and attacked it with cannons, the hastily constructed tunnels might collapse..."<br/>
  
-"Aye. But the ground is hard around here, so the worry is not the tunnel collapsing, but digging through... Sorry it took 3 days longer than planned."
+"Aye. But the ground is hard around here, so the worry is not the tunnel collapsing, but digging through... Sorry it took 3 days longer than planned."<br/>
  
-"There are too many boulders."
+"There are too many boulders."<br/>
  
 They encountered rocks hard enough to deform shovels while digging the tunnel. Small amount of explosives were slotted into the rock crevices to blow it up in such instances.
  
@@ -597,17 +597,17 @@ The crates disguised as food were actually tools used for tunnel construction, s
  
 The excavated soil was hidden in giant tents, and then disposed farther away in the night.
  
-"And finally, we will blast through their floor with dynamites. A pit will be dug right under it so the collapsed earth won't clog up the tunnel."
+"And finally, we will blast through their floor with dynamites. A pit will be dug right under it so the collapsed earth won't clog up the tunnel."<br/>
  
-"According to the blueprints, blasting the floor of the armory would be fine... But their ammunition cache seems to be in a room further down."
+"According to the blueprints, blasting the floor of the armory would be fine... But their ammunition cache seems to be in a room further down."<br/>
  
-"That means the ammunition cache is right next door."
+"That means the ammunition cache is right next door."<br/>
  
-"I don't want to imagine that... But any error in the measurement will make the entire Fort and the 4000 people in there go up in smoke... The work team and breaching team will be caught in the explosion too."
+"I don't want to imagine that... But any error in the measurement will make the entire Fort and the 4000 people in there go up in smoke... The work team and breaching team will be caught in the explosion too."<br/>
  
-"The empire's measuring skills are the best in the world. Please trust us, Mr. Strategist."
+"The empire's measuring skills are the best in the world. Please trust us, Mr. Strategist."<br/>
  
-"Yes... I leave it in your hands."
+"Yes... I leave it in your hands."<br/>
  
 They obtained the same information from the green bronze knights prisoners; the location of the ammunition cache remained the same.
  
@@ -617,13 +617,13 @@ As the work team leader focused on his task, Regis stared hard at the blue print
  
 Footsteps walking closer could be heard.
  
-"You will catch a cold again alright?"
+"You will catch a cold again alright?"<br/>
  
-"... Ah, Altina."
+"... Ah, Altina."<br/>
  
-"The tunnel seems to be almost done."
+"The tunnel seems to be almost done."<br/>
  
-"Eh!? How did you find out?"
+"Eh!? How did you find out?"<br/>
  
 Regis tensed up.
  
@@ -633,84 +633,84 @@ Altina reached over.
  
 She pinched his cheeks and said:
  
-"Because you are making a scary face."
+"Because you are making a scary face."<br/>
  
-"Ugh..."
+"Ugh..."<br/>
  
-"Don't make an expression as if you are going to die. Aren't things going well?"
+"Don't make an expression as if you are going to die. Aren't things going well?"<br/>
  
-"Yiss."
+"Yiss."<br/>
  
 She released Regis' cheeks.
  
 It still stung.
  
-"We will win if we get into their armory?"
+"We will win if we get into their armory?"<br/>
  
-"... I think so. A well prepared soldier in full armor on the first day would only carry a sword by the 7th day."
+"... I think so. A well prepared soldier in full armor on the first day would only carry a sword by the 7th day."<br/>
  
-"That's true. It is hard to go about your day in full armor."
+"That's true. It is hard to go about your day in full armor."<br/>
  
-"They are probably rather... Sleep deprived..."
+"They are probably rather... Sleep deprived..."<br/>
  
-"It's the same here. We are only doing better because of our ear plugs."
+"It's the same here. We are only doing better because of our ear plugs."<br/>
  
-"Yeah."
+"Yeah."<br/>
  
 Because they would be conducting artillery bombardment through the night, the empire had prepared a set of ear plugs for everyone.
  
 To prevent the sneak attack of the enemy, they had been drilled on how to convey messages to everyone in an emergency.
  
-"If we suppress the armory, the enemy won't have access to their armor and pikes... We can't use our pikes in the mines too, but we have the advantage with our shields and armor. Most importantly, the enemy will definitely be in disarray."
-"They won't even know why the imperial army is there."
+"If we suppress the armory, the enemy won't have access to their armor and pikes... We can't use our pikes in the mines too, but we have the advantage with our shields and armor. Most importantly, the enemy will definitely be in disarray."<br/>
+"They won't even know why the imperial army is there."<br/>
  
-"Ah... The next step is... dividing into the team holding the enemy back, the team to suppress the main gate and the team to take the cannons."
+"Ah... The next step is... dividing into the team holding the enemy back, the team to suppress the main gate and the team to take the cannons."<br/>
  
 After wresting away control of the cannons and the main gate, the imperial army could charge right in.
  
-"But they have the advantage in numbers right?"
+"But they have the advantage in numbers right?"<br/>
  
-"That's right, but considering the preparedness and morale, we will manage somehow."
+"That's right, but considering the preparedness and morale, we will manage somehow."<br/>
  
-"Are we leaving the enemy general alone?"
+"Are we leaving the enemy general alone?"<br/>
  
-"... A fort commander without his troops and cannons wouldn't matter."
+"... A fort commander without his troops and cannons wouldn't matter."<br/>
  
-"Right."
+"Right."<br/>
  
-"If we gain control of the cannons, it will be the empire's victory... right here..."
+"If we gain control of the cannons, it will be the empire's victory... right here..."<br/>
  
 Regis pointed with his finger and said:
  
-"... If we succeed in our attack, we will raise the flag."
+"... If we succeed in our attack, we will raise the flag."<br/>
  
-"And we will win?"
+"And we will win?"<br/>
  
-"Yes. If the rest of our units move in, it would be over."
+"Yes. If the rest of our units move in, it would be over."<br/>
  
-"If we can't raise the flag?"
+"If we can't raise the flag?"<br/>
  
-"Then the mission would be a failure... We would retreat... And hope things would be settled with just my court martial..."
+"Then the mission would be a failure... We would retreat... And hope things would be settled with just my court martial..."<br/>
  
-"Hmmm... Then I have to join the first wave."
+"Hmmm... Then I have to join the first wave."<br/>
  
-"Huh!?"
+"Huh!?"<br/>
  
-"Controlling the cannons is the most important step correct?"
+"Controlling the cannons is the most important step correct?"<br/>
  
-"That's true but..."
+"That's true but..."<br/>
  
-"Then I have to go!"
+"Then I have to go!"<br/>
  
-"Don't be silly Altina... You are..."
+"Don't be silly Altina... You are..."<br/>
  
-"What? Are you going to say I am a girl or a child now?"
+"What? Are you going to say I am a girl or a child now?"<br/>
  
-"Aren't you injured?"
+"Aren't you injured?"<br/>
  
-"Hmmp, I can go if I am not injured right?"
+"Hmmp, I can go if I am not injured right?"<br/>
  
-"... Ah, that's right. Because of the space constraint in the tunnel, the infiltration team would be limited in numbers. Those who can't take fight can't be in the team... Sir Jerome would take care of the infiltration efforts, Altina, you need to stay here and charge in with the cavalry when the flag rises."
+"... Ah, that's right. Because of the space constraint in the tunnel, the infiltration team would be limited in numbers. Those who can't take fight can't be in the team... Sir Jerome would take care of the infiltration efforts, Altina, you need to stay here and charge in with the cavalry when the flag rises."<br/>
  
 The injuries were just an excuse.
  
@@ -718,11 +718,11 @@ Regis just didn't want her to take the most dangerous role.
  
 It's admirable for the commanders to want to lead from the front, but that would be dependent on the battle plan. The infiltration team would be isolated if the plan fails. They might also get buried alive or blasted to smithereens along with the Fort.
  
-"Yes, I understand."
+"Yes, I understand."<br/>
  
-"I'm glad you are so understanding..."
+"I'm glad you are so understanding..."<br/>
  
-"I understand there wouldn't be a problem if I didn't get injured!"
+"I understand there wouldn't be a problem if I didn't get injured!"<br/>
  
 Altina used her left hand that should be wounded to grab a rock near her feet.
  
@@ -738,7 +738,7 @@ The soldiers nearby gathered over to see what was the commotion about.
  
 Regis looked closely.
  
-"Haahhhhhahhh~!!"
+"Haahhhhhahhh~!!"<br/>
  
 Altina yelled loudly.
  
@@ -750,7 +750,7 @@ The rock shattered.
  
 The rock in Altina's left hand disintegrated into pieces. This was no longer about injuries, but something shocking that seemed to be beyond the abilities of humans.
  
-"Great!!"
+"Great!!"<br/>
  
 Altina clenched her left fist happily.
  
@@ -760,59 +760,59 @@ Regis was speechless.
  
 Altina stared at him gleefully.
  
-"I'm not injured right!?"
+"I'm not injured right!?"<br/>
  
-"That's too reckless!"
+"That's too reckless!"<br/>
  
-"I am healed."
+"I am healed."<br/>
  
 That's one and a half month earlier than what the lady doctor said!?
  
-"But, but... For the Princess to assume command and to attack through the tunnels..."
+"But, but... For the Princess to assume command and to attack through the tunnels..."<br/>
  
-"What, so what you said earlier was a lie?"
+"What, so what you said earlier was a lie?"<br/>
  
-"Ugh... That's not..."
+"Ugh... That's not..."<br/>
  
-"Alright then, it's decided! Leaving me out until the battle is over is too mean!"
+"Alright then, it's decided! Leaving me out until the battle is over is too mean!"<br/>
  
-"... You are the one being mean. My stomach ulcer is killing me."
+"... You are the one being mean. My stomach ulcer is killing me."<br/>
  
-"Watch your health okay?"
+"Watch your health okay?"<br/>
  
-"You should be the one doing that... Well, I will join the infiltration team too."
+"You should be the one doing that... Well, I will join the infiltration team too."<br/>
  
-"Hmmm? Regis is fighting too?"
+"Hmmm? Regis is fighting too?"<br/>
  
-"Fighting is impossible... I am going on scene to coordinate. It would be easier to deal with things if there are problems and increase the success rate... So I hope Altina can stay by my side."
+"Fighting is impossible... I am going on scene to coordinate. It would be easier to deal with things if there are problems and increase the success rate... So I hope Altina can stay by my side."<br/>
  
-"Eh!?"
+"Eh!?"<br/>
  
 Her face turned red.
  
-"I will come up with the ideas, you will give the command, that's how a commander should be right?"
+"I will come up with the ideas, you will give the command, that's how a commander should be right?"<br/>
  
-"That, that's right."
+"That, that's right."<br/>
  
-"Do you understand?"
+"Do you understand?"<br/>
  
-"Yes."
+"Yes."<br/>
  
 Altina kept nodding her head.
  
 Regis breathed a sigh of relief. It was impossible to exclude her from the infiltration team but...
  
-"Great... Then we will be team 4."
+"Great... Then we will be team 4."<br/>
  
-"Huh!?"
+"Huh!?"<br/>
  
-"Team 1 will fend off the enemy troops, Team 2 will take the cannons, Team 3 will capture the main gate. Team 4 will provide aid if any of the other teams face any problems. All of them are important, so there shouldn't be anything to be unhappy about right?"
+"Team 1 will fend off the enemy troops, Team 2 will take the cannons, Team 3 will capture the main gate. Team 4 will provide aid if any of the other teams face any problems. All of them are important, so there shouldn't be anything to be unhappy about right?"<br/>
  
-"I want to raise the flag! Team 2 is definitely better!!"
+"I want to raise the flag! Team 2 is definitely better!!"<br/>
  
-"... Ahhh? You are not keeping your promise? Didn't you say that you will stay by my side?"
+"... Ahhh? You are not keeping your promise? Didn't you say that you will stay by my side?"<br/>
  
-"Ugh!?"
+"Ugh!?"<br/>
  
 Tears welled up in Altina's eyes.
  
@@ -820,25 +820,25 @@ Regis cowered.
  
 She rubbed her eyes and ran as if she was fleeing.
  
-"Waahh! Regis cheated me~~!!"
+"Waahh! Regis cheated me~~!!"<br/>
  
-"Wait...!?"
+"Wait...!?"<br/>
  
 He couldn't deny that but the stares from his surroundings stung. What if weird rumors start to spread!?
  
 Just as Regis who was left alone and was wondering what to do, the work team leader came over.
  
-"Erm~ Mr. Strategist?"
+"Erm~ Mr. Strategist?"<br/>
  
-"Ugh... Are there any problems!?"
+"Ugh... Are there any problems!?"<br/>
  
-"No, just that the pieces of that rock, can you give it to me?"
+"No, just that the pieces of that rock, can you give it to me?"<br/>
  
-"Hah? The rock shattered by the princess? Why?"
+"Hah? The rock shattered by the princess? Why?"<br/>
  
-"To use as an amulet! For such a beautiful princess to crush iron ore with her bare hands is too amazing! It would definitely give blessings in shattering boulders!"
+"To use as an amulet! For such a beautiful princess to crush iron ore with her bare hands is too amazing! It would definitely give blessings in shattering boulders!"<br/>
  
-"Ah, huh..."
+"Ah, huh..."<br/>
  
 A strange new religion was created, Regis thought with a headache.
  
@@ -881,19 +881,19 @@ That was the first instance in history of Belgarian soldiers stepping inside For
  
 Under the cover of black gunpowder smoke and dust, the imperial army formed ranks with short spears.
  
-"Move! Move!"
+"Move! Move!"<br/>
  
-"What's happening!?"
+"What's happening!?"<br/>
  
-"Hahhh~~!!"
+"Hahhh~~!!"<br/>
  
-"Wahhh!?"
+"Wahhh!?"<br/>
  
 The soldier that was pierced in the chest died instantly. He didn't expect it to be an enemy attack and thought it was the tunnel collapsing. He had a shovel instead of a sword in hand.
  
 With his comrade dead, the other soldier screamed:
  
-"It's the enemy!"
+"It's the enemy!"<br/>
  
 That soldier was silenced by the imperial spear too.
  
@@ -903,7 +903,7 @@ Team 3 then headed towards the main gate.
  
 Regis and Altina were in team 4 right after them.
  
-"Hah!"
+"Hah!"<br/>
  
 She took a deep breath after coming out of the hole.
  
@@ -921,23 +921,23 @@ The morale of the troops went sky high.
  
 Finally, the empty handed Regis scaled the rope ladder the slowest. As he was climbing slowly, Eric who went in before him offered a hand to him.
  
-"I'm pulling!"
+"I'm pulling!"<br/>
  
-"Ah..."
+"Ah..."<br/>
  
 He felt his body floating up.
  
 Regis was lifted up.
  
-"Are you okay, Sir Regis?"
+"Are you okay, Sir Regis?"<br/>
  
-"... Thank... Thank you."
+"... Thank... Thank you."<br/>
  
-"Please keep your head down."
+"Please keep your head down."<br/>
  
-"Yeah."
+"Yeah."<br/>
  
-"Mu~~~"
+"Mu~~~"<br/>
  
 Altina pouted.
  
@@ -951,13 +951,13 @@ The infiltration group knew this and brought torches with them.
  
 Altina leaned over.
  
-"Regis, what should we do?"
+"Regis, what should we do?"<br/>
  
-"The plan was to support the teams that run into trouble but..."
+"The plan was to support the teams that run into trouble but..."<br/>
  
 With a loud bang, someone fell down the stairs.
  
-"Hyaa-!!"
+"Hyaa-!!"<br/>
  
 It was a heavy armored imperial soldier! His armor was dented.
  
@@ -967,43 +967,43 @@ One after another, men were falling from the floor above.
  
 ‘There seems to be a problem,’ Regis thought as he wiped the dirt from his face.
  
-"Ugh... were the guards defending the cannons stronger than expected?"
+"Ugh... were the guards defending the cannons stronger than expected?"<br/>
  
 Eric said as he drew his sword.
  
-"Sir Regis, Let me support them with team 5!"
+"Sir Regis, Let me support them with team 5!"<br/>
  
-"Well..."
+"Well..."<br/>
  
 The safety of Altina was the top priority, but Eric was a young knight entrusted to him by Evrard. After seeing the dented armor and helmet of the fallen soldiers, Regis hesitated entrusting this to him.
  
 But if it took too long to capture the cannons, the group numbering less than 200 would fall from the attrition of fighting 4000 enemy soldiers.
  
-"Team 4, we are going!"
+"Team 4, we are going!"<br/>
  
-"What!? Alti... Princess!?"
+"What!? Alti... Princess!?"<br/>
  
-"We need to reinforce them right!? Help out the team in trouble!"
+"We need to reinforce them right!? Help out the team in trouble!"<br/>
  
 She charged up the stairs as she spoke.
  
-The soldiers jogged along, shouting "Follow the princess! Follow closely!"
+The soldiers jogged along, shouting "Follow the princess! Follow closely!"<br/>
  
 Regis hugged his head.
  
-"I did say that but... Ah, really, that's what I said!"
+"I did say that but... Ah, really, that's what I said!"<br/>
  
 He charged in too.
  
 Eric moved alongside him.
  
-"You do believe."
+"You do believe."<br/>
  
-"Eh?"
+"Eh?"<br/>
  
-"You do believe that if it was the princess, she wouldn't lose to anyone."
+"You do believe that if it was the princess, she wouldn't lose to anyone."<br/>
  
-"... I promised to trust her... But..."
+"... I promised to trust her... But..."<br/>
  
 But he was still worried.
  
@@ -1021,41 +1021,41 @@ The troops around her also held their spears and swords.
  
 This area was used to put stores when this was still a mine, so it was slightly wider.
  
-"Could it be, that you are the commander?"
+"Could it be, that you are the commander?"<br/>
  
 Before them was an elderly man in military uniform.
  
 His hair was white, but his eyes were sharp.
  
-"Yes, I am the commander of Fort Volks, Weingartner."
+"Yes, I am the commander of Fort Volks, Weingartner."<br/>
  
 He spoke fluent Belgarian.
  
-"I am Marie Quatre Argentina de Belgaria. Commander of the border regiment."
+"I am Marie Quatre Argentina de Belgaria. Commander of the border regiment."<br/>
  
-"I did hear the news... but you are really young, princess of Belgaria."
+"I did hear the news... but you are really young, princess of Belgaria."<br/>
  
 "Ara, I will be 15 in spring. Won't I be an amazing lady by then?
  
 Weingartner sighed and said:
  
-"Leading an army at such a tender age, and making it all the way here. Infiltrating from underground... Impressive."
+"Leading an army at such a tender age, and making it all the way here. Infiltrating from underground... Impressive."<br/>
  
-"Hmmp, that's right. But it's not my idea though."
+"Hmmp, that's right. But it's not my idea though."<br/>
  
-"Oh?"
+"Oh?"<br/>
  
 Altina looked at Regis behind her.
  
 Seeing that Regis was unarmed, Weingartner nodded and said:
  
-"A strategist?"
+"A strategist?"<br/>
  
-"That's right, my strategist!"
+"That's right, my strategist!"<br/>
  
-"In the past, digging tunnels were not an uncommon tactic; it is hard to defend even if you knew it was coming... But this tactic was made obsolete as cannons can cause the tunnels to collapse. To think the cannons were meant to cover up the noise of constructing the tunnel..."
+"In the past, digging tunnels were not an uncommon tactic; it is hard to defend even if you knew it was coming... But this tactic was made obsolete as cannons can cause the tunnels to collapse. To think the cannons were meant to cover up the noise of constructing the tunnel..."<br/>
  
-"Hmmp."
+"Hmmp."<br/>
  
 Altina puffed out her chest.
  
@@ -1065,13 +1065,13 @@ Weingartner gritted his teeth in regret.
  
 Regis shied away when he was glared at.
  
-"Erm... Sorry..."
+"Erm... Sorry..."<br/>
  
-"I will say again that it was impressive, and it was my failure to not detect this. But..."
+"I will say again that it was impressive, and it was my failure to not detect this. But..."<br/>
  
 Weingartner shouted with all his might, his fist also trembled.
  
-"I will not let you pass through here! You can either go back to the hole on your own or as a corpse!"
+"I will not let you pass through here! You can either go back to the hole on your own or as a corpse!"<br/>
  
 He raised the iron staff in his hands.
  
@@ -1081,13 +1081,13 @@ Altina held her sword with both hands.
  
 Regis shook his head and said:
  
-"Princess, please act with care... There is only one man, there are many ways of dealing with him."
+"Princess, please act with care... There is only one man, there are many ways of dealing with him."<br/>
  
-"Yes, princess! Let me go in your stead!"
+"Yes, princess! Let me go in your stead!"<br/>
  
 Eric advised her too.
  
-"No! If I avoid this here, no one will follow me in the future. I need to keep showing my might in order to advance my cause!"
+"No! If I avoid this here, no one will follow me in the future. I need to keep showing my might in order to advance my cause!"<br/>
  
 Altina moved forward.
  
@@ -1109,27 +1109,27 @@ It couldn't be helped if he worried or felt uneasy.
  
 He couldn't chase the image of the broken helmets on the fallen soldiers out of his head.
  
-"Princess..."
+"Princess..."<br/>
  
-"What? It's too late to stop this now okay?"
+"What? It's too late to stop this now okay?"<br/>
  
-"Yes... But please don't force yourself..."
+"Yes... But please don't force yourself..."<br/>
  
-"Yes, I promise you."
+"Yes, I promise you."<br/>
  
 Altina concentrated on the foe before her, speaking to Regis with her back towards him.
  
-"I will definitely win! So follow me!"
+"I will definitely win! So follow me!"<br/>
  
 She kicked the ground as she shouted.
  
 Weingartner waved his iron staff in response.
  
-"I can't lose either! I will not hand the land of Varden Duchy to Belgaria!!"
+"I can't lose either! I will not hand the land of Varden Duchy to Belgaria!!"<br/>
  
-"I will change the empire! Let me use the fort in order to do that!!"
+"I will change the empire! Let me use the fort in order to do that!!"<br/>
  
-"Ugh!?"
+"Ugh!?"<br/>
  
 Altina raised her sword.
  
@@ -1137,17 +1137,17 @@ It touched the ceiling.
  
 Weingartner smirked:
  
-"That's too careless, princes!"
+"That's too careless, princes!"<br/>
  
-"What are you saying!"
+"What are you saying!"<br/>
  
 The sword sliced through the tough boulders and swung forward.
  
 The white haired general stared with his eyes wide open.
  
-"You actually--!?"
+"You actually--!?"<br/>
  
-"Haahh--!!"
+"Haahh--!!"<br/>
  
 She wasn't stopped by the ceiling, she was using the ceiling as a catch, and releasing all the weight in her strike with one blow.
  
@@ -1162,18 +1162,18 @@ The moment of hesitation gave Altina the time to make the decisive blow.
 Weingartner blocked with his staff.
  
 It didn't stop the sword.
-"Ugu Wahh!?"
+"Ugu Wahh!?"<br/>
 The iron staff bent. The sword glanced through Weingartner's chest and struck into the ground.
  
 The old general fell with his back on the floor.
  
 The soldiers pointed their spears at him.
  
-"Don't move!"
+"Don't move!"<br/>
  
-"Ugh... Ah... it's regretful... With my failure of losing the critical defensive fort, I cannot face the Duke nor the citizens... Just kill me."
+"Ugh... Ah... it's regretful... With my failure of losing the critical defensive fort, I cannot face the Duke nor the citizens... Just kill me."<br/>
  
-"I am sorry, but it's not over yet! I will make a move first!"
+"I am sorry, but it's not over yet! I will make a move first!"<br/>
  
 Altina charged ahead.
  
@@ -1181,33 +1181,33 @@ She climbed to a higher floor.
  
 Regis gave instructions to the soldiers hastily.
  
-"10 men stay behind! 2 of you pass the message 'we have captured the enemy commander' and the rest protect the princess!"
+"10 men stay behind! 2 of you pass the message 'we have captured the enemy commander' and the rest protect the princess!"<br/>
  
 The soldiers acknowledged in unison.
 Regis chased after Altina and ran alongside the troops.
  
 Eric moved alongside him.
  
-"That was amazing... the princess... sliced through the ceiling."
+"That was amazing... the princess... sliced through the ceiling."<br/>
  
-"That was reckless."
+"That was reckless."<br/>
  
-"And her left hand was still injured."
+"And her left hand was still injured."<br/>
  
-"No... it is healed. She even crushed a rock."
+"No... it is healed. She even crushed a rock."<br/>
  
-"Hmm? Her wrist wasn't hurt, so she can still do that much... But no matter how strong her grip is, her upper arm would still hurt from the burden right? Her fracture might be fine now though."
+"Hmm? Her wrist wasn't hurt, so she can still do that much... But no matter how strong her grip is, her upper arm would still hurt from the burden right? Her fracture might be fine now though."<br/>
  
-"... What... did you say?"
-"Didn't you notice? She was fighting with just her right hand. Her left hand was just supporting."
+"... What... did you say?"<br/>
+"Didn't you notice? She was fighting with just her right hand. Her left hand was just supporting."<br/>
  
-"Just her right hand!?"
+"Just her right hand!?"<br/>
  
-"Sir Regis, you did mention that you wouldn't understand sword techniques even if you saw them."
+"Sir Regis, you did mention that you wouldn't understand sword techniques even if you saw them."<br/>
  
 "She, she lied to me~!?
  
-"That... seems troubling..."
+"That... seems troubling..."<br/>
  
 Eric laughed dryly.
  
@@ -1221,33 +1221,33 @@ The artillery soldiers made no attempt to resist, raising their hands in surrend
  
 Before them was a man in the uniform of general similar to what Weingartner was wearing.
  
-"I, I am the chief of staff... I sincerely hope you will treat us properly as prisoners of war. Torture and unnecessary killing goes against the 8th rule of engagement..."
+"I, I am the chief of staff... I sincerely hope you will treat us properly as prisoners of war. Torture and unnecessary killing goes against the 8th rule of engagement..."<br/>
  
-"Take care of this, Regis!"
+"Take care of this, Regis!"<br/>
  
 The brutish Altina was not good with these sort of things.
  
 Regis was panting hard as he walked towards them.
  
-"Hah... hah... hah... hah..."
+"Hah... hah... hah... hah..."<br/>
  
-"..."
+"..."<br/>
  
-"Hah... hah... We won't kill you."
+"Hah... hah... We won't kill you."<br/>
  
-"Thank, thank you."
+"Thank, thank you."<br/>
  
 Or rather, Regis was the one who was on the verge of death.
  
 Altina giggled:
  
-"Is that enough? You won't recite stuff?"
+"Is that enough? You won't recite stuff?"<br/>
  
-"Hah... hah... I... will die..."
+"Hah... hah... I... will die..."<br/>
  
-"Don't just read books, exercise more."
+"Don't just read books, exercise more."<br/>
  
-"... I will consider that."
+"... I will consider that."<br/>
  
 It was really hard to follow this princess.
  
@@ -1263,25 +1263,25 @@ Altina took out the flag that was prepared beforehand.
  
 Eric handed a spear to her.
  
-"Please use this, princess."
+"Please use this, princess."<br/>
  
-"Thank you."
+"Thank you."<br/>
  
-"It's taken from the enemy though."
+"It's taken from the enemy though."<br/>
  
-"Fufu... This really feels like a battle field right?"
+"Fufu... This really feels like a battle field right?"<br/>
  
 Altina tied the flag to the spear and leaned outside.
  
 Regis started to worry.
  
-"The wind is strong so..."
+"The wind is strong so..."<br/>
  
-"Ahaha, it's fine!"
+"Ahaha, it's fine!"<br/>
  
-"But if you fall..."
+"But if you fall..."<br/>
  
-"It's fine! You worry too much!"
+"It's fine! You worry too much!"<br/>
 Altina waved the flag.
  
 The flag that depicted the shield of the citizens.
@@ -1290,7 +1290,7 @@ I hope that this battle will be the first step, Regis thought.
  
 Altina shouted out loud.
  
-"Everyone~!! We captured it~!"
+"Everyone~!! We captured it~!"<br/>
  
 With black knight Jerome taking the lead, the black knights charged over.
  

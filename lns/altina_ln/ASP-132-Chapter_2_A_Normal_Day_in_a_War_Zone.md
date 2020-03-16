@@ -10,7 +10,7 @@ Since the steel door was too heavy, the hinge creaked loudly.
  
 Regis used his shoulder to ease the slowly closing door.
  
-【Phew…】
+"Phew…"<br/>
  
 It was almost evening, but it was still very hot.
  
@@ -18,73 +18,73 @@ He wiped away the sweat from his brows with his sleeve.
  
 He was just about to head for the back door when he heard a voice behind him.
  
-【Where are you going?】
+"Where are you going?"<br/>
  
-【Huh?!】
+"Huh?!"<br/>
  
-【Regis…?】
+"Regis…?"<br/>
  
 The one staring at Regis from the side was Altina.
  
 He was found out.
  
-【… I’m going out for a bit to gather information on this city.】
+"… I’m going out for a bit to gather information on this city."<br/>
  
-【Just leave that to the troops.】
+"Just leave that to the troops."<br/>
  
-【No no no, there are things I can’t delegate to others.】
+"No no no, there are things I can’t delegate to others."<br/>
  
-【Even though this is the territory of the Belgarian empire, it was enemy land just a century ago, so don’t let down your guard. So, you are forbidden from going out alone— Isn’t that what you told me, Regis?】
+"Even though this is the territory of the Belgarian empire, it was enemy land just a century ago, so don’t let down your guard. So, you are forbidden from going out alone— Isn’t that what you told me, Regis?"<br/>
  
-【… That’s because Altina is the Généralissime.】
+"… That’s because Altina is the Généralissime."<br/>
  
-【You are also a key personnel now!】
+"You are also a key personnel now!"<br/>
  
-【… No no, someone like me is no different from a speck of dust, right?】
+"… No no, someone like me is no different from a speck of dust, right?"<br/>
  
-【Didn’t you say that you have heavy responsibilities!?】
+"Didn’t you say that you have heavy responsibilities!?"<br/>
  
 Altina grabbed the sleeve of Regis’ uniform and shook.
  
-【Well— this matter can’t be helped.】
+"Well— this matter can’t be helped."<br/>
  
-【Huh? What’s your reason?】
+"Huh? What’s your reason?"<br/>
  
-【… We went straight to the city centre after going through the gate in the day, correct?】
+"… We went straight to the city centre after going through the gate in the day, correct?"<br/>
  
-【Yes.】
+"Yes."<br/>
  
 Regis said reluctantly:
  
-【On the way here, I saw a bookshop and…】
+"On the way here, I saw a bookshop and…"<br/>
  
-【Ehh—?】
+"Ehh—?"<br/>
  
 There was a fierce rage in Altina’s smile.
  
-【Wait wait wait, please calm down and listen.】
+"Wait wait wait, please calm down and listen."<br/>
  
-【I’m already listening to you calmly. But I don’t know if I can be calm after hearing you out.】
+"I’m already listening to you calmly. But I don’t know if I can be calm after hearing you out."<br/>
  
-【… This is a bookshop 200Li (888km) from the capital you know? Just imagining what books they have in stock fills me with excitement. Less than 50 years have passed since the advent of movable type book printing, so there are handwritten books from the past too. Maybe books from the Etruria Theocracy or Hispania Empire are sold here too. Even if the books cost as much as a house, I will be satisfied with just looking at them. But that is a bookshop in a corner of the city, so it probably won’t have books that are as extravagant as art pieces. If there are books from the Empire, they must have gone through stringent selection to ensure it will sell well. What is the bestselling book here? And who is the author? Aren’t you curious about that!?】
+"… This is a bookshop 200Li (888km) from the capital you know? Just imagining what books they have in stock fills me with excitement. Less than 50 years have passed since the advent of movable type book printing, so there are handwritten books from the past too. Maybe books from the Etruria Theocracy or Hispania Empire are sold here too. Even if the books cost as much as a house, I will be satisfied with just looking at them. But that is a bookshop in a corner of the city, so it probably won’t have books that are as extravagant as art pieces. If there are books from the Empire, they must have gone through stringent selection to ensure it will sell well. What is the bestselling book here? And who is the author? Aren’t you curious about that!?"<br/>
  
-【Not really.】
+"Not really."<br/>
  
 Regis slouched his shoulders.
  
-【…Y-Yeah.】
+"…Y-Yeah."<br/>
  
 Hah~, Altina sighed and ruffled her hair. She messed up her vermillion hair that was carefully combed for the meeting with the Lieutenant Generals.
  
-【Yes, I understand! But I’m going with you okay?!】
+"Yes, I understand! But I’m going with you okay?!"<br/>
  
-【Ehh?! Well…】
+"Ehh?! Well…"<br/>
  
-【This is my first time visiting a city in the south too. I saw some of the buildings while passing through, but I still want to look at them properly.】
+"This is my first time visiting a city in the south too. I saw some of the buildings while passing through, but I still want to look at them properly."<br/>
  
-【No… But it is dangerous for Madam Généralissime to go alone…】
+"No… But it is dangerous for Madam Généralissime to go alone…"<br/>
  
-【Erm! Don’t you want to visit the bookshop!】
+"Erm! Don’t you want to visit the bookshop!"<br/>
  
 Altina hugged Regis’ arm.
  
@@ -92,26 +92,26 @@ Regis felt something soft at his elbow.
  
 — She had grown there too.
  
-【Uwahh?!】
+"Uwahh?!"<br/>
  
-【It will be fine! We just need to be back before dawn!】
+"It will be fine! We just need to be back before dawn!"<br/>
  
 Regis was dragged out of the back door into the city.
  
 And of course, there were sentries posted here. But after seeing Altina’s crimson hair and eyes that were proof of her royal heritage, no one dared to stop her.
  
  
-【Ooohhhh~?!】
+"Ooohhhh~?!"<br/>
  
 Regis squealed excitedly in the shop.
  
 Altina stood behind him with a bored expression.
  
-【What is it? Did you see something weird?】
+"What is it? Did you see something weird?"<br/>
  
-【Amazing!】
+"Amazing!"<br/>
  
-【I think this place is no different from a normal bookshop.】
+"I think this place is no different from a normal bookshop."<br/>
  
 Even though the building design was different from the capital and its surrounding cities, the floor, ceiling and shelves were all made from wood, and there wasn’t anything special about them
  
@@ -121,11 +121,11 @@ Or rather, the shop owner was the one looking intriguingly at Regis who didn’t
  
 But Regis only had eyes for these books.
  
-【This! It was published 20 years ago! A rare book many collectors are searching painstakingly for.】
+"This! It was published 20 years ago! A rare book many collectors are searching painstakingly for."<br/>
  
-【Hmm… It’s an old book?】
+"Hmm… It’s an old book?"<br/>
  
-【Yes it is, an old book!】
+"Yes it is, an old book!"<br/>
  
 The price of books twenty years ago was much higher than the present. There were many who wanted it but had to give up in tears.
  
@@ -137,20 +137,20 @@ These books weren’t packed tightly with its spine facing out. Every book was d
  
 It was the rules in bookshops that customers may not touch the books without permission from the owner.
  
-【… After adding in the transport fee, it is now costlier than its time at publishing, this is a book that can’t be bought at the capital… At this price, this is a steal.】
+"… After adding in the transport fee, it is now costlier than its time at publishing, this is a book that can’t be bought at the capital… At this price, this is a steal."<br/>
  
-【Wait wait wait, Regis?! This cost a month of your salary. Don’t talk nonsense.】
+"Wait wait wait, Regis?! This cost a month of your salary. Don’t talk nonsense."<br/>
  
-【Ah, well… I’m a First Grade Admin Officer now, so my weekly wages had gone up…】
+"Ah, well… I’m a First Grade Admin Officer now, so my weekly wages had gone up…"<br/>
  
 Speaking of which, the Ministry of Military Affairs that oversaw disbursing the wages had been dissolved. Their authority had been transferred to the First Army and the Office of the Généralissime.
  
 Regis suppressed his voice and said:
  
-【…Altina, the wages will still be paid out right?】
+"…Altina, the wages will still be paid out right?"<br/>
  
-【Even if you ask me… Aren’t you the one handling it?】
-【Ugh.】
+"Even if you ask me… Aren’t you the one handling it?"<br/>
+"Ugh."<br/>
 Including that part, the administrative matters related to the Office of the Généralissime were now under the purview of Count Gauchen, so there shouldn’t be any problem.
  
 The First Army had taken over the Ministry of Military Affairs’ building.
@@ -175,21 +175,21 @@ It might be fine in the capital, but Regis couldn’t defer payment in a shop ne
  
 Even Regis couldn’t steel himself to spend all his money before a campaign.
  
-【Hmm… After all, if I find a book I want to buy more, it will be a headache if I don’t have the money then.】
+"Hmm… After all, if I find a book I want to buy more, it will be a headache if I don’t have the money then."<br/>
  
-【That’s the reason?!】
+"That’s the reason?!"<br/>
  
-【… Ah, I will save half the money of course.】
+"… Ah, I will save half the money of course."<br/>
  
-【You will need living expenses after all.】
+"You will need living expenses after all."<br/>
  
-【No, I still have books I’m planning to buy in the capital’s bookshop and put it on my tab, that’s why...】
+"No, I still have books I’m planning to buy in the capital’s bookshop and put it on my tab, that’s why..."<br/>
  
-【Can you survive like this?!】
+"Can you survive like this?!"<br/>
  
-【Haha… Don’t worry, I will be fine. Food, clothing and lodging are all free in the army after all.】
+"Haha… Don’t worry, I will be fine. Food, clothing and lodging are all free in the army after all."<br/>
  
-【Ehh—】
+"Ehh—"<br/>
  
 Altina frowned a little.
  
@@ -197,11 +197,11 @@ That wasn’t wrong.
  
 Even though most of the books in this shop were published over a decade ago, that was exactly why Regis was mesmerized by them.
  
-【… Aroe Maroe sure is a nice city.】
+"… Aroe Maroe sure is a nice city."<br/>
  
-【How can you base your judgement on its books?】
+"How can you base your judgement on its books?"<br/>
  
-【Fufufu… Hehe…】
+"Fufufu… Hehe…"<br/>
  
 Regis browsed the shelves as he made a strange laughing sound he wasn’t aware of himself
  
@@ -210,63 +210,63 @@ Sometime later, still in the bookshop—
  
 Altina raised a topic related to the military, partly because there weren’t any other customers.
  
-【Erm, can we defeat Etruria?】
+"Erm, can we defeat Etruria?"<br/>
  
-【Huh? You are worried about that?】
+"Huh? You are worried about that?"<br/>
  
-【Maybe Regis think there is no problem… But I still don’t know how this battle will play out.】
+"Maybe Regis think there is no problem… But I still don’t know how this battle will play out."<br/>
  
-【… The Etruria Theocracy army can mobilize 30,000 men at most.】
+"… The Etruria Theocracy army can mobilize 30,000 men at most."<br/>
  
 Even though they were stronger than the Varden Archduchy or the Langobalt Kingdom of the Germanian Federation, they were just half as strong as High Brittania. Maybe on par with the Estaburg Kingdom to the ease.
  
 Regis said confidently:
  
-【On the other hand, the Belgarian Empire committed almost 50,000 troops into the south. This number is more than enough to take back the lost territories and launch a counter-invasion.】
+"On the other hand, the Belgarian Empire committed almost 50,000 troops into the south. This number is more than enough to take back the lost territories and launch a counter-invasion."<br/>
  
-【So we will definitely win.】
+"So we will definitely win."<br/>
  
-【… Of course. But the problem isn’t about winning or losing.】
+"… Of course. But the problem isn’t about winning or losing."<br/>
  
-【Is that so?】
+"Is that so?"<br/>
  
 Altina tilted her head.
  
 Regis surveyed the shop once again to check for other patrons. The shop owner was looking this way, but he wouldn’t hear them if they kept it down.
  
-【… The main issue is, how many soldiers will be left in the south after this campaign.】
+"… The main issue is, how many soldiers will be left in the south after this campaign."<br/>
  
 Soldiers weren’t limitless, and good officers were even more valuable. A unit would be rendered ineffective if it loses too many of its officers.
  
-【It’s true that no one wants to lose their soldiers.】
+"It’s true that no one wants to lose their soldiers."<br/>
  
-【… I think Emperor Latreille’s plan is to crush the invading Etruria Theocracy army, take back our bases and invade them.】
+"… I think Emperor Latreille’s plan is to crush the invading Etruria Theocracy army, take back our bases and invade them."<br/>
  
-【What?!】
+"What?!"<br/>
  
-【… He said that he wants to conquer the neighbouring countries in two years. IF he was serious, then he would need to at least take down Etruria Theocracy by the end of the year.】
+"… He said that he wants to conquer the neighbouring countries in two years. IF he was serious, then he would need to at least take down Etruria Theocracy by the end of the year."<br/>
  
-【But we are going to invade another nation!】
+"But we are going to invade another nation!"<br/>
  
-【… Like I mentioned earlier, this city belonged to another nation a century ago.】
+"… Like I mentioned earlier, this city belonged to another nation a century ago."<br/>
  
 And that country’s name had been wiped off the map.
  
 Altina pondered and said:
  
-【Is he going to issue that order to us?】
+"Is he going to issue that order to us?"<br/>
  
-【… That is the reason why he bestowed the baton of the Généralissime to you. And why I want to avoid tiring out the Fourth Army too much in this battle.】
+"… That is the reason why he bestowed the baton of the Généralissime to you. And why I want to avoid tiring out the Fourth Army too much in this battle."<br/>
  
-【I want to rid this world of war. As well as poverty and gaps in social status… My dream is to make a peaceful world. But now, I must invade another country?】
+"I want to rid this world of war. As well as poverty and gaps in social status… My dream is to make a peaceful world. But now, I must invade another country?"<br/>
  
-【… You don’t need to lead the campaign yourself, just delegate the task to someone you can trust.】
+"… You don’t need to lead the campaign yourself, just delegate the task to someone you can trust."<br/>
  
-【It’s the same even if I give the order. What do you think we should do, Regis?】
+"It’s the same even if I give the order. What do you think we should do, Regis?"<br/>
  
-【… Even if we protest, the Emperor right now is His Majesty Latreille. It is the duty of soldiers to follow orders. If we want to carry out our own will, we will have to raise the flag of rebellion… But the only thing we can protect by doing so is our will.】
+"… Even if we protest, the Emperor right now is His Majesty Latreille. It is the duty of soldiers to follow orders. If we want to carry out our own will, we will have to raise the flag of rebellion… But the only thing we can protect by doing so is our will."<br/>
  
-【Is that so?!】
+"Is that so?!"<br/>
  
 Altina swallowed the rest of her words.
  
@@ -274,17 +274,17 @@ What Regis said wasn’t what he truly feels.
  
 Altina wasn’t driven by her emotions, which showed how much she had matured.
  
-【You think this will be fine?】
+"You think this will be fine?"<br/>
  
-【… Even if it sullies my name in the history books, I will still adopt the best strategy for the sake of my goal. At least for now, we need to follow the directions of the new Emperor.】
+"… Even if it sullies my name in the history books, I will still adopt the best strategy for the sake of my goal. At least for now, we need to follow the directions of the new Emperor."<br/>
  
 Altina lowered her head.
  
-【I understand. Since the day Latreille became Emperor, I knew this day would come.】
+"I understand. Since the day Latreille became Emperor, I knew this day would come."<br/>
  
-【… Please don’t be too rash. Don’t let your feelings show.】
+"… Please don’t be too rash. Don’t let your feelings show."<br/>
  
-【I’m not a kid anymore, it will be fine.】
+"I’m not a kid anymore, it will be fine."<br/>
  
 Regis remembered the headaches he had back in the days when she would lose control.
  
@@ -292,11 +292,11 @@ It wasn’t that long ago.
  
 Regis exhaled, then brought the topic back to the “present”.
  
-【… The South is under the purview of the Sixth Army in the first place. There’s something that bothers me a little, so we should make them work hard.】
+"… The South is under the purview of the Sixth Army in the first place. There’s something that bothers me a little, so we should make them work hard."<br/>
  
-【There’s something bothering you?】
+"There’s something bothering you?"<br/>
  
-【… Just a speculation.】
+"… Just a speculation."<br/>
  
 At this moment, the door of the bookshop was opened.
  
@@ -317,17 +317,17 @@ The soldiers seemed to have gathered.
  
 They were about to check what happened when Eric came their way at charging attack speed.
  
-【Your Highness! Sir Regis! Where did you go?!】
+"Your Highness! Sir Regis! Where did you go?!"<br/>
  
 Altina replied with an awkward smile.
  
-【Ahaha… we visited the city for a little…】
+"Ahaha… we visited the city for a little…"<br/>
  
-【And you didn’t bring any escorts!? Am I that unreliable?!】
+"And you didn’t bring any escorts!? Am I that unreliable?!"<br/>
  
-【N-No. I just think that bringing guards with me will draw too much attention, and we won’t be able to visit the place we want to go.】
+"N-No. I just think that bringing guards with me will draw too much attention, and we won’t be able to visit the place we want to go."<br/>
  
-【Your Highness is an important person, we will be troubled if you wandered off to any place you like!】
+"Your Highness is an important person, we will be troubled if you wandered off to any place you like!"<br/>
  
 Altina who was in a pinch looked at Regis with pleading eyes. After all, Regis was the one who wanted to tour the streets alone.
  
@@ -337,7 +337,7 @@ Was that person surrounded by Belgaria troops a mercenary?
  
 Speaking of powerful mercenaries—
  
-【Ah, the Mercenary King?!】
+"Ah, the Mercenary King?!"<br/>
  
 The person in the courtyard was someone familiar. He was the leader of the Mercenary band 《Renard Pendu》, Gilbert Schweinzeberg.
  
@@ -345,43 +345,43 @@ He brought his elite mercenaries along with him.
  
 Gilbert also noticed them and walked over.
  
-【Long time no see, Strategist.】
+"Long time no see, Strategist."<br/>
  
-【… You are finally here.】
+"… You are finally here."<br/>
  
-【My sisters and subordinates got taken hostage after all.】
+"My sisters and subordinates got taken hostage after all."<br/>
  
-【Ehh, I don’t mean that at all? Didn’t I clearly state in the letter that they are just traveling with us?】
+"Ehh, I don’t mean that at all? Didn’t I clearly state in the letter that they are just traveling with us?"<br/>
  
-【It is the norm for mercenaries that turning down that request means forfeiting the lives of your comrades.】
+"It is the norm for mercenaries that turning down that request means forfeiting the lives of your comrades."<br/>
  
-【… I’m not a mercenary.】
+"… I’m not a mercenary."<br/>
  
 Altina smiled:
  
-【You look lively, Gilbert!】
+"You look lively, Gilbert!"<br/>
  
-【Your Highness seemed to have gotten thinner.】
+"Your Highness seemed to have gotten thinner."<br/>
  
 His expression was unexpectedly friendly.
  
 Regis commented without thinking:
  
-【… You two seemed to have gotten along splendidly after I left.】
+"… You two seemed to have gotten along splendidly after I left."<br/>
  
-【Ehh? Not really?】
+"Ehh? Not really?"<br/>
  
-【Nope.】
+"Nope."<br/>
  
-【We just formed a sense of camaraderie after sparring with swords.】
+"We just formed a sense of camaraderie after sparring with swords."<br/>
  
-【I don’t deny that.】
+"I don’t deny that."<br/>
  
 So, they communicated through martial arts huh.
  
 Regis grabbed his head.
  
-【… Why did you spar with a prisoner? Why did you do that?】
+"… Why did you spar with a prisoner? Why did you do that?"<br/>
  
 Back then, everyone objected, but no one in the Fourth Army could restrain Altina’s drive to improve her swordsmanship.
  
@@ -391,26 +391,26 @@ As they spoke, another group came to the courtyard.
  
 A little girl sprinted with all her might.
  
-【Onii-chan~~~~~~!!】
+"Onii-chan~~~~~~!!"<br/>
  
 She was so loud that the entire fort probably heard her.
  
 Gilbert muttered.
  
-【…Martina.】
+"…Martina."<br/>
  
 It was a gentle voice that didn’t sound like him.
  
 Pomf! Martina charged into Gilbert’s embrace.
  
-【Onii-chan~!! Onii-chan~~!!】
+"Onii-chan~!! Onii-chan~~!!"<br/>
  
 The ones who came with her, were the 《Renard Pendu》 mercenary group that followed the Fourth Army.
 Cries of “Band Leader! Band Leader” could be heard from them.
  
 Some even cried.
  
-【Yeah.】
+"Yeah."<br/>
  
 Gilbert nodded.
  
@@ -426,59 +426,59 @@ And walked that way.
  
 Regis said to her:
  
-【… Aren’t you going to talk to Mr Gilbert?】
+"… Aren’t you going to talk to Mr Gilbert?"<br/>
  
-【Later. Now isn’t the time to discuss future plans calmly.】
+"Later. Now isn’t the time to discuss future plans calmly."<br/>
  
 She answered coldly.
  
-【…Don’t you miss him?】
+"…Don’t you miss him?"<br/>
  
-【Yes, and I’m finally free of the burden on my shoulders. There are many things I need to think about as the acting band leader. After all, the more people there are, the more trouble there is, I don’t even have time to read books.】
+"Yes, and I’m finally free of the burden on my shoulders. There are many things I need to think about as the acting band leader. After all, the more people there are, the more trouble there is, I don’t even have time to read books."<br/>
  
-【That is true.】
+"That is true."<br/>
  
-【Thank you very much, Lord Auric. You really released my brother and allowed us to meet again.】
+"Thank you very much, Lord Auric. You really released my brother and allowed us to meet again."<br/>
  
-【I fulfilled my end of the deal, so you can rest easy.】
+"I fulfilled my end of the deal, so you can rest easy."<br/>
  
-【About half of my mind is relaxed.】
+"About half of my mind is relaxed."<br/>
  
-【I know. Regarding the issue on support… What do you think, how about continuing to work under the Fourth Army? Unlike before, it is now the Office of the Généralissime. We are still in the midst of reorganizing the army, but we can afford to pay an adequate price for the service of 《Renard Pendu》.】
+"I know. Regarding the issue on support… What do you think, how about continuing to work under the Fourth Army? Unlike before, it is now the Office of the Généralissime. We are still in the midst of reorganizing the army, but we can afford to pay an adequate price for the service of 《Renard Pendu》."<br/>
  
-【You already mustered 50,000 men to fight the likes of the Etruria Theocracy, do you even need help? What are you scheming?】
+"You already mustered 50,000 men to fight the likes of the Etruria Theocracy, do you even need help? What are you scheming?"<br/>
  
-【It’s not for the upcoming battle, for what comes after that.】
+"It’s not for the upcoming battle, for what comes after that."<br/>
  
-【… I see.】
+"… I see."<br/>
  
-【For mercenaries from the freezing Germanian Federation, this might be a bit harsh.】
+"For mercenaries from the freezing Germanian Federation, this might be a bit harsh."<br/>
  
 Jessica looked up into the sky. This was her habit when she was thinking.
  
-【… I will consider it, but onii-sama will make the final decision.】
+"… I will consider it, but onii-sama will make the final decision."<br/>
  
-【That will be great.】
+"That will be great."<br/>
  
-【But your face seems to say that you already know the answer.】
+"But your face seems to say that you already know the answer."<br/>
  
-【… No, it might make sense logically, but I don’t know what will happen if emotions are mixed in.】
+"… No, it might make sense logically, but I don’t know what will happen if emotions are mixed in."<br/>
  
-【If we get hired by Etruria and Hispania, what are you going to do?】
+"If we get hired by Etruria and Hispania, what are you going to do?"<br/>
  
-【Hmm… That will be troubling for me. But I don’t recommend you do that.】
+"Hmm… That will be troubling for me. But I don’t recommend you do that."<br/>
  
-【Why?】
+"Why?"<br/>
  
-【Those two countries didn’t notice that the lion they are tossing rocks at had awaken. There is no future for such a slow-witted country.】
+"Those two countries didn’t notice that the lion they are tossing rocks at had awaken. There is no future for such a slow-witted country."<br/>
  
 Jessica smoothened the edge of her clothes that got wrinkled by the wind.
  
-【… Is the new Emperor Latreille that powerful?】
+"… Is the new Emperor Latreille that powerful?"<br/>
  
-【Yes.】
+"Yes."<br/>
  
-【… Looks like the war with the High Brittania Kingdom was just child’s play.】
+"… Looks like the war with the High Brittania Kingdom was just child’s play."<br/>
  
 During that war, Latreille was ambushed by 《Renard Pendu》, and the injury was so bad that it affected his eyesight.
  
@@ -486,21 +486,21 @@ During the battle of fort Bonaire, he also lost the initiative.
  
 Regis shook his head.
  
-【… Not only is His Majesty Latreille an excellent commander, he is also an exceptional ruler. Although he had the tendency to take to the frontlines personally, he will be staying in the palace for some time because of his war injury. However, I think that will make the Empire even stronger.】
+"… Not only is His Majesty Latreille an excellent commander, he is also an exceptional ruler. Although he had the tendency to take to the frontlines personally, he will be staying in the palace for some time because of his war injury. However, I think that will make the Empire even stronger."<br/>
  
-【Everything you say lacks concrete evidence.】
+"Everything you say lacks concrete evidence."<br/>
  
-【… In half a year, the Empire will be able to manufacture enough rifles to arm all the infantry in the Fourth Army. Ammunition might be paper, but there would be a steady supply of them. And of course, the Etruria Theocracy doesn’t possess such industrial power, even the Hispania Empire can’t match this.】
+"… In half a year, the Empire will be able to manufacture enough rifles to arm all the infantry in the Fourth Army. Ammunition might be paper, but there would be a steady supply of them. And of course, the Etruria Theocracy doesn’t possess such industrial power, even the Hispania Empire can’t match this."<br/>
  
-【……】
+"……"<br/>
  
 Jessica looked as stoic as ever but didn’t reply anymore.
  
 Eric ran over again. He didn’t behave like an escort officer and acted more like a maid.
  
-【Sir Regis! Your brother-in-law is here!】
+"Sir Regis! Your brother-in-law is here!"<br/>
  
-【Ehh?】
+"Ehh?"<br/>
  
  
 The sky was dyed dark red.
@@ -515,63 +515,63 @@ Opposite the Mercenary King were Altina and Regis. Eric stood behind them.
  
 And now, Regis’ brother-in-law Enzo was also here.
  
-【Yo! Regis-chan! You are really alive!】
+"Yo! Regis-chan! You are really alive!"<br/>
  
 He laughed heartily.
  
-【… Yes. Should I count myself lucky or… I never imagined that brother-in-law will come to the south.】
+"… Yes. Should I count myself lucky or… I never imagined that brother-in-law will come to the south."<br/>
  
-【I have many reasons to do so.】
+"I have many reasons to do so."<br/>
  
-【Are you here to help maintain the soldier’s gear?】
+"Are you here to help maintain the soldier’s gear?"<br/>
  
-【I will if I have time. But that isn’t it— I was planning to go home during Prince Latreille’s coronation.】
+"I will if I have time. But that isn’t it— I was planning to go home during Prince Latreille’s coronation."<br/>
  
-【Many people will visit for the coronation, so it’s a good chance to do business.】
+"Many people will visit for the coronation, so it’s a good chance to do business."<br/>
  
-【But back then, I received news of Regis-chan’s demise on the battlefield.】
+"But back then, I received news of Regis-chan’s demise on the battlefield."<br/>
  
-【… So, it’s because of me?】
+"… So, it’s because of me?"<br/>
  
 Enzo scratched his head.
  
-【Her Highness marched the army off in a frenzy. She didn’t prepare the rations and forced marched the infantry. In such a situation, I have to follow, right?】
+"Her Highness marched the army off in a frenzy. She didn’t prepare the rations and forced marched the infantry. In such a situation, I have to follow, right?"<br/>
  
-【That was too harsh.】
+"That was too harsh."<br/>
  
-【And the worst scenario would be a civil war between the First and Fourth Armies.】
+"And the worst scenario would be a civil war between the First and Fourth Armies."<br/>
  
-【Ehh…】
+"Ehh…"<br/>
  
-【I can’t abandon my wife and kids in such a situation, so I want to go home even if I had to do it on my own. But my disciple and the soldiers stopped me from acting rashly.】
+"I can’t abandon my wife and kids in such a situation, so I want to go home even if I had to do it on my own. But my disciple and the soldiers stopped me from acting rashly."<br/>
  
-【Yes. If civil war really breaks out, then the blacksmith in Fort Volks would be branded traitors. Even if you return to Rouen City, you will be arrested before you can see your family.】
+"Yes. If civil war really breaks out, then the blacksmith in Fort Volks would be branded traitors. Even if you return to Rouen City, you will be arrested before you can see your family."<br/>
  
-【I had no choice but to ask my folks to watch over them. I then wrote a letter to my wife and disciples.】
+"I had no choice but to ask my folks to watch over them. I then wrote a letter to my wife and disciples."<br/>
  
-【Yes.】
+"Yes."<br/>
  
-【And then, I heard the news that Regis-chan is still alive before I receive their reply.】
+"And then, I heard the news that Regis-chan is still alive before I receive their reply."<br/>
  
-【Yes… Military-related mail sure travels fast.】
+"Yes… Military-related mail sure travels fast."<br/>
  
-【It was a surprise, but it was great news.】
+"It was a surprise, but it was great news."<br/>
  
 Enzo sighed with relief.
  
 Regis bowed his head.
  
-【… I’m very sorry for making you worry.】
+"… I’m very sorry for making you worry."<br/>
  
-【No, it’s fine… After feeling relieved, the heard news that you will be heading south the next day. I don’t get it at all.】
+"No, it’s fine… After feeling relieved, the heard news that you will be heading south the next day. I don’t get it at all."<br/>
  
-【… That was unexpected for me too. I even wondered if the new Emperor Latreille was picking trouble with us.】
+"… That was unexpected for me too. I even wondered if the new Emperor Latreille was picking trouble with us."<br/>
  
 Enzo carefully took out a letter from his pocket.
  
-【As I was wondering what was going on— I received a reply from my wife.】
+"As I was wondering what was going on— I received a reply from my wife."<br/>
  
-【What did she say?】
+"What did she say?"<br/>
  
 He opened the letter and showed it to Regis.
  
@@ -583,15 +583,15 @@ But it revolves around just one thing.
  
 Enzo carefully kept the letter.
  
-【I felt the importance of family.】
+"I felt the importance of family."<br/>
  
-【Huh? That’s great… but why did you come to the south?】
+"Huh? That’s great… but why did you come to the south?"<br/>
  
 His workshop is in Rouen City, which was right beside the capital. His family and disciples also live there.
  
-【Things didn’t blow up this time, so when is the real thing?】
+"Things didn’t blow up this time, so when is the real thing?"<br/>
  
-【… Erm, that won’t happen.】
+"… Erm, that won’t happen."<br/>
  
 Soldiers from the Sixth Army were watching from afar. They probably couldn’t hear their conversation, but he shouldn’t admit his intention to rebel in the presence of so many people.
  
@@ -599,47 +599,47 @@ Enzo was a bit slow, but he noticed.
  
 He got back on topic.
  
-【I think I can be of assistance.】
+"I think I can be of assistance."<br/>
  
 Regis nodded.
  
-【… You will definitely be a big help.】
+"… You will definitely be a big help."<br/>
  
-【That’s great. It took half a month for me to get here, I don’t think I can laugh it off if you told me I was useless.】
+"That’s great. It took half a month for me to get here, I don’t think I can laugh it off if you told me I was useless."<br/>
  
-【… We are the one who needs you. You are our family after all.】
+"… We are the one who needs you. You are our family after all."<br/>
  
-【That’s it! That’s the reason why I came to the south.】
+"That’s it! That’s the reason why I came to the south."<br/>
  
 It seemed that Regis’ words were linked to the ‘importance of family’ mentioned earlier.
  
 Enzo continued:
  
-【My wife is Regis-chan’s sister, and I’m responsible for the repair of Her Highness’ sword, right? And I worked in Fort Volks before. It feels wrong for me to just go back to Rouen city and run my business leisurely— something like that.】
+"My wife is Regis-chan’s sister, and I’m responsible for the repair of Her Highness’ sword, right? And I worked in Fort Volks before. It feels wrong for me to just go back to Rouen city and run my business leisurely— something like that."<br/>
  
 As expected of Regis’ honest and loyal brother-in-law.
  
-【… And this is?】
+"… And this is?"<br/>
  
-【He is my disciple Leonardo. He is hard to understand at times, but he has a quicker wit than me. Probably.】
+"He is my disciple Leonardo. He is hard to understand at times, but he has a quicker wit than me. Probably."<br/>
  
-【… He is very smart.】
+"… He is very smart."<br/>
  
-【So you think so too huh. I plan to move my family and disciples to the south for their safety. But only after Regis-chan repels the invading enemy.】
+"So you think so too huh. I plan to move my family and disciples to the south for their safety. But only after Regis-chan repels the invading enemy."<br/>
  
-【… The commander is Her Highness. I will also do my best, of course.】
+"… The commander is Her Highness. I will also do my best, of course."<br/>
  
 Enzo lowered his head at Altina.
  
-【Allow me to provide my humble service, I will be in your care.】
+"Allow me to provide my humble service, I will be in your care."<br/>
  
-【Your presence puts me at ease! I’m counting on you!】
+"Your presence puts me at ease! I’m counting on you!"<br/>
  
 Altina answered with a bright smile.
  
 Regis asked Enzo in a hushed voice:
  
-【… It’s settled then, brother-in-law… Did you come together with《Renard Pendu》? Aren’t you worried?】
+"… It’s settled then, brother-in-law… Did you come together with《Renard Pendu》? Aren’t you worried?"<br/>
  
 They were mercenaries put into forced labour after being captured by the Fourth Army.
  
@@ -647,9 +647,9 @@ After they were free, the brother-in-law of the strategist traveling with them�
  
 Enzo said with a laugh:
  
-【Gilbert is a good guy. We are friends now!】
+"Gilbert is a good guy. We are friends now!"<br/>
  
-【Friends?!】
+"Friends?!"<br/>
  
 Regis looked at the Mercenary King who didn’t refute that claim and was wearing a faint smile.
  
@@ -686,25 +686,25 @@ The officers of the Sixth and Eighth Army were watching Eric demonstrate shootin
  
 Regis picked up the new rifle.
  
-【… This is the rifle used by the High Britannia Army when they invaded the Belgaria Empire recently.】
+"… This is the rifle used by the High Britannia Army when they invaded the Belgaria Empire recently."<br/>
  
 Dorval expressed his thoughts on behalf of the soldiers watching.
  
-【The reloading speed is actually that fast!】
+"The reloading speed is actually that fast!"<br/>
  
-【… Yes. After some training, the reloading speed will be five times that of the muskets that are currently being used. This means just by equipping the new rifle, it will be equivalent to increasing the musketeers by five times.】
+"… Yes. After some training, the reloading speed will be five times that of the muskets that are currently being used. This means just by equipping the new rifle, it will be equivalent to increasing the musketeers by five times."<br/>
  
-【Hmmm.】
+"Hmmm."<br/>
  
-【… And it has high accuracy. Fifth Grade Combat Officer Eric Michael de Blanchard here has excellent skills, but his shot wouldn’t be this precise if the bullets don’t fly straight.】
+"… And it has high accuracy. Fifth Grade Combat Officer Eric Michael de Blanchard here has excellent skills, but his shot wouldn’t be this precise if the bullets don’t fly straight."<br/>
  
 Dorval asked:
  
-【Isn’t he a knight? Did he practiced using the rifle from a young age?】
+"Isn’t he a knight? Did he practiced using the rifle from a young age?"<br/>
  
-【… Anyone can achieve above 50% accuracy with three months of training.】
+"… Anyone can achieve above 50% accuracy with three months of training."<br/>
  
-【Hmmm.】
+"Hmmm."<br/>
  
 That was a lie.
  
@@ -716,7 +716,7 @@ So the part about ‘anyone’ was a lie.
  
 But there was no need to go out of their way to mention such troubling facts.
  
-【… These are High Britannia made rifle we captured. But soon, the new Belgaria-made rifle will be ready for loan. Riflemen units will become an important asset in the future, so it will be better to decide on the choice of personnel now.】
+"… These are High Britannia made rifle we captured. But soon, the new Belgaria-made rifle will be ready for loan. Riflemen units will become an important asset in the future, so it will be better to decide on the choice of personnel now."<br/>
  
 Dorval sighed troublingly.
  
@@ -732,19 +732,19 @@ The archaic rostering system was a headache.
  
 An officer raised his hand.
  
-【Sir Strategist, can I try a shot!?】
+"Sir Strategist, can I try a shot!?"<br/>
  
 He was a burly built man that was one head taller than the rest, a knight from the Eighth Army.
  
 Regis nodded in agreement.
  
-【Please.】
+"Please."<br/>
  
 Since the weapon was captured from the enemy, the rifles and munitions both had limited quantity, but they had enough for them to be not stingy in such a situation. The rest would be up to Eric.
  
-【Can you teach him?】
+"Can you teach him?"<br/>
  
-【Yes Sir!】
+"Yes Sir!"<br/>
  
 The young knight walked over eagerly.
  
@@ -758,41 +758,41 @@ He seemed prepared to teach others. It wasn’t long before that knight held the
  
 He aimed with one eye closed.
  
-【Hmm… There isn’t much difference from the old model.】
+"Hmm… There isn’t much difference from the old model."<br/>
  
-【The shooting part is the only thing that is similar. The aiming reticle and reloading method are very different.】
+"The shooting part is the only thing that is similar. The aiming reticle and reloading method are very different."<br/>
  
-【Understood.】
+"Understood."<br/>
  
 With the pull of the trigger, there was a bang.
  
 The targeted armour was hit with another hole. The knight waved his fist excitedly.
  
-【I hit it!】
+"I hit it!"<br/>
  
 This lit the competitive spirit in the other knights who waved their hands eagerly.
  
-【You are too close! Stand down! I can hit the target even after taking ten steps back!】
+"You are too close! Stand down! I can hit the target even after taking ten steps back!"<br/>
  
-【Let me try!】
+"Let me try!"<br/>
  
 The western nobles showed their rarely seen side.
  
-【Me, me!】: the officers of the Eighth army shouted repeatedly.
+"Me, me!】: the officers of the Eighth army shouted repeatedly.
  
 The Sixth Army officers just shrugged and backed away. They seemed unconcerned about this.
  
 When they were about to leave, Dorval said:
  
-【Since this will be sent here from the capital, I will gather some volunteers first. This equipment might be a loan, but there won’t be any rental fee, right?】
+"Since this will be sent here from the capital, I will gather some volunteers first. This equipment might be a loan, but there won’t be any rental fee, right?"<br/>
  
 Because Altina wasn’t here, his attitude was a bit cockier than their first meeting.
  
 Regis nodded.
  
-【… I don’t think there is.】
+"… I don’t think there is."<br/>
  
-【Then it’s settled then. After all, we don’t have that the excess funds to spend on rifles.】
+"Then it’s settled then. After all, we don’t have that the excess funds to spend on rifles."<br/>
  
 It’s related to money again huh— Regis thought.
  
@@ -803,109 +803,109 @@ Maybe he was really troubled by finance issues?
  
 After the rifle exhibition was finished, Regis and Eric headed for the Officers’ Mess.
  
-【Thanks to you, the exhibition went smoothly.】
+"Thanks to you, the exhibition went smoothly."<br/>
  
-【I’m glad to be of help.】
+"I’m glad to be of help."<br/>
  
 Eric replied with a smile.
  
 Ever since they decided to hold a rifle exhibition, Eric had been very tense. He was finally smiling, which put Regis at ease.
  
-【It’s glad that you can use a rifle… If I am the one demonstrating, they might misunderstand and think this rifle is worse than a toy gun.】
+"It’s glad that you can use a rifle… If I am the one demonstrating, they might misunderstand and think this rifle is worse than a toy gun."<br/>
  
 Eric smiled awkwardly.
  
-【Ahaha… Sir Regis can do it too if you practice more.】
+"Ahaha… Sir Regis can do it too if you practice more."<br/>
  
-【I better not. I don’t have the talent for using rifles at all. The marks on my shoulder had finally faded.】
+"I better not. I don’t have the talent for using rifles at all. The marks on my shoulder had finally faded."<br/>
  
-【Without being familiar with it, even firing one shot will leave a mark.】
+"Without being familiar with it, even firing one shot will leave a mark."<br/>
  
-【What about now?】
+"What about now?"<br/>
  
-【There isn’t any problem now. My body had learned how to disperse the recoil when firing.】
+"There isn’t any problem now. My body had learned how to disperse the recoil when firing."<br/>
  
-【Hmm…】
+"Hmm…"<br/>
  
 Eric bowed deeply.
  
-【I am very grateful to you, Sir Regis. When I couldn’t exert any strength with my left hand, I even thought about leaving the army.】
+"I am very grateful to you, Sir Regis. When I couldn’t exert any strength with my left hand, I even thought about leaving the army."<br/>
  
-【……】
+"……"<br/>
  
-【But now, I’m an escort officer and a rifleman, I’m very thankful for that.】
+"But now, I’m an escort officer and a rifleman, I’m very thankful for that."<br/>
  
-【Yes… Well, you are stronger than me even though you got hurt.】
+"Yes… Well, you are stronger than me even though you got hurt."<br/>
  
-【Because Sir Regis is a very special person. You can defeat an army of 10,000 just by wielding your pen.】
+"Because Sir Regis is a very special person. You can defeat an army of 10,000 just by wielding your pen."<br/>
  
 In the face of such lavish compliments, Regis’ face turned red.
  
 Speaking of which, Eric always spoke with elegance.
  
-【… I will work hard to meet your expectations.】
+"… I will work hard to meet your expectations."<br/>
  
-【Me too. Please continue to guide me on, Sir Regis.】
+"Me too. Please continue to guide me on, Sir Regis."<br/>
  
-【Y-Yes.】
+"Y-Yes."<br/>
  
 They arrived at the mess.
  
 Regis stared with his eyes wide open.
  
-【This is…?!】
+"This is…?!"<br/>
  
 The astonishing fact made him stood in place dumbfoundedly.
  
 His hands started trembling.
  
-【Hmm? Ah, isn’t that Regis. Thank you for your hard work too, Eric.】
+"Hmm? Ah, isn’t that Regis. Thank you for your hard work too, Eric."<br/>
  
 Altina who was already there waved at them.
  
 Regis said with trembling lips:
  
-【… Who are you?】
+"… Who are you?"<br/>
  
-【Hey… What are you saying?!】
+"Hey… What are you saying?!"<br/>
  
-【It’s unbelievable. Altina is reading a book?!】
+"It’s unbelievable. Altina is reading a book?!"<br/>
  
-【How rude! I also read at times!】
+"How rude! I also read at times!"<br/>
  
 Fufu, Eric laughed wryly.
  
-【Her Highness had been reading a lot recently. She said she want Regis to see how much she had grown when he comes back.】
+"Her Highness had been reading a lot recently. She said she want Regis to see how much she had grown when he comes back."<br/>
  
 Altina blushed.
  
-【N-Not really… I have always been reading books.】
+"N-Not really… I have always been reading books."<br/>
  
-【That’s wonderful.】
+"That’s wonderful."<br/>
  
 When she heard what Regis said, Altina’s heart skipped a beat.
  
-【I-Is that so?】
+"I-Is that so?"<br/>
  
-【Yes, reading is a wonderful thing. Every book has its own value.】
+"Yes, reading is a wonderful thing. Every book has its own value."<br/>
  
-【Ahaha…】
+"Ahaha…"<br/>
  
-【I feel a sudden urge to eat, so I will be going back to my room.】
+"I feel a sudden urge to eat, so I will be going back to my room."<br/>
  
-【Hey! Didn’t you come here to eat!?】
+"Hey! Didn’t you come here to eat!?"<br/>
  
 Not just Altina, even Eric was stopping him.
  
 Regis gritted his teeth.
  
-【It’s suffering to look at other people reading before me.】
+"It’s suffering to look at other people reading before me."<br/>
  
-【The food is coming soon.】
+"The food is coming soon."<br/>
  
-【Even if I fill my stomach, I can’t live if I don’t read books.】
+"Even if I fill my stomach, I can’t live if I don’t read books."<br/>
  
-【I don’t think that’s true, but let’s drop it.】
+"I don’t think that’s true, but let’s drop it."<br/>
  
 It might sound like a joke, but it showed his true thoughts. Regis could go without food if he could read.
  
@@ -921,35 +921,35 @@ Regis put a piece of duck meat into his mouth.
  
 The sweet tangerine sauce was delicious.
  
-【… We brought plenty of rations with us, so we don’t need to worry about food for now. But if we don’t recover the lost territory quickly, the citizens will suffer.】
+"… We brought plenty of rations with us, so we don’t need to worry about food for now. But if we don’t recover the lost territory quickly, the citizens will suffer."<br/>
  
-【That’s our plan in the first place, did something change?】
+"That’s our plan in the first place, did something change?"<br/>
  
-【… Nobody knows when we can recover the fields to the south of Aroe Maroe City, correct? Hence, the price of wheat and vegetables increased a lot. It is so bad that it will affect the Empire on the whole.】
+"… Nobody knows when we can recover the fields to the south of Aroe Maroe City, correct? Hence, the price of wheat and vegetables increased a lot. It is so bad that it will affect the Empire on the whole."<br/>
  
-【Now that you mentioned it, you did say the farmlands in the south is important.】
+"Now that you mentioned it, you did say the farmlands in the south is important."<br/>
  
-【… But I never imagined that the impact on market prices would be so staggering. We can requisite for food locally if the war dragged on, but it looks like we can’t stall any longer.】
+"… But I never imagined that the impact on market prices would be so staggering. We can requisite for food locally if the war dragged on, but it looks like we can’t stall any longer."<br/>
  
 Altina shrugged.
  
-【It will be great if Lieutenant General Dorval could escape together with the rations.】
+"It will be great if Lieutenant General Dorval could escape together with the rations."<br/>
  
-【… That’s right.】
+"… That’s right."<br/>
  
 She stood up.
  
-【Alright! Let’s get to work! We need to repel the Etruria Theocracy as soon as possible so the citizens can dine in peace!】
+"Alright! Let’s get to work! We need to repel the Etruria Theocracy as soon as possible so the citizens can dine in peace!"<br/>
  
 This was very spontaneous, but many officers responded to her.
  
-【Vive la ’Généralissime! Vive L’Empire!】 【Victory is within our grasps!】 【I want to eat bread with fruit jam!】
+"Vive la ’Généralissime! Vive L’Empire!】 "Victory is within our grasps!】 "I want to eat bread with fruit jam!"<br/>
  
 Altina thrust out her fist.
  
-【Good answer! Then gather at the main gate after finishing your meal! Let’s start training!】
+"Good answer! Then gather at the main gate after finishing your meal! Let’s start training!"<br/>
  
-Although most of them answered 【Yes Mdm!】, there were some who moaned 【Ehhh…】.
+Although most of them answered "Yes Mdm!】, there were some who moaned "Ehhh…】.
  
 And of course, Regis belonged to the latter.
  
@@ -962,21 +962,21 @@ After all, one of the duties of soldiers is to maintain an orderly formation as 
  
 Altina stood up after finishing her tea.
  
-【What is it, Regis? You are still not done yet?】
+"What is it, Regis? You are still not done yet?"<br/>
  
-【Oh… I’m just thinking about something.】
+"Oh… I’m just thinking about something."<br/>
  
 The others already left.
  
-【Well, never mind. Drop by later okay?】
+"Well, never mind. Drop by later okay?"<br/>
  
-【Understood.】
+"Understood."<br/>
  
 Altina left the mess, and her Escort Officer Eric followed.
  
 Regis stared at his empty plate and muttered to himself.
  
-【… Is that possible?】
+"… Is that possible?"<br/>
  
 Regis quickly returned to his room.
  
@@ -986,31 +986,31 @@ He then left the room.
  
 And almost ran into someone in the corridor.
  
-【Ahh.】
+"Ahh."<br/>
  
-【Hyaa?!】
+"Hyaa?!"<br/>
  
 The one who let out a cute cry was a beautiful young girl with blonde hair and blue eyes— Elise Archibald. They brought her along as a guest to the south upon Bastian’s request.
  
-【Ahh, pardon me. I have something urgent.】
+"Ahh, pardon me. I have something urgent."<br/>
  
-【Are you in a rush? I’m very sorry.】
+"Are you in a rush? I’m very sorry."<br/>
  
-【… No no, it’s not that urgent that I need to startle a lady. My deep apologies.】
+"… No no, it’s not that urgent that I need to startle a lady. My deep apologies."<br/>
  
 Regis straightened his posture.
  
 Even though she looked like a child, she was of extraordinary noble birth. She was hiding her identity now though.
  
-【Fufu, Lord Regis is still the same as always, I can’t tell that you’re a soldier with your attitude.】
+"Fufu, Lord Regis is still the same as always, I can’t tell that you’re a soldier with your attitude."<br/>
  
-【Haha… I’m often told that.】
+"Haha… I’m often told that."<br/>
  
-【Will the war be starting again?】
+"Will the war be starting again?"<br/>
  
 Elise looked at the fort from the windows along the corridor.
  
-【Hmm? Oh, that’s just training.】
+"Hmm? Oh, that’s just training."<br/>
  
 They could see the Fourth Army.
  
@@ -1026,83 +1026,83 @@ The bugles played another tune, and they turned to the right and marched.
  
 Regis sighed in admiration.
  
-【How impressive… Their order was a mess when they left the capital.】
+"How impressive… Their order was a mess when they left the capital."<br/>
  
-【I don’t really understand this… What good is making everyone moving together like that? I can only see this inflating the ego of the commander.】
+"I don’t really understand this… What good is making everyone moving together like that? I can only see this inflating the ego of the commander."<br/>
  
-【… If the unit’s formation is not orderly, there will be weak spots in the face of an enemy’s charge. When the companions around you fall, you will have to face two or three enemies alone, right.】
+"… If the unit’s formation is not orderly, there will be weak spots in the face of an enemy’s charge. When the companions around you fall, you will have to face two or three enemies alone, right."<br/>
  
-【And so?】
+"And so?"<br/>
  
-【In order to maintain a tidy formation when we engage the enemy, we need to train the army to march in steps.】
+"In order to maintain a tidy formation when we engage the enemy, we need to train the army to march in steps."<br/>
  
-【I thought the soldiers from the Belgarian empire can take on a hundred men alone?】
+"I thought the soldiers from the Belgarian empire can take on a hundred men alone?"<br/>
  
-【… Huh?】
+"… Huh?"<br/>
  
-【That’s the feeling I get from Bastian, aren’t the other Belgarians the same?】
+"That’s the feeling I get from Bastian, aren’t the other Belgarians the same?"<br/>
  
-【… He is a special case.】
+"… He is a special case."<br/>
  
-【Ah, just as I thought.】
+"Ah, just as I thought."<br/>
  
 — Take on a hundred men alone? What happened? What did the Third Prince do in the neighbouring country?
  
 Elise looked out the window melancholically.
  
-【… I’m afraid of war. Soldiers will probably laugh at me.】
+"… I’m afraid of war. Soldiers will probably laugh at me."<br/>
  
-【Not at all, I’m scared of it too.】
+"Not at all, I’m scared of it too."<br/>
  
-【Really?】
+"Really?"<br/>
  
-【… In war, people die if they are killed. Death has always been terrifying to me.】
+"… In war, people die if they are killed. Death has always been terrifying to me."<br/>
  
-【Then why do you fight a war?】
+"Then why do you fight a war?"<br/>
  
-【… Because if we don’t fight, more people will die.】
+"… Because if we don’t fight, more people will die."<br/>
  
 Although not all wars were like that.
  
 Elise lowered her head.
  
-【Indeed, when you are facing an enemy invasion, the only option is to fight.】
+"Indeed, when you are facing an enemy invasion, the only option is to fight."<br/>
  
-【Well, it’s true during an invasion… But when a nation gets into trouble, that would be a good opportunity for the neighbouring countries to invade it. I hope all the countries can build a cordial relationship and support each other instead.】
+"Well, it’s true during an invasion… But when a nation gets into trouble, that would be a good opportunity for the neighbouring countries to invade it. I hope all the countries can build a cordial relationship and support each other instead."<br/>
  
-【Ah, you mentioned the same thing in Professeur Bourgine’s house, you’re a pacifist.】
+"Ah, you mentioned the same thing in Professeur Bourgine’s house, you’re a pacifist."<br/>
  
-【Yes, I am.】
+"Yes, I am."<br/>
  
-【I hope my country can be like that too.】
+"I hope my country can be like that too."<br/>
  
-【… I’m relieved that you said that.】
+"… I’m relieved that you said that."<br/>
  
-【I feel at ease knowing that Lord Regis who is in such a position thinks so too.】
+"I feel at ease knowing that Lord Regis who is in such a position thinks so too."<br/>
  
 Neither of them was smiling, but they still locked eyes.
  
 Elise showed a sorrowful face.
  
-【Even in my home nation High Brittania, there are many who opposes the war. But it still broke out in the end. Even if it is in the interest and prosperity of the home nation… People are losing their lives for money…】
+"Even in my home nation High Brittania, there are many who opposes the war. But it still broke out in the end. Even if it is in the interest and prosperity of the home nation… People are losing their lives for money…"<br/>
  
 Regis shook his head.
  
-【His Majesty Latreille said something like that too. But starting a war for the sake of economic development is a lie.】
+"His Majesty Latreille said something like that too. But starting a war for the sake of economic development is a lie."<br/>
  
-【Huh?!】
+"Huh?!"<br/>
  
-【… Using war to stimulate advances in technology and make the nation prosper is a false theory. History has already proven that.】
+"… Using war to stimulate advances in technology and make the nation prosper is a false theory. History has already proven that."<br/>
  
-【But I heard that the products we used in our daily lives used to be tools during times of war?】
+"But I heard that the products we used in our daily lives used to be tools during times of war?"<br/>
  
-【These things are trivial compared to the intangible wealth lost in war. An economy that develops in a decade of peace can match the economic growth in a century of war.】
+"These things are trivial compared to the intangible wealth lost in war. An economy that develops in a decade of peace can match the economic growth in a century of war."<br/>
  
-【Is that true?】
+"Is that true?"<br/>
  
-【… A nation that wars constantly is a nation where even children need to practice swordsmanship. Compare that to a country that focuses on academics, and opens trade routes with other nations. Isn’t it obvious which nation will better develop its economy?】
+"… A nation that wars constantly is a nation where even children need to practice swordsmanship. Compare that to a country that focuses on academics, and opens trade routes with other nations. Isn’t it obvious which nation will better develop its economy?"<br/>
  
-【Ah, such nations do exist.】
+"Ah, such nations do exist."<br/>
  
 It had been several decades since High Britannia’s last war, and they concentrated their efforts on the economy. In contrast, the Belgaria Empire was embroiled in constant warfare.
  
@@ -1110,37 +1110,37 @@ And the result was more developed manufacturing industries in High Brittania, an
  
 If they hadn’t started a rash war, they could probably rule over the surrounding nations economically in the near future.
  
-【… In the wars between nations, the losses suffered will get greater in the future. With the advent of rifles, war will no longer be a contest of might, but literally killing each other. A ruler who still wants to start a war in such a situation will drown in their delusions of grandeur.】
+"… In the wars between nations, the losses suffered will get greater in the future. With the advent of rifles, war will no longer be a contest of might, but literally killing each other. A ruler who still wants to start a war in such a situation will drown in their delusions of grandeur."<br/>
  
-【Ah…】
+"Ah…"<br/>
  
-【Or maybe, they just want to cover up their domestic failures by deceiving the public and diverting their attention.】
+"Or maybe, they just want to cover up their domestic failures by deceiving the public and diverting their attention."<br/>
  
-【What do you mean by deceiving?】
+"What do you mean by deceiving?"<br/>
  
-【… The duty of politics is the distribution of wealth. Be it public facilities, the development of industries or social welfare, all these are wealth. However, the upper class held on to this wealth stubbornly, so the middle and lower-class citizens will feel unhappy and bear a grudge. If unhappiness continues to pile up, the opposition of the current regime will grow stronger. During this time, the ruler will create an enemy— If they have a common enemy, people will unite easily, more likely to come to a collective consensus, and struck down most criticism.】
+"… The duty of politics is the distribution of wealth. Be it public facilities, the development of industries or social welfare, all these are wealth. However, the upper class held on to this wealth stubbornly, so the middle and lower-class citizens will feel unhappy and bear a grudge. If unhappiness continues to pile up, the opposition of the current regime will grow stronger. During this time, the ruler will create an enemy— If they have a common enemy, people will unite easily, more likely to come to a collective consensus, and struck down most criticism."<br/>
  
 The young girl who was going to become a ruler turned pale.
  
-【It is the responsibility to soothe the unhappiness of the people.】
+"It is the responsibility to soothe the unhappiness of the people."<br/>
  
-【… It’s not easy to quell the unhappiness of the people. It’s like dividing eight pizzas between ten people. Compared to that, branding a neighbouring country ‘evil’ is much easier.】
+"… It’s not easy to quell the unhappiness of the people. It’s like dividing eight pizzas between ten people. Compared to that, branding a neighbouring country ‘evil’ is much easier."<br/>
  
-【How can they do that!?】
+"How can they do that!?"<br/>
  
-【… They don’t even need to produce the evidence against the enemy, and just need to make something up. If they tell the people about a foreign enemy, the ruler will easily gain the support of the masses, unite the citizens and dismiss anyone who opposes as unpatriotic— What an ideal country that will be, at least for dishonest rulers.】
+"… They don’t even need to produce the evidence against the enemy, and just need to make something up. If they tell the people about a foreign enemy, the ruler will easily gain the support of the masses, unite the citizens and dismiss anyone who opposes as unpatriotic— What an ideal country that will be, at least for dishonest rulers."<br/>
  
 Elise clenched her fist.
  
-【Did Margaret waged a war against the Belgarian Empire because of that!?】
+"Did Margaret waged a war against the Belgarian Empire because of that!?"<br/>
  
-【… She was just carrying out the will of those in power. During the war between the High Brittania Kingdom and the Belgarian Empire, how many plans to distribute wealth fairly had been discarded, how many citizens that needed aid has been abandoned, and how many voices that criticises the regime has been silenced?】
+"… She was just carrying out the will of those in power. During the war between the High Brittania Kingdom and the Belgarian Empire, how many plans to distribute wealth fairly had been discarded, how many citizens that needed aid has been abandoned, and how many voices that criticises the regime has been silenced?"<br/>
  
-【I… I’m so vexed.】
+"I… I’m so vexed."<br/>
  
 Her eyes were moist.
 He didn’t think that it would make her cry.
-【… Most rulers would aspire to work towards an ideal country in the beginning. But fair policies will be obstructed by those who already had vested interested, and they would be dragged down by the limitless demands of the public. In the end, they would depend on the illusion of a ‘common enemy’. If a ruler spent more time criticizing the flaws of other nations than the solutions of domestic issues, then it is certain that the ruler just needed an enemy to secure his own status and position.】
+"… Most rulers would aspire to work towards an ideal country in the beginning. But fair policies will be obstructed by those who already had vested interested, and they would be dragged down by the limitless demands of the public. In the end, they would depend on the illusion of a ‘common enemy’. If a ruler spent more time criticizing the flaws of other nations than the solutions of domestic issues, then it is certain that the ruler just needed an enemy to secure his own status and position."<br/>
  
 Am I going too far— Regis wondered uneasily.
  
@@ -1148,9 +1148,9 @@ However, Elise’s expression was clearly filled with determination.
  
 She wiped the corners of her eyes.
  
-【Thank you very much. I will keep Lord Regis’ words in mind.】
+"Thank you very much. I will keep Lord Regis’ words in mind."<br/>
  
-【… Ah, no… This isn’t something that I thought up, I’m just regurgitating something I read from books.】
+"… Ah, no… This isn’t something that I thought up, I’m just regurgitating something I read from books."<br/>
  
 Regis scratched his head, bowed, then hurried on to the Fourth Army that had started training.
  

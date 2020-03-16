@@ -200,7 +200,7 @@ Regis remembered a certain story.
 The information Regis got from the tavern’s staff was unclear, however the part about prince Bastian lacking in self-respect was clear.
 Altina nodded her head.
 “He was ordered to be prudent by Father himself last year.”
-“... … Ordered by the emperor?"
+“... … Ordered by the emperor?"<br/>
 “Bastian said ‘I went and took a look because it seems interesting, then I realised a waiter was harassed by a drunkard, so I went to help.”
 “... … Help, is it?”
 “Yes, he also said something like  ‘I only realise that my right hand hurt after punching out. I am justice’.” 
@@ -260,7 +260,7 @@ Jerome, who was wearing armour, kneel down beside a young soldier and began trea
 The soldier who was ordered gave a troubled voice.
 Jerome sent him flying with a kick at him.
 “This soldier! Is now dead! This is a fortress and is underground. This is not an open area with good ventilation. If you do not want an epidemic to spread, bring that body bag here now, go!
-“Y,yes!"
+“Y,yes!"<br/>
 At the same time he shouted his reply, the soldier began running to get a body bag.
 Regis did not have any strength left in his knees, using his shoulders to lean on the stone wall.
 “... … Ha, ha,ha.”

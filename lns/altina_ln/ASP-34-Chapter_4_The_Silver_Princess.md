@@ -276,7 +276,7 @@ She bowed politely once more, different from her previous attitude.
 Felicia was momentarily speechless.
 Regis lowered his head.
 “My apologies for shocking you. Please forgive us for our action, as there’s a reason behind it.”
-“You… What are you scheming?"
+“You… What are you scheming?"<br/>
 Felicia asked with a flustered and confused look.
 Altina, Eddie and Lilim looked at Regis.
     
@@ -677,7 +677,7 @@ Eleanor used her other hand to caress Regis’ cheek.
     
 Regis panicked at this situation from an erotic novel that fell over the chessboard.
     
-"Leave everything to me."
+"Leave everything to me."<br/>
 Eleanor leaned her body on Regis.
     
 Eleanor then kissed on Regis’ cheek, near his lips.

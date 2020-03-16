@@ -344,7 +344,7 @@ Now that he mentioned it, he didn’t contact the school again since he ran out 
 “Did something happen in High Britannia?”
 “Not really. Their soldiers hacked and shot at me for a little though… Oh right, I met Queen Margaret and dueled with her right hand man. Oswald is amazing, and unreasonably strong.”
 Marquis Bergerac collapsed dizzily onto the floor.
-This sparked off a commotion with the maids, who shouted "Check it!" "Check his heart!" "The analgesics!"
+This sparked off a commotion with the maids, who shouted "Check it!" "Check his heart!" "The analgesics!"<br/>
 Franziska who was listening in while standing at the edge could only think ‘What the hell is he saying!?’
 If she didn’t witness Bastian’s strength first hand, she would have treated this as a joke. However, he did seem capable of facing an army head on. In terms of combat abilities, he wasn’t far off from her brother Gilbert.
 The old noble glared at Bastian.
@@ -775,7 +775,7 @@ Bourgine shook her head.
 “Still trying to quibble about this!? Alright, take her in. We will investigate further at the station!”
 Bourgine turned stiff.
 The other policemen surrounded her on command to not let her escape.
-"I know nothing, this is an injustice!"
+"I know nothing, this is an injustice!"<br/>
 “If you have anything to say, do it at the station.”
 “Even if you tell me that, none of my companions ever came back from there!”
 “Shut it! You destructive ideology instigator!”

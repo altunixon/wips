@@ -6,5 +6,5 @@ for i in $(curl http://skythewood.blogspot.com/p/altina-sword-princess.html | tr
  done
 
 
-sed -i '/^$/d; s/\.$/\.<br\/>/g; s/"$/"<br\/>/g; s/】$/"<br\/>/g; s/【/"/g; s/』$/"<br\/>/g; s/『/"/g' *.md
-sed -i 's/^Altina the Sword Princess/### Altina the Sword Princess/g; s/^Translators/#### Translators/g; s/^Editor/#### Editor/g' *.md
+sed -i '/^$/d; s/\.$/\.<br\/>/g; s/"$/"<br\/>/g; s/”$/"<br\/>/g; s/“/"/g; s/】$/"<br\/>/g; s/【/"/g; s/』$/"<br\/>/g; s/『/"/g' *.md
+sed -i 's/^Altina the Sword Princess/### Altina the Sword Princess/g; s/^Chapter/### Chapter/g; s/^Translator/#### Translator/g; s/^Editor/#### Editor/g' *.md

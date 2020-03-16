@@ -1,19 +1,19 @@
-Altina the Sword Princess Volume 2 Chapter 5
-After taking down Fort Volks, Regis returned to Fort Sierck.
+### Altina the Sword Princess Volume 2 Chapter 5
+After taking down Fort Volks, Regis returned to Fort Sierck.<br/>
  
-Altina, Eric and Jerome stayed behind.
+Altina, Eric and Jerome stayed behind.<br/>
  
-With 4000 Germania war prisoners, there was a high risk of losing the fort if they slipped up.
+With 4000 Germania war prisoners, there was a high risk of losing the fort if they slipped up.<br/>
  
-Jerome could only be left behind in situations where he couldn't exercise his ambition.
+Jerome could only be left behind in situations where he couldn't exercise his ambition.<br/>
  
-Regis rode the carriage alone.
+Regis rode the carriage alone.<br/>
  
-He did mingle with the soldiers traveling with him, but he wasn't with his usual group now. It was a fresh experience journeying with the thousand soldiers transporting goods, but he couldn't calm down.
+He did mingle with the soldiers traveling with him, but he wasn't with his usual group now. It was a fresh experience journeying with the thousand soldiers transporting goods, but he couldn't calm down.<br/>
  
 After entering the dark forest--
  
-The middle aged knight approached the carriage with an uneasy expression.
+The middle aged knight approached the carriage with an uneasy expression.<br/>
  
 "Sir strategist, will it be okay...?"<br/>
  
@@ -23,9 +23,9 @@ This is the forest belonging to the barbarians who attacked us some time ago. It
  
 "Ah, about that..."<br/>
  
-Regis remembered Diethart.
+Regis remembered Diethart.<br/>
  
-He took on a massive amount of jobs during the preparation phase of this battle.
+He took on a massive amount of jobs during the preparation phase of this battle.<br/>
  
 "... Don't worry. We need to be alert, but there won't be a large scale attack by the savages."<br/>
  
@@ -35,7 +35,7 @@ He took on a massive amount of jobs during the preparation phase of this battle.
  
 Regis thought the news of the secret alliance had leaked--
  
-But that wasn't so.
+But that wasn't so.<br/>
  
 The middle aged knight said with a serious face:
  
@@ -47,7 +47,7 @@ The middle aged knight said with a serious face:
  
 "Ha, haha..."<br/>
  
-This man was knight commander Evrard's subordinate-- Regis accepted bewilderedly.
+This man was knight commander Evrard's subordinate-- Regis accepted bewilderedly.<br/>
  
 He continued while puffing out his chest:
  
@@ -55,19 +55,19 @@ He continued while puffing out his chest:
  
 "Alright... Well then... I will be in your care."<br/>
  
-The group returned without any trouble.
+The group returned without any trouble.<br/>
  
-The weather was great. If this was the blessing of the goddess, Regis had no qualms expressing his gratitude.
+The weather was great. If this was the blessing of the goddess, Regis had no qualms expressing his gratitude.<br/>
  
-Fort Sierck was in a festive mood after receiving the news of victory.
+Fort Sierck was in a festive mood after receiving the news of victory.<br/>
  
-When Regis's group arrived in the afternoon, the wide open gates were filled with cheering soldiers, they even threw flower petals from atop the walls.
+When Regis's group arrived in the afternoon, the wide open gates were filled with cheering soldiers, they even threw flower petals from atop the walls.<br/>
  
-They entered the parade square.
+They entered the parade square.<br/>
  
-The citizens of Tuonvell were present too, serving beer and meat in celebration.
+The citizens of Tuonvell were present too, serving beer and meat in celebration.<br/>
  
-Evrard came to receive them.
+Evrard came to receive them.<br/>
  
 "Oh! Sir Regis!"<br/>
  
@@ -81,15 +81,15 @@ Evrard came to receive them.
  
 "Hah..."<br/>
  
-They will force the title on him even if he resisted, so Regis nodded hesitantly.
+They will force the title on him even if he resisted, so Regis nodded hesitantly.<br/>
  
-He wanted to curl his body up.
+He wanted to curl his body up.<br/>
  
-The heroes appearing in the stories Regis read were cool, popular with the ladies and had lofty goals.
+The heroes appearing in the stories Regis read were cool, popular with the ladies and had lofty goals.<br/>
  
-Altina should be closer to that.
+Altina should be closer to that.<br/>
  
-She should be the heroine.
+She should be the heroine.<br/>
  
 "You understand, Sir Regis! This exhilaration! Everyone was in utter despair, but thanks to you, we can share the joy of living on with each other. Isn't this an achievement worthy of praise?"<br/>
  
@@ -97,37 +97,37 @@ She should be the heroine.
  
 "Haha, you are really timid!"<br/>
  
-Smack! Evrard patted him on the back.
+Smack! Evrard patted him on the back.<br/>
  
-Regis wasn't good with accepting compliments.
+Regis wasn't good with accepting compliments.<br/>
  
-He saw through me-- Regis thought with an awkward smile.
+He saw through me-- Regis thought with an awkward smile.<br/>
  
 "Ora, everybody, the main character for the day is sir strategist here! Hurry, say something!"<br/>
  
 "Eh!?"<br/>
  
-Because of Evrard's roar, the troops celebrating in the vicinity focused their attention on him.
+Because of Evrard's roar, the troops celebrating in the vicinity focused their attention on him.<br/>
  
-Regis was at a loss.
+Regis was at a loss.<br/>
  
 "Ah-- ... Umm... Thank you everyone for your support... This victory... Was thanks to the effort of everyone present. Umm... Ah, that's right... Now is a good chance, so I will break the news. Eh--... Beilschmidt border regiment will shift its base to Fort Volks."<br/>
  
-The troops turned silent instantly.
+The troops turned silent instantly.<br/>
  
 That famous Fort Volks said to be invulnerable will be their new base!?
  
-Cheers erupted everywhere.
+Cheers erupted everywhere.<br/>
  
-Evrard laughed heartily.
+Evrard laughed heartily.<br/>
  
 "Wa--hahaha! What a joy! Guhaha... Cough, cough!"<br/>
  
-He choked.
+He choked.<br/>
  
-The troops and the citizens attending the festival were celebrating joyously.
+The troops and the citizens attending the festival were celebrating joyously.<br/>
  
-When he realized it, Regis was surrounded by merchants.
+When he realized it, Regis was surrounded by merchants.<br/>
  
 "Sir strategist, sir strategist, please award us with the contract to restore Fort Volks!"<br/>
  
@@ -151,31 +151,31 @@ When he realized it, Regis was surrounded by merchants.
  
 "... No no no, women have the right to choose too. I am not someone who can marry so easily."<br/>
  
-They were all using this chance to market their service.
+They were all using this chance to market their service.<br/>
  
-The strategist Regis Auric was unexpectedly highly regarded.
+The strategist Regis Auric was unexpectedly highly regarded.<br/>
  
-On top of that, shifting to Fort Volks meant reinforcing troops and maintenance of the new base.
+On top of that, shifting to Fort Volks meant reinforcing troops and maintenance of the new base.<br/>
  
-If they secured a major contract with the regiment, they could reap a large profit.
+If they secured a major contract with the regiment, they could reap a large profit.<br/>
  
-No wonder the merchants were showing their business smiles.
+No wonder the merchants were showing their business smiles.<br/>
  
 "Ah~... Erm... I still have preparation work for the relocation to handle!"<br/>
  
-Regis ran from the parade square as if he was fleeing.
+Regis ran from the parade square as if he was fleeing.<br/>
  
-He returned to his own room.
+He returned to his own room.<br/>
  
-The entrance was guarded by soldiers, so the merchants couldn't follow him into the central tower.
+The entrance was guarded by soldiers, so the merchants couldn't follow him into the central tower.<br/>
  
-A different kind of fatigue that was different from the battlefield compelled him to collapse onto his bed.
+A different kind of fatigue that was different from the battlefield compelled him to collapse onto his bed.<br/>
  
 "Phew~..."<br/>
  
-Shortly after! the door was knocked.
+Shortly after! the door was knocked.<br/>
  
-Regis was surprised.
+Regis was surprised.<br/>
  
 "... Who is it?"<br/>
  
@@ -183,11 +183,11 @@ Regis was surprised.
  
 "Ah."<br/>
  
-He breathed a sigh of relief.
+He breathed a sigh of relief.<br/>
  
-Margrave Jerome's maid, Elin, came over to help from time to time. She was slightly older than Regis.
+Margrave Jerome's maid, Elin, came over to help from time to time. She was slightly older than Regis.<br/>
  
-After opening the door, a lively brown skinned girl entered.
+After opening the door, a lively brown skinned girl entered.<br/>
  
 She hugged him with a "Wah."<br/>
  
@@ -197,11 +197,11 @@ She hugged him with a "Wah."<br/>
  
 "Congratulations! You were amazing!"<br/>
  
-Moist eyes.
+Moist eyes.<br/>
  
-Blushing cheeks.
+Blushing cheeks.<br/>
  
-And a soft sensation, Regis felt he was turning strange in a variety of ways.
+And a soft sensation, Regis felt he was turning strange in a variety of ways.<br/>
  
 "Er, erm... Ms Elin...?"<br/>
  
@@ -217,17 +217,17 @@ And a soft sensation, Regis felt he was turning strange in a variety of ways.
  
 "Thank, thank you."<br/>
  
-Regis was hugged and stumbled backwards as he was being pushed. He tripped over a pile of documents and fell.
+Regis was hugged and stumbled backwards as he was being pushed. He tripped over a pile of documents and fell.<br/>
  
 "Ah!?"<br/>
  
 "Mr. Regis~~"<br/>
  
-This is bad... If I don't clean that up.
+This is bad... If I don't clean that up.<br/>
  
 Now is not the time to think about that!
  
-When Regis focused on the present again, Elin was riding on top of him.
+When Regis focused on the present again, Elin was riding on top of him.<br/>
  
 "Ah, eh?"<br/>
  
@@ -235,23 +235,23 @@ When Regis focused on the present again, Elin was riding on top of him.
  
 "Yes."<br/>
  
-Elin looked into Regis' eyes passionately.
+Elin looked into Regis' eyes passionately.<br/>
  
-He could feel her warm breathing.
+He could feel her warm breathing.<br/>
  
-Regis' mind was blank and his body stiff.
+Regis' mind was blank and his body stiff.<br/>
  
-He couldn't comprehend what was going on.
+He couldn't comprehend what was going on.<br/>
  
 "-- welcome back, Mr. Regis."<br/>
  
-A voice came from the door.
+A voice came from the door.<br/>
  
-But the tone was ice cold.
+But the tone was ice cold.<br/>
  
-And sounded familiar.
+And sounded familiar.<br/>
  
-Regis finally regained his senses.
+Regis finally regained his senses.<br/>
  
 "Ah, Ms. Clarisse!"<br/>
  
@@ -259,11 +259,11 @@ Regis finally regained his senses.
  
 "Why!? Of course. I remember..."<br/>
  
-Regis looked at her and found her ice cold smile chilling.
+Regis looked at her and found her ice cold smile chilling.<br/>
  
-It made him shiver.
+It made him shiver.<br/>
  
-His current position was stuck close to another women, a bad position to be in.
+His current position was stuck close to another women, a bad position to be in.<br/>
  
 Regis said in a panic:
  
@@ -273,21 +273,21 @@ Regis said in a panic:
  
 "Con, continue what!?"<br/>
  
-Regis struggled to get up.
+Regis struggled to get up.<br/>
  
-Elin backed away with a regretful face.
+Elin backed away with a regretful face.<br/>
  
 "Mu~~~"<br/>
  
 "... Phew."<br/>
  
-Clarisse entered the room and arranged the scattered documents.
+Clarisse entered the room and arranged the scattered documents.<br/>
  
 "This is the regiment's fort, not the Margrave's mansion. If you want to play, can you please do so in the parade square?"<br/>
  
-A needle like gaze pierced Elin.
+A needle like gaze pierced Elin.<br/>
  
-Elin backed away.
+Elin backed away.<br/>
  
 "I... I am... Serious about this!"<br/>
  
@@ -299,19 +299,19 @@ Elin backed away.
  
 "How could it be! Men only think about that, be it day or night!"<br/>
  
-The 2 women looked at Regis.
+The 2 women looked at Regis.<br/>
  
-Elin's gaze was full of passion while Clarisse's eyes were ice cold.
+Elin's gaze was full of passion while Clarisse's eyes were ice cold.<br/>
  
-Maybe it's because of how Regis was brought up by his sister, but Regis was like a little brother who couldn't stand up before elderly women. He felt that he couldn't handle either lady.
+Maybe it's because of how Regis was brought up by his sister, but Regis was like a little brother who couldn't stand up before elderly women. He felt that he couldn't handle either lady.<br/>
  
-Regis backed away once more.
+Regis backed away once more.<br/>
  
-He felt as if he had entered the cage of a grey wolf.
+He felt as if he had entered the cage of a grey wolf.<br/>
  
 "... Erm... What do you mean by those thoughts?"<br/>
  
-The 2 women sighed in response.
+The 2 women sighed in response.<br/>
  
 "Mr. Regis is really..."<br/>
  
@@ -325,33 +325,33 @@ The 2 women sighed in response.
  
 "Ugh~~~"<br/>
  
-At this moment, Elin's brother Gösta showed up.
+At this moment, Elin's brother Gösta showed up.<br/>
  
-He was an apprentice butler in the Margrave's mansion.
+He was an apprentice butler in the Margrave's mansion.<br/>
  
 "Ah, found you. Sis, I just received master Jerome's letter, let's hurry back to the mansion and report to Mr. McClane... Ugh!?"<br/>
  
-The innocent youth turned pale with just a fierce glare from his sister.
+The innocent youth turned pale with just a fierce glare from his sister.<br/>
  
 "I will return this time! Farewell Mr. Regis. Let's continue next time!"<br/>
  
 "Yeah, hmm...?"<br/>
  
-Clarisse turned her back to the siblings.
+Clarisse turned her back to the siblings.<br/>
  
 "Mr. Regis, remember to get some holy water to expel evil from the priest later."<br/>
  
 "Huh, why?"<br/>
  
-After the door was closed and the siblings were gone, Clarisse's anger finally eased.
+After the door was closed and the siblings were gone, Clarisse's anger finally eased.<br/>
  
-She approached Regis with a smile and reached both her hands out.
+She approached Regis with a smile and reached both her hands out.<br/>
  
-And pinched Regis' cheeks.
+And pinched Regis' cheeks.<br/>
  
 "Eh?"<br/>
  
-He was too naive to think Clarisse's anger had eased. Although Regis didn’t understand why she was angry.
+He was too naive to think Clarisse's anger had eased. Although Regis didn’t understand why she was angry.<br/>
  
 "Welcome back, Mr. Regis."<br/>
  
@@ -361,21 +361,21 @@ He was too naive to think Clarisse's anger had eased. Although Regis didn’t un
  
 "Mmh."<br/>
  
-Regis' response was weird because his face was being pulled.
+Regis' response was weird because his face was being pulled.<br/>
  
-The fingers pinching his cheeks let go, and started to caress his face.
+The fingers pinching his cheeks let go, and started to caress his face.<br/>
  
-Clarisse put both her hands on Regis' face.
+Clarisse put both her hands on Regis' face.<br/>
  
-And she drew her lips closer like this.
+And she drew her lips closer like this.<br/>
  
--- Eh? What is happening? Regis was petrified once again.
+-- Eh? What is happening? Regis was petrified once again.<br/>
  
-She smelled really good.
+She smelled really good.<br/>
  
-It numbed the depths of his brain.
+It numbed the depths of his brain.<br/>
  
-When she was close enough for Regis to feel her breath.
+When she was close enough for Regis to feel her breath.<br/>
  
 "Mr. Regis..."<br/>
  
@@ -397,13 +397,13 @@ When she was close enough for Regis to feel her breath.
  
 "Wha!?"<br/>
  
-Regis shrunk with the mention of Altina.
+Regis shrunk with the mention of Altina.<br/>
  
-Clarisse released her hands.
+Clarisse released her hands.<br/>
  
-Before he realized it, Regis had backed away for unknown reasons.
+Before he realized it, Regis had backed away for unknown reasons.<br/>
  
-Clarisse smiled happily.
+Clarisse smiled happily.<br/>
  
 "I was joking, Mr. Regis... Would you like some tea?"<br/>
  
@@ -411,30 +411,30 @@ Clarisse smiled happily.
  
 "Alright, immediately."<br/>
  
-Clarisse left the room with a bow.
+Clarisse left the room with a bow.<br/>
  
  
-Two weeks after the Beilschmidt border regiment took down fort Volks.
+Two weeks after the Beilschmidt border regiment took down fort Volks.<br/>
  
-Regis' group were inside the conference room used by Weingartner and his staff in the past.
+Regis' group were inside the conference room used by Weingartner and his staff in the past.<br/>
  
-The empire's flag and the flag designed by Altina were draped on the wall.
+The empire's flag and the flag designed by Altina were draped on the wall.<br/>
  
-Because she lacked artistic talent, the drawing of the shield was redrawn by a professional.
+Because she lacked artistic talent, the drawing of the shield was redrawn by a professional.<br/>
  
-A corner of the room was decorated with red flowers, prepared by Clarisse who moved here from century fort.
+A corner of the room was decorated with red flowers, prepared by Clarisse who moved here from century fort.<br/>
  
 "I thought it would be needed soon, so I brought it in advance."<br/>
  
-That's how she was.
+That's how she was.<br/>
  
-As usual, the one who had the utmost faith in the princess' victory was definitely her.
+As usual, the one who had the utmost faith in the princess' victory was definitely her.<br/>
  
-Apart from Regis, Altina, Evrard and Jerome were present too.
+Apart from Regis, Altina, Evrard and Jerome were present too.<br/>
  
-Only the minimum of forces were left in Sierck fort; the rest have shifted to fort Volks.
+Only the minimum of forces were left in Sierck fort; the rest have shifted to fort Volks.<br/>
  
-It would be their base from now on.
+It would be their base from now on.<br/>
  
 Regis said with a report in hand:
  
@@ -446,7 +446,7 @@ Altina lifted her hand and said:
  
 "Haha... I will get an architect for the kitchen. There will be a new stove by next month."<br/>
  
-Jerome browsed the documents in his hands.
+Jerome browsed the documents in his hands.<br/>
  
 "What about the mercenaries? You did talk to the guys from Fort Volks right?"<br/>
  
@@ -472,7 +472,7 @@ Jerome browsed the documents in his hands.
  
 "Ah, yes..."<br/>
  
-When Regis chatted about books, he couldn’t stop himself.
+When Regis chatted about books, he couldn’t stop himself.<br/>
  
 "Erm, the return request from Varden Duchy... Do you want to hear the amount they are offering?"<br/>
  
@@ -480,7 +480,7 @@ When Regis chatted about books, he couldn’t stop himself.
  
 "... That's true."<br/>
  
-Altina nodded.
+Altina nodded.<br/>
  
 "Be it the lives that were lost in taking the fort, or the lives that were saved with the conquest of this stronghold, these can’t be bought with money."<br/>
  
@@ -498,11 +498,11 @@ Evrard seemed to be in a great mood and said:
  
 "Hmmp..."<br/>
  
-Jerome shifted his gaze.
+Jerome shifted his gaze.<br/>
  
-He seemed to know about it.
+He seemed to know about it.<br/>
  
-Altina tilted her head.
+Altina tilted her head.<br/>
  
 "And what's that?"<br/>
  
@@ -516,15 +516,15 @@ Altina tilted her head.
  
 "That's how it is! A goddess!"<br/>
  
-Altina shrunk with embarrassment.
+Altina shrunk with embarrassment.<br/>
  
-Regis empathized with her.
+Regis empathized with her.<br/>
  
-Although the territory of Beilschmidt wouldn't disappear, the scale was beyond regiment level. Calling it the Marie Quatre army was more appropriate.
+Although the territory of Beilschmidt wouldn't disappear, the scale was beyond regiment level. Calling it the Marie Quatre army was more appropriate.<br/>
  
 "Isn't that great?"<br/>
  
-The door was knocked at this moment.
+The door was knocked at this moment.<br/>
  
 Because these were passages dug through boulders, the sound of knocking was louder than Fort Sierck
  
@@ -532,21 +532,21 @@ Because these were passages dug through boulders, the sound of knocking was loud
  
 "Pardon me."<br/>
  
-It was Eric.
+It was Eric.<br/>
  
-He took out a letter.
+He took out a letter.<br/>
  
 "This just came from the capital."<br/>
  
-These words made Altina and Jerome tense up.
+These words made Altina and Jerome tense up.<br/>
  
-They were ordered to attack Fort Volks because of their alliance with the barbarians.
+They were ordered to attack Fort Volks because of their alliance with the barbarians.<br/>
  
-Because the border regiment became strong, the order was passed down to weaken them. But Altina managed to take down the renowned invincible fort and increase her forces by more than a thousand.
+Because the border regiment became strong, the order was passed down to weaken them. But Altina managed to take down the renowned invincible fort and increase her forces by more than a thousand.<br/>
  
 How would the 2nd prince Latreille react?
  
-Regis took the letter.
+Regis took the letter.<br/>
  
 "This is addressed to the princess... Is it okay for me to open it?"<br/>
  
@@ -554,23 +554,23 @@ Regis took the letter.
  
 "Well then..."<br/>
  
-The letter was laid out on the table.
+The letter was laid out on the table.<br/>
  
-It was another long winded letter congratulating the victory.
+It was another long winded letter congratulating the victory.<br/>
  
 At the very end--
  
 "We will be hosting the founding day festival in April. Marie Quatre Argentina is cordially invited to attend. This is what father wished for as well. I looked forward to the day our family will be gathered once more."<br/>
  
-Jerome slammed his hand on the table.
+Jerome slammed his hand on the table.<br/>
  
 "It's a trap!"<br/>
  
 "Indeed. But we can't ignore it too."<br/>
  
-Evrard frowned.
+Evrard frowned.<br/>
  
-Eric looked gloomy too.
+Eric looked gloomy too.<br/>
  
 "That's right... It said that it was the wishes of the princess' father... the emperor."<br/>
  
@@ -582,9 +582,9 @@ Regis tilted his head slightly and said:
  
 "With this fort, we can stand up to the guys of the first army!"<br/>
  
-Jerome stood up.
+Jerome stood up.<br/>
  
-From the current circumstances, there might be problems with supplies, but it was definitely better than before.
+From the current circumstances, there might be problems with supplies, but it was definitely better than before.<br/>
  
 Altina asked Regis:
  
@@ -606,11 +606,11 @@ Altina asked Regis:
  
 "I don't know."<br/>
  
-It wasn't often that Altina showed her weak side.
+It wasn't often that Altina showed her weak side.<br/>
  
-The name of her brother caught her off guard emotionally.
+The name of her brother caught her off guard emotionally.<br/>
  
-This was an unstable factor which Regis wants to get rid of.
+This was an unstable factor which Regis wants to get rid of.<br/>
  
 "... This is an invitation made in the name of prince Latreille. Anything that happens in the empire or on the way there would be his responsibility. But that doesn't guarantee that everything would be safe."<br/>
  
@@ -618,7 +618,7 @@ This was an unstable factor which Regis wants to get rid of.
  
 "Yes."<br/>
  
-Altina stood up.
+Altina stood up.<br/>
  
 "I am going to the imperial capital. Even if darkness awaits me there!"<br/>
  
@@ -626,7 +626,7 @@ Jerome said with his war face:
  
 "Imperial capital! How about bringing all 5000 troops along for the victory celebration? Well?"<br/>
  
-That meant an all out war... Regis frowned.
+That meant an all out war... Regis frowned.<br/>
  
 Altina shook her head and said:
  
@@ -640,15 +640,15 @@ Altina shook her head and said:
  
 "Tch."<br/>
  
-Jerome sat down with a bored expression.
+Jerome sat down with a bored expression.<br/>
  
 Evrard and Eric pleaded Altina, “At least bring along a guard!”
  
-Regis wanted an escort too.
+Regis wanted an escort too.<br/>
  
-Because the enemy wasn't just prince Latreille.
+Because the enemy wasn't just prince Latreille.<br/>
  
-Anyway, it had been quite a while since he left the capital.
+Anyway, it had been quite a while since he left the capital.<br/>
  
 End
  

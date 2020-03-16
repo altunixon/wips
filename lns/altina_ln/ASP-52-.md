@@ -1,51 +1,51 @@
-Altina the Sword Princess Volume 5 Chapter 2
+### Altina the Sword Princess Volume 5 Chapter 2
 Sister of the Bibliophile
  Translator: MythosIX
-Editors: Skythewood, Darkdhaos
+#### Editors: Skythewood, Darkdhaos
 Part 1
-Morning, the residue heat of the battlefield had yet to disperse.
+Morning, the residue heat of the battlefield had yet to disperse.<br/>
  
-The Beilschmidt Border Regiment marched past the gate of Fort Volk and began their expedition.
+The Beilschmidt Border Regiment marched past the gate of Fort Volk and began their expedition.<br/>
  
-Regis was on a carriage.
+Regis was on a carriage.<br/>
  
-Altina who was the commander was riding a chestnut horse. The mane and tail were golden while its left hind leg was white. This smart horse was gifted to her when they were in the capital.
+Altina who was the commander was riding a chestnut horse. The mane and tail were golden while its left hind leg was white. This smart horse was gifted to her when they were in the capital.<br/>
  
 That reminds me, is the horse named yet?
  
-Jerome’s black horse was at the side. He was once the commander, now he was the captain of the five hundred black knights.
+Jerome’s black horse was at the side. He was once the commander, now he was the captain of the five hundred black knights.<br/>
  
-The cavalry was at the forefront while behind them were one thousand infantry, two thousand mercenaries and five hundred soldiers for transporting supplies.
+The cavalry was at the forefront while behind them were one thousand infantry, two thousand mercenaries and five hundred soldiers for transporting supplies.<br/>
  
-As it was an expedition, speed was the most important factor, which was why they did not bring along any cannons. It was judged that there was no point if the cannons they brought along could not hit the enemy.
+As it was an expedition, speed was the most important factor, which was why they did not bring along any cannons. It was judged that there was no point if the cannons they brought along could not hit the enemy.<br/>
  
-At the centre of the formation, there were four horses pulling a beautiful white carriage. It was large enough for six people to face each other. It could be said that it was a portable command room.
+At the centre of the formation, there were four horses pulling a beautiful white carriage. It was large enough for six people to face each other. It could be said that it was a portable command room.<br/>
  
-Currently, only Regis and Clarisse were on it.
+Currently, only Regis and Clarisse were on it.<br/>
  
-Although they were heading towards a battlefield, it was peaceful as they are still within Belgaria.
+Although they were heading towards a battlefield, it was peaceful as they are still within Belgaria.<br/>
  
-Looking out of the window, one could see blinding light reflecting from the walls of Fort Volk.
+Looking out of the window, one could see blinding light reflecting from the walls of Fort Volk.<br/>
  
-Clarisse gently touched the window.
+Clarisse gently touched the window.<br/>
  
-As it was cold outside the carriage, the place where her fingers were touching began to fog up.
+As it was cold outside the carriage, the place where her fingers were touching began to fog up.<br/>
  
-Most of the military carriage had simple canvas covers as glass was a luxury item. The carriage which Regis and Clarisse were on had a total of six glass panel.
+Most of the military carriage had simple canvas covers as glass was a luxury item. The carriage which Regis and Clarisse were on had a total of six glass panel.<br/>
  
-The glass panel was fixed to a wooden frame, which could be closed during battle as to prevent damage. At the same time, it could be opened as to relay orders, making it quite convenient.
+The glass panel was fixed to a wooden frame, which could be closed during battle as to prevent damage. At the same time, it could be opened as to relay orders, making it quite convenient.<br/>
  
-The driver seat was outside.
+The driver seat was outside.<br/>
  
-Normally, a border regiment’s finance was not enough to purchase such a latest model of carriage. This carriage was given to Regis by the southern New Nobles, Eleanor, last week.
+Normally, a border regiment’s finance was not enough to purchase such a latest model of carriage. This carriage was given to Regis by the southern New Nobles, Eleanor, last week.<br/>
  
-Eleanor Ailred Winn de Tiraso Laverde was the granddaughter of a duke. Despite her young age, she was head of her house. In the southern part of Belgaria, she owned large pieces of real estate and farmland. In short, she was a real estate tycoon.
+Eleanor Ailred Winn de Tiraso Laverde was the granddaughter of a duke. Despite her young age, she was head of her house. In the southern part of Belgaria, she owned large pieces of real estate and farmland. In short, she was a real estate tycoon.<br/>
  
-The reason behind the gifts was most likely to repay Regis for helping her at the crucial moment during the founding anniversary.
+The reason behind the gifts was most likely to repay Regis for helping her at the crucial moment during the founding anniversary.<br/>
  
-The gratitude was not simply financial support to the border regiment, but also a gift of the expensive carriage.
+The gratitude was not simply financial support to the border regiment, but also a gift of the expensive carriage.<br/>
  
-She was that generous.
+She was that generous.<br/>
  
 As Fort Volk gradually disappear in her eyes, Clarisse said,
  
@@ -53,15 +53,15 @@ As Fort Volk gradually disappear in her eyes, Clarisse said,
  
 “Yeah, before this, there were Altina and Eric who was her escort too.”
  
-Clarisse’s face slowly blushed.
+Clarisse’s face slowly blushed.<br/>
  
 “It’s a little embarrassing to be alone with you.”
  
 “I,is that so?”
  
-After suppressing his slight excitement, Regis took a book out of his leather bag.
+After suppressing his slight excitement, Regis took a book out of his leather bag.<br/>
  
-Clarisse was surprised by that.
+Clarisse was surprised by that.<br/>
  
 “Even at this situation, you are going to read a book, Regis?”
  
@@ -93,17 +93,17 @@ Clarisse was surprised by that.
  
 “... …”
  
-Clarisse just smiled without saying anything.
+Clarisse just smiled without saying anything.<br/>
  
-Although Clarisse was smiling, the smile sent a chill down Regis’ spine.
+Although Clarisse was smiling, the smile sent a chill down Regis’ spine.<br/>
  
-Clarisse took the basket near her feet and put it on her knee. After which, she proceed to open it.
+Clarisse took the basket near her feet and put it on her knee. After which, she proceed to open it.<br/>
  
-Inside the basket were bread, dried meat and wrinkly vegetables.
+Inside the basket were bread, dried meat and wrinkly vegetables.<br/>
  
-Even though she handed the basket over, she did not say anything and kept smiling.
+Even though she handed the basket over, she did not say anything and kept smiling.<br/>
  
-Ignoring her and continue reading the book -- Was not something that Regis dared to do.
+Ignoring her and continue reading the book -- Was not something that Regis dared to do.<br/>
  
 “I,I guess … I should eat a little.”
  
@@ -113,11 +113,11 @@ Ignoring her and continue reading the book -- Was not something that Regis dared
  
 “Fufufu, is that so?”
  
-Regis took a piece of bread from the basket.
+Regis took a piece of bread from the basket.<br/>
  
-While other countries’ bread were soft, the outer layer of Belgaria’s bread was harder. Biting the bread would produce a crunchy sound.
+While other countries’ bread were soft, the outer layer of Belgaria’s bread was harder. Biting the bread would produce a crunchy sound.<br/>
  
-Most likely, the difference was due to a different variation and production of wheat.
+Most likely, the difference was due to a different variation and production of wheat.<br/>
  
 “That reminds me, the west procures wheat that produce soft bread.”
  
@@ -137,11 +137,11 @@ Most likely, the difference was due to a different variation and production of w
  
 “I feel that Clarisse will be able to understand that.”
  
-To instantly realise that Regis was talking about politics, they need to have some understanding of politics itself.
+To instantly realise that Regis was talking about politics, they need to have some understanding of politics itself.<br/>
  
-After he finished eating the bread, Regis took a piece of meat.
+After he finished eating the bread, Regis took a piece of meat.<br/>
  
-Although it was a little salty, the meat was still delicious.
+Although it was a little salty, the meat was still delicious.<br/>
  
 “Now that you mention, Clarisse, have you been working as a maid in the palace all the while?”
  
@@ -149,9 +149,9 @@ Although it was a little salty, the meat was still delicious.
  
 “What about your father?”
  
-In an instant, the carriage fell into silent.
+In an instant, the carriage fell into silent.<br/>
  
-Clarisse’s face became red.
+Clarisse’s face became red.<br/>
 “Ara ara, do you wish to meet my father? After all, we will pass by the capital. Though are you able to squeeze out some time? How sudden, Regis, I didn’t bring any nice clothes along~”
  
 “... That… I’m sorry to say, but we are not going to stop at the capital.”
@@ -172,7 +172,7 @@ Clarisse’s face became red.
  
 “Isn’t that almost the entire thing!”
  
-Clarisse’s smile seems to be happier today.
+Clarisse’s smile seems to be happier today.<br/>
 “It’s such a joy to hear Regis retorting along with my words.”
  
 “It’s different with others?”
@@ -189,26 +189,26 @@ Clarisse’s smile seems to be happier today.
  
 “Eh?”
  
-Though towards the person you feared, you still hugged her like a cat and gently stroked her.
+Though towards the person you feared, you still hugged her like a cat and gently stroked her.<br/>
  
-I guess that’s fine too.
+I guess that’s fine too.<br/>
  
-Regis stretched his body.
+Regis stretched his body.<br/>
  
-Eating while having an enjoyable conversation, it felt like the sheeps of slumber were jumping over the fence.
+Eating while having an enjoyable conversation, it felt like the sheeps of slumber were jumping over the fence.<br/>
  
-Clarisse started gently singing.
+Clarisse started gently singing.<br/>
  
 “Fais dodo~ Fais dodo~”
  
 It was a lullaby
  
-Moreover, it felt like a sister cooing her brother to sleep.
+Moreover, it felt like a sister cooing her brother to sleep.<br/>
  
-When he realized it, it was just like what he told Clarisse. After eating, he felt like sleeping. Things were going according to what Clarisse planned.
+When he realized it, it was just like what he told Clarisse. After eating, he felt like sleeping. Things were going according to what Clarisse planned.<br/>
  
-Still, this is fine.
-Regis leaned his head against the chair in the shaking carriage.
+Still, this is fine.<br/>
+Regis leaned his head against the chair in the shaking carriage.<br/>
  
 When he woke up, the convoy had already stopped for the third break
 --------------------------------------------------
@@ -216,41 +216,41 @@ When he woke up, the convoy had already stopped for the third break
  
 It started to drizzle
  
-The Beilschmidt Border Regiment that was under Altina’s command had marched past the capital.
+The Beilschmidt Border Regiment that was under Altina’s command had marched past the capital.<br/>
  
-The reason they marched without stopping was because the Second Prince, Latreille, and the First Imperial Army was not in the capital.
+The reason they marched without stopping was because the Second Prince, Latreille, and the First Imperial Army was not in the capital.<br/>
  
-They had already head towards the west.
+They had already head towards the west.<br/>
  
-It was rare to see the Emperor giving the orders personally. The citizens could feel that the battle against High Britannia was not a small skirmish.
+It was rare to see the Emperor giving the orders personally. The citizens could feel that the battle against High Britannia was not a small skirmish.<br/>
  
-During this period of unrest, Altina wanted to prevent the impression that they were marching into the capital while the First Imperial Army was away. Sometimes, impression was more important than facts.
+During this period of unrest, Altina wanted to prevent the impression that they were marching into the capital while the First Imperial Army was away. Sometimes, impression was more important than facts.<br/>
  
-The Border Regiment did not stop at the capital but continued west.
+The Border Regiment did not stop at the capital but continued west.<br/>
  
-However, they still needed rest and resupply.
+However, they still needed rest and resupply.<br/>
  
-Hence, the regiment resupplied at Rouen which was near the capital.
+Hence, the regiment resupplied at Rouen which was near the capital.<br/>
  
-They set up their camp outside the southern area of the city.
+They set up their camp outside the southern area of the city.<br/>
  
-The time was around five o'clock in the evening.
+The time was around five o'clock in the evening.<br/>
  
-Dinner preparations were going on all over the camp.
+Dinner preparations were going on all over the camp.<br/>
  
-They set up a large tent and used it as the headquarter.
+They set up a large tent and used it as the headquarter.<br/>
  
-The entrance of the tent was guarded by heavy infantry. Regis was not yet used to their crisp and respectful salutes to him.
+The entrance of the tent was guarded by heavy infantry. Regis was not yet used to their crisp and respectful salutes to him.<br/>
  
-The Inside of the tent was warmer than outside when it was not raining.
+The Inside of the tent was warmer than outside when it was not raining.<br/>
  
-Altina removed her drenched robe and stretched like a cat.
+Altina removed her drenched robe and stretched like a cat.<br/>
  
 “Ha~ How tiring!”
  
 “It’s been tough on you, Your Highness.”
  
-Clarisse served tea, along with some biscuit.
+Clarisse served tea, along with some biscuit.<br/>
  
 “Thanks! Why don’t you try some, Regis?”
  
@@ -260,13 +260,13 @@ Clarisse served tea, along with some biscuit.
  
 “Yeah… … The soldiers had spent most of their strength to march such a long distance. It’s important that we grasped the correct timing to enter the war.”
  
-Regis sat on a chair inside the tent and opened a map, putting it on the table.
+Regis sat on a chair inside the tent and opened a map, putting it on the table.<br/>
  
-The tables and chairs were foldable and were transported together with the tent via carriage.
+The tables and chairs were foldable and were transported together with the tent via carriage.<br/>
  
-Altina removed her shoulder guard and breastplate while Clarisse helped her out on the belt.
+Altina removed her shoulder guard and breastplate while Clarisse helped her out on the belt.<br/>
  
-Currently, there were only three people in the tent.
+Currently, there were only three people in the tent.<br/>
  
 “That reminds me, where is Sir Jerome?”
  
@@ -276,23 +276,23 @@ Currently, there were only three people in the tent.
  
 “Isn’t my sword broken… …”
  
-Shifting his gaze to the middle on the tent.
+Shifting his gaze to the middle on the tent.<br/>
  
-Altina’s sword was lying inside a coffin-like casing.
+Altina’s sword was lying inside a coffin-like casing.<br/>
  
-Regis could only nod his head without saying anything.
+Regis could only nod his head without saying anything.<br/>
  
-While fighting off the Varden’s army, they encountered Franziska of the Penard Pendu. The result was that the Grand Tonnerre Quatre broke.
+While fighting off the Varden’s army, they encountered Franziska of the Penard Pendu. The result was that the Grand Tonnerre Quatre broke.<br/>
  
-Although they brought along as it was the symbol of the regiment, the sword could not be used.
+Although they brought along as it was the symbol of the regiment, the sword could not be used.<br/>
  
-Altina used a normal longsword as a substitute. However, she could not show her full power even while practicing in the rain.
+Altina used a normal longsword as a substitute. However, she could not show her full power even while practicing in the rain.<br/>
  
-Altina had been in low spirits.
+Altina had been in low spirits.<br/>
  
-Regis opened the letter which was beside the map.
+Regis opened the letter which was beside the map.<br/>
  
-Altina then turned her head over to him.
+Altina then turned her head over to him.<br/>
  
 “What is it?”
  
@@ -302,7 +302,7 @@ Altina then turned her head over to him.
  
 “Looks like that’s the case.”
  
-The Seventh Imperial Army was heavily involved in the eastern battleline. As the type of battle at the eastern area was usually forest battle, the unit has little cavalry, but high in infantry. Though it should not exceed more than twenty thousand.
+The Seventh Imperial Army was heavily involved in the eastern battleline. As the type of battle at the eastern area was usually forest battle, the unit has little cavalry, but high in infantry. Though it should not exceed more than twenty thousand.<br/>
  
 “Will we be joining up with them?”
  
@@ -314,17 +314,17 @@ The Seventh Imperial Army was heavily involved in the eastern battleline. As the
  
 “I only met him once during a banquet in the palace.”
  
-Altina lightly sighed.
+Altina lightly sighed.<br/>
  
-Looks like it was due to her gender or bloodline… … In any case, he should be someone that has some prejudice. This kind of people was not rare among the Belgaria’s nobles.
+Looks like it was due to her gender or bloodline… … In any case, he should be someone that has some prejudice. This kind of people was not rare among the Belgaria’s nobles.<br/>
  
 “There are still a few days of travel before reaching the battlefield. Since we have a common enemy, I think it is still possible that we work together.”
  
 “It will be best if that’s the case.”
  
-Be it history or literature, it was not rare for a battle to end in defeat due to internal conflicts. To avoid becoming one of those, Regis deemed that communication and mediate between them was essential.
+Be it history or literature, it was not rare for a battle to end in defeat due to internal conflicts. To avoid becoming one of those, Regis deemed that communication and mediate between them was essential.<br/>
  
-At this moment, it was noisy outside the tent.
+At this moment, it was noisy outside the tent.<br/>
  
 The guards outside shouted, “Pardon me for the disturbance.”
  
@@ -332,17 +332,17 @@ The guards outside shouted, “Pardon me for the disturbance.”
  
 “Eh? Who is it? If it’s the mayor, I have already met him…”
  
-Before setting up the camp, they already visited the mayor. Moreover, people from the Merchant Association and the Mercenary Association were there.
+Before setting up the camp, they already visited the mayor. Moreover, people from the Merchant Association and the Mercenary Association were there.<br/>
  
-The mayor came together with the lord and visited them. After all, this city was under the emperor’s direct jurisdiction.
+The mayor came together with the lord and visited them. After all, this city was under the emperor’s direct jurisdiction.<br/>
  
-While Regis was thinking who was it, the guard outside report hesitantly.
+While Regis was thinking who was it, the guard outside report hesitantly.<br/>
  
 “T,that… It’s your guest, Sir Regis.”
  
 “Me? Is the person outside a merchant peddling his wares? But we have already resupplied… Since it’s already late, ask him to leave his name and come back tomorrow…”
  
-As he gave the command, a female’s voice could be heard outside.
+As he gave the command, a female’s voice could be heard outside.<br/>
  
 “Is Regis-chan in there?”
  
@@ -350,7 +350,7 @@ As he gave the command, a female’s voice could be heard outside.
  
 “Come out here, Regis-chan! Could it that you don’t recognise me?! If you dare say that, I’ll Ex-tin-guish the light!”
  
-It was a familiar voice and that was not any normal threatening.
+It was a familiar voice and that was not any normal threatening.<br/>
  
 “C,could it be… …”
  
@@ -358,25 +358,25 @@ It was a familiar voice and that was not any normal threatening.
  
 “Wa?! I,isn’t it sister!”
  
-Regis rushed out of the tent.
+Regis rushed out of the tent.<br/>
  
-Altina and Clarisse looked at each other.
+Altina and Clarisse looked at each other.<br/>
  
 “Sister…? Regis’...?”
  
 “He mentioned before that his sister married a blacksmith in Rouen...”
  
-Outside the tent, a woman was surrounded by four heavy infantry.
+Outside the tent, a woman was surrounded by four heavy infantry.<br/>
  
-However, the woman was not afraid at all.
+However, the woman was not afraid at all.<br/>
  
-She wore a headband on top of her black hair and wore beautiful hand-sewn clothes. If there anything similar to Regis, it would be her hair colour and the ears. Among the neighbours, they were said to be ‘siblings that looked as different as a tigress and a turtle’.
+She wore a headband on top of her black hair and wore beautiful hand-sewn clothes. If there anything similar to Regis, it would be her hair colour and the ears. Among the neighbours, they were said to be ‘siblings that looked as different as a tigress and a turtle’.<br/>
  
-The ex-tigress was now the wife of a blacksmith and was full of smile while waving her hands.
+The ex-tigress was now the wife of a blacksmith and was full of smile while waving her hands.<br/>
  
 “Well, Regis-chan! You really are here, that surprised me!”
  
-Facing this smile, it felt like the fatigue from the journey of fifteen days suddenly crushed down on his shoulders.
+Facing this smile, it felt like the fatigue from the journey of fifteen days suddenly crushed down on his shoulders.<br/>
  
 “Ha.... That, If that wasn’t the case, would it be bad, sister?”
  
@@ -392,9 +392,9 @@ That… … because this is an army headquarter with four thousand soldiers prot
  
 “Ha… I suppose so… It’s my fault… Ah, Your Highness?!”
  
-Hearing how noisy it was outside, Altina also came out of the tent.
+Hearing how noisy it was outside, Altina also came out of the tent.<br/>
  
-As she had removed her armour, she was currently in casual clothes.
+As she had removed her armour, she was currently in casual clothes.<br/>
  
 “What is it, Regis?”
  
@@ -404,15 +404,15 @@ As she had removed her armour, she was currently in casual clothes.
  
 “If you put it that way… Ah?!”
  
-Stuffing a hand into Regis mouth in order to silence him, his sister leaned closer to Altina.
+Stuffing a hand into Regis mouth in order to silence him, his sister leaned closer to Altina.<br/>
  
 “Ah?! Her Highness Marie Quatre?! It’s really is Her Highness Marie Quatre?! Looks like Regis-chan have been under your care!”
  
-What are the guards doing?! Regis screamed in his heart. Apparently, the guards were also taken aback by her ‘mother from the countryside’ kind of atmosphere’.
+What are the guards doing?! Regis screamed in his heart. Apparently, the guards were also taken aback by her ‘mother from the countryside’ kind of atmosphere’.<br/>
  
-Seeing how Altina had welcomed her, the guards did not dare to restrain Regis’ sister.
+Seeing how Altina had welcomed her, the guards did not dare to restrain Regis’ sister.<br/>
  
-With the good atmosphere, Altina ushered Regis’ sister into the tent.
+With the good atmosphere, Altina ushered Regis’ sister into the tent.<br/>
  
 “Please enter, sister, and have a pleasant conversation.”
  
@@ -424,26 +424,26 @@ With the good atmosphere, Altina ushered Regis’ sister into the tent.
  
 “Nooo!!!!”
  
-Regis’ appeal was rejected.
+Regis’ appeal was rejected.<br/>
  
-Regis wanted to escape but had no choice but to join them despite having a dreadful feeling.
+Regis wanted to escape but had no choice but to join them despite having a dreadful feeling.<br/>
  
 --------------------------------------------------
 In the tent,
  
-Clarisse silently placed the cups that corresponded to the number of people on the table.
+Clarisse silently placed the cups that corresponded to the number of people on the table.<br/>
  
-She was generally quiet when there were unfamiliar faces. Like a robot, she silently stood in a corner after finishing her job.
+She was generally quiet when there were unfamiliar faces. Like a robot, she silently stood in a corner after finishing her job.<br/>
  
-The other three were sitting around the table.
+The other three were sitting around the table.<br/>
  
-Regis’ sister lowered her head.
+Regis’ sister lowered her head.<br/>
  
 “Nice to meet you, Your Highness Marie Quatre! I am Regis Auric’s sister, Vanessa Smith. My brother has been under your care.”
  
 “Mn, nice to meet you. I am under his care instead, Regis had helped me countless time.”
  
-Vanessa waved her hand.
+Vanessa waved her hand.<br/>
  
 “How can that be! For him to help you!”
  
@@ -453,15 +453,15 @@ Vanessa waved her hand.
  
 “I could not believe it either. When I was in the academy, I never thought that there would be a day I could be getting a salary from the military.”
  
-The two siblings were reminiscing about the past.
+The two siblings were reminiscing about the past.<br/>
  
-Altina shrugged her shoulders.
+Altina shrugged her shoulders.<br/>
  
 “That’s true, after all, he isn’t proficient in neither the sword nor horse riding. But that isn’t all there is to be a soldier. Please believe me who believe in Regis.”
  
 “I understand, I promised you.”
  
-Seeing Altina and Regis smiling at each other, Vanessa looked like she was a fish that was out of the water.
+Seeing Altina and Regis smiling at each other, Vanessa looked like she was a fish that was out of the water.<br/>
  
 “For that Regis-chan… … to be believed by someone…”
  
@@ -479,11 +479,11 @@ Seeing Altina and Regis smiling at each other, Vanessa looked like she was a fis
  
 “Ahhhhhh, that reminds me, sister, you said you wanted to meet me?! Is it to see whether I’m healthy?! If that’s the case, I was full of spirit?!”
  
-He used past tense. Right now, he was mentally exhausted.
+He used past tense. Right now, he was mentally exhausted.<br/>
  
-“Eh?” Vanessa tilted her head and began thinking.
+“Eh?” Vanessa tilted her head and began thinking.<br/>
  
-Pa, her two hands clapped together.
+Pa, her two hands clapped together.<br/>
  
 “Right, visiting Regis-chan is just part of the reason.”
  
@@ -495,17 +495,17 @@ Vanessa surveyed the tent
  
 “What?”
  
-Vanessa made a gesture of some shape.
+Vanessa made a gesture of some shape.<br/>
  
 “Sword! Your Highness Marie Quatre’s sword! I heard that it was broken?”
  
 “Eh?”
  
-The one groaning was Altina.
+The one groaning was Altina.<br/>
  
-Placing her hand on her petite chest, she lowered her head.
+Placing her hand on her petite chest, she lowered her head.<br/>
  
-Vanessa saw that action.
+Vanessa saw that action.<br/>
  
 “Arara, Your Highness Marie Quatre, the sword really broke?”
  
@@ -515,19 +515,19 @@ Vanessa saw that action.
  
 “N,not to that degree! It’s just… the hilt…... “
  
-Altina tried replying with hand gestures, but she was not that proficient in it. Even so, Vanessa replied kindly.
+Altina tried replying with hand gestures, but she was not that proficient in it. Even so, Vanessa replied kindly.<br/>
  
 “The hilt was bent, is it? In that case…”
  
 Unlike before, her expression changed as she entered into deep thoughts. She was no longer having the atmosphere of a sister that was teasing her brother, but of a merchant. 
  
-In Belgaria, where it was a patriarchal society, the wife would usually not interfere with their spouse’s work. That was even more so regarding crafting works.
+In Belgaria, where it was a patriarchal society, the wife would usually not interfere with their spouse’s work. That was even more so regarding crafting works.<br/>
  
-Though that only applied to most the normal females.
+Though that only applied to most the normal females.<br/>
  
-This bold sister was brimming with vigour that could not be framed using common sense.
+This bold sister was brimming with vigour that could not be framed using common sense.<br/>
  
-Regis then asked her.
+Regis then asked her.<br/>
  
 “Where did you got this information regarding Her Highness’ sword?”
  
@@ -535,9 +535,9 @@ Regis then asked her.
  
 “Is that so…? Right, while this might not be related… But the one who manage the finance of this regiment is me. Any business deals have to go through me.”
  
-Vanessa’s eyes widened.
+Vanessa’s eyes widened.<br/>
  
-She retreated unsteadily.
+She retreated unsteadily.<br/>
  
 “I actually raised a brother that would intimidate his sister?!”
  
@@ -549,7 +549,7 @@ She retreated unsteadily.
  
 “I think so.”
  
-Altina had an expression of deep regret.
+Altina had an expression of deep regret.<br/>
  
 “B,but… I didn’t say anything!”
  
@@ -561,7 +561,7 @@ Altina had an expression of deep regret.
  
 “Eh~”
  
-Vanessa stood up from her seat and moved towards the centre of the tent where the coffin-like case was. Her intuition was quite accurate.
+Vanessa stood up from her seat and moved towards the centre of the tent where the coffin-like case was. Her intuition was quite accurate.<br/>
  
 “Eh, is this it, Regis-chan?”
  
@@ -571,7 +571,7 @@ Vanessa stood up from her seat and moved towards the centre of the tent where th
  
 “My gratitude, Your Highness Marie Quatre!”
  
-After clasping her hand in gratitude, Vanessa opened the lid. As the lid was rather heavy, there were thoughts of helping, but it looked like help was not required.
+After clasping her hand in gratitude, Vanessa opened the lid. As the lid was rather heavy, there were thoughts of helping, but it looked like help was not required.<br/>
  
 Compared to three years ago before she was married, Vanessa looked more capable
  
@@ -579,7 +579,7 @@ Compared to three years ago before she was married, Vanessa looked more capable
  
 “Erm, the rumour is true… Are you satisfied now?”
  
-As Altina sighed while talking, Vanessa shook her head in denial.
+As Altina sighed while talking, Vanessa shook her head in denial.<br/>
  
 “What I’m going to say is actually the beginning, Your Highness Marie Quatre. This city housed the number one blacksmith in Belgar- No, in the continent! Will you please entrust your sword to me?”
  
@@ -589,37 +589,37 @@ As Altina sighed while talking, Vanessa shook her head in denial.
  
 “Ahhh, you did mention before.”
  
-Altina looked at the sword in confused.
+Altina looked at the sword in confused.<br/>
  
-Regis was not surprised as he thought of it before. As he was not the owner, Regis was waiting for Altina to reply.
+Regis was not surprised as he thought of it before. As he was not the owner, Regis was waiting for Altina to reply.<br/>
  
-Altina asked seriously.
+Altina asked seriously.<br/>
  
 “That… you want to fix it?”
  
 “Of course!”
  
-Vanessa nodded her head.
+Vanessa nodded her head.<br/>
  
-Hearing the reason, Altina seemed to be unable to decide.
+Hearing the reason, Altina seemed to be unable to decide.<br/>
  
 “Regis, what do you think?”
  
 “I guess so… Originally, if it’s something like the Empire’s treasure sword, we should have the sword repaired by someone with adequate track record. However, these people are usually hired by the nobles.”
  
-As the nobles supporting Altina had increased, they might receive some introduction of such skilled blacksmiths.
+As the nobles supporting Altina had increased, they might receive some introduction of such skilled blacksmiths.<br/>
  
-However, those blacksmiths did not have any workshop near Fort Volk which was at the border.
+However, those blacksmiths did not have any workshop near Fort Volk which was at the border.<br/>
  
-If they wrote letters to these blacksmiths, the best reply they would receive was to send the sword over for reparation… ...
+If they wrote letters to these blacksmiths, the best reply they would receive was to send the sword over for reparation… ...<br/>
  
-This could take up to a few months.
+This could take up to a few months.<br/>
  
-Even so, the sword was from the founding emperor era, hence having historical worth. They could not be careless with the repairs.
+Even so, the sword was from the founding emperor era, hence having historical worth. They could not be careless with the repairs.<br/>
  
-After all, the important thing was that Altina’s life was attached to the sword. Regis was well aware that it was not right to keep suggesting things to Altina.
+After all, the important thing was that Altina’s life was attached to the sword. Regis was well aware that it was not right to keep suggesting things to Altina.<br/>
  
-However, since this was the first time Altina herself actively request to discuss the options, Regis could only speak of those he thought beforehand.
+However, since this was the first time Altina herself actively request to discuss the options, Regis could only speak of those he thought beforehand.<br/>
  
 “I believe that the faster the sword get repaired, the better. However, the one doing so must be selected by you, Your Highness. If the sword was not properly repaired, you will not just risk losing your life, but also  public criticism.”
  
@@ -631,21 +631,21 @@ However, since this was the first time Altina herself actively request to discus
  
 “If things go according to plan.”
  
-Regis seemed confident that they would link up with the Seventh Imperial Army  the next day.
+Regis seemed confident that they would link up with the Seventh Imperial Army  the next day.<br/>
  
-The problem now was how the enemy would move.
+The problem now was how the enemy would move.<br/>
  
-Regis sent out many scouts as to obtain information regarding the enemy. It was necessary to prepare according to the enemy’s speed. Even so, Regis believed that the enemy’s speed would not be out of his expectation as High Brittania needed to bring their cannons with them.
+Regis sent out many scouts as to obtain information regarding the enemy. It was necessary to prepare according to the enemy’s speed. Even so, Regis believed that the enemy’s speed would not be out of his expectation as High Brittania needed to bring their cannons with them.<br/>
  
-Altina stood up from her seat.
+Altina stood up from her seat.<br/>
  
 “Then, tonight will be a good time! Let’s go now!”
  
 “Ehh?!”
  
-The one who let out that surprised sound was only Vanessa --Regis simply sighed.
+The one who let out that surprised sound was only Vanessa --Regis simply sighed.<br/>
  
-Knowing her, Regis thought Altina would definitely do that.
+Knowing her, Regis thought Altina would definitely do that.<br/>
  
 “Your Highness… … Normally, one would call the blacksmith here…”
  
@@ -656,11 +656,11 @@ Knowing her, Regis thought Altina would definitely do that.
 “It’s better to do it myself since it’s my own sword. I should be ashamed of myself if I let my subordinates do it instead.”
 “Erm…”
  
-If guards were sent to protect those transporters, it would be a relatively large group. This would cause a commotion and draw unwanted attention.
+If guards were sent to protect those transporters, it would be a relatively large group. This would cause a commotion and draw unwanted attention.<br/>
  
-Previously when entering the capital, the Fourth princess earned the reputation of being thrifty as she used the relay stations.
+Previously when entering the capital, the Fourth princess earned the reputation of being thrifty as she used the relay stations.<br/>
  
-Hence, there was a need to prevent mobilizing such a large group.
+Hence, there was a need to prevent mobilizing such a large group.<br/>
  
 “Understood, but at least bring some guards… ...”
  
@@ -674,7 +674,7 @@ Hence, there was a need to prevent mobilizing such a large group.
  
 “I will leave the arrangement to you. It’s too troublesome to carry the box along, so I will go get a cloth to cover the sword up.”
  
-Clarisse who was standing at one corner asked softly.
+Clarisse who was standing at one corner asked softly.<br/>
  
 “Your Highness, do you want to prepare your clothes?”
  
@@ -682,7 +682,7 @@ Clarisse who was standing at one corner asked softly.
  
 “Understood.”
  
-Vanessa was petrified.
+Vanessa was petrified.<br/>
  
 “... …?!”
  
@@ -699,71 +699,71 @@ Vanessa was petrified.
  
 “Ahhh, that’s a possibility.”
  
-Be it his role as a strategist or as the sole admin officer. Instead of these reasons, it was easier to explain that the commander was a weird person. Regis always lack self-confidence..
+Be it his role as a strategist or as the sole admin officer. Instead of these reasons, it was easier to explain that the commander was a weird person. Regis always lack self-confidence..<br/>
  
-After some time, Regis left the tent.
+After some time, Regis left the tent.<br/>
  
-He gathered four heavy infantry guards who saluted him.
+He gathered four heavy infantry guards who saluted him.<br/>
  
-At that moment, it began to rain.
+At that moment, it began to rain.<br/>
  
-Rouen which was at the west of the capital Versailles required about half a day of travel.
+Rouen which was at the west of the capital Versailles required about half a day of travel.<br/>
  
-As the journey could be completed on the same day by using carriage, part of the Empire had the atmosphere of a commercial district.
+As the journey could be completed on the same day by using carriage, part of the Empire had the atmosphere of a commercial district.<br/>
  
-In the capital, it was filled with expensive houses and stores that represent the Empire. In contrast, this city was filled with commoners, hence explaining the numerous stalls and houses.
+In the capital, it was filled with expensive houses and stores that represent the Empire. In contrast, this city was filled with commoners, hence explaining the numerous stalls and houses.<br/>
  
-As it was dusk and coupled with the rain, most of the stalls which were along the main road had already closed for the day.
+As it was dusk and coupled with the rain, most of the stalls which were along the main road had already closed for the day.<br/>
  
-Altina who was armoured to the minimum did not mind the rain while the sword was hanging from her shoulders. As the sword was larger than her height, she could not wear any rain poncho.
+Altina who was armoured to the minimum did not mind the rain while the sword was hanging from her shoulders. As the sword was larger than her height, she could not wear any rain poncho.<br/>
  
-“Even the princess is drenched, so we cannot avoid the rain either!” Hence Abidal Evra and his ten subordinates only wore their light armour.
+“Even the princess is drenched, so we cannot avoid the rain either!” Hence Abidal Evra and his ten subordinates only wore their light armour.<br/>
  
-On the other hand, Regis and Vanessa wore rain ponchos.
+On the other hand, Regis and Vanessa wore rain ponchos.<br/>
  
-While Clarisse stayed behind.
+While Clarisse stayed behind.<br/>
  
-As this was their smallest team they could form, they could avoid attracting any attention while advancing through Rouen’s main street.
+As this was their smallest team they could form, they could avoid attracting any attention while advancing through Rouen’s main street.<br/>
  
-Altina was puzzled as she surveyed the surrounding.
+Altina was puzzled as she surveyed the surrounding.<br/>
  
 “Although there are shops which are still open.. … It seems like there isn’t much customers.”
  
 “Yes. Though the city is livelier around this timing… it’s because everyone is afraid. After all, the enemy have invaded deep into our territory. This is the first time in the past ten years.”
  
-Vanessa who was leading them to the workshop replied to Altina. Even though Belgaria was strong, other than war, Belgaria also focused on negotiation. Which was why they could one-sidedly invade others with overwhelming force.
+Vanessa who was leading them to the workshop replied to Altina. Even though Belgaria was strong, other than war, Belgaria also focused on negotiation. Which was why they could one-sidedly invade others with overwhelming force.<br/>
  
-Although territories might be snatched back by the enemy occasionally, it was rare for the enemy to invade that deeply.
+Although territories might be snatched back by the enemy occasionally, it was rare for the enemy to invade that deeply.<br/>
  
-It had been a long time since cities so near to the capital were aware of enemy forces.
+It had been a long time since cities so near to the capital were aware of enemy forces.<br/>
  
-Regis shrugged his shoulders.
+Regis shrugged his shoulders.<br/>
  
 “Well, even though we are invaded, the distance between here and there is about 50Li (222km). Even with a carriage, it would take three days of travel. To counterattack, we mobilized a force about a hundred thousand… … I believe it’s unlikely that the enemy would come here.” 
  
 “It would be a pain if they came.”
  
-Vanessa shrugged her shoulders too.
+Vanessa shrugged her shoulders too.<br/>
  
-As the two made the same action, Altina chuckled as she finds it interesting.
+As the two made the same action, Altina chuckled as she finds it interesting.<br/>
  
-Soon, they reached a large workshop.
+Soon, they reached a large workshop.<br/>
  
 “Impressive!”
  
-The appearance of this workshop suited Altina’s preference.
+The appearance of this workshop suited Altina’s preference.<br/>
  
-It was rare for workshops to use iron door. Black smokes were coming out of the large chimney which was behind the brick building with a triangle roof.
+It was rare for workshops to use iron door. Black smokes were coming out of the large chimney which was behind the brick building with a triangle roof.<br/>
  
-Unlike the usual small chimney used to keep warmth, this chimney was used by workshops to disperse the black smoke.
+Unlike the usual small chimney used to keep warmth, this chimney was used by workshops to disperse the black smoke.<br/>
  
-Sound of metal being struck was coming from the inside.
+Sound of metal being struck was coming from the inside.<br/>
  
-There were a few words made in metal hanging above the unusual door.
+There were a few words made in metal hanging above the unusual door.<br/>
  
-It says 'Le forgeron D'enzo Bardot Smith’ (Enzo Bardot Smith's Workshop).
+It says 'Le forgeron D'enzo Bardot Smith’ (Enzo Bardot Smith's Workshop).<br/>
  
-Vanessa opened the side-door instead of the main door.
+Vanessa opened the side-door instead of the main door.<br/>
  
 “We are honored to have you here, Your Highness Marie Quatre. Although it’s small, but please take a rest here.”
  
@@ -777,13 +777,13 @@ Vanessa opened the side-door instead of the main door.
  
 “If it’s the guards, they can wait outside. Although they will have it tough in the rain, but my subordinates are not weak.”
  
-As if to back Altina’s words, Abidal Evra and the rest who were behind her saluted.
+As if to back Altina’s words, Abidal Evra and the rest who were behind her saluted.<br/>
  
-Some curious children stuck their heads out of the windows while their mothers tried to pull them back into the houses.
+Some curious children stuck their heads out of the windows while their mothers tried to pull them back into the houses.<br/>
  
-It’s better not to attract attention though — Regis sighed once again at that thought.
+It’s better not to attract attention though — Regis sighed once again at that thought.<br/>
  
-Altina shifted her gaze to the workshop.
+Altina shifted her gaze to the workshop.<br/>
  
 “I want the sword repaired. Since there is someone who might be capable of doing it, I shall wait for him to welcome me. After all, if I don’t meet him personally, I will not know about him.”
  
@@ -791,20 +791,20 @@ Altina shifted her gaze to the workshop.
  
 “Since I’m the one having my sword repaired while the blacksmith is here. In this case, isn’t it basic courtesy?”
  
-As blacksmith required a lot of labour, it was a commoner’s job.
+As blacksmith required a lot of labour, it was a commoner’s job.<br/>
  
-However, blacksmiths relying on their arm power have a rather high social standing in Belgaria where wars were frequently waged.
+However, blacksmiths relying on their arm power have a rather high social standing in Belgaria where wars were frequently waged.<br/>
  
-At the very least, a famous blacksmith would be invited by nobles to their territory. They would receive various benefits like tax exemption or given a workshop. Excellent weapons would be viewed as an art piece and could be sold at a high price.
+At the very least, a famous blacksmith would be invited by nobles to their territory. They would receive various benefits like tax exemption or given a workshop. Excellent weapons would be viewed as an art piece and could be sold at a high price.<br/>
  
-Even so, Enzo was not evaluated highly as he lacked great track records.
+Even so, Enzo was not evaluated highly as he lacked great track records.<br/>
  
-Vanessa’s confusion was understandable.
+Vanessa’s confusion was understandable.<br/>
  
-Altina continued to stand firmly under the rain.
+Altina continued to stand firmly under the rain.<br/>
 “I know that I can’t change anything alone. If I deem him necessary, I am willing to do anything that I am able to. If I simply sit and wait without doing anything because I am afraid of disappointment, it's  the same as getting imprisoned”
  
-Regis removed his rain poncho on his head, causing the water to drip down.
+Regis removed his rain poncho on his head, causing the water to drip down.<br/>
  
 “Sister… In any case, can you pass the message to brother-in-law first? Since things have already become like this, even a horse would not be able to pull Her Highness away.”
  
@@ -812,48 +812,48 @@ Regis removed his rain poncho on his head, causing the water to drip down.
  
 “If it’s a bull, at least we can make use of bait and other methods.”
  
-Vanessa only said “immediately” and ran into the room.
+Vanessa only said “immediately” and ran into the room.<br/>
  
-According to her plans, letting her brother who was the strategist recommend them would at least create a business opportunity for them.
+According to her plans, letting her brother who was the strategist recommend them would at least create a business opportunity for them.<br/>
  
-However, she never thought that they would conduct a business with the princess directly. Furthermore, she never would had dreamt that the princess would come visiting the workshop despite the rain.
+However, she never thought that they would conduct a business with the princess directly. Furthermore, she never would had dreamt that the princess would come visiting the workshop despite the rain.<br/>
  
-I really keep getting surprised by Altina’s actions—— Regis sighed in his heart.
+I really keep getting surprised by Altina’s actions—— Regis sighed in his heart.<br/>
  
-The hammering sound stopped and was replaced by some commotion inside the workshop.
-Not long after that, the metal door was opened.
+The hammering sound stopped and was replaced by some commotion inside the workshop.<br/>
+Not long after that, the metal door was opened.<br/>
  
-A man who was topless with a piece of cloth hanging on his waist was kneeling with one knee with his head lowered.
+A man who was topless with a piece of cloth hanging on his waist was kneeling with one knee with his head lowered.<br/>
  
-There were flabs on his muscular body, but his built was considered heavyweight. He had short hair and was beardless.
+There were flabs on his muscular body, but his built was considered heavyweight. He had short hair and was beardless.<br/>
  
-Vanessa was waiting behind him standing.
+Vanessa was waiting behind him standing.<br/>
  
 “Wel-welcome! Please come inside!”
  
 “Pardon my intrusion!”
  
-Altina stepped into the workshop gracefully despite this being her first time entering it. As expected of a royalty, to be able to stay calm in such situation.
+Altina stepped into the workshop gracefully despite this being her first time entering it. As expected of a royalty, to be able to stay calm in such situation.<br/>
  
-The workshop was large.
+The workshop was large.<br/>
  
-It was a large as Fort Volk’s officer’s dining hall which could host forty people.
+It was a large as Fort Volk’s officer’s dining hall which could host forty people.<br/>
  
 However, the various equipments and tools, as well as the furnace made the room looked small. 
  
-Although it was May, the temperature here was high enough to make people sweat buckets.
+Although it was May, the temperature here was high enough to make people sweat buckets.<br/>
  
-There were six young men inside the workshop. There wore thick aprons hanging on top of their shirts, their hands holding hammers and tongs as they looked towards Altina and company nervously.
+There were six young men inside the workshop. There wore thick aprons hanging on top of their shirts, their hands holding hammers and tongs as they looked towards Altina and company nervously.<br/>
  
-Regis who was standing beside Altina broke into a gentle smile.
+Regis who was standing beside Altina broke into a gentle smile.<br/>
  
 “It’s been awhile, brother-in-law—— Your Highness, this person here is the blacksmith, Enzo Bardot Smith.”
  
-As he was introduced, Enzo’s mouth became slanted. Perhaps he was trying to smile.
+As he was introduced, Enzo’s mouth became slanted. Perhaps he was trying to smile.<br/>
  
-To ease the atmosphere, Regis used an intimate way of addressing him… … He wondered whether Altina was angry since she was making such a serious face.
+To ease the atmosphere, Regis used an intimate way of addressing him… … He wondered whether Altina was angry since she was making such a serious face.<br/>
  
-On the other hand, Enzo was standing still and having a nervous expression, as if he was sick.
+On the other hand, Enzo was standing still and having a nervous expression, as if he was sick.<br/>
  
 “I,I am honoured to have you here!”
  
@@ -863,34 +863,34 @@ On the other hand, Enzo was standing still and having a nervous expression, as i
  
 “Sure.”
  
-One working bench was not enough to put the sword.
+One working bench was not enough to put the sword.<br/>
  
-After Enzo instructed his disciples, they began to move another bench and combined the two benches into one.
+After Enzo instructed his disciples, they began to move another bench and combined the two benches into one.<br/>
  
-Altina put her Grand Tonnerre Quatre onto the bench.
+Altina put her Grand Tonnerre Quatre onto the bench.<br/>
  
-As it was raining, coupled with the fact that the hilt was bent, the sword was covered with a cloth. Now, the cloth was removed.
+As it was raining, coupled with the fact that the hilt was bent, the sword was covered with a cloth. Now, the cloth was removed.<br/>
  
-Enzo and his disciples gulped as they watched.
+Enzo and his disciples gulped as they watched.<br/>
  
-Altina used her hand to remove the cloth, causing them to widen their eyes and sighing.
+Altina used her hand to remove the cloth, causing them to widen their eyes and sighing.<br/>
 “How is it?”
  
 “Can I touch it?”
  
-As the sword was revealed, Enzo who looked as he was sick before have a professional look now.
+As the sword was revealed, Enzo who looked as he was sick before have a professional look now.<br/>
  
-In response to his question, Altina nodded as a reply.
+In response to his question, Altina nodded as a reply.<br/>
  
-Enzo carefully lift up the scabbard.
+Enzo carefully lift up the scabbard.<br/>
  
-This time, it was Altina whose eyes widen.
+This time, it was Altina whose eyes widen.<br/>
  
-He actually was able to lift the sword up and held it with one hand as if it was a normal longsword while his other hand slowly drew the sword out.
+He actually was able to lift the sword up and held it with one hand as if it was a normal longsword while his other hand slowly drew the sword out.<br/>
  
 Even in Beilschmidt Border Regiment, there was no one with such arm strength. He was not overexerting himself but was true to his bear-like physique. 
  
-As the sword was longer than normal, it probably required some effort. However, Enzo did not require any help while he drew the sword out from its scabbard and placed it on the bench.
+As the sword was longer than normal, it probably required some effort. However, Enzo did not require any help while he drew the sword out from its scabbard and placed it on the bench.<br/>
  
 “It’s quite heavy…”
  
@@ -898,57 +898,57 @@ As the sword was longer than normal, it probably required some effort. However, 
  
 “Also, the balance isn’t good…”
  
-Zawa— Such a sound could be heard as the disciples’ faces paled.
+Zawa— Such a sound could be heard as the disciples’ faces paled.<br/>
  
-Criticising a national sword in front of a royalty was the same as criticising the empire. Depending on how the conversation goes, it would not be a surprised if he was charged of Lese Majeste.
+Criticising a national sword in front of a royalty was the same as criticising the empire. Depending on how the conversation goes, it would not be a surprised if he was charged of Lese Majeste.<br/>
  
-Even Abidal Evra and the guards who were guarding outside could hear it as he stared that way.
+Even Abidal Evra and the guards who were guarding outside could hear it as he stared that way.<br/>
  
-Vanessa interjected the conversation in a panic.
+Vanessa interjected the conversation in a panic.<br/>
  
 “M,my apologies! My husband isn’t that good with words!”
  
-Altina raised one of her hand and stopped Vanessa.
+Altina raised one of her hand and stopped Vanessa.<br/>
  
 “I’m talking with the blacksmith.”
  
 “... Yes…”
  
-The people around the area thought that the princess was angry.
+The people around the area thought that the princess was angry.<br/>
  
-Altina leaned closer to Enzo.
+Altina leaned closer to Enzo.<br/>
  
 “What do you mean, tell me in full details.”
  
 “This hilt is too short for the blade. The material for the hilt used is a fragile material that prioritized lessening the weight. For this to be a treasure sword, what a joke.”
  
-He readily said so.
+He readily said so.<br/>
  
-The disciples let loose silent cries of sorrow while Abidal Evra’s face reddened and was about to pull his sword out.
+The disciples let loose silent cries of sorrow while Abidal Evra’s face reddened and was about to pull his sword out.<br/>
  
-Vanessa’s face was pale to the point she was about to faint. However, Regis used his shoulder to support her and whispered to her.
+Vanessa’s face was pale to the point she was about to faint. However, Regis used his shoulder to support her and whispered to her.<br/>
  
 “It’s fine, sister.”
  
 “Ha, eh?”
  
-Altina slammed her hand onto the bench.
+Altina slammed her hand onto the bench.<br/>
  
-A loud sound was produced.
+A loud sound was produced.<br/>
  
-The surrounding fell into silence.
+The surrounding fell into silence.<br/>
  
-Everyone was watching her.
+Everyone was watching her.<br/>
  
-The disciples were prepared for her to sentence them, the soldiers were waiting for the order to pull their sword out while Vanessa was praying to the gods.
+The disciples were prepared for her to sentence them, the soldiers were waiting for the order to pull their sword out while Vanessa was praying to the gods.<br/>
  
-Only Regis was calm.
+Only Regis was calm.<br/>
  
-Altina said loudly.
+Altina said loudly.<br/>
  
 “Is it as I thought?! This sword is weird, right?!”
  
-The only one who could understand her words was Regis while Enzo nodded his head after awhile.
+The only one who could understand her words was Regis while Enzo nodded his head after awhile.<br/>
  
 “Although this is my first time seeing this sword, I have seen many swords from the Founding Emperor’s era. Every one of them who survived the era are all practical swords. I can understand that the sword is well-decorated since it’s the Founding Emperor’s sword. Even so, it is strange. Didn’t L’Empereur Flamme usually take the lead in the battlefield? For a hero like him, it’s impossible for him to use a useless sword like this!”
  
@@ -966,21 +966,21 @@ The only one who could understand her words was Regis while Enzo nodded his head
  
 “As a weapon of course!”
  
-Although she was the fourth Princess and a Major General in the Empire, the commoner blacksmith did not use honorifics and laughed loudly while saying “Oh, you”.
+Although she was the fourth Princess and a Major General in the Empire, the commoner blacksmith did not use honorifics and laughed loudly while saying “Oh, you”.<br/>
  
-The disciples’ faces were as white as a new shirt.
+The disciples’ faces were as white as a new shirt.<br/>
  
-Vanessa seemed to have given up hope. Or rather, her calm face was like a widow standing in front of his spouse’s grave.
+Vanessa seemed to have given up hope. Or rather, her calm face was like a widow standing in front of his spouse’s grave.<br/>
  
-Abidal Evra and his subordinates were holding their heads. As they had traveled to the capital together, they knew about the princess’ personality like how she interacted with the commoners without any distinctions.
+Abidal Evra and his subordinates were holding their heads. As they had traveled to the capital together, they knew about the princess’ personality like how she interacted with the commoners without any distinctions.<br/>
  
-Regis sighed again.
+Regis sighed again.<br/>
  
-The conversation seemed to have ended.
+The conversation seemed to have ended.<br/>
  
-However, it was a little too much to let his sister and Enzo’s disciples to continue worrying. That goes the same for Abidal Evra and the rest who were still standing in the rain.
+However, it was a little too much to let his sister and Enzo’s disciples to continue worrying. That goes the same for Abidal Evra and the rest who were still standing in the rain.<br/>
  
-As such, Regis interjected Altina who was excited about the sword.
+As such, Regis interjected Altina who was excited about the sword.<br/>
  
 “Your Highness… Everyone else is still in shock. Also, I have information about the sword which might be useful. Can we move to somewhere quieter and continue the conversation there?”
  
@@ -992,49 +992,49 @@ As such, Regis interjected Altina who was excited about the sword.
  
 “Eh?! Ah, of course!”
  
-Enzo seemed to realise something suddenly and had a terrible expression.
+Enzo seemed to realise something suddenly and had a terrible expression.<br/>
  
 “Ah… Pardon me for my impoliteness! I… Ah, no, once I start talking about weapons, I become absorbed in it… … To speak so brashly towards a royalty… …”
-TL Note: The first ‘I’ used is more informal compared to the latter ones.
+TL Note: The first ‘I’ used is more informal compared to the latter ones.<br/>
  
-It was a little late to realise that.
+It was a little late to realise that.<br/>
  
 However, Altina happily said,
  
 “Ahaha, don’t worry about it. Etiquette is too troublesome and it’s enough with just the Ceremony Department using it. It’s the blacksmith’s skill that we are looking for here!”
  
-Though Enzo was completely curling up in fear.
+Though Enzo was completely curling up in fear.<br/>
  
 --------------------------------------------------
-The house beside the workshop was large enough to let the whole group enter.
+The house beside the workshop was large enough to let the whole group enter.<br/>
  
-However, only three guards were inside the room while the rest were outside guarding as Abidal Evra ordered. Though the ‘outside’ was them standing under the roof.
+However, only three guards were inside the room while the rest were outside guarding as Abidal Evra ordered. Though the ‘outside’ was them standing under the roof.<br/>
  
-What was admirable was that the team captain, Abidal Evra, decided to go outside.
+What was admirable was that the team captain, Abidal Evra, decided to go outside.<br/>
  
-The fatigue of marching for days coupled with the rain during May’s nights, one would rather stay warm inside a house. As such, he decided to let his subordinates guard the house.
+The fatigue of marching for days coupled with the rain during May’s nights, one would rather stay warm inside a house. As such, he decided to let his subordinates guard the house.<br/>
  
 Another reason for it could be him following Altina’s words like ‘no one would want to follow you if you do not take the lead for the troublesome task.’
  
-It would be great if there were more officers like him.
+It would be great if there were more officers like him.<br/>
  
-Inside the house built by bricks, Regis and the rest relaxed themselves.
+Inside the house built by bricks, Regis and the rest relaxed themselves.<br/>
  
-The big table was enough for ten people. Most likely, they had their dinner together with the disciples.
+The big table was enough for ten people. Most likely, they had their dinner together with the disciples.<br/>
  
-On the shelves were actually iron-made toys for children.
-That reminds me, I haven’t seen my nephews yet. Regis remembered.
+On the shelves were actually iron-made toys for children.<br/>
+That reminds me, I haven’t seen my nephews yet. Regis remembered.<br/>
  
-Regis’ sister, Vanessa, had two children.
+Regis’ sister, Vanessa, had two children.<br/>
  
-I hope they are healthy… ...
+I hope they are healthy… ...<br/>
  
-As his brother-in-law’s workshop seemed to be thriving, they had hired three maids and had a luxurious meal.
+As his brother-in-law’s workshop seemed to be thriving, they had hired three maids and had a luxurious meal.<br/>
  
-Steamed potatoes, grilled pork sausages, salty soup and diced vegetables.
+Steamed potatoes, grilled pork sausages, salty soup and diced vegetables.<br/>
  
 Vanessa who was uneasy said, “We didn’t really specially prepare anything.”
-However, Altina was rather happy as this was her first time eating at a table of commoners.
+However, Altina was rather happy as this was her first time eating at a table of commoners.<br/>
  
 “I’m grateful that you even prepared my share despite my sudden intrusion.”
  
@@ -1042,25 +1042,25 @@ However, Altina was rather happy as this was her first time eating at a table of
  
 “That’s exaggerating too much.”
  
-If Altina’s smile right now was written on her biography, it would definitely be an insight on her personality. Would it be recorded as her belittling the Royal authority, or mingling with the commoners without any social barriers? This would be dependent on the author...” Regis thought.
+If Altina’s smile right now was written on her biography, it would definitely be an insight on her personality. Would it be recorded as her belittling the Royal authority, or mingling with the commoners without any social barriers? This would be dependent on the author...” Regis thought.<br/>
  
-Vanessa returned to the kitchen to serve more dishes. She was probably preparing the shares for the disciples.
+Vanessa returned to the kitchen to serve more dishes. She was probably preparing the shares for the disciples.<br/>
  
-Only Altina, Regis and Enzo were left at the table while the guards were at the room next door.
+Only Altina, Regis and Enzo were left at the table while the guards were at the room next door.<br/>
  
-They began their meal after saying grace.
+They began their meal after saying grace.<br/>
  
 Altina drank some soup and said,
  
 “I hope that Mr Smith can speak to us in a relax manner. There’s no need for formal speech. That’s was why I sent the guards to the other room.”
  
-Enzo still had a perplexed look… … Perhaps he was too engrossed when he spoke bluntly earlier. It would be better to forgive him first.
+Enzo still had a perplexed look… … Perhaps he was too engrossed when he spoke bluntly earlier. It would be better to forgive him first.<br/>
  
-Even Regis had relaxed himself to ease the mood.
+Even Regis had relaxed himself to ease the mood.<br/>
  
 “Then, returning to the topic earlier…”
  
-Once Regis spoke of it, Altina immediately swallowed the potato in her mouth and said.
+Once Regis spoke of it, Altina immediately swallowed the potato in her mouth and said.<br/>
  
 “What do you know about the sword?”
  
@@ -1075,9 +1075,9 @@ Once Regis spoke of it, Altina immediately swallowed the potato in her mouth and
  
 “But a weapon is a weapon?”
  
-Acknowledging Altina’s words, Enzo nodded in agreement.
+Acknowledging Altina’s words, Enzo nodded in agreement.<br/>
  
-On the other hand, Regis shook his head.
+On the other hand, Regis shook his head.<br/>
  
 “A weapon is a tool in order to obtain victory in war and war happens because we want to protect our home. If one exists in an era where art is appreciated, helpful in promoting one’s status, they will have the notion that a beautiful weapon is the best.”
  
@@ -1089,7 +1089,7 @@ On the other hand, Regis shook his head.
  
 “There’s no problem with the blade as it was made in Tristei, however material used for the hilt was leather and wood. Rather than saying repair, it was totally changed. As to why it was changed according to the era taste… Well, it was said that the emperor of that era could not lift the sword up and felt that it’s better to make it lighter...:”
  
-Altina showed an unhappy look upon hearing that.
+Altina showed an unhappy look upon hearing that.<br/>
  
 “Go and train some more!”
  
@@ -1097,21 +1097,21 @@ Altina showed an unhappy look upon hearing that.
  
 “When I rise to the heaven, I will do so.”
  
-Thinking of the scene of Altina who was in an era of war pestering the emperor of a peaceful era, Regis felt a little sympathetic towards the peaceful king.
+Thinking of the scene of Altina who was in an era of war pestering the emperor of a peaceful era, Regis felt a little sympathetic towards the peaceful king.<br/>
  
 “As books weren’t that common in that era, no detailed information was written down… … However, as painting was common, there should be a few pictures of Grand Tonnerre Quatre before the modification.”
  
-Though it was likely the artist also added some of his ideas.
+Though it was likely the artist also added some of his ideas.<br/>
  
-Arts from a peaceful era tend to exaggerate more. The so-called peace was just stagnation and uninteresting. In an era of war, practical thoughts were more important.
+Arts from a peaceful era tend to exaggerate more. The so-called peace was just stagnation and uninteresting. In an era of war, practical thoughts were more important.<br/>
  
-Which was why Regis liked things that were filled with dreams rather than practical thoughts. In short, he was chasing after the products of a peaceful era.
+Which was why Regis liked things that were filled with dreams rather than practical thoughts. In short, he was chasing after the products of a peaceful era.<br/>
  
 “Although I never see it before, but the painting should be in the Empire’s Arts Museum. You can use it as a reference.”
  
 “Then let’s go immediately!”
  
-Regis restrained Altina who stood up instantly.
+Regis restrained Altina who stood up instantly.<br/>
  
 “Calm down… You still have the role of commanding the Beilschmidt Border Regiment, isn’t it?”
  
@@ -1119,9 +1119,9 @@ Regis restrained Altina who stood up instantly.
  
 “Commoners are not allowed into the Arts Museum, so you can use your name to permit a commoner entering. The one who should be going is my brother-in-law… Well, that’s provided he accepted the job.”
  
-Regis shifted his sight to Enzo.
+Regis shifted his sight to Enzo.<br/>
  
-He was paying attention to this interesting topic.
+He was paying attention to this interesting topic.<br/>
  
 “To resurrect the sword that was made strange by the emperor three hundred years ago?! I am intrigued!”
  
@@ -1131,11 +1131,11 @@ He was paying attention to this interesting topic.
  
 “You have my thanks! I will be counting on you then!”
  
-Regis thought that the two get along quite well.
+Regis thought that the two get along quite well.<br/>
  
-No matter what, it was a good thing that they could get along. Although it was a good thing, not everything was solved.
+No matter what, it was a good thing that they could get along. Although it was a good thing, not everything was solved.<br/>
  
-After the meal, Regis stood up from his seat.
+After the meal, Regis stood up from his seat.<br/>
  
 “Brother-in-law, I have something to discuss with you, are you free?”
  
@@ -1143,9 +1143,9 @@ After the meal, Regis stood up from his seat.
  
 “This way… …”
  
-Regis brought him to another room.
+Regis brought him to another room.<br/>
  
-Enzo had a suspicious look.
+Enzo had a suspicious look.<br/>
  
 “Hey, Regis-chan… … Up to just now, the kid who was still speaking to the princess so normally, can you not use formal speech with me, I would be troubled by that.”
  
@@ -1155,23 +1155,23 @@ Enzo had a suspicious look.
  
 “That’s right. Though in a normal noble’s army, there’s a need to be aware of the hierarchy… …”
  
-No one would be able to imagine an army that was without discipline like this.
+No one would be able to imagine an army that was without discipline like this.<br/>
  
 “She seems to like you huh?”
  
 “How do I say it… More like, I’m not disliked by her… … It’s just because various things happened when I first met the princess.”
  
-Regis talked about how Altina disguised herself as a carriage driver and Regis interact with her, thinking that she a junior.
+Regis talked about how Altina disguised herself as a carriage driver and Regis interact with her, thinking that she a junior.<br/>
  
-Eventually, these habits became quite natural.
+Eventually, these habits became quite natural.<br/>
  
-Probably Altina was also finding someone suitable to talk with her.
+Probably Altina was also finding someone suitable to talk with her.<br/>
  
-Regis believed that Altina felt that using formal speech would prevent one from looking clearly at others. Being in the palace that was filled with enemies, it was rather pitiful.
+Regis believed that Altina felt that using formal speech would prevent one from looking clearly at others. Being in the palace that was filled with enemies, it was rather pitiful.<br/>
  
-For a commoner to find the royalty pitiful is a joke… … Regis had a wry smile in his heart.
+For a commoner to find the royalty pitiful is a joke… … Regis had a wry smile in his heart.<br/>
  
-When there were only the two of them in the room, Regis started talking.
+When there were only the two of them in the room, Regis started talking.<br/>
  
 “The thing I want to discuss about is about the fee.”
  
@@ -1193,27 +1193,27 @@ When there were only the two of them in the room, Regis started talking.
  
 “It’s a great help if it’s not in credit!”
  
-To professionals like them, payment using credit was normal.
+To professionals like them, payment using credit was normal.<br/>
  
-They were not paid immediately once they accepted a job. Instead, they would only receive payment during the end of a month or year end.
+They were not paid immediately once they accepted a job. Instead, they would only receive payment during the end of a month or year end.<br/>
  
-One of the reasons was because that the nobles lived off the taxes. If taxes were not paid yet, they did not have much cash in hand. That goes the same for the professionals and servants under them.
+One of the reasons was because that the nobles lived off the taxes. If taxes were not paid yet, they did not have much cash in hand. That goes the same for the professionals and servants under them.<br/>
  
-They would still buy even if they had no cash, resulting in the actual payment being later. Such practices were common no matter in which era.
+They would still buy even if they had no cash, resulting in the actual payment being later. Such practices were common no matter in which era.<br/>
  
-Even so, the professionals only looked at it as a debt without interests. As the commoners’ standing was weak, there would be people who were troubled by this type of payment by nobles.
+Even so, the professionals only looked at it as a debt without interests. As the commoners’ standing was weak, there would be people who were troubled by this type of payment by nobles.<br/>
  
-As expected, for Enzo who was not fluent with words, this was even a bigger problem to him.
+As expected, for Enzo who was not fluent with words, this was even a bigger problem to him.<br/>
  
 “Brother-in-law, if there are any outstanding payments, we will be able to pay for those.”
  
-Enzo’s face changed.
+Enzo’s face changed.<br/>
  
-Most likely, a lot of debts had accumulated.
+Most likely, a lot of debts had accumulated.<br/>
  
-One could easily guess without asking. For a friendly personality like his, it was not suitable for business.
+One could easily guess without asking. For a friendly personality like his, it was not suitable for business.<br/>
  
-Enzo lowered his head and was troubled.
+Enzo lowered his head and was troubled.<br/>
  
 “Actually, I couldn’t even get back a part of the debts by the nobles… …”
  
@@ -1223,16 +1223,16 @@ Enzo lowered his head and was troubled.
  
 “Please hold back a little…”
  
-Even so, the nobles who did not pay their debts would be surprised. After all, a royalty would urge them to pay their debts to a mere commoner blacksmith.
+Even so, the nobles who did not pay their debts would be surprised. After all, a royalty would urge them to pay their debts to a mere commoner blacksmith.<br/>
  
 --------------------------------------------------
-Altina was slowly eating the potato alone.
+Altina was slowly eating the potato alone.<br/>
  
-In fact, it had been a long time since Altina had to eat alone since Clarisse was not around.
+In fact, it had been a long time since Altina had to eat alone since Clarisse was not around.<br/>
  
-Altina remembered the time when she was still in the palace.
+Altina remembered the time when she was still in the palace.<br/>
  
-Vanessa brought alcohol and cups over.
+Vanessa brought alcohol and cups over.<br/>
  
 “Ara?”
  
@@ -1244,17 +1244,17 @@ Vanessa brought alcohol and cups over.
  
 “It’s my honour.”
  
-Although she was a commoner, the workshop was thriving which was why she could prepare wine glasses. Red liquor was slowly poured into it.
+Although she was a commoner, the workshop was thriving which was why she could prepare wine glasses. Red liquor was slowly poured into it.<br/>
  
 “It’s just something cheap… …”
  
 “Expensive stuff are not guaranteed to be good.”
  
-As the palace  was filled with hostility and malicious rumours, Altina was chased out. No matter how good the wine in the palace was, it tasted like mud to her. Having a conversation with someone without any malice like this was a refreshing experience to her.
+As the palace  was filled with hostility and malicious rumours, Altina was chased out. No matter how good the wine in the palace was, it tasted like mud to her. Having a conversation with someone without any malice like this was a refreshing experience to her.<br/>
  
 “Do you want to hear about Regis-chan?”
  
-“That’s right. He doesn’t really speak about his past, neither about his parents.
+“That’s right. He doesn’t really speak about his past, neither about his parents.<br/>
  
 “Ah… … Our parents died due to a pandemic while Regis was eight.”
  
@@ -1278,19 +1278,19 @@ As the palace  was filled with hostility and malicious rumours, Altina was chas
  
 “He really is a nerd.”
  
-Vanessa sighed.
+Vanessa sighed.<br/>
  
-Though it was thanks to that Altina could recruit Regis as a strategist, which was not a bad thing.
+Though it was thanks to that Altina could recruit Regis as a strategist, which was not a bad thing.<br/>
  
 “It seems like you spent much effort, sister.”
  
 “Fufu… … that’s true… … I was really worried about Regis-chan. Even when he entered the military academy, he kept saying he won’t be able to last and would be expelled.”
  
-Altina nodded.
+Altina nodded.<br/>
  
-Regis’ swordsmanship was even worse than a child, even his horse riding skill was hopeless. In fact, it was surprising that he could graduate from the strict Military Academy of Belgaria.
+Regis’ swordsmanship was even worse than a child, even his horse riding skill was hopeless. In fact, it was surprising that he could graduate from the strict Military Academy of Belgaria.<br/>
  
-Most likely, there was an area which he excelled at.
+Most likely, there was an area which he excelled at.<br/>
  
 “Is it because Regis had never lost in terms of strategies?”
  
@@ -1308,9 +1308,9 @@ Most likely, there was an area which he excelled at.
  
 “Me too!”
  
-The two of them nodded their head excitedly.
+The two of them nodded their head excitedly.<br/>
  
-Vanessa continued her words.
+Vanessa continued her words.<br/>
  
 “The mock battle is similar to moving pieces in chess. They would undergo a discussion and the referee would decide which one of them is the better one.”
  
@@ -1318,7 +1318,7 @@ Vanessa continued her words.
  
 “That is so. At that time, a military man who came all the way from the eastern frontline was the referee… … If I remember correctly, the Vicente House Head at that time was in that man unit.”
  
-Altina narrowed her brows..
+Altina narrowed her brows..<br/>
  
 “In other words, the referee was the candidate's father colleague?”
  
@@ -1346,9 +1346,9 @@ Altina narrowed her brows..
  
 “Ahaha… …”
  
-Altina gave a wry smile, thinking that the sister was a little too exaggerated.
+Altina gave a wry smile, thinking that the sister was a little too exaggerated.<br/>
  
-As if she remembered something, Vanessa looked up.
+As if she remembered something, Vanessa looked up.<br/>
  
 “That’s right… … The reason why Regis-chan have no confidence… … might be related to me.”
  
@@ -1390,9 +1390,9 @@ As if she remembered something, Vanessa looked up.
  
 “It’s fine to repair the roof when it starts to leak. So I started to have that habit… This was something I learned from books.”
  
-Altina was stupefied hearing those words.
+Altina was stupefied hearing those words.<br/>
  
-Vanessa sighed once more.
+Vanessa sighed once more.<br/>
  
 “Of course, the thing about our roofs being fixed recently was a lie. That was to chase the scammer away.”
  
@@ -1410,9 +1410,9 @@ Vanessa sighed once more.
  
 “Eh…?”
  
-Altina widen her eyes.
+Altina widen her eyes.<br/>
  
-While Vanessa lowered her head.
+While Vanessa lowered her head.<br/>
  
 “If I didn’t say that, I … … won’t be able to work hard. The twelve year old me would lost my motivation to work hard if Regis was that clever. I can’t have him becoming a reliable clever child…”
  
@@ -1422,7 +1422,7 @@ While Vanessa lowered her head.
  
 “That’s right.”
  
-While her words were questionable, those were the words of a twelve-year-old who was in a tough situation. She could not be blamed for that.
+While her words were questionable, those were the words of a twelve-year-old who was in a tough situation. She could not be blamed for that.<br/>
 That became a thorn in Regis heart, causing him to lose his confidence as he grew up. No one was at fault—
  
 “Hm? But isn’t he himself the root cause for not training his body?”
@@ -1439,20 +1439,20 @@ That became a thorn in Regis heart, causing him to lose his confidence as he gre
  
 “Ah, hm… …”
  
-She threw a flashbomb at the very end.
-Regis came back from the room next door.
+She threw a flashbomb at the very end.<br/>
+Regis came back from the room next door.<br/>
  
 “The main topic has been settled. Brother-in-law had went to take a look of the sword. After that, we would receive the price. Most likely, it would be within our budget.”
  
-Altina thought for a second.
+Altina thought for a second.<br/>
  
-If Regis was not around, what would happen? At the very least, the reparation deal would not be concluded this fast.
+If Regis was not around, what would happen? At the very least, the reparation deal would not be concluded this fast.<br/>
  
-Perhaps she could not even stop the Varden’s army at Fort Volk.
+Perhaps she could not even stop the Varden’s army at Fort Volk.<br/>
  
-Going back further, she might not even able to conquer the fortress… … The more she remembers, the more she felt that she couldn’t do without his guidance.
+Going back further, she might not even able to conquer the fortress… … The more she remembers, the more she felt that she couldn’t do without his guidance.<br/>
  
-Vanessa probably had the same idea as the two looked at Regis.
+Vanessa probably had the same idea as the two looked at Regis.<br/>
  
 “... …”
  
@@ -1460,17 +1460,17 @@ Vanessa probably had the same idea as the two looked at Regis.
  
 “W,what?”
  
-Regis flinched a little.
+Regis flinched a little.<br/>
  
-Altina looked at him and muttered.
+Altina looked at him and muttered.<br/>
  
-“Hehe, well, things like Regis being Regis.
+“Hehe, well, things like Regis being Regis.<br/>
  
 “Ha…?”
  
-Thinking that he was being laughed at, his face reddened.
+Thinking that he was being laughed at, his face reddened.<br/>
  
-Vanessa quickly stood up.
+Vanessa quickly stood up.<br/>
  
 “Regis-chan? Go take a look at your nephews. You haven’t seen them yet, right?”
  
@@ -1480,11 +1480,11 @@ Vanessa quickly stood up.
  
 “T,that… … I want to have a look too!”
  
-Altina stood up and leaned forward.
+Altina stood up and leaned forward.<br/>
  
-Vanessa was surprised at first, but showed a smile immediately.
+Vanessa was surprised at first, but showed a smile immediately.<br/>
  
-Like the gentle sunlight, the expression she had was neither a passionate businessman nor the courageous sister, but of a mother.
+Like the gentle sunlight, the expression she had was neither a passionate businessman nor the courageous sister, but of a mother.<br/>
  
 “Hehe, go ahead, it’s our honour.”
 Previous Chapter | Main Page | Next Chapter

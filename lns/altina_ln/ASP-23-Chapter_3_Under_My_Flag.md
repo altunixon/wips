@@ -1,11 +1,11 @@
-Altina the Sword Princess Volume 2 Chapter 3
-Regis was reading his book in the conference room.
+### Altina the Sword Princess Volume 2 Chapter 3
+Regis was reading his book in the conference room.<br/>
  
 "Good morning! You are up early."<br/>
  
-Altina appeared while using her towel to wipe her neck.
+Altina appeared while using her towel to wipe her neck.<br/>
  
-"Ah, morning," Regis greeted in return.
+"Ah, morning," Regis greeted in return.<br/>
  
 "Should I say it’s early, or is it late..."<br/>
  
@@ -15,7 +15,7 @@ Altina appeared while using her towel to wipe her neck.
  
 "Is this it?"<br/>
  
-Altina looked down at the book in his hands.
+Altina looked down at the book in his hands.<br/>
  
 Regis scratched his head and said:
  
@@ -25,17 +25,17 @@ Regis scratched his head and said:
  
 "It is about origins of flags and crests. For example..."<br/>
  
-He flipped to the page with the empire's flag.
+He flipped to the page with the empire's flag.<br/>
  
-7 swords were displayed on top of a red backing.
+7 swords were displayed on top of a red backing.<br/>
  
-She leaned on the table and moved closer, looking at the book.
+She leaned on the table and moved closer, looking at the book.<br/>
  
 "Ah, this one."<br/>
  
-There was a similar flag in the conference room too.
+There was a similar flag in the conference room too.<br/>
  
-Regis turned the page, it showed the same swords with a white base.
+Regis turned the page, it showed the same swords with a white base.<br/>
  
 "It was like this in the past."<br/>
  
@@ -45,9 +45,9 @@ Regis turned the page, it showed the same swords with a white base.
  
 "Hmmm~"<br/>
  
-Altina reached over and flipped through the pages rapidly.
+Altina reached over and flipped through the pages rapidly.<br/>
  
-Regis looked between the book and her expression.
+Regis looked between the book and her expression.<br/>
  
 "... This is quite interesting right?"<br/>
  
@@ -57,11 +57,11 @@ Regis looked between the book and her expression.
  
 "Ah, that's right."<br/>
  
-The banner hanging beside the empire's flag had a red base with a black lance and a lion.
+The banner hanging beside the empire's flag had a red base with a black lance and a lion.<br/>
  
-That was the Beilschmidt Margrave's flag.
+That was the Beilschmidt Margrave's flag.<br/>
  
-It was a command to fly the commander's family crest for the regiment. It was the same for Marquis Thénezay where Regis used to serve.
+It was a command to fly the commander's family crest for the regiment. It was the same for Marquis Thénezay where Regis used to serve.<br/>
  
 "It seems that they are all red."<br/>
  
@@ -85,9 +85,9 @@ It was a command to fly the commander's family crest for the regiment. It was th
  
 "Uncouth..."<br/>
  
-Altina stroked her hair and frowned. Her hair was bright red.
+Altina stroked her hair and frowned. Her hair was bright red.<br/>
  
-Regis waved his hand.
+Regis waved his hand.<br/>
  
 "I don't think it is uncouth... Erm... I think it is beautiful."<br/>
  
@@ -104,27 +104,27 @@ Regis waved his hand.
 "No way..."<br/>
  
  
-A carriage left the southern gate through the falling snow.
+A carriage left the southern gate through the falling snow.<br/>
  
-After Sierck Fort was out of sight, it deviated from the road.
+After Sierck Fort was out of sight, it deviated from the road.<br/>
  
-As it was making a wide turn, the wind picked up.
+As it was making a wide turn, the wind picked up.<br/>
  
-The driver took off the hat on her head, unveiling her crimson hair, which flowed with the wind.
+The driver took off the hat on her head, unveiling her crimson hair, which flowed with the wind.<br/>
  
 "Phew..."<br/>
  
 "Are you okay Altina?"<br/>
  
-The girl driver nodded in response to Regis' query.
+The girl driver nodded in response to Regis' query.<br/>
  
 "Of course! You know right? I am an expert carriage driver."<br/>
  
 "Well, I do know that... But you are only using one hand now."<br/>
  
-She was told that a full recovery will take 3 months, so her left arm was still secured in a sling.
+She was told that a full recovery will take 3 months, so her left arm was still secured in a sling.<br/>
  
-But her recovery was progressing well.
+But her recovery was progressing well.<br/>
  
 "Using one hand or foot doesn't matter if I said it is fine."<br/>
  
@@ -132,17 +132,17 @@ But her recovery was progressing well.
  
 "I won't fail again!"<br/>
  
-Altina deftly held the reins with just her right hand, controlling the speed of the horses.
+Altina deftly held the reins with just her right hand, controlling the speed of the horses.<br/>
  
-They had gotten into trouble before because a horse had its leg injured, so they were using two horses this time. It was an extravagant carriage that even had headlights which used oil lamps.
+They had gotten into trouble before because a horse had its leg injured, so they were using two horses this time. It was an extravagant carriage that even had headlights which used oil lamps.<br/>
  
-The insides were loaded with food and clothes; these were necessary items for negotiation.
+The insides were loaded with food and clothes; these were necessary items for negotiation.<br/>
  
-Because they were off the road, the surface was uneven.
+Because they were off the road, the surface was uneven.<br/>
  
 "Woah!?"<br/>
  
-Regis almost fell off the driver's seat, grabbing on to his armrest for dear life.
+Regis almost fell off the driver's seat, grabbing on to his armrest for dear life.<br/>
  
 "Wait, don't fall off."<br/>
  
@@ -154,31 +154,31 @@ Regis almost fell off the driver's seat, grabbing on to his armrest for dear lif
  
 "You will spook the horses, stop screaming!"<br/>
  
-The ride was so bumpy that it hurt Regis' butt, but they finally saw their destination.
+The ride was so bumpy that it hurt Regis' butt, but they finally saw their destination.<br/>
  
-A hill of withered grass covered by a thin layer of snow, there was a large tree there.
+A hill of withered grass covered by a thin layer of snow, there was a large tree there.<br/>
  
-Altina drove the carriage towards a man, while 4 others stood some distance away. All of them wore clothes made from leather and feathers.
+Altina drove the carriage towards a man, while 4 others stood some distance away. All of them wore clothes made from leather and feathers.<br/>
  
-The empire called them barbarians, while Regis and the others addressed them as citizens of Bargainheim.
+The empire called them barbarians, while Regis and the others addressed them as citizens of Bargainheim.<br/>
  
-The one standing before them was Diethart.
+The one standing before them was Diethart.<br/>
  
-Altina stopped the carriage and leapt off the driver's seat.
+Altina stopped the carriage and leapt off the driver's seat.<br/>
  
 "Sorry for the wait! Long time no see!"<br/>
  
 "Ugh."<br/>
  
-Regis struggled to dismount.
+Regis struggled to dismount.<br/>
  
 "Hello... Sorry for making you wait."<br/>
  
 "Ah, it's been a while, Mr. Strategist."<br/>
  
-Deithart's face turned slightly red.
+Deithart's face turned slightly red.<br/>
  
-Altina slotted herself between them.
+Altina slotted herself between them.<br/>
  
 "I brought the food and clothes with me, please take it if it is to your liking."<br/>
  
@@ -192,9 +192,9 @@ Altina slotted herself between them.
  
 "I see... You are as stubborn as usual. I will gratefully accept this."<br/>
  
-After bowing, The men started unloading the carriage on Diethart's instructions.
+After bowing, The men started unloading the carriage on Diethart's instructions.<br/>
  
-As that was going on, Altina spoke.
+As that was going on, Altina spoke.<br/>
  
 "Alright, it's cold here so let's get straight to the point."<br/>
  
@@ -202,7 +202,7 @@ As that was going on, Altina spoke.
  
 "We are planning to attack Fort Volks!"<br/>
  
-Diethalt had a serious expression.
+Diethalt had a serious expression.<br/>
  
 "... I am questioning your mental stability."<br/>
  
@@ -212,35 +212,35 @@ Diethalt had a serious expression.
  
 "That's why we have to fight... Regis will come up with a plan somehow."<br/>
  
-Diethart looked over with eyes of disbelief.
+Diethart looked over with eyes of disbelief.<br/>
  
-Regis scratched his head.
+Regis scratched his head.<br/>
  
 "I don't have the confidence... But I will have to push forth forcefully."<br/>
  
 "I see... There are such times too... You are telling me this because you want us to take part in the assault?"<br/>
  
-Altina nodded.
+Altina nodded.<br/>
  
 "That's correct. But don't get me wrong, I don't mean charging at a fort that is full of cannons. It's the same for you and my people."<br/>
  
-Diethart tilted his head.
+Diethart tilted his head.<br/>
  
-The norm for attacking a fortified position is to attack with overwhelming force. Stepping over countless bodies to reach the walls, scaling it, fighting off the defending troops and suppressing the cannons and gates from the inside to achieve victory.
+The norm for attacking a fortified position is to attack with overwhelming force. Stepping over countless bodies to reach the walls, scaling it, fighting off the defending troops and suppressing the cannons and gates from the inside to achieve victory.<br/>
  
-Diethart was basically following the same methodology when attacking Sierck Fort. They closed in under the cover of the blizzard to avoid the cannon fire and attacked.
+Diethart was basically following the same methodology when attacking Sierck Fort. They closed in under the cover of the blizzard to avoid the cannon fire and attacked.<br/>
  
 "What's your plan, Mr. Strategist?"<br/>
  
 "I have some ideas."<br/>
  
-Regis looked at the men unloading the cargo.
+Regis looked at the men unloading the cargo.<br/>
  
-He pondered for a moment.
+He pondered for a moment.<br/>
  
 "... This plan is very unorthodox... It will be better if less people knew about it. I can share it with Mr. Diethart alone though, would that be fine?"<br/>
  
-It was Diethart's turn to ponder.
+It was Diethart's turn to ponder.<br/>
  
 "For the roles my people will be playing, will there be a need to know the entire plan?"<br/>
  
@@ -254,11 +254,11 @@ It was Diethart's turn to ponder.
  
 "Hmmm?"<br/>
  
-Diethart didn't continue.
+Diethart didn't continue.<br/>
  
-He pressed Regis to go on with just the necessary details.
+He pressed Regis to go on with just the necessary details.<br/>
  
-To be safe, Regis sought advice from Altina.
+To be safe, Regis sought advice from Altina.<br/>
  
 "Princess?"<br/>
  
@@ -266,144 +266,144 @@ To be safe, Regis sought advice from Altina.
  
 "I understand--"<br/>
  
-Regis summarized his information and briefed them to Diethart. The men who finished unloading looked at them from afar.
+Regis summarized his information and briefed them to Diethart. The men who finished unloading looked at them from afar.<br/>
  
-Regis told the plan in detail.
+Regis told the plan in detail.<br/>
  
-After listening carefully, Diethart nodded.
+After listening carefully, Diethart nodded.<br/>
  
 "... Understood... I will get it done."<br/>
  
 "That's a big help!"<br/>
  
-Diethart responded to Altina's extended right hand this time.
+Diethart responded to Altina's extended right hand this time.<br/>
  
-Regis shook his hand too.
+Regis shook his hand too.<br/>
  
 "I am very grateful."<br/>
  
-"In order to return the favor to the young princess, I swear to accomplish the task on my nation's honor. And... on my love for Mr. Strategist too.
+"In order to return the favor to the young princess, I swear to accomplish the task on my nation's honor. And... on my love for Mr. Strategist too.<br/>
  
 "You mean love among friends and brothers right!?"<br/>
  
-The strong youth smiled gently.
+The strong youth smiled gently.<br/>
  
-He then looked at Altina seriously and bowed.
+He then looked at Altina seriously and bowed.<br/>
  
-The cape made from a lion fluttered in the wind, Diethart and his men disappeared into the snowy forest.
+The cape made from a lion fluttered in the wind, Diethart and his men disappeared into the snowy forest.<br/>
  
  
-The Germania federation was large.
+The Germania federation was large.<br/>
  
-A coalition of 22 smaller kingdoms and Duchies.
+A coalition of 22 smaller kingdoms and Duchies.<br/>
  
-But the rule of Chairman St. Prussia wasn't perfect, and civil wars broke out frequently among member states.
+But the rule of Chairman St. Prussia wasn't perfect, and civil wars broke out frequently among member states.<br/>
  
-Varden Duchy belonged to this federation.
+Varden Duchy belonged to this federation.<br/>
  
-Since its formation, it's territory was threatened by its neighboring countries, especially the Bulgarian empire. But that changed with the construction of Fort Volks.
+Since its formation, it's territory was threatened by its neighboring countries, especially the Bulgarian empire. But that changed with the construction of Fort Volks.<br/>
  
-The budget needed for war fell drastically.
+The budget needed for war fell drastically.<br/>
  
-Thanks to the iron ore mines and the cut in needless expenses, the Duchy's economic situation was one of the better ones among the Federation.
+Thanks to the iron ore mines and the cut in needless expenses, the Duchy's economic situation was one of the better ones among the Federation.<br/>
  
-Varden Duchy used the spare budget efficiently, hiring veteran mercenaries and top grade weapons to bolster its defense.
+Varden Duchy used the spare budget efficiently, hiring veteran mercenaries and top grade weapons to bolster its defense.<br/>
  
-With the expansion of its national power, they started expanding into the forest occupied by the barbarians.
+With the expansion of its national power, they started expanding into the forest occupied by the barbarians.<br/>
  
-Holger was a wandering mercenary who signed up after hearing the benefits at Fort Volks were great.
+Holger was a wandering mercenary who signed up after hearing the benefits at Fort Volks were great.<br/>
  
-He was going to be 28 this year.
+He was going to be 28 this year.<br/>
  
-He was hired 6 months ago. He might be a veteran as a mercenary, but he was just a rookie in Fort Volks and was treated like one.
+He was hired 6 months ago. He might be a veteran as a mercenary, but he was just a rookie in Fort Volks and was treated like one.<br/>
  
-He exited the Fort's main gate on his horse.
+He exited the Fort's main gate on his horse.<br/>
  
-A distress call from the pioneers announcing the savages’ attackSeveral savages attack distress calls from the pioneers expanding into the forest were received. He headed out into the forest in order to exterminate the barbarians.
+A distress call from the pioneers announcing the savages’ attackSeveral savages attack distress calls from the pioneers expanding into the forest were received. He headed out into the forest in order to exterminate the barbarians.<br/>
  
-There were about 20 horsemen.
+There were about 20 horsemen.<br/>
  
-Only the leading rider was a knight of Varden Duchy, the rest were all mercenaries.
+Only the leading rider was a knight of Varden Duchy, the rest were all mercenaries.<br/>
  
-The breaths of the horses and men turned into white smog which trailed behind them, the snow was falling harder.
+The breaths of the horses and men turned into white smog which trailed behind them, the snow was falling harder.<br/>
  
-Holger cursed in his heart.
+Holger cursed in his heart.<br/>
  
 (Unacceptable... The savages are picking trouble on such a cold day... Why don't they just hibernate in the winter, how irritating.)
  
-Holger had no love towards Varden Duchy, Fort Volks or the expanding lands.
+Holger had no love towards Varden Duchy, Fort Volks or the expanding lands.<br/>
  
-Mercenaries only fight for themselves.
+Mercenaries only fight for themselves.<br/>
  
-Chasing after savages who ran when chased was a thankless job.
+Chasing after savages who ran when chased was a thankless job.<br/>
  
-They gradually approached the depth of the forest.
+They gradually approached the depth of the forest.<br/>
  
-The 20 riders advanced in a single file.
+The 20 riders advanced in a single file.<br/>
  
-Because of the withered branches and snow, the sun that was already covered by the clouds appeared dimmer.
+Because of the withered branches and snow, the sun that was already covered by the clouds appeared dimmer.<br/>
  
-According to reports, the barbarians escaped here. The horseman in front should be tracking the footprints of the savages.
+According to reports, the barbarians escaped here. The horseman in front should be tracking the footprints of the savages.<br/>
  
-The old war horse Holger was riding on suddenly left the ranks.
+The old war horse Holger was riding on suddenly left the ranks.<br/>
  
 "Hey!"<br/>
  
-He pulled in the reigns, returning the horse into position.
+He pulled in the reigns, returning the horse into position.<br/>
  
-Don't give me more trouble! Holger felt uneasy as he swore.
+Don't give me more trouble! Holger felt uneasy as he swore.<br/>
  
 (Did we pursue too deep?)
  
-Holger looked at the knight leading the unit from the front.
+Holger looked at the knight leading the unit from the front.<br/>
  
-It was hard to express his opinion with his position, but could he suggest a short break using his horse as an excuse? As he was considering this, an arrow flew out.
+It was hard to express his opinion with his position, but could he suggest a short break using his horse as an excuse? As he was considering this, an arrow flew out.<br/>
  
-It hit the light shoulder armor of the knight, bouncing off with a metallic thud.
+It hit the light shoulder armor of the knight, bouncing off with a metallic thud.<br/>
  
 Ambush!?
  
-As if the arrow was a cue, shuffling sounds erupted from the depth of the forest.
+As if the arrow was a cue, shuffling sounds erupted from the depth of the forest.<br/>
  
-There were way more than 20 people.
+There were way more than 20 people.<br/>
  
-The leading knight stopped his horse in a panic and screamed.
+The leading knight stopped his horse in a panic and screamed.<br/>
  
 "Savages!?"<br/>
  
 "Moron!! Don't stop!!"<br/>
  
-Holger couldn't help but yell at his superior.
+Holger couldn't help but yell at his superior.<br/>
  
 They were in a single file, so they couldn't retreat even if they stopped. They could only make a U-turn through the trees!
  
-Thinking the same thing, the other mercenaries changed their directions and spread out.
+Thinking the same thing, the other mercenaries changed their directions and spread out.<br/>
  
-They didn’t have the obligation to help the stupid knight.
+They didn’t have the obligation to help the stupid knight.<br/>
  
-They could only escape.
+They could only escape.<br/>
  
-It was said that white flags were useless against barbarians. They believed the savages were pests, avengers driven by hate and devils abandoned by the gods.
+It was said that white flags were useless against barbarians. They believed the savages were pests, avengers driven by hate and devils abandoned by the gods.<br/>
  
-Rumors said they will eat men alive or tear off limbs.
+Rumors said they will eat men alive or tear off limbs.<br/>
  
-Holger wiped off the annoying sweat on his back.
+Holger wiped off the annoying sweat on his back.<br/>
  
-The sound of footsteps could be heard from their retreat route.
+The sound of footsteps could be heard from their retreat route.<br/>
  
 "We are surrounded!"<br/>
  
-Someone screamed in despair.
+Someone screamed in despair.<br/>
  
-The mercenaries wanted to flee in another direction but were trapped. With no one taking command, they huddled up in a circle.
+The mercenaries wanted to flee in another direction but were trapped. With no one taking command, they huddled up in a circle.<br/>
  
-Even the horses held their breath in this unusual atmosphere.
+Even the horses held their breath in this unusual atmosphere.<br/>
  
-Holger's band was already in the depths of hell.
+Holger's band was already in the depths of hell.<br/>
  
-The figures of the savages appeared.
+The figures of the savages appeared.<br/>
  
-Wearing the fur of beasts and wielding swords or axes, they made strange sounds to intimidate others. Why did the report say only a few of them were sighted? It was a massive group large enough to encircle them like a wall.
+Wearing the fur of beasts and wielding swords or axes, they made strange sounds to intimidate others. Why did the report say only a few of them were sighted? It was a massive group large enough to encircle them like a wall.<br/>
  
 One of the mercenaries groaned:
  
@@ -411,19 +411,19 @@ One of the mercenaries groaned:
  
 "No, don't!"<br/>
  
-One of the youth drew his short sword and put it to his throat. It was a sword he was proud of, sent to him by his parents back in his hometown on his 18th birthday.
+One of the youth drew his short sword and put it to his throat. It was a sword he was proud of, sent to him by his parents back in his hometown on his 18th birthday.<br/>
  
 He wanted to kill himself?
  
-That might be better though... As he thought about that, Holger put his hand on the short sword and restrained the youth.
+That might be better though... As he thought about that, Holger put his hand on the short sword and restrained the youth.<br/>
  
-He didn't have any reason to do that.
+He didn't have any reason to do that.<br/>
  
-There was no chance of survival.
+There was no chance of survival.<br/>
  
-The youth looked with questioning eyes at Holger, waiting for him to explain why he stilled the blade.
+The youth looked with questioning eyes at Holger, waiting for him to explain why he stilled the blade.<br/>
  
-There was no reason after all.
+There was no reason after all.<br/>
  
 What should he say?
  
@@ -433,21 +433,21 @@ They can fight their way out if they stay alive?
  
 Don't die before your seniors do?
  
-All of these were shallow and lacked weight. Hawk didn't prepare the adequate lines in advance.
+All of these were shallow and lacked weight. Hawk didn't prepare the adequate lines in advance.<br/>
  
-Holger drew his sword.
+Holger drew his sword.<br/>
  
 "Follow me!"<br/>
  
-Even though the enemy outnumbered them, they were still 20 riders. If they all took up their lances and charged, there might be a chance for some of them to be saved...
+Even though the enemy outnumbered them, they were still 20 riders. If they all took up their lances and charged, there might be a chance for some of them to be saved...<br/>
  
-A man dressed elegantly walked forward from the surrounding barbarians.
+A man dressed elegantly walked forward from the surrounding barbarians.<br/>
  
-His cloak was made from the skin of a lion.
+His cloak was made from the skin of a lion.<br/>
  
 "How courageous. But there is a thousand of us here. I am warning you not to do anything rash."<br/>
  
-He spoke fluent Germanian.
+He spoke fluent Germanian.<br/>
  
 "The savage actually..."<br/>
  
@@ -455,9 +455,9 @@ He spoke fluent Germanian.
  
 "Holger. Are you really savages? Or soldiers from another nation of Germania?"<br/>
  
-"Neither... We are the warriors of the nation residing in this forest, Bargainheim.
+"Neither... We are the warriors of the nation residing in this forest, Bargainheim.<br/>
  
-I have never heard of such a country! Holger cursed.
+I have never heard of such a country! Holger cursed.<br/>
  
 "What do you plan to do with us? Will you eat us alive as rumored?"<br/>
  
@@ -465,58 +465,58 @@ I have never heard of such a country! Holger cursed.
  
 "What!?"<br/>
  
-They didn't understand the reasons, but for the mercenaries who were prepared for death in such a desperate situation, this was a wonderful proposal that seemed to have dropped from Heaven.
+They didn't understand the reasons, but for the mercenaries who were prepared for death in such a desperate situation, this was a wonderful proposal that seemed to have dropped from Heaven.<br/>
  
-They looked at each other.
+They looked at each other.<br/>
  
-The youth who was going to commit suicide leaped off his horse. He dropped the sword in his hand, went down on one knee and raised his hands to the sky.
+The youth who was going to commit suicide leaped off his horse. He dropped the sword in his hand, went down on one knee and raised his hands to the sky.<br/>
  
 "My god, please spare me!"<br/>
  
-As the other mercenaries followed his lead, Holger stared at Diethart to the very last moment.
+As the other mercenaries followed his lead, Holger stared at Diethart to the very last moment.<br/>
  
-He had no other choice.
+He had no other choice.<br/>
  
-Holger's band was captured by the barbarians.
+Holger's band was captured by the barbarians.<br/>
  
-They were separated and their hands and legs were chained. A piece of cloth covered the tiny cave Holger was locked in.
+They were separated and their hands and legs were chained. A piece of cloth covered the tiny cave Holger was locked in.<br/>
  
-He thought they would freeze him to death...
+He thought they would freeze him to death...<br/>
  
-But they provided him with warm water and red hot rocks to keep him warm.
+But they provided him with warm water and red hot rocks to keep him warm.<br/>
  
-They really planned to keep their word.
+They really planned to keep their word.<br/>
  
-At night, the crying sound of a youth came from one of the caves.
+At night, the crying sound of a youth came from one of the caves.<br/>
  
  
 3 days later--
  
-Holger was brought before Diethart alone.
+Holger was brought before Diethart alone.<br/>
  
-His limbs were bound, and a sword was pointed at him.
+His limbs were bound, and a sword was pointed at him.<br/>
  
-But it was a miracle he was still alive.
+But it was a miracle he was still alive.<br/>
  
-Beside Diethart was a young man in Belgarian uniform.
+Beside Diethart was a young man in Belgarian uniform.<br/>
  
-A girl with crimson eyes was present too. Her mouth was masked so Hawk couldn't tell who she was, but she must be holding a high position if she was keeping her identity a secret.
+A girl with crimson eyes was present too. Her mouth was masked so Hawk couldn't tell who she was, but she must be holding a high position if she was keeping her identity a secret.<br/>
  
-Holger spat in his heart.
+Holger spat in his heart.<br/>
  
 (Damn it... so the Belgarians were behind this.)
  
-He was surrounded by barbarians holding spears.
+He was surrounded by barbarians holding spears.<br/>
  
-A young man whose expression was too gentle for a soldier offered him a wooden chair.
+A young man whose expression was too gentle for a soldier offered him a wooden chair.<br/>
  
 "Please take a seat."<br/>
  
 "Hmmp... I will die if I refuse right? I will sit."<br/>
  
-Holger sat opposite the Belgarian soldier.
+Holger sat opposite the Belgarian soldier.<br/>
  
-A wooden table was placed between them.
+A wooden table was placed between them.<br/>
  
 The young man spoke broken Germanian with a Belgarian accent:
  
@@ -528,9 +528,9 @@ The young man spoke broken Germanian with a Belgarian accent:
  
 "Tch."<br/>
  
-Holger waited for him to speak. When he was taken prisoner, Diethart mentioned he wanted answers for a few questions.
+Holger waited for him to speak. When he was taken prisoner, Diethart mentioned he wanted answers for a few questions.<br/>
  
-The young man nodded.
+The young man nodded.<br/>
  
 "My name is Regis."<br/>
  
@@ -538,11 +538,11 @@ The young man nodded.
  
 "Well then, Mr. Holger, please look at this blueprint."<br/>
  
-Spread out on the wooden table was a map detailing the passageway inside an architecture.
+Spread out on the wooden table was a map detailing the passageway inside an architecture.<br/>
  
 Was this the mines of some mountains?
  
-Holger thought he would be enslaved and work in the mines, but he noticed something was wrong.
+Holger thought he would be enslaved and work in the mines, but he noticed something was wrong.<br/>
  
 "This is... Fort Volks!?"<br/>
  
@@ -552,9 +552,9 @@ Holger thought he would be enslaved and work in the mines, but he noticed someth
  
 "Oh!? You know the value of this document?"<br/>
  
-Regis smiled happily.
+Regis smiled happily.<br/>
  
-Holger stood up from his chair.
+Holger stood up from his chair.<br/>
  
 "The miniature map of the fort, what are you planning to do with it!?"<br/>
  
@@ -562,13 +562,13 @@ Holger stood up from his chair.
  
 "Regis. Regis, you are going off topic."<br/>
  
-The girl standing by behind the young man hit his shoulder.
+The girl standing by behind the young man hit his shoulder.<br/>
  
-Calling the soldier by name, she must be an important person.
+Calling the soldier by name, she must be an important person.<br/>
  
 Could she be a noble?
  
-The young name claiming to be Regis sat on the chair properly.
+The young name claiming to be Regis sat on the chair properly.<br/>
  
 "Pardon me."<br/>
  
@@ -576,7 +576,7 @@ The young name claiming to be Regis sat on the chair properly.
  
 "Obviously, it is for attacking the fort."<br/>
  
-He said something unbelievable casually.
+He said something unbelievable casually.<br/>
  
 "Are you an idiot?!"<br/>
  
@@ -594,25 +594,25 @@ He said something unbelievable casually.
  
 "The plan from the very beginning was to interrogate all of you and compare your answers. But we can't release the people who lied. Only the honest ones will be released... You can't return to the Fort, so we will provide you with the necessary travel expenses as well as your sword and horse."<br/>
  
-Holger groaned.
+Holger groaned.<br/>
  
-What he said was obvious, but he covered all the bases. His band was probably captured under this man's instruction.
+What he said was obvious, but he covered all the bases. His band was probably captured under this man's instruction.<br/>
  
 "Is it true that you will release us?"<br/>
  
 "I can only ask you to trust me... I promise to release you 2 months later."<br/>
  
-Holger stared at him.
+Holger stared at him.<br/>
  
-Regis looked back with a serious expression.
+Regis looked back with a serious expression.<br/>
  
-Diethart and the woman behind him were waiting for Holger's answer.
+Diethart and the woman behind him were waiting for Holger's answer.<br/>
  
-He could feel the tension of the barbarians around him rising.
+He could feel the tension of the barbarians around him rising.<br/>
  
 Will he be slaughtered immediately if he refuses?
  
-He didn't plan to test it.
+He didn't plan to test it.<br/>
  
 "I understand... I will tell you everything... So please let the others go. They are all great guys."<br/>
  
@@ -622,11 +622,11 @@ He didn't plan to test it.
  
 "I swear to God."<br/>
  
-Regis crossed his arms before his chest.
+Regis crossed his arms before his chest.<br/>
  
-There was one common religion spreading between the Belgarian empire and the Germanian Federation, and they worship the same god.
+There was one common religion spreading between the Belgarian empire and the Germanian Federation, and they worship the same god.<br/>
  
-Even though they fight each other during battles, their religious values were the same.
+Even though they fight each other during battles, their religious values were the same.<br/>
  
 Diethart placed his finger on the blueprint and said:
  
@@ -634,49 +634,49 @@ Diethart placed his finger on the blueprint and said:
  
 "... Okay."<br/>
  
-Regis took out his pen and noted it down.
+Regis took out his pen and noted it down.<br/>
  
 (Even if I tell him these, it is impossible for him to make it through the countless cannons... What is this man thinking?)
  
-Regis travelled to the forest of the savages for the entire week.
+Regis travelled to the forest of the savages for the entire week.<br/>
  
-Altina was curious about what he was doing and followed on the first day. But going into the middle of the barbarian tribes without any escorts was normally unacceptable.
+Altina was curious about what he was doing and followed on the first day. But going into the middle of the barbarian tribes without any escorts was normally unacceptable.<br/>
  
-Evrard will definitely question him with a fauchard if word leaked out, so Regis went to gather information by himself from the 2nd day onwards.
+Evrard will definitely question him with a fauchard if word leaked out, so Regis went to gather information by himself from the 2nd day onwards.<br/>
  
-He asked Eric to help him drive the carriage since Regis couldn't ride a horse.
+He asked Eric to help him drive the carriage since Regis couldn't ride a horse.<br/>
  
-After questioning all the prisoners, he completed a rather trustworthy map of Fort Volks.
+After questioning all the prisoners, he completed a rather trustworthy map of Fort Volks.<br/>
  
 As the sun was setting--
  
-Regis returned to his room, leaving the completed documents on the table and collapsed onto his bed.
+Regis returned to his room, leaving the completed documents on the table and collapsed onto his bed.<br/>
  
-The red light was weak and the room started to dim.
+The red light was weak and the room started to dim.<br/>
  
 "So tired..."<br/>
  
 He fell into deep slumber--
  
-The door to the room was knocked furiously.
+The door to the room was knocked furiously.<br/>
  
 "Hey Regis!"<br/>
  
 "Ah, Sir Jerome?"<br/>
  
-As he pushed himself up, the door was opened.
+As he pushed himself up, the door was opened.<br/>
  
 Something similar happened before... For example, what should be done if let's say he was changing?
  
-Jerome was wearing his uniform properly for once.
+Jerome was wearing his uniform properly for once.<br/>
  
 "Why you, what is up with this!?"<br/>
  
 "Ugh...?"<br/>
  
-Regis rubbed his eyes.
+Regis rubbed his eyes.<br/>
  
-The dazzling light shone down from the sky window.
+The dazzling light shone down from the sky window.<br/>
  
 "But it was night just now..."<br/>
  
@@ -684,17 +684,17 @@ The dazzling light shone down from the sky window.
  
 "Ah, yes, sorry."<br/>
  
-Regis totally lost consciousness, he didn't even dream.
+Regis totally lost consciousness, he didn't even dream.<br/>
  
-From how bright it was, it should be time for breakfast.
+From how bright it was, it should be time for breakfast.<br/>
  
-He shifted his eyes onto the item Jerome shoved in his face.
+He shifted his eyes onto the item Jerome shoved in his face.<br/>
  
-It's an invoice.
+It's an invoice.<br/>
  
-It listed the items that were purchased from vendors.
+It listed the items that were purchased from vendors.<br/>
  
-It was a sizeable amount of money.
+It was a sizeable amount of money.<br/>
  
 "... Fort Volks isn't that far away, but there are many things needed to attack it."<br/>
  
@@ -720,9 +720,9 @@ It was a sizeable amount of money.
  
 "Tch."<br/>
  
-Jerome understood but he still looked furious.
+Jerome understood but he still looked furious.<br/>
  
-Regis got up from bed, dusting off the uniform he was already wearing, making himself more presentable.
+Regis got up from bed, dusting off the uniform he was already wearing, making himself more presentable.<br/>
  
 "Since the invoice is here, it means the goods have arrived?"<br/>
  
@@ -734,9 +734,9 @@ Regis got up from bed, dusting off the uniform he was already wearing, making hi
  
 "Why not just send someone..."<br/>
  
-Jerome glared at him.
+Jerome glared at him.<br/>
  
-Regis shrugged.
+Regis shrugged.<br/>
  
 "... Well, it's not something you can say before the troops."<br/>
  
@@ -748,25 +748,25 @@ Regis shrugged.
  
 "Ugh..."<br/>
  
-He couldn’t deny that.
+He couldn’t deny that.<br/>
  
-Jerome, Altina and the other soldiers all trained diligently from the early morning.
+Jerome, Altina and the other soldiers all trained diligently from the early morning.<br/>
  
-Was his stamina really that bad? Regis thought as he took a step.
+Was his stamina really that bad? Regis thought as he took a step.<br/>
  
-He failed.
+He failed.<br/>
  
 "Huh?"<br/>
  
-He wanted to move towards the door, but the bed frame was getting closer.
+He wanted to move towards the door, but the bed frame was getting closer.<br/>
  
 He was on the verge of colliding with it!
  
-As he was thinking that, a strong force grabbed his body.
+As he was thinking that, a strong force grabbed his body.<br/>
  
 "What are you doing!?"<br/>
  
-Regis noticed that Jerome was holding him from behind with one hand. Just before he fell.
+Regis noticed that Jerome was holding him from behind with one hand. Just before he fell.<br/>
  
 "... Ah... Thank you... Cough."<br/>
  
@@ -778,17 +778,17 @@ Regis noticed that Jerome was holding him from behind with one hand. Just before
  
 "?"<br/>
  
-Jerome supported Regis' back and put a hand on his forehead.
+Jerome supported Regis' back and put a hand on his forehead.<br/>
  
-What tough and thick hands.
+What tough and thick hands.<br/>
  
 "It's a fever."<br/>
  
 "Ah..."<br/>
  
-He was feeling lightheaded, his mind was muddled and his feet didn’t seem to be touching the ground. This wasn't because he just woke up.
+He was feeling lightheaded, his mind was muddled and his feet didn’t seem to be touching the ground. This wasn't because he just woke up.<br/>
  
-Jerome seemed to wear a worried expression. Regis thought he wouldn't care about his subordinate's well being... Maybe this was the reason behind his popularity.
+Jerome seemed to wear a worried expression. Regis thought he wouldn't care about his subordinate's well being... Maybe this was the reason behind his popularity.<br/>
  
 "Tch... What a weakling! At this busiest period!"<br/>
  
@@ -798,21 +798,21 @@ Jerome seemed to wear a worried expression. Regis thought he wouldn't care about
  
 "Right."<br/>
  
-As they spoke, some girls showed up from the open doors. Altina was surprised to see Regis being held by Jerome.
+As they spoke, some girls showed up from the open doors. Altina was surprised to see Regis being held by Jerome.<br/>
  
 "What happened?"<br/>
  
-Clarisse asked quietly.
+Clarisse asked quietly.<br/>
  
 "...Are you kissing?"<br/>
  
 "Stop kidding! Why would I kiss this trash!?"<br/>
  
-Jerome was blushing. It wasn't a blush from embarrassment, but anger.
+Jerome was blushing. It wasn't a blush from embarrassment, but anger.<br/>
  
-Regis was tossed onto the bed.
+Regis was tossed onto the bed.<br/>
  
-Altina rushed over.
+Altina rushed over.<br/>
  
 "What happened!? You look unwell."<br/>
  
@@ -820,11 +820,11 @@ Altina rushed over.
  
 "!?"<br/>
  
-Her white hand was caressing his forehead. The cool sensation was soothing.
+Her white hand was caressing his forehead. The cool sensation was soothing.<br/>
  
-And it's so soft.
+And it's so soft.<br/>
  
-Regis remembered the incident of holding her hand and his heart raced.
+Regis remembered the incident of holding her hand and his heart raced.<br/>
  
 "You are so hot, your face too. Are you okay!?"<br/>
  
@@ -844,7 +844,7 @@ Regis remembered the incident of holding her hand and his heart raced.
  
 "I won't buy books for you alright?"<br/>
  
-Regis shut his open mouth. Altina looked at him with disgust.
+Regis shut his open mouth. Altina looked at him with disgust.<br/>
  
 Jerome instructed Clarisse:
  
@@ -852,7 +852,7 @@ Jerome instructed Clarisse:
  
 "...!?"<br/>
  
-Clarisse looked surprised.
+Clarisse looked surprised.<br/>
  
 "Huh? What's wrong?"<br/>
  
@@ -862,15 +862,15 @@ Clarisse looked surprised.
  
 "... Is that so."<br/>
  
-Clarisse bowed expressionlessly and headed for the dining hall. Although she was always joking with Regis and Altina, she was unbelievably cold towards others. This was the first time Regis saw her conversing with Jerome.
+Clarisse bowed expressionlessly and headed for the dining hall. Although she was always joking with Regis and Altina, she was unbelievably cold towards others. This was the first time Regis saw her conversing with Jerome.<br/>
  
-Jerome glared at Regis, his face filled with the phrase 'it can't be helped'.
+Jerome glared at Regis, his face filled with the phrase 'it can't be helped'.<br/>
  
 "Recover in one day, or die."<br/>
  
 "... I will try my best."<br/>
  
-Altina brought a blanket to cover Regis.
+Altina brought a blanket to cover Regis.<br/>
  
 "Does it feel cold? Need more blankets?"<br/>
  
@@ -882,7 +882,7 @@ Altina brought a blanket to cover Regis.
  
 "What is it?"<br/>
  
-She leaned closer.
+She leaned closer.<br/>
  
 "Please help me with the payment to the vendors. The money is already prepared in the vault. Let Sir Evrard count the stores."<br/>
  
@@ -896,11 +896,11 @@ She leaned closer.
  
 "Ugu~~~"<br/>
  
-Altina pouted as she nodded.
+Altina pouted as she nodded.<br/>
  
-The lady doctor took his pulse rate and temperature.
+The lady doctor took his pulse rate and temperature.<br/>
  
-It was a little embarrassing because she wasn't using equipment, but her bare hands.
+It was a little embarrassing because she wasn't using equipment, but her bare hands.<br/>
  
 "Hmmm... it's exhaustion from being overworked."<br/>
  
@@ -910,7 +910,7 @@ It was a little embarrassing because she wasn't using equipment, but her bare ha
  
 "No, the goods are here, if I don't tell them the sequence for them to get accustomed to..."<br/>
  
-He was glared at.
+He was glared at.<br/>
  
 "Mr. Strategist, exhaustion starts from the feeling that your stomach can’t bear it. It won't recover even if you eat properly. Next will be heart problems. You might think things are fine one day, but the next morning you may become a cold corpse, such things do happen alright?"<br/>
  
@@ -920,13 +920,13 @@ He was glared at.
  
 "If it could be cured with medicine, that would be great."<br/>
  
-The lady doctor made a gesture, and Evrard entered the room. The burly bald man made the room feel smaller with his presence.
+The lady doctor made a gesture, and Evrard entered the room. The burly bald man made the room feel smaller with his presence.<br/>
  
 "Wahaha! How pitiful to be tired out! You lack spirit! Spirit!"<br/>
  
-He made a swinging motion in the room.
+He made a swinging motion in the room.<br/>
  
-The lady doctor blinked.
+The lady doctor blinked.<br/>
  
 "I leave the rest to you, Sir Knight commander."<br/>
  
@@ -934,13 +934,13 @@ The lady doctor blinked.
  
 "Fufufu..."<br/>
  
-Regis stared blankly, not knowing what was happening.
+Regis stared blankly, not knowing what was happening.<br/>
  
 "Eh? What is going on...?
  
 "Sir Regis's body is tied to the fate of the goddess!"<br/>
  
-The goddess Evrard was referring to was Altina. It seemed to stem from a local belief.
+The goddess Evrard was referring to was Altina. It seemed to stem from a local belief.<br/>
  
 "That means! Letting Sir Regis sleep well to cure him of his illness is my way of expressing fealty! It's my duty!!"<br/>
  
@@ -950,7 +950,7 @@ The goddess Evrard was referring to was Altina. It seemed to stem from a local b
  
 "No, no thanks!"<br/>
  
-The lady doctor exited the room.
+The lady doctor exited the room.<br/>
  
 "With the series of training going on, injury rate among the troops are high. I'm busy, so that's it for today. Sir knight commander, please ensure Mr. Strategist sleeps until morning."<br/>
  
@@ -958,9 +958,9 @@ The lady doctor exited the room.
  
 "Huh~~"<br/>
  
-Evrard stood at the entrance and stared at him.
+Evrard stood at the entrance and stared at him.<br/>
  
-Regis sighed.
+Regis sighed.<br/>
  
 "Erm... I understand. I will sleep... Sir Edward is busy with training too right?"<br/>
  
@@ -968,27 +968,27 @@ Regis sighed.
  
 "... So that's how it is."<br/>
  
-Just like a warrior riding on the foremost front alongside his grandson. The way he spoke was as interesting as telling a tale.
+Just like a warrior riding on the foremost front alongside his grandson. The way he spoke was as interesting as telling a tale.<br/>
  
-It would be great if Regis could listen to him go on, but Evrard would start singing lullabies if he continued-- that's how Evrard looked.
+It would be great if Regis could listen to him go on, but Evrard would start singing lullabies if he continued-- that's how Evrard looked.<br/>
  
-Regis gave up and closed his eyes.
+Regis gave up and closed his eyes.<br/>
  
 "Hah... The things I must do are piled sky high."<br/>
  
-There wasn't much time left before the February 12th deadline.
+There wasn't much time left before the February 12th deadline.<br/>
  
-Only the feeling of frustration was spreading.
+Only the feeling of frustration was spreading.<br/>
  
-The stories he had read spun in his head.
+The stories he had read spun in his head.<br/>
  
-His body finally sunk into deep slumber after his exhaustion reached the limit.
+His body finally sunk into deep slumber after his exhaustion reached the limit.<br/>
  
 "Hmmm...?"<br/>
  
 "Ara."<br/>
  
-After opening his eyes, he saw Clarisse standing in the dull red light.
+After opening his eyes, he saw Clarisse standing in the dull red light.<br/>
  
 "... Is this... A dream?"<br/>
  
@@ -1002,7 +1002,7 @@ After opening his eyes, he saw Clarisse standing in the dull red light.
  
 "You lack dreams, sir Regis."<br/>
  
-Clarisse shrugged. She wasn't smiling, but her expression seemed to suggest that her mood was great.
+Clarisse shrugged. She wasn't smiling, but her expression seemed to suggest that her mood was great.<br/>
  
 "Did you bring me water?"<br/>
  
@@ -1020,9 +1020,9 @@ Clarisse shrugged. She wasn't smiling, but her expression seemed to suggest that
  
 "If it's Sir Regis, it definitely can be done."<br/>
  
-As usual, she was trusting without basis.
+As usual, she was trusting without basis.<br/>
  
-Regis surveyed the room.
+Regis surveyed the room.<br/>
  
 "Sir Evrard isn't here?"<br/>
  
@@ -1036,7 +1036,7 @@ Regis surveyed the room.
  
 "But she didn't visit because of Sir Regis' instructions, so she sent me."<br/>
  
-He did tell Altina that while he was dizzy with the fever.
+He did tell Altina that while he was dizzy with the fever.<br/>
  
 "She is unexpectedly obedient."<br/>
  
@@ -1044,9 +1044,9 @@ He did tell Altina that while he was dizzy with the fever.
  
 "Well, that's true..."<br/>
  
-Be it setting the empress as her goal, or proposing the duel, all of this was because of Regis' words. It might just be a whim in her heart.
+Be it setting the empress as her goal, or proposing the duel, all of this was because of Regis' words. It might just be a whim in her heart.<br/>
  
-Messing up the body she relied on so much, he felt apologetic towards her.
+Messing up the body she relied on so much, he felt apologetic towards her.<br/>
  
 "How is your body’s condition?"<br/>
  
@@ -1066,11 +1066,11 @@ Messing up the body she relied on so much, he felt apologetic towards her.
  
 "Yes."<br/>
  
-Regis took some water from Clarisse to wet his throat.
+Regis took some water from Clarisse to wet his throat.<br/>
  
-It seemed to be absorbed like dry sand, making Regis realize how much he needed this. It might be because he was coughing earlier, his throat was sore.
+It seemed to be absorbed like dry sand, making Regis realize how much he needed this. It might be because he was coughing earlier, his throat was sore.<br/>
  
-Clarisse took away the candle stand, which was the only light source in the room.
+Clarisse took away the candle stand, which was the only light source in the room.<br/>
  
 "Please rest well until morning."<br/>
  
@@ -1080,44 +1080,44 @@ Clarisse took away the candle stand, which was the only light source in the room
  
 "Ugh-- Erm."<br/>
  
-Guilty as charged.
+Guilty as charged.<br/>
  
-If there was moonlight, he would read even without a candle light.
+If there was moonlight, he would read even without a candle light.<br/>
  
-In the dim crimson light, Clarisse looked at Regis with a face of worry.
+In the dim crimson light, Clarisse looked at Regis with a face of worry.<br/>
  
 "... Sir Regis... Pleases don't die."<br/>
  
 "Ah... Yeah..."<br/>
  
  
-The fated day was finally here.
+The fated day was finally here.<br/>
  
-3000 soldiers formed up in the parade square of Sierck Fort.
+3000 soldiers formed up in the parade square of Sierck Fort.<br/>
  
-2000 of them will be taking part in the campaign, the other 1000 will stay behind to hold the fort.
+2000 of them will be taking part in the campaign, the other 1000 will stay behind to hold the fort.<br/>
  
-They formed an alliance with the most influential nation among the barbarians, Bargainheim, so their target was no other than the Germania Federation.
+They formed an alliance with the most influential nation among the barbarians, Bargainheim, so their target was no other than the Germania Federation.<br/>
  
-In other words, there should be no reason for them to leave so many troops in defense...
+In other words, there should be no reason for them to leave so many troops in defense...<br/>
  
-Regis hadn't figured out the true intentions of the 2nd prince Latreille. If the goal was to just weaken the regiment, Sierck Fort should be safe.
+Regis hadn't figured out the true intentions of the 2nd prince Latreille. If the goal was to just weaken the regiment, Sierck Fort should be safe.<br/>
  
-But if he was plotting the fall of Altina, or going after her life, the timeline for the attack might have been leaked to the enemy.
+But if he was plotting the fall of Altina, or going after her life, the timeline for the attack might have been leaked to the enemy.<br/>
  
-The enemy might even make a run for Sierck Fort after they proceeded with their campaign. The regiment would be finished if their base gets taken.
+The enemy might even make a run for Sierck Fort after they proceeded with their campaign. The regiment would be finished if their base gets taken.<br/>
  
-There might be the possibility of the campaign group being attacked from behind too.
+There might be the possibility of the campaign group being attacked from behind too.<br/>
  
-The thousand men left behind would also act as the reserves forces if the main force was pressed into a desperate situation.
+The thousand men left behind would also act as the reserves forces if the main force was pressed into a desperate situation.<br/>
  
-According to the records, 2000 men was the smallest expedition force sent to attack Fort Volks. The wagons might be transporting 30 cannons, but that's only on the same level as the 4th expedition.
+According to the records, 2000 men was the smallest expedition force sent to attack Fort Volks. The wagons might be transporting 30 cannons, but that's only on the same level as the 4th expedition.<br/>
  
-The parade square was filled with the scent of the horses that were pulling the wagons of supplies.
+The parade square was filled with the scent of the horses that were pulling the wagons of supplies.<br/>
  
-Evrard and Eric came to Regis who was watching the formation of the soldiers from a corner.
+Evrard and Eric came to Regis who was watching the formation of the soldiers from a corner.<br/>
  
-Both of them were in full armor, holding a halberd and sword respectively. Standing side by side, they looked totally different.
+Both of them were in full armor, holding a halberd and sword respectively. Standing side by side, they looked totally different.<br/>
  
 "The day has finally come!"<br/>
  
@@ -1133,23 +1133,23 @@ Both of them were in full armor, holding a halberd and sword respectively. Stand
  
 "Hahaha..."<br/>
  
-Evrard beat his chest.
+Evrard beat his chest.<br/>
  
 "Leave the defense to me! I will wait for your good news!"<br/>
  
 "Alright, we are counting on you."<br/>
  
-The defense of Sierck Fort was left in Jerome's right hand man.
+The defense of Sierck Fort was left in Jerome's right hand man.<br/>
  
-If there wasn't anyone with the ability to command in the fort, the troops might surrender on their own in the event of enemy attacks. Compared to the numbers in the fort, who will take command was more important.
+If there wasn't anyone with the ability to command in the fort, the troops might surrender on their own in the event of enemy attacks. Compared to the numbers in the fort, who will take command was more important.<br/>
  
-Regis planned to let Eric stay too, but Eric insisted on protecting Regis, so Regis had to let him join the expedition group.
+Regis planned to let Eric stay too, but Eric insisted on protecting Regis, so Regis had to let him join the expedition group.<br/>
  
-Altina's left hand was still injured, so it was great for the main force to have a reliable knight.
+Altina's left hand was still injured, so it was great for the main force to have a reliable knight.<br/>
  
-The 2 of them returned back to formation.
+The 2 of them returned back to formation.<br/>
  
-Jerome came over next.
+Jerome came over next.<br/>
  
 "Hey Regis."<br/>
  
@@ -1157,9 +1157,9 @@ Jerome came over next.
  
 "I want to ask you something."<br/>
  
-Jerome looked to his left and right.
+Jerome looked to his left and right.<br/>
  
-This place was some distance from the troops and no one was near them.
+This place was some distance from the troops and no one was near them.<br/>
  
 "I will do my best to answer..."<br/>
  
@@ -1171,11 +1171,11 @@ This place was some distance from the troops and no one was near them.
  
 "...Huh!?"<br/>
  
-Regis petrified.
+Regis petrified.<br/>
  
 When did he hear that?
  
-Jerome squinted.
+Jerome squinted.<br/>
  
 "So I didn't mishear that. So you are actually a grand noble? I always thought you were too knowledgeable for a commoner."<br/>
  
@@ -1193,7 +1193,7 @@ Jerome squinted.
  
 "Erm... Not really, Ms. Clarisse just likes to toy with me..."<br/>
  
-Jerome's expression worsened.
+Jerome's expression worsened.<br/>
  
 "I mean Elin."<br/>
  
@@ -1203,7 +1203,7 @@ Jerome's expression worsened.
  
 "Hahaha... Impossible. Elin was just passionate about working for Sir Jerome. I have no luck with women."<br/>
  
-Jerome looked at Regis as if he was an idiot.
+Jerome looked at Regis as if he was an idiot.<br/>
  
 "... Forget about the maids... Is your relationship with the princess the same?"<br/>
  
@@ -1211,7 +1211,7 @@ Jerome looked at Regis as if he was an idiot.
  
 "That's fine then."<br/>
  
-It was Regis' turn to feel uneasy.
+It was Regis' turn to feel uneasy.<br/>
  
 "Could it be... Sir Jerome you... towards Altina...?
  
@@ -1219,31 +1219,31 @@ It was Regis' turn to feel uneasy.
  
 "That's, that's correct..."<br/>
  
-A scandal like this would be an obstacle in her path.
+A scandal like this would be an obstacle in her path.<br/>
  
-He needs to be careful of his interactions with her.
+He needs to be careful of his interactions with her.<br/>
  
-And Altina herself showed up in front of the formation.
+And Altina herself showed up in front of the formation.<br/>
  
-Her cloak still covered her left side. Since this was a campaign, she wore armor over her dress.
+Her cloak still covered her left side. Since this was a campaign, she wore armor over her dress.<br/>
  
-She stood at the podium.
+She stood at the podium.<br/>
  
-The soldiers stood at attention waiting for her speech.
+The soldiers stood at attention waiting for her speech.<br/>
  
 "Everybody~ How are you feeling~!?
  
 "Warrgghhh~~!!"<br/>
  
-In response to Altina's clear voice, the troops shouted in response. It was so loud it seemed like an earthquake.
+In response to Altina's clear voice, the troops shouted in response. It was so loud it seemed like an earthquake.<br/>
  
-Jerome's face was bitter.
+Jerome's face was bitter.<br/>
  
 "What is this 'everybody, how are you feeling', is this a field trip!?"<br/>
  
-But he said it softly so the soldiers wouldn't hear.
+But he said it softly so the soldiers wouldn't hear.<br/>
  
-Regis shrugged.
+Regis shrugged.<br/>
  
 "That's Altina's style... What do you usually say, Sir Jerome?"<br/>
  
@@ -1251,13 +1251,13 @@ Regis shrugged.
  
 "... A rather crude speech."<br/>
  
-Altina shouted out loudly once again.
+Altina shouted out loudly once again.<br/>
  
 "Now! We are going to attack Fort Volks! You must have heard the reason for this too!"<br/>
  
 "If we don't take the fort, we will be branded traitors. But I feel that that is too strange a reason to fight!"<br/>
  
-Jerome squinted his eyes and said.
+Jerome squinted his eyes and said.<br/>
  
 "Hey... What is she saying? Was it your idea?"<br/>
  
@@ -1267,27 +1267,27 @@ Jerome squinted his eyes and said.
  
 "But it's adequate right?"<br/>
  
-Altina continued her speech.
+Altina continued her speech.<br/>
  
 "I don't want to fight just for myself, but for everyone! Those with family should think about them! Your lovers! Friends! And look at everyone around you! Your comrades are right besides you!"<br/>
  
-The troops looked to their sides.
+The troops looked to their sides.<br/>
  
-Their comrades.
+Their comrades.<br/>
  
-For the soldiers, the one besides them were their battle brothers.
+For the soldiers, the one besides them were their battle brothers.<br/>
  
 "We are fighting for our comrades! Our victory is for the people important to us! Don't forget that!"<br/>
  
-Altina pulled a cloth out from the cloak that hid her the left side of her body.
+Altina pulled a cloth out from the cloak that hid her the left side of her body.<br/>
  
-It was a green cloth.
+It was a green cloth.<br/>
  
-Regis taught her that green was the color of the commoners.
+Regis taught her that green was the color of the commoners.<br/>
  
 "I want to protect the citizens! I won't ever forget that no matter what battles I face! I hope everyone will do the same!"<br/>
  
-The soldiers started to get rowdy.
+The soldiers started to get rowdy.<br/>
  
 Jerome said with contempt:
  
@@ -1303,57 +1303,57 @@ Jerome said with contempt:
  
 "Huh? That's how I looked...? This is bad."<br/>
  
-Regis watched Altina speaking on the podium and squinted.
+Regis watched Altina speaking on the podium and squinted.<br/>
  
-Her voice was booming.
+Her voice was booming.<br/>
  
 "The shield of the citizens-- That's my banner! I will fight with this flag flying high! I hope everyone will lend me their strength!!"<br/>
  
-Altina shouted with all her might.
+Altina shouted with all her might.<br/>
  
-The troops were silent.
+The troops were silent.<br/>
  
-The parade square was devoid of sound.
+The parade square was devoid of sound.<br/>
  
-Their tension was high.
+Their tension was high.<br/>
  
-The longer one was in the army, the more lost they felt hearing this words. In the empire, wars were instigated by the lords, and it's something that soldiers fought in for rewards.
+The longer one was in the army, the more lost they felt hearing this words. In the empire, wars were instigated by the lords, and it's something that soldiers fought in for rewards.<br/>
  
-The result was that their wages supported their family... But few realized this point.
+The result was that their wages supported their family... But few realized this point.<br/>
  
-The lords weren't interested in why soldiers fought. This was common.
+The lords weren't interested in why soldiers fought. This was common.<br/>
  
-The commander asking for them to fight for the citizens was something they would never imagine. That's why the soldiers were lost.
+The commander asking for them to fight for the citizens was something they would never imagine. That's why the soldiers were lost.<br/>
  
-A young soldier raised his fist to the sky.
+A young soldier raised his fist to the sky.<br/>
  
 "Long live Marie Quatre!!"<br/>
  
-Some distance away, another soldier raised his sword.
+Some distance away, another soldier raised his sword.<br/>
  
 "The citizen's shield!"<br/>
  
 "For our family!"<br/>
  
-They all expressed support for the speech.
+They all expressed support for the speech.<br/>
  
-Noise erupted from all corners.
+Noise erupted from all corners.<br/>
  
-They were all in agreement.
+They were all in agreement.<br/>
  
-The troops whose eyes were filled with ambition and killing intent shone with another light. It was the will to fight for someone.
+The troops whose eyes were filled with ambition and killing intent shone with another light. It was the will to fight for someone.<br/>
  
-Their families back home, their lovers, friends. And their comrades beside them. The faces of people important to them.
+Their families back home, their lovers, friends. And their comrades beside them. The faces of people important to them.<br/>
  
-Some even wept when they remembered their kin far away.
+Some even wept when they remembered their kin far away.<br/>
  
-Evrard and Eric both grunted in approval.
+Evrard and Eric both grunted in approval.<br/>
  
-Jerome silently watched the soldiers' cheer.
+Jerome silently watched the soldiers' cheer.<br/>
  
-Regis was once again in awe of Altina's strong resolve and ambition.
+Regis was once again in awe of Altina's strong resolve and ambition.<br/>
  
 Year of the empire 851 February 12th--
  
-300 cavalry, 600 artillery troops, 1100 infantry, a total of 2000 men of the Beilschmidt border regiment set out from Sierck Fort.
+300 cavalry, 600 artillery troops, 1100 infantry, a total of 2000 men of the Beilschmidt border regiment set out from Sierck Fort.<br/>
 Previous Chapter | Main Page | Next Chapter

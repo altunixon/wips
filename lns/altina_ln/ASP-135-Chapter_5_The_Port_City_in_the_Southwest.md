@@ -1,0 +1,493 @@
+Altina the Sword Princess Volume 13 Chapter 5
+The Port City in the Southwest
+Translator: Skythewood
+Machine editor: ratorasepo
+Editors: Darkdhaos, CEObrainz
+Imperial Year 851, October 9th—
+The sea breeze blowing in from the south felt warm.
+This was the port city Tarnoritz, situated to the southwest of the Empire.
+As the largest port in the south, many large sail ships were docked here. There was also a shipyard, where the thumping of the hammers could be heard all the time.
+As the Chaineboule harbour situated in the west of the Empire was still under repairs, more ships needed to unload their cargo here compared to the past.
+Many people unload or load crates and sacks to and from the ships one by one.
+Rats scattered as agile cats gave chase, and energetic kids followed behind.
+It was a lively city.
+The mansion of the Tiraso Laverde Duke clan’s main house was situated here.
+Instead of the manor of the landlord, it looked more like a giant merchant shop.
+It was reputed that anyone who didn’t visit this building would have wasted their trip to this city— this shop not only sold miscellaneous goods for daily necessities, there were also decorations, art pieces and even weapons and armour.
+Their recent best sellers were medicine from the east.
+Three streets away from that luxurious manor.
+Regis’ group was brought to a guest reception house built with red bricks.
+It was a queer building that was a mixture of Belgarian architecture, the neighboring countries… and even displaying cultures from countries across the ocean.
+Hispania style pillars and doors, eastern pottery, paintings and sculptures…
+This was like a museum of a foreign land.
+Regis sighed in awe.
+【… Amazing.】
+【Ahaha! What an interesting place!】
+Altina was smiling too.
+But Elise hung back reservedly.
+They were ushered to the innermost room on the third storey.
+Awaiting their arrival was the new head of the Duke clan, Eleanor Ailred Winn de Tiraso Laverde.
+【You are finally here, Your Highness.】
+【We are here to visit, Eleanor】
+Both of them had forthright personalities, and were like old friends who had just met.
+Eleanor looked Regis’ way.
+【Sir Regis is here too, huh.】
+【… Thank you for having me. This is a beautiful house.】
+【Fufu, do you like it?】
+【I do.】
+【If Sir Regis wishes it, this manor can be yours.】
+【N-No… That’s a bit…】
+【I will even throw in my sister Renoir.】
+【No no no…】
+【There are tens of thousands of books collected from overseas in the basement too.】
+【……】
+Only when Altina said:【Hey, Regis?!】 did he finally snapped out of it.
+He covered it up with a cough.
+【Haha… I still have my aspirations and responsibilities.】
+He said the same thing as before, but Altina still stared at him.
+Eleanor said with a wry smile:
+【Well, I don’t have any ill intentions. Sir Regis, do feel free to take any book you wish to read. After all, the money you helped me earn is enough to buy another shipload.】
+【Ehh?! That matter has already been settled?!】
+【I told you before, right? Getting contracts from royals and nobles is my specialty.】
+【… But that is still too fast.】
+【If I dally any longer, others might cut in, so I gave a lot of concessions. I gave a substantial sum of money to the grand noble for the exclusive right to manufacture guns, I also signed a contract with the blacksmith guilds, guaranteeing them an annual technical instruction fee.】
+【… I see. Spending money without holding back to achieve your goals quickly, that’s impressive.】
+【Can you perform this level of negotiations too, Regis?】
+【No… I’m not that good with negotiations.】
+If I’m smarter, maybe things would have been settled smoothly without needing to disband the Sixth and Eighth Army— He thought.
+That was almost a month ago—
+The Sixth Army was disbanded, and most of them returned to the capital.
+They had close relations to the grand nobles, and wouldn’t be troubled about their next assignment.
+Almost all the merchants who helped Dorval embezzle the resources from the army were caught.
+However, Regis wasn’t directly involved in this, so he only heard the reports.
+The National Military Police Department and the staff officers of the Fourth Army coordinated a surprise inspection of seven merchant shops in three business industries.
+They found the embezzled goods and evidence of tax evasion, so all of them were arrested.
+Some had already fled the Empire, which couldn’t be helped...
+Dorval was extradited back to the Capital to await his sentencing.
+And the Eighth Army’s Rockhoward had to pay a heavy sum of compensation money for violating military orders. He even had to sell his house to raise the money, and there was no way he could fund his private army.
+Unexpectedly, most of his private army wished to transfer to the Fourth Army.
+And the Fourth Army took them all in.
+It seemed that their loyalty towards Rockhoward was lower than Regis thought.
+After that, the former Eighth Army soldier performed admirably in the battle to liberate the Sembione city from the Etruria Theocracy army.
+The battle went as planned—
+Attacking a fixed base allowed the new Belgaria Empire artillery and rifles to shine, giving them an overwhelming advantage.
+After all, if the opponent remained on the defensive, then the Empire just needed to bombard them from afar.
+And now, the Fourth Army’s numbers swelled to 20,000.
+Elise bode farewell formally.
+【I am very grateful for taking care of me.】
+【We are still waiting for you to repay us. Not with words, but materialistically.】
+【… Yes.】
+【It’s enough that you remember that. Just strive for your aspirations.】
+【I will work hard.】
+She bowed deeply.
+Eleanor took out a letter.
+【This is new information sent from our relatives living in High Britannia.】
+【… What is it about!?】
+【It will be faster to read it yourself.】
+She handed the letter to Elise.
+【Pardon me!】
+She took the letter with quivering hands, and read it anxiously.
+Eleanor said to Regis and the others who didn’t know the full picture:
+【House Tiraso Laverde has a branch house in High Britannia. Marbella is doing business over there.】
+【Ah, I see… if it’s a relative, you can discuss things that are more confidential.】
+【Fufu… Well, we don’t trust each other to such an extent… But they are our biggest business partner.】
+After a short introduction of the branch family, they went back to the content of the letter.
+【The parliament in the High Britannia kingdom has decided to abolish Queen Margaret’s reign.】
+【What?!】
+Altina opened her eyes wide.
+As expected, that’s their decision— Regis thought.
+Latreille was planning to invade High Britannia all along. He would never offer terms that the other party could accept.
+Those in power in High Britannia had pushed all the responsibility for starting the war onto Margaret.
+Eleanor continued:
+【The parliament has decided to crown Elizabeth Victoria as their new queen. There are two reasons why this has not been announced officially— One, negotiations with the Belgaria Empire that is holding Margaret have yet to be concluded. High Britannia hopes to work out a peace treaty… Or rather, they are afraid of retributory attacks from the Empire. Another reason is that Elizabeth isn’t in the country. It will be strange to announce the coronation of the new queen if the subject herself isn’t there.】
+She looked at Elise.
+Regis and Altina also looked at her.
+The subject was concentrating on the letter.
+As the letter was written in Belgarian, it took quite some time for her to read it.
+【… I… didn’t make it in time again?】
+【The fault doesn’t lie with you. Or rather, it is the right decision to leave that chaotic kingdom. If you fell into the hands of the Margaret faction or the anti-monarchy faction, you would be dead.】
+【Uggh…】
+Elise showed a pained expression.
+Regis asked:
+【… Can you send a ship towards the High Britannia kingdom?】
+【Yes. Diplomatically speaking, the two nations are still at war so commuting directly is banned. But the shipping route through a third country has been restored.】
+【… Is the Hispania Empire the third country?】
+【That’s the shortest route.】
+【… You have to do it fast.】
+Eleanor narrowed her eyes when he heard what Regis said:
+【The next target is Hispania?】
+【… Yes.】
+【That is a troubling country, but they are also an important trade partner. Doesn’t the Emperor know that?】
+【… I think he knows very well.】
+Regis didn’t share the same values as him after all. Latreille thinks just conquering it would be good enough.
+Altina pouted unhappily.
+【I don’t want to invade another country either!】
+It couldn’t be helped— Regis soothed her. He had said this line plenty of times.
+【… If we went against the Emperor’s edict, that would be treason.】
+【I know, we are not ready yet.】
+【Yes, we have no chance against the First Army right now. Our goal of being at peace with the neighboring countries is for the sake of saving the people. In order to do so, we need to eliminate the division of social classes and war. Overthrowing the current establishment isn’t our goal, and the aristocrats aren’t our enemy. We must not get our goal and means wrong. Most importantly we can’t save anyone with feelings alone.】
+【I understand. I heard that from you plenty of times already. Even if we receive an order that goes against our ideals, we can’t lose our cool.】
+【… I will be counting on you.】
+Elise asked with an uneasy expression:
+【Your Highness Argentina and Lord Regis will be raising the flag of revolution against the new Emperor Latreille?】
+【Of course!】
+Altina clenched her fist and nodded firmly.
+Regis scratched his head.
+【… Please keep this a secret.】
+【I-I understand! Of course!】
+【… Our goal is different from Emperor Latreille. And there will be an obvious flaw in his policies in the near future. If we don’t prepare for it, the Empire might be in danger of falling.】
+Elise seemed to be in deep thought.
+【You told me about this… Is there any reason for you to do so?】
+As expected, she was sharp.
+【… Yes. Actually, we have a favor to ask.】
+【If it won’t affect the High Britannia adversely, I will do my best.】
+【Well then… I wonder if that will be true? It is hard to judge if this is a good thing for our neighbouring countries. It will be more beneficial for the Belgaria Empire to weaken— from that perspective, this is probably a bad thing. But what if both sides can avoid a war where tens of thousands will die?】
+【I think that would be great.】
+【Wonderful. Then we can work together.】
+【And your request is…?】
+Regis took out a parchment from his pouch. After getting permission from Eleanor, he laid it out on the table.
+It was the blueprint of a component.
+It showed the scale and dimensions from three directions.
+There was also a prototype.
+Regis showed the thing on his palm to everyone.
+It was a dull grey bullet.
+【… As you know, this is a metallic cartridge. However, this is meant for the 《Fusil 851》.】
+He revealed this incredible secret.
+However, the three women reacted strangely.
+Altina already knew, so she didn’t show any reaction.
+While Elise and Eleanor weren’t familiar with military matters.
+Their faces were saying that they didn’t understand what the main point was.
+If Latreille saw this, he would stand up and kick over a chair in shock.
+Regis didn’t intend to let him see this ever.
+Regis felt troubled that they didn’t understand the gravity of this issue, and explained.
+【If we use metal cartridges, the  《Fusil 851》 will be more powerful, reliable and accurate. Reloading will be faster too… Ah—… simply put, it will give us an overwhelming advantage.】
+Elise nodded.
+【That sounds incredible.】
+Looks like I will need to explain properly, Regis organized his thoughts.
+Thirty minutes later—
+After explaining the fundamentals, she finally understood half of it.
+Probably.
+Elise frowned and said troubledly.
+【Erm… That is to say, the flaw in the Belgaria Empire’s rifles is the usage of paper cartridges. If the casing is made of metal, it will bring a lot of benefits.】
+【Correct.】
+Regis nodded in reply.
+【It is difficult for the Belgaria Empire to make these metal cartridges right now.】
+Only High Britannia could perform such precise manufacturing. The Empire could probably catch up sometime in the future.
+【… It will still need a few years.】
+Elise stared at the metal cartridge in Regis’ hand.
+【If it can be mass produced.】
+【… There are two effects strategically. First, like I said— it will increase the performance of the rifles. We can improve our combat effectiveness without increasing troop numbers. Another thing is that resupply will no longer be an issue. Emperor Latreille intends to prevent any uprising by controlling the supplies of munition.】
+There was a difference between rifles and weapons like swords and lances in the past.
+Munitions could only be mass produced near the capital.
+Munitions would be supplied to an army fighting the enemy, but the supply would stop if they turn traitor.
+【You want the High Britannia kingdom to ship them over?】
+【That is what I hope.】
+【Can’t you manufacture them somewhere in the south?】
+【We don’t have the press forging technology. We can craft such prototypes slowly, but we would need hundreds of thousands of bullets if a civil war breaks out.】
+【You need that many?!】
+More importantly, they might be found out if they manufacture them locally.
+They had to avoid evidence of treason being discovered before they were ready.
+Regis took out another paper.
+【… And of course, the 《Fusil 851》 can’t be used just by putting in the metallic cartridges. This is the component next to the rifle chamber.】
+【What’s the difference?】
+【… The paper cartridge will burn away when the shot is fired, but the metallic casing will expand under the explosive forces, which will jam it inside the chambers. It will also be hot after firing, so it can’t be touched barehanded. So we need to make a mechanism to eject the casing.】
+【Eh? Wouldn’t paper casing be better than?】
+【… Even if the paper got burned, it won’t disappear completely, and will leave ashes behind. This will clog up the bolt, and will be harder to clean then ejecting a metal cartridge.】
+【I see.】
+By the way, the cartridges are made with brass. It rusts easier than iron, is easier to obtain and can mould without heating it. Even if it gets stuck in the chamber after expanding, it will cool down quickly which makes it easy to eject.
+The High Britannia kingdom’s brass refining technology was very well developed too.
+But the Belgaria Empire mostly treated brass as a decorative material.
+【… If Ms Elise is willing to assist us, we can also despatch technicians from the Fourth Army to accompany you. They can also double as your escorts.】
+【I understand. Instead of bowing down to an authoritative Emperor, I will prefer a neighbor that supports pacifism. I will help you.】
+Regis lowered his head.
+Altina extended her right hand.
+【Thank you, Elise. Or should I address you by your real name?】
+【… No… I’m still not there yet. I haven’t even taken a step forward. When I possess the status that befits it, I will introduce myself to you again.】
+【I will wait for you!】
+【And I will do my best.】
+They shook hands firmly.
+Neither was the leader of their country.
+However, by building such relationships, they might be able to achieve their aspirations one day.
+Regis looked at the two of them and felt a fire burning in his chest.
+Seeing that the discussion was almost over, Eleanor stood up.
+【Alright then, the ship will set sail three days later. Whoever wants to board can just stay in this house. You may leave the manor if you wish… But do be careful. There are still a lot of High Britannians in this city after all.】
+【Thank you very much for your kind help…】
+【I’m a merchant. Compared to war, peace would be more convenient for my business. It’s enough for me if you can be of assistance to the Princess.】
+【… The weapon merchants crave for war though. My home nation was coerced by these people.】
+【Hmmp… Those people don’t know how to do business at all. Can dead customers buy goods?】
+【That is true.】
+Elise nodded and looked out the window.
+Outside was the vast ocean.
+On the other end of the sea was the kingdom of High Britannia. It was her home, and the place she would need to fight in.
+The true battle would be starting for Elise.
+And for Altina, the curtains would be drawn for a new battle.
+Imperial Year 851 November 3rd—
+There was news that the northern part of the Empire was already snowing, but it was just slightly better than summer for the south.
+An urgent envoy brought the Emperor’s edict.
+This was Sembione city.
+It was seized by the Etruria Theocracy army for a short time, but the Fourth Army shifted their base of operation in the south here after liberating the city.
+The traces of the artillery bombardment could still be seen on the walls and streets.
+Inside the hall of the Belgaria Empire style castle.
+It seemed that the nobles held a party here every night.
+But now, this was now the headquarters for the commander to issue orders and receive messengers.
+The decor was the same as before, but things like art pieces had been taken or destroyed by the Etruria Theocracy army.
+They might have been sold by Dorval along with the rations too, this was still under investigation.
+A messenger from the capital proffered a letter.
+Abidal Evra received the letter in the Généralissime’s stead and presented it to Altina.
+【Mdm.】
+【Let Regis open it.】
+That might be rude for the Emperor’s edict...
+Abidal Evra presented the letter to Regis.
+【Sir Strategist.】
+【… Oh.】
+Regis took it, checked that the seal was intact, then broke it. He read the edict written on the parchment.
+Altina rested her cheek on her palm as she sat in a chair.
+【What is it? Will reading the content make me mad?】
+【… Let me hold on to it.】
+It would be a problem if she tore the edict written by the Emperor’s own hands in the face of the messenger.
+That was how agitated the content of the edict would make her.
+Regis stated the content of the edict.
+Aside from Altina and Abidal Evra, Eddie, Eric and the other officers were also present in the hall.
+He said to everyone:
+【The Etruria Theocracy surrendered.】
+The officers started getting rowdy, but they were in the presence of the commander, and quiet down immediately.
+Altina narrowed her eyes.
+【Surrendered?】
+【… Their main force of 30,000 men were wiped out during the siege of Sembione city. On the other hand, the Imperial forces in the south grew to 60,000 after reinforcements arrived a few days ago.】
+The Fourth Army under Altina’s direct command has 20,000 soldiers.
+The newly founded Twelfth and Thirteenth Army had 20,000 men each.
+And they were mostly equipped with the new rifles.
+Emperor Latreille was serious. He had shown his determination to conquer the surrounding nations within two years.
+Altina shrugged.
+【The new recruits are still a little lacking. Won’t it take some time for us to get up to speed?】
+【… It seemed that some of the people in Etruria Theocracy didn’t think so. The King who was adamant to resist until the bitter end was killed. There was a coup d'État. The political authority was overturned with military force. Their new leaders have shown their submission to the Belgaria Empire.】
+Altina nodded.
+【Is that so. No matter how it was done… it is great that we can avoid a war.】
+【… That’s true.】
+Belgaria Empire asked the theocracy to surrender before the invasion.
+If they agreed, the rulers of that land would become an aristocrat of the Empire…
+If they surrender after war had broken out, what awaited the ruler was a cruel end.
+The Etruria Theocracy was estimated to have less than 10,000 soldiers left. There was no way they could fend off the Belgaria Empire’s army of 60,000.
+Surrendering was a wise choice.
+The invasion of the Etruria Theocracy by the Belgaria Empire ended without a single battle.
+Regis sighed in his heart.
+【Now, let’s get to the main issue…】
+— Conquer the Hispania Empire.
+The fury from Altina seemed to have taken physical form.
+Regis soothed her:
+【This is an edict, Madam Généralissime.】
+【I know, I know! It’s fine… This isn’t the first time we are invading another country. Didn’t we take Fort Volks too?】
+【… That’s right.】
+The letter already stated that the Hispania Empire had rejected the offer to surrender.
+A specific date was also written on it, they had to conquer that nation before April.
+It was the same as their order to take Fort Volks from the Varden Archduchy.
+The difference was, they had a force of 60,000 now, so strategically wise, it wasn’t an unreasonable demand.
+There was also the issue of their targets.
+— Is this really fine? We will target the cities where the citizens of the enemy are living in.
+We will be fighting against the enemy forces in the beginning, but the cities will also be targeted as we keep pushing forward to victory.
+Can Altina keep her cool?
+Regis thought uneasily.
+However, there was nowhere else to go.
+Regis said to the envoy from the capital:
+【We hear and obey. The Madam Généralissime will attack the Hispania Empire with all available resources she can spare.】
+The envoy lowered his head respectfully.
+【This humble one will return to the capital with Madam Généralissime’s reply.】
+He meant that he will relay to the Emperor that the Madam Généralissime has accepted the orders. Regis might be the one who said that, but he would interpret it as the intent of the commander.
+Regis ordered a guard to show the envoy to a room to rest.
+Even if brought a terrible edict, the messenger was innocent.
+After all, it took him half a month to reach the south, so he would need a good rest before going back.
+The reception for the messenger in the hall was over, they now needed to hold a war conference.
+Regis went back to his own room.
+He already anticipated that invading Hispania Empire was just a matter of time, and had made all sorts of preparation.
+He just needed to retrieve the relevant information.
+As he reached his chambers, a large man stood at the entrance of his room.
+Just a look from him was enough to make Regis shiver.
+【……】
+【Regis d’Auric.】
+【… Mr Gilbert, how may I be of service?】
+【I heard that you will be attacking the Hispania Empire.】
+【You sure are well informed. That is so. Ah, let’s talk in the room.】
+Regis opened the door into his room.
+Gilbert entered with a serious expression.
+【Does both the strategist and the Princess… have no sense of wariness at all?】
+【… Only a small number of people are permitted entry here. If I had to be on guard against key staff officers assassinating or betraying us, the organization would be too rigid. So I leave the judgement to the guards.】
+Regis said as he tidied the papers on the table.
+Gilbert closed the door.
+【I understand that you put your trust only in specific people. But why trust me?】
+【… You have nothing to gain from betraying the Belgaria Empire, right?】
+【Maybe I will present the heads of the strategist and princess as a greeting gift to the Hispania Empire— haven’t you considered that?】
+Regis showed a bitter smile.
+【Haha… Even without me, the Belgaria Empire will defeat Hispania. That country isn’t a good bet at all.】
+【You are really confident.】
+【… I only know some facts. Mr Gilbert has seen the new rifles too, right?】
+【That’s just a rip off of the High Britannia models.】
+【Yes, they might be similar, but we can achieve better results than them.】
+Gilbert said coldly.
+【But High Britannia lost.】
+【… Well, that’s true.】
+He probably didn’t think that Hispania would win against Belgaria.
+So he had no intention of betraying them at all.
+After thinking about the reason he raised this topic, Regis asked:
+【… That’s not what you want to talk about, correct? That’s just some idle chatter to get to know me, huh.】
+Gilbert showed a face of contempt.
+【You are just like Jessica. Quick-witted people sure are annoying.】
+He actually said his sister who revered her brother so much was ‘annoying’. Jessica sure was pitiful.
+Regis shrugged.
+【… This is too bloody for idle chatter. Isn’t it better to talk about the weather or food instead?】
+【I’m not interested in that.】
+【Okay.】
+Gilbert crossed his arms and leaned against the wall.
+The pillar started to creak.
+His eyes turned serious.
+【I heard that you and the Princess are pacifists.】
+【… Yes, that’s right.】
+【But this time, the Belgaria Emperor is ordering you to conquer Hispania… Will you really fight?】
+I see, Regis understood now.
+He was here to probe the true intentions of the commander.
+International relations weren’t that simple. There were many situations when those involved wouldn’t go all out even when war broke out.
+Forcing the war to a stalemate and waiting for mediation was common too.
+And the only ones who would be sacrificed in such a war were mercenaries.
+Bloodshed was inevitable in battles, but nations wouldn’t want to sacrifice their regulars, and would send mercenaries in their stead.
+He seemed to be wary about this war being such a farce too.
+Regis shook his head.
+【… We will take down the Hispania Empire. His Majesty wants us to do so by next year before the snow melts, but I want to complete it by year’s end.】
+【Hmm?! Are you serious?】
+【… If you saw what happened in the last battle, you would understand.】
+【What happened to your ideals?】
+【… Well, that’s the reality of my position right now.】
+Gilbert spat and said:
+【Are you really such a docile man!? Was your clash with the Prince who was more or less confirmed to be the next Emperor all fake!?】
+Regis was surprised.
+He thought that Jessica would come up with the battle plan for 《Renard Pendu》, while Gilbert would lead the men on the frontlines...
+Gilbert was very smart.
+For a combat officer who normally preferred wielding blades to thinking up plans, this was rare.
+Regis scratched his head.
+【… I’m actually a little worried. Will the Princess change her mind when the time comes? Will she prioritize humane treatments instead?】
+【At the very least, she would act differently from you.】
+【Hmm… How should I put this… my thoughts also revolve around pacifism, so we have to move forward.】
+【Hmm?!】
+【Like I said, for the sake of our ideals, I need to defeat Hispania Empire】
+Gilbert gritted his teeth.
+【Just like how Jessica speaks. Strategists always talk in such a roundabout manner.】
+【Ah, sorry about that… Simply put— I think the current establishment in Hispania Empire is an obstacle towards achieving peace with the neighboring countries.】
+【Ohh?】
+【… Because Hispania disguise their navy as pirates, and harass the merchant ships from other nations. They are conducting banditry and fraud on the national stage.】
+【That’s true.】
+【… Pacifism means that people should be united when faced with a crisis, and not the ‘refusal to battle no matter what happens’. That would be impractical.】
+Gilbert asked curiously:
+【You think that Hispania is a ‘crisis everyone should overcome together’?】
+【… I don’t deny that. That nation has already lost its aspiration when it was founded, and is now relegated to a giant criminal organization.】
+Hispania’s territory was once conquered and divided by several powerful nations. After a certain religious group repelled all the foreign forces, they declared their independence. This happened 3 centuries ago.
+Back then, all the citizens were devoted to their religion...
+They had the belief that the ‘citizens of a holy nation should be unsullied and noble’, but it had slowly transformed into ‘the other countries are not from a holy nation, so violence towards them is permitted by god’.
+Regis concluded.
+【… I can’t ignore the actions of the Hispania Empire.】
+Gilbert nodded.
+【I understand. Let me see your proof in the upcoming battle.】
+【… Very well.】
+Since he was willing to take to the battlefield, that meant he believes Regis.
+He left with these parting words:
+【Keep a tight rein on the Princess.】
+【Rein…】
+She isn’t a horse— Regis who was thinking that slowly understood the implication of his words.
+Two weeks later.
+It was already mid-November, but it was still warm enough to wear short sleeves.
+Regis rolled up the sleeves of his uniform and stood on the battlefield.
+【……】
+He shut one eye and observed the enemy’s formation with a telescope.
+As reported, the Hispania Empire deployed a force of only 30,000.
+Since the Belgaria Empire had to garrison their fort, only 40,000 men from the Fourth and Thirteenth Army were mobilized.
+The terrain was uneven, and the Belgarians had the higher ground.
+However, there were large boulders and evergreen trees in the vicinity, so their field of vision wasn’t completely clear.
+Altina stood beside him.
+【The enemy chose this place intentionally, right?】
+【… That’s right. After so many battles, it’s only natural for them to be wary of our firepower.】
+There were many forts along the mountain range at the nation’s borders.
+This was a fort built into a hill that made use of the difficult terrain.
+However, the same principle in liberating Sembione city applies here.
+They just needed to bombard with artillery from a distance, and the enemy would have to come out from their fort. On an open plain, the Belgaria Empire who had the advantage of numbers wouldn’t lose.
+Even if they turtle up in their forts, they would just be attacked one-sidedly by cannons and rifles— the Hispania army must have that in mind when they chose to deploy in this rocky region.
+A sound judgement.
+The bullet paths from the rifles were blocked, and the effectiveness of cannons on open ranks was low.
+Altina pulled out the sword behind her.
+The metallic ‘shink’ drew everyone’s attention.
+【Rifles and cannons can’t be used by either side under such conditions, right!?】
+【Well, it’s not impossible…】
+【It can be used?】
+【… Not just the rifles, the cannons have been upgraded to the newest model. I think they have their own unique way of being used.】
+Just as he was about to explain, a report came in saying 【there is movement from the enemy!
+】
+Regis looked with his telescope.
+【Hmm… Looks like they are spreading out and closing in under the cover of the rocks and trees. Not a bad strategy.】
+【What should we do, Regis? If we fight in a place like this, we will lose if we don’t charge in with momentum. If you don’t want to fight, we should withdraw immediately.】
+Regis thought.
+— She looks more and more like a commander.
+Altina had experienced many battles, and she had been learning hard, and had gotten better at thinking logically.
+Considering her age and circumstances, she was a very bright girl. Maybe she wouldn’t need a strategist one day.
+【… But leave it to me for now.】
+【What is it, Regis?】
+【… The enemy’s strategy is an effective countermeasure against the firepower we showed in the past.】
+【But what about now?】
+【… If a charge is ordered while they are spread out, they won’t be able to command effectively. There aren’t that many competent officers who can grasp their own position on the battlefield, listen for the command issued through bugles, and give the appropriate orders to their subordinates.】
+One reason why the army kept their formation was for the sake of relaying orders, so the instructions from the commander could be relayed quickly.
+Regis said.
+【…Altina, let the cannons fire a volley.】
+【Is there any meaning in doing that!?】
+【I already told them the targets, you just need to give the word.】
+【If you have prepared to such an extent, you don’t really need me to give the order.】
+【No no… that’s not true…】
+He didn’t tell Altina the plan not because he was looking down on Altina.
+But he had prepared several strategies to counter the enemy’s movement, and it would take too long to properly explain all those strategies.
+Even if he did explain them in detail, she wouldn’t remember them all.
+Their forces had over 40,000 men. They had more types of soldier than before, and the battlefield was now more complicated.
+Altina pouted as if she was throwing a fit, then raised an arm.
+【Even if I’m just issuing the order… at least tell me where to shoot, Regis.】
+【Shoot the obstacle.】
+【Is there any meaning in doing that?!】
+【Well… Let’s give it a try. Issue the orders to the artillery soldiers in the front ranks.】
+They were already informed of their targets.
+【Yeah yeah.】
+She rolled her eyes.
+I can’t even — Even though she was thinking that, she didn’t refute Regis’ proposal.
+She took a deep breath, then yelled:
+【Front ranks artillery units! Maintain the target! Fire!!】
+Upon receiving the order, the bugles sounded.
+And then—
+The violent sound of the cannons shook the ground.
+The sound from rifles were already intimidating, and the boom of numerous cannons had even greater shock and awe.
+The soldiers in the frontmost rank had all stuffed their ears with cork.
+Two hundred new cannons had been assigned to the Fourth Army.
+And they were even more powerful than the High Britannia 《41 Elswick cannon》. It weighed as much as the mid-sized old model cannons, but had several times the power.
+Its name was the  《40 Allen cannon》.
+It was breech loaded like the High Britannia made cannons, but the quality of the steel and gunpowder were different.
+They couldn’t make tens of thousands of them like rifles, but every single one was built with care and precision. Crafted by the blacksmiths of the Belgaria Empire, it was of a higher quality than the High Britannia model. As the precision of the chambers and cannon body was better, the Imperial cannons were lighter and more powerful despite having similar designs.
+The munitions were encased in a metal shell.
+High Britannia’s cannons had to load the cannonball, gunpowder and primer separately, but the  《40 Allen cannon》 combined all these components.
+With fewer steps involved, loading was faster.
+However, the downside was the shells being too heavy. One shell weighed as much as 100Lv (50kg).
+But the Belgarian artillery soldiers picked them up easily.
+They fired again.
+The earth was shaking and the air vibrates.
+Unlike the spherical shape of the old model, the projectile was elongated like a bullet. This allowed the lump of metal to travel faster than the speed of sound.
+The boulders and trees covering the slope—
+Were shattered!
+The soldiers from the Belgaria Empire cheered loudly.
+What awaited the Hispania Empire soldiers who were spreading out for their charge, was a battlefield that had changed drastically, where most of the cover had been blown to pieces.
+And countless rifle reports.
+The spread out soldiers either continued to charge or fled in a panic without a strong chain of command.
+By the time the enemy commander ordered a general retreat, the 30,000 enemies had dropped sharply to 20,000.
+Countless corpses laid on the drastically changed terrain.
+Regis shivered.
+【… As expected, rifles are terrifying.】
+【That’s right.】
+【… In past wars, most soldiers who couldn’t fight anymore were wounded, and could at least return to their homes alive.】
+【But war has changed because of rifles.】
+【… Yes.】
+His heart was aching.
+【But we can’t stop here. Right, Regis?】
+【… That’s right. No matter how great our aspiration might be, it is all dream talk if we can’t win the fight before us.】
+Altina nodded.
+She thrust her sword forward.
+【All units, advance!】
+End of Volume 13
+Previous Chapter | Main Page | Next Chapter

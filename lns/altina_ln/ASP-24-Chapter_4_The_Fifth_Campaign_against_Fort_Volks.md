@@ -1,0 +1,1302 @@
+Altina the Sword Princess Volume 2 Chapter 4
+The commander of Fort Volks had been posted here for the past twelve years.
+ 
+General Weingartner was that commander, a veteran 55 years of age.
+ 
+Since being promoted to chief of staff at the age of 43, he had engaged the Belgaria empire and the neighboring nations of Germania in numerous battles, achieving victory each time.
+ 
+Under his skilful command, casualties were minimal. He earned the deep trust of the Duke and soldiers.
+ 
+His hair was all white, and he looked 60 based on his appearance. Because of his attention to detail, he got up every morning at the same time, had the same breakfast, did the same inspection, and trained the same way. The timing for these actions were known to be more precise than a clock.
+ 
+He got up 15 minutes early one day, making the maids panic as they thought they overslept and the chef apologizing for being late.
+ 
+From that day, even if Weingartner would only get out of bed when the hands of the clock hit 5am, even when he woke up earlier.
+ 
+But his daily routine was changed by a report.
+ 
+"The imperial army is attacking from the south!"
+ 
+Fort Volks was filled with tension and excitement.
+ 
+Many of the soldiers were boastful and arrogant because of the Fort's solid record, but the strength of the Belgarian empire was renowned.
+ 
+If it mustered its troops from the various battlefronts, they would exceed 100,000 easily.
+ 
+The preliminary reports indicated 2000 enemy troops, but from past experiences, no one in the command headquarters thought that this would be the entire force.
+ 
+The flag of the Varden Duchy hung from the plain white wall, in a simple room with just a single long black table.
+ 
+In this battle conference room, Weingartner and his 7 staff held a meeting.
+ 
+The new chief of staff read the report again.
+ 
+"-- We will probably see the Imperial army tomorrow."
+ 
+The young general stood up and said:
+ 
+"Our Fort Volks is invincible! We will send them flying back home!"
+ 
+"That's right!"
+ 
+"No matter how many thousands of soldiers the empire might send, they won't take a single step into our Fort Volks!"
+ 
+Everyone was in high spirits too.
+ 
+But Weingartner crossed his arms in silence.
+ 
+He simply listened to his staff conversing.
+ 
+After a while, he spoke:
+ 
+"There were no reports of the imperial army mustering their forces. We didn't receive any intelligence about a massive overhaul in Fort Sierck too. From the scale of the Fort, it's impossible to raise an army over 10,000 in numbers. From the looks of things, there must be some issues in the empire. Probably something to do with the royals and nobles... We can't be careless... But there's no need to panic."
+ 
+So that's how it was. The staff members nodded in agreement.
+ 
+They felt uneasy because a strong nation was attacking, making them spout agitated words. But the old general calmed them down with his speech.
+ 
+The chief of staff asked.
+ 
+"Commander, what should we do?"
+ 
+"First, we need accurate intelligence of our opponent."
+ 
+"Understood. I will dispatch a reconnaissance team. We will get a clearer picture in an hour."
+ 
+"I leave it in your hands."
+ 
+The chief of staff gave his instructions to his subordinate standing by behind him.
+ 
+The others staff expressed their views.
+ 
+"Conduct the inspection of the cannons that were scheduled for next week now."
+ 
+"That's right."
+ 
+"I will prepare the men for battle."
+ 
+"I will check the walls."
+ 
+With their roles assigned, the staff went about their task.
+ 
+As the members started to take action, Weingartner asked one of the staff:
+ 
+"What happened to the cavalry unit that went out a few days ago?"
+ 
+"... There is still no news. They were probably attacked by the savages. We sent out a 500 men group to search for them twice, but we can't locate their bodies."
+ 
+"Is that so... It's regrettable, we will send their families our condolences along with the death notice and the entitled payout."
+ 
+"Yes sir!"
+ 
+The staff stood at attention and saluted.
+ 
+He pivoted on his heel to turn right and jogged out of the conference room.
+ 
+Weingartner was left alone.
+ 
+"..."
+ 
+News of general Jerome losing the duel at the end of last year and the 4th princess gaining actual command had reached his ears.
+ 
+The black knight might be tough, but he was still the Margrave of the nation, there was no way he would point his blade at royalty. Things made sense when he thought about it that way.
+ 
+Next would be this campaign.
+ 
+Were the young and naive princess' ambitions driving this?
+ 
+Or was it something else?
+ 
+No matter the reason, he didn’t think this campaign was better prepared than any previous attack he faced.
+ 
+Weingartner got up from his seat and went to the dining hall as usual. The chefs served his meal as usual too.
+ 
+--The next afternoon--
+ 
+The chief of staff in charge of reconnaissance charged into the conference room.
+ 
+"The imperial army is here!"
+ 
+"That's slower than expected."
+ 
+"That's because they positioned the cannons in the forest..."
+ 
+An explosion boomed at this very moment.
+ 
+Weingartner frowned.
+ 
+He exited the conference room, passing through the cavern like passageway. He came to the observation deck made by digging through the outer walls.
+ 
+He watched through the crack of the boulders and surveyed the plains south of the fort.
+ 
+It was a forest that had withered in the winter.
+ 
+Because it was used for military training, it was now a barren land with almost no greenery.
+ 
+The imperial army could be seen right outside the forest.
+ 
+It was 42Ar (3km) away from the outer walls off the fort.
+ 
+Fort Volks' cannons were the latest version purchased from High Britannia. With the advantage of being on higher grounds, it's range was much further.
+ 
+But even so, that place was just out of range.
+ 
+According to scouting reports, the imperial army seemed to have prepared medium sized cannons.
+ 
+The range was said to be 28Ar (2km). Both parties couldn't hit each other from this range.
+ 
+"The bastards from the empire... What are they thinking, setting up their cannons at such a distance?"
+ 
+They fired another round.
+ 
+White smoke came out of the cannon, and an explosion could be heard shortly after.
+ 
+"Misfire?"
+ 
+None of the staff could answer this question.
+ 
+The other cannons emitted white smoke too.
+ 
+Explosions boomed once again.
+ 
+The explosion was quite a distance from the fort.
+ 
+Weingartner frowned.
+ 
+"Did the reconnaissance team see anything else? Just cavalry, infantry and cannons?"
+ 
+"Yes! There were huge amounts of food and supplies too."
+ 
+"Supplies?"
+ 
+"We confirmed a large amount of crates and large tents."
+ 
+"Are they planning a long campaign?"
+ 
+"That seems to be so!"
+ 
+The staff felt uneasy over the unfathomable actions of the imperial army.
+ 
+Weingartner fell into deep thought.
+ 
+"... With their cannons, it's hard to draw near to scout them. Increase the men on the observation deck; be wary of night raids."
+ 
+"Yes sir!"
+ 
+"Also, send scouts to Sierck Fort periodically. They might be planning for the advance party to stall for time while they plan a massive reinforcement."
+ 
+"So, so that's it!"
+ 
+The unknown was scary.
+ 
+With the strange movement of the imperial army, the possibility raised by Weingartner was taken to be the only answer.
+ 
+Setting up a base right before the fort while mustering their strength there. They were certain it was a strategy the formidable empire would adopt.
+ 
+On the flip side, this meant that they were thinking optimistically that 'Fort Volks won't fall unless the opponents send an unbelievably huge army.'
+ 
+"If the empire is planning a large reinforcement, we need to defeat the advance party before they link up with the main force. There might be a need to leave the fort for battle, make preparations."
+ 
+"Yes sir!"
+ 
+The staffs closed their feet in attention and saluted in response to Weingartner's command.
+ 
+That was the first day.
+ 
+On the third day of the battle--
+ 
+The cannon fired nonstop throughout the night and day.
+ 
+They couldn't hit their targets, but the explosions could still be heard.
+ 
+The earth was also trembling.
+ 
+The faces of the staff looked frail.
+ 
+"Some of the troops reported insomnia and feeling ill. There were also concerns that the tremors might cause the mines to collapse."
+ 
+Weingartner shook his head and said:
+ 
+"What nonsense, the mines were excavated by dynamites in the past, the caves wouldn't collapse with just this amount of shock... And the walls were actually hit by cannons in previous battles. How would cannon fires that couldn't even hit us cause it to collapse. Shut the mouths of those saying such nonsense. If they want to protest, throw them into the dungeons."
+ 
+"Yes sir!"
+ 
+The staff who held that view remained silent.
+ 
+A different staff stood up.
+ 
+"The scouts had returned from Sierck Fort. There is no signs of major reinforcements... Yet."
+ 
+"Continue the reconnaissance."
+ 
+"Yes sir!"
+ 
+"Commander, let's attack! The opponents are just 2000 strong! We have more than 4000 troops! We will definitely emerge the victor in an open plain battle!"
+ 
+"... They have the black knight."
+ 
+"What can one man do!?"
+ 
+This hot blooded young man was named Zechmeister.
+ 
+20 years of age, a youth with curly brown hair. His eyes were deep black. He possessed the ability that matched his strong body and tough face.
+ 
+In a skirmish with the neighboring nation of Beyerberg and was complimented by the Duke.
+ 
+Weingartner squinted his eyes.
+ 
+"I took part of the battle of Erstein... That was a joint campaign by the kingdom of St. Prussia, Kingdom of Sturmgart and us, the Duchy of Varden. The total force number 20,000 men, with a heavy cavalry vanguard 3,000 strong."
+ 
+"I know but..."
+ 
+"Then you should know he is not someone to be trifled with. The heavy cavalry was shattered by black knight Jerome and his 500 riders, and that campaign ended in failure."
+ 
+"But commander! We the green bronze knights are different from the useless St. Prussia heavy cavalry! And we have the silver lances bestowed to us by the Duke!"
+ 
+The newly developed metal shipped in from high Britannia was evaluated to be as good as fairy silver.
+ 
+Only royalties, generals and people related to the Belgaria empire possessed fairy silver weapons, so it was not tested against it yet. But there was no doubt the new metal was better than normal weapons.
+ 
+Zechmeister was bestowed with 100 of these lances which were equipped by his subordinates.
+ 
+Even Weingartner wondered if the achievements of the black knight were thanks to his powerful lance 'Le Cheveu D'une Dame'.
+ 
+But the cautious old general shook his head.
+ 
+"The empire's cannons won't reach us and the outer walls are unharmed. It is meaningless to leave the fort. Isn't that the enemies' ploy?"
+ 
+"That, that is..."
+ 
+"Zechmeister, sharpen the lance bestowed to you by the Duke. It would be put to use soon."
+ 
+"..."
+ 
+The youth lowered his gaze.
+ 
+'He is too young', Weingartner thought as he sighed.
+ 
+The shelling continued through the 3rd night.
+ 
+The morning of the 4th day--
+ 
+With the constant bombardment, even Weingartner couldn't keep to his sleep routine.
+ 
+'Just lie down and rest even if you cannot sleep', Weingartner had told his soldiers. So he still laid down and rested even though he couldn't catch a wink.
+ 
+The door was knocked loudly.
+ 
+"Commander!"
+ 
+"What happened?"
+ 
+"The green bronze knights have moved out!"
+ 
+"!?"
+ 
+Weingartner jumped out of bed. He was still wearing his uniform, and he knew he wouldn't have time to change in an emergency.
+ 
+He opened the door without stopping and headed straight into the conference room to hear the report.
+ 
+Half of the staff were gathered at the observation deck.
+ 
+And of course, Zechmeister wasn't there.
+ 
+The chief of staff pointed through the cracks of the boulders.
+ 
+"They are clashing now!"
+ 
+"Why did it turn out this way..."
+ 
+Weingartner could only pray, hoping the green bronze knights could defeat the black knight Jerome.
+ 
+The cavalry charged through the cannon fire and survived the shots of the muskets. Zechmeister led the 500 green bronze knights and closed in on the imperial army.
+ 
+"Wargghh--!!"
+ 
+They were about 10Ar (715m) from the annoying cannons.
+ 
+The black knight appeared there. Their opponents were 300 horsemen.
+ 
+He said in Belgarian:
+ 
+"Hmmp... I was just getting bored. Do your best to entertain me, moles of the Duchy!"
+ 
+Because Fort Volks was originally a mine, so moles were used to describe those dwelling in that fort.
+ 
+Zechmeister knew that too.
+ 
+He retorted in Germanian:
+ 
+"Hmmp! The black knight is just a rusty lance that basks in its past glory! I will take you down with my silver lance!"
+ 
+"A mole out of its hole is worse than rats."
+ 
+"Shut your trap!"
+ 
+Zechmeister spurred his horse on.
+ 
+He charged.
+ 
+The green bronze knights of the Varden Duchy and the knights led by Jerome clashed in battle.
+ 
+Urging his horse forward, Zechmeister lunged his lance made from new metal. 
+Black knight Jerome blocked the blow with his silver lance 'Dame's Hair'.
+ 
+"Huh. Is that lance just good for its color?"
+ 
+"Stop your nonsense! You are at your limits with just defending!"
+ 
+Zechmeister didn't give his opponent any chance to fight back, attacking consecutively.
+ 
+Jerome might be skillful with his lance, but the new metal was said to be able to rival the fairy metal lance that could shatter normal weapons.
+ 
+'I have the edge in terms of ability', Zechmeister judged.
+ 
+He had the advantage!
+ 
+His foe was barely able to keep up with defense.
+ 
+"I can win! I can defeat the black knight!"
+ 
+"Kukuku... This seems to be a new type of lance. I thought it might be something special... But it's hard to judge if the user is only at this level. I will pick it up for further research."
+ 
+"What!?"
+ 
+"Hah!"
+ 
+In response to Zechmeister thrust attack, Jerome lunged strongly with his lance.
+ 
+Zechmeister's lance was deflected away wildly.
+ 
+It almost flew out of his hands.
+ 
+Zechmeister held on to his weapon, but he showed a gap-- the tables had turned.
+ 
+"Haaah!!"
+ 
+"Uguoohh--!?"
+ 
+Attacks too fast for the eyes to see were sent out repeatedly.
+ 
+Zechmeister held his breathing as he dodged and blocked with his lance. But a glancing blow still landed on his shoulder and neck.
+ 
+How is this humanly possible!?
+ 
+A chill was sent down his spine.
+ 
+Death was closing in on him.
+ 
+Each of Jerome's attacks were heavy enough to numb Zechmeister's hands; they were as fast as bullets and impossible to read.
+ 
+He followed the lance closely with his eyes and managed to fend it off. The blow could be felt throughout his body, making Zechmeister think his hands were going to break.
+ 
+He couldn’t find a chance to counter.
+ 
+"Kukuku... Quite impressive. Could you keep up if I go faster?"
+ 
+"Stop your arrogant lies!"
+ 
+Jerome should be using his full strength.
+ 
+Zechmeister only noticed when he felt a warmth spreading from his left arm.
+ 
+"Shyaa... Ah...!"
+ 
+Jerome’s lance had stabbed him in the arm.
+ 
+Zechmeister struggled to thrust his lance, attempting to push his foe away.
+ 
+"Hmmp, useless scum. If you don't watch the opponent when aiming..."
+ 
+The thrust was dodged and Zechmeister couldn't create any distance.
+ 
+The lance in his left arm was pulled back and struck again.
+ 
+Zechmeister couldn't defend.
+ 
+He twisted his body but his flank was still hit.
+ 
+"Uguuuu--!!"
+ 
+With the rider slumping down, the horse understood it had lost and fled. The green bronze knights retreated in a panic too.
+ 
+Jerome lifted one hand, restraining his knights from pursuing.
+ 
+"The cannonballs will come flying if we get any closer! Fall back!"
+ 
+The black knights retreated.
+ 
+And the bombardment that wouldn't hit started again.
+ 
+When his horses returned to Fort Volks, Zechmeister body was already cold.
+ 
+Weingartner and the staffs received his body with a pained expression at the main gate.
+ 
+The green bronze knights carefully lowered Zechmeister from his horse and laid him onto a bed.
+ 
+The youth that failed to become a hero would never open his eyes again.
+ 
+Weingartner had been on the battlefield before Zechmeister was even born.
+ 
+But he still couldn't get used to death.
+ 
+He pressed his temples and offered a silent prayer.
+ 
+Sometime later--
+ 
+Weingartner ordered the body to be send to Jenkins family with full honors.
+ 
+He looked towards the main gate absent mindedly
+ 
+The gate was closed, so he couldn't see the imperial army.
+ 
+"... The bombardment stopped."
+ 
+He mumbled.
+ 
+The chief of staff tilted his head.
+ 
+"Did they finally exhaust their ammunition?"
+ 
+"No, it should begin again shortly. They started firing immediately from the very beginning, they only stopped now. This is probably a moment of silence for the dead."
+ 
+"Eh!? No, that... Indeed..."
+ 
+When a general fell in battle and the horse ferried the body back, it was normal to offer prayers on the grounds of religion.
+ 
+But how could the Belgarians know their enemies so well with the gate closed?
+ 
+"From what I know about Jerome, he is not interested in such matters. Could it be the instructions of the new commander, 4th princess Marie Quatre..."
+ 
+"It does seem like something royals who like grand ceremonies would take note of."
+ 
+"I did think it was preposterous for a 14 year old girl to be a commander... But she might be better at war than expected. But in that case... What's the reason behind the bombardment that won't reach?"
+ 
+"So it is indeed a ploy for us to rush out impatiently like Zechmeister?"
+ 
+"That might be so. Ban all units from attacking without orders. Convey this command to everyone."
+ 
+"Yes sir!"
+ 
+The chief of staff answered with a salute.
+ 
+The 7th day of the battle.
+ 
+The chief of staff reported at noon.
+ 
+"The reinforcements from the capital would arrive tomorrow morning. We would then be able to repel the enemies."
+ 
+"Hmm."
+ 
+Moving troops from the capital to the fort would only take 2 days, it had been several days since these enemies showed up. Weingartner thought the capital was taking things too lightly.
+ 
+"There have been no casualties, but a lot of the men complained they couldn't sleep because of the cannons. There is a line before the infirmary right now."
+ 
+"Please do what you can about this."
+ 
+"Yes! Recently, the soldiers had the illusion of hearing sounds besides cannon fire."
+ 
+"They kept hearing things?"
+ 
+The chief of staff nodded.
+ 
+Weingartner bended his head to the side and said:
+ 
+"I didn't feel anything at all... Did a lot of the men have this problem?"
+ 
+"Several of the troops residing on the first level seemed to be hearing things. Maybe the impact from the bombardment is too strong."
+ 
+"When doing my rounds, I felt the higher levels to be shaking harder though."
+ 
+Something felt off.
+ 
+A force too small to attack a fort.
+ 
+And the lack of intention of their foes in bolstering their forces.
+ 
+The nonstop cannon fire that couldn't hit its target.
+ 
+Food and crates with unknown purpose. Large tents.
+ 
+The riders that disappeared in the barbarian's forest might be connected to this.
+ 
+And the men on the first floor hearing things beside cannon fire.
+ 
+Sound.
+ 
+Weingartner stared at his feet.
+ 
+"... Could it be..."
+ 
+"What's the matter?"
+ 
+"Chief of staff, gather the men. The floor of the armory--"
+ 
+An exceptionally large tremor shook Fort Volks.
+ 
+Several of the staff couldn't stand and fell onto their knees.
+ 
+Weingartner charged out.
+ 
+"Gather the men! From underground! The enemy must be coming in through the armory!"
+ 
+"General!"
+ 
+None of the staff understood these words immediately.
+ 
+From the conference room situated at a height of 100Co (44m), Weingartner climbed down the numerous slopes and stairs.
+ 
+Along the way, his vision was obscured by white smoke.
+ 
+It smelled of smoke.
+ 
+There were sounds of swords clashing.
+ 
+One soldier shouted:
+ 
+"It's the enemy!"
+ 
+Weingartner realized Fort Sierck had been infiltrated by the Imperial army.
+ 
+They came from beneath the ground.
+ 
+ 
+2 hours before the infiltration--
+ 
+In a plain near the forest. Boulders of various sizes were scattered around his feet. The soil looked dry, hard and uncultivable.
+ 
+Using one of the boulders as a table, Regis spread out his map.
+ 
+The work team leader squatted besides him.
+ 
+"We finally made it, Mr. Strategist."
+ 
+"So it's done?"
+ 
+"If we were aiming for the main gate, we would have finished last night..."
+ 
+"It can't be helped. Just reaching the main gate would increases casualties as we can’t achieve a decisive victory... If they found out about the tunnel and attacked it with cannons, the hastily constructed tunnels might collapse..."
+ 
+"Aye. But the ground is hard around here, so the worry is not the tunnel collapsing, but digging through... Sorry it took 3 days longer than planned."
+ 
+"There are too many boulders."
+ 
+They encountered rocks hard enough to deform shovels while digging the tunnel. Small amount of explosives were slotted into the rock crevices to blow it up in such instances.
+ 
+And they also did piling work to build pillars to strengthen the tunnel.
+ 
+All these construction works were noisy.
+ 
+Regis fired the cannons nonstop to use the cannon explosions as cover for the construction works.
+ 
+On a side note, tools of this era could dig about 40Pa (296 cm) in 30 minutes.
+ 
+Professionals were hired for the task, and were fostered into shifts, working all hours of the day.
+ 
+The crates disguised as food were actually tools used for tunnel construction, since they didn't plan for a long campaign from the very beginning.
+ 
+The excavated soil was hidden in giant tents, and then disposed farther away in the night.
+ 
+"And finally, we will blast through their floor with dynamites. A pit will be dug right under it so the collapsed earth won't clog up the tunnel."
+ 
+"According to the blueprints, blasting the floor of the armory would be fine... But their ammunition cache seems to be in a room further down."
+ 
+"That means the ammunition cache is right next door."
+ 
+"I don't want to imagine that... But any error in the measurement will make the entire Fort and the 4000 people in there go up in smoke... The work team and breaching team will be caught in the explosion too."
+ 
+"The empire's measuring skills are the best in the world. Please trust us, Mr. Strategist."
+ 
+"Yes... I leave it in your hands."
+ 
+They obtained the same information from the green bronze knights prisoners; the location of the ammunition cache remained the same.
+ 
+But there were always exceptions.
+ 
+As the work team leader focused on his task, Regis stared hard at the blue print.
+ 
+Footsteps walking closer could be heard.
+ 
+"You will catch a cold again alright?"
+ 
+"... Ah, Altina."
+ 
+"The tunnel seems to be almost done."
+ 
+"Eh!? How did you find out?"
+ 
+Regis tensed up.
+ 
+Did he leak the news due to his carelessness?
+ 
+Altina reached over.
+ 
+She pinched his cheeks and said:
+ 
+"Because you are making a scary face."
+ 
+"Ugh..."
+ 
+"Don't make an expression as if you are going to die. Aren't things going well?"
+ 
+"Yiss."
+ 
+She released Regis' cheeks.
+ 
+It still stung.
+ 
+"We will win if we get into their armory?"
+ 
+"... I think so. A well prepared soldier in full armor on the first day would only carry a sword by the 7th day."
+ 
+"That's true. It is hard to go about your day in full armor."
+ 
+"They are probably rather... Sleep deprived..."
+ 
+"It's the same here. We are only doing better because of our ear plugs."
+ 
+"Yeah."
+ 
+Because they would be conducting artillery bombardment through the night, the empire had prepared a set of ear plugs for everyone.
+ 
+To prevent the sneak attack of the enemy, they had been drilled on how to convey messages to everyone in an emergency.
+ 
+"If we suppress the armory, the enemy won't have access to their armor and pikes... We can't use our pikes in the mines too, but we have the advantage with our shields and armor. Most importantly, the enemy will definitely be in disarray."
+"They won't even know why the imperial army is there."
+ 
+"Ah... The next step is... dividing into the team holding the enemy back, the team to suppress the main gate and the team to take the cannons."
+ 
+After wresting away control of the cannons and the main gate, the imperial army could charge right in.
+ 
+"But they have the advantage in numbers right?"
+ 
+"That's right, but considering the preparedness and morale, we will manage somehow."
+ 
+"Are we leaving the enemy general alone?"
+ 
+"... A fort commander without his troops and cannons wouldn't matter."
+ 
+"Right."
+ 
+"If we gain control of the cannons, it will be the empire's victory... right here..."
+ 
+Regis pointed with his finger and said:
+ 
+"... If we succeed in our attack, we will raise the flag."
+ 
+"And we will win?"
+ 
+"Yes. If the rest of our units move in, it would be over."
+ 
+"If we can't raise the flag?"
+ 
+"Then the mission would be a failure... We would retreat... And hope things would be settled with just my court martial..."
+ 
+"Hmmm... Then I have to join the first wave."
+ 
+"Huh!?"
+ 
+"Controlling the cannons is the most important step correct?"
+ 
+"That's true but..."
+ 
+"Then I have to go!"
+ 
+"Don't be silly Altina... You are..."
+ 
+"What? Are you going to say I am a girl or a child now?"
+ 
+"Aren't you injured?"
+ 
+"Hmmp, I can go if I am not injured right?"
+ 
+"... Ah, that's right. Because of the space constraint in the tunnel, the infiltration team would be limited in numbers. Those who can't take fight can't be in the team... Sir Jerome would take care of the infiltration efforts, Altina, you need to stay here and charge in with the cavalry when the flag rises."
+ 
+The injuries were just an excuse.
+ 
+Regis just didn't want her to take the most dangerous role.
+ 
+It's admirable for the commanders to want to lead from the front, but that would be dependent on the battle plan. The infiltration team would be isolated if the plan fails. They might also get buried alive or blasted to smithereens along with the Fort.
+ 
+"Yes, I understand."
+ 
+"I'm glad you are so understanding..."
+ 
+"I understand there wouldn't be a problem if I didn't get injured!"
+ 
+Altina used her left hand that should be wounded to grab a rock near her feet.
+ 
+It was about the size of a human head.
+ 
+Phew~, she regulated her breathing.
+ 
+"Haaaahhh~!!
+ 
+She seemed to be pumping herself up.
+ 
+The soldiers nearby gathered over to see what was the commotion about.
+ 
+Regis looked closely.
+ 
+"Haahhhhhahhh~!!"
+ 
+Altina yelled loudly.
+ 
+Some distance away, the cannons of the empire continued firing, emitting a earth shaking explosive sound.
+ 
+At the same time--
+ 
+The rock shattered.
+ 
+The rock in Altina's left hand disintegrated into pieces. This was no longer about injuries, but something shocking that seemed to be beyond the abilities of humans.
+ 
+"Great!!"
+ 
+Altina clenched her left fist happily.
+ 
+The troops that were watching cheered. They probably thought it was some kind of performance.
+ 
+Regis was speechless.
+ 
+Altina stared at him gleefully.
+ 
+"I'm not injured right!?"
+ 
+"That's too reckless!"
+ 
+"I am healed."
+ 
+That's one and a half month earlier than what the lady doctor said!?
+ 
+"But, but... For the Princess to assume command and to attack through the tunnels..."
+ 
+"What, so what you said earlier was a lie?"
+ 
+"Ugh... That's not..."
+ 
+"Alright then, it's decided! Leaving me out until the battle is over is too mean!"
+ 
+"... You are the one being mean. My stomach ulcer is killing me."
+ 
+"Watch your health okay?"
+ 
+"You should be the one doing that... Well, I will join the infiltration team too."
+ 
+"Hmmm? Regis is fighting too?"
+ 
+"Fighting is impossible... I am going on scene to coordinate. It would be easier to deal with things if there are problems and increase the success rate... So I hope Altina can stay by my side."
+ 
+"Eh!?"
+ 
+Her face turned red.
+ 
+"I will come up with the ideas, you will give the command, that's how a commander should be right?"
+ 
+"That, that's right."
+ 
+"Do you understand?"
+ 
+"Yes."
+ 
+Altina kept nodding her head.
+ 
+Regis breathed a sigh of relief. It was impossible to exclude her from the infiltration team but...
+ 
+"Great... Then we will be team 4."
+ 
+"Huh!?"
+ 
+"Team 1 will fend off the enemy troops, Team 2 will take the cannons, Team 3 will capture the main gate. Team 4 will provide aid if any of the other teams face any problems. All of them are important, so there shouldn't be anything to be unhappy about right?"
+ 
+"I want to raise the flag! Team 2 is definitely better!!"
+ 
+"... Ahhh? You are not keeping your promise? Didn't you say that you will stay by my side?"
+ 
+"Ugh!?"
+ 
+Tears welled up in Altina's eyes.
+ 
+Regis cowered.
+ 
+She rubbed her eyes and ran as if she was fleeing.
+ 
+"Waahh! Regis cheated me~~!!"
+ 
+"Wait...!?"
+ 
+He couldn't deny that but the stares from his surroundings stung. What if weird rumors start to spread!?
+ 
+Just as Regis who was left alone and was wondering what to do, the work team leader came over.
+ 
+"Erm~ Mr. Strategist?"
+ 
+"Ugh... Are there any problems!?"
+ 
+"No, just that the pieces of that rock, can you give it to me?"
+ 
+"Hah? The rock shattered by the princess? Why?"
+ 
+"To use as an amulet! For such a beautiful princess to crush iron ore with her bare hands is too amazing! It would definitely give blessings in shattering boulders!"
+ 
+"Ah, huh..."
+ 
+A strange new religion was created, Regis thought with a headache.
+ 
+ 
+Everyone in the tunnel held their breath.
+ 
+Altina was pouting in the beginning, her forehead started to sweat and she had a serious expression in the silence before the infiltration.
+ 
+This trip would be meaningless if I don't join in -- Eric said and took part as well.
+ 
+The soldiers were lined up in file formation in the tunnel.
+ 
+The torch held by the leading soldier was the only light source, it was very dark. Everyone held their breath in order to keep the noise to a minimum before the infiltration.
+ 
+With 30 members in each team -- including the reserves in team 6, there were 180 members in the infiltration group.
+ 
+The work team leader lit the fuse.
+ 
+The fire traveled along the fuse.
+ 
+Towards the ceiling.
+ 
+The soldiers cupped their ears and opened their mouth, preparing for impact. Regis, Altina and Eric did the same.
+ 
+There was an explosion and the soil fell at the same time.
+ 
+A large amount of dirt fell from the ceiling. Regis was worried about the prospect of being buried alive... But fortunately, he was just covered in dust and sand.
+ 
+The command "Attack!!" was heard from the front.
+ 
+Altina beside him shouted "Attack~!!" loudly.
+ 
+The measurements of Belgaria were praiseworthy indeed. They couldn't make the measurement freely in enemy grounds and had to depend on an old blue print, but the breach was still situated right before the armory.
+ 
+Although the plan was to go straight into the armory.
+ 
+Team 1 climbed out of the hole.
+ 
+That was the first instance in history of Belgarian soldiers stepping inside Fort Volks.
+ 
+Under the cover of black gunpowder smoke and dust, the imperial army formed ranks with short spears.
+ 
+"Move! Move!"
+ 
+"What's happening!?"
+ 
+"Hahhh~~!!"
+ 
+"Wahhh!?"
+ 
+The soldier that was pierced in the chest died instantly. He didn't expect it to be an enemy attack and thought it was the tunnel collapsing. He had a shovel instead of a sword in hand.
+ 
+With his comrade dead, the other soldier screamed:
+ 
+"It's the enemy!"
+ 
+That soldier was silenced by the imperial spear too.
+ 
+Right after team 1 exit, team 2 made their way to the stairs.
+ 
+Team 3 then headed towards the main gate.
+ 
+Regis and Altina were in team 4 right after them.
+ 
+"Hah!"
+ 
+She took a deep breath after coming out of the hole.
+ 
+She should be having an easier time than the soldiers in full armor and shields, but because of her giant sword, she had a hard time scaling the rope ladder.
+ 
+The sword was as long as a short spear, so it could be used in the confined tunnel. That's why Altina bought the giant double edged 'Grand Tonnerre Quatre' with her.
+ 
+The national treasure of the empire bestowed to her when she was appointed the commander of Fort Century.
+ 
+One of the 7 swords of the 'Flame Emperor'.
+ 
+Because she had injuries, the plan was to use it as a symbolic decoration, but...
+ 
+The morale of the troops went sky high.
+ 
+Finally, the empty handed Regis scaled the rope ladder the slowest. As he was climbing slowly, Eric who went in before him offered a hand to him.
+ 
+"I'm pulling!"
+ 
+"Ah..."
+ 
+He felt his body floating up.
+ 
+Regis was lifted up.
+ 
+"Are you okay, Sir Regis?"
+ 
+"... Thank... Thank you."
+ 
+"Please keep your head down."
+ 
+"Yeah."
+ 
+"Mu~~~"
+ 
+Altina pouted.
+ 
+This was the main passageway of Fort Volks, so it was wide enough for pikes to be used. There were signs of tracks, so carts were probably used here too.
+ 
+The walls were of stone without windows.
+ 
+The passageway was illuminated by candles, but most of them were blown out by the wind of the explosion.
+ 
+The infiltration group knew this and brought torches with them.
+ 
+Altina leaned over.
+ 
+"Regis, what should we do?"
+ 
+"The plan was to support the teams that run into trouble but..."
+ 
+With a loud bang, someone fell down the stairs.
+ 
+"Hyaa-!!"
+ 
+It was a heavy armored imperial soldier! His armor was dented.
+ 
+And it was not only one man.
+ 
+One after another, men were falling from the floor above.
+ 
+‘There seems to be a problem,’ Regis thought as he wiped the dirt from his face.
+ 
+"Ugh... were the guards defending the cannons stronger than expected?"
+ 
+Eric said as he drew his sword.
+ 
+"Sir Regis, Let me support them with team 5!"
+ 
+"Well..."
+ 
+The safety of Altina was the top priority, but Eric was a young knight entrusted to him by Evrard. After seeing the dented armor and helmet of the fallen soldiers, Regis hesitated entrusting this to him.
+ 
+But if it took too long to capture the cannons, the group numbering less than 200 would fall from the attrition of fighting 4000 enemy soldiers.
+ 
+"Team 4, we are going!"
+ 
+"What!? Alti... Princess!?"
+ 
+"We need to reinforce them right!? Help out the team in trouble!"
+ 
+She charged up the stairs as she spoke.
+ 
+The soldiers jogged along, shouting "Follow the princess! Follow closely!"
+ 
+Regis hugged his head.
+ 
+"I did say that but... Ah, really, that's what I said!"
+ 
+He charged in too.
+ 
+Eric moved alongside him.
+ 
+"You do believe."
+ 
+"Eh?"
+ 
+"You do believe that if it was the princess, she wouldn't lose to anyone."
+ 
+"... I promised to trust her... But..."
+ 
+But he was still worried.
+ 
+The enemy was responding faster than he expected.
+ 
+He could feel the chaos fading away. They might have prepared for such a situation and trained for it.
+ 
+The soldiers of Fort Volks were not well equipped, but they still begun their counter attack.
+ 
+There was no time to waste on suppressing the cannons.
+ 
+When Regis went up the stairs, he saw Altina taking a stance with her sword.
+ 
+The troops around her also held their spears and swords.
+ 
+This area was used to put stores when this was still a mine, so it was slightly wider.
+ 
+"Could it be, that you are the commander?"
+ 
+Before them was an elderly man in military uniform.
+ 
+His hair was white, but his eyes were sharp.
+ 
+"Yes, I am the commander of Fort Volks, Weingartner."
+ 
+He spoke fluent Belgarian.
+ 
+"I am Marie Quatre Argentina de Belgaria. Commander of the border regiment."
+ 
+"I did hear the news... but you are really young, princess of Belgaria."
+ 
+"Ara, I will be 15 in spring. Won't I be an amazing lady by then?
+ 
+Weingartner sighed and said:
+ 
+"Leading an army at such a tender age, and making it all the way here. Infiltrating from underground... Impressive."
+ 
+"Hmmp, that's right. But it's not my idea though."
+ 
+"Oh?"
+ 
+Altina looked at Regis behind her.
+ 
+Seeing that Regis was unarmed, Weingartner nodded and said:
+ 
+"A strategist?"
+ 
+"That's right, my strategist!"
+ 
+"In the past, digging tunnels were not an uncommon tactic; it is hard to defend even if you knew it was coming... But this tactic was made obsolete as cannons can cause the tunnels to collapse. To think the cannons were meant to cover up the noise of constructing the tunnel..."
+ 
+"Hmmp."
+ 
+Altina puffed out her chest.
+ 
+Her face seemed to have 'my strategist is amazing' written all over it.
+ 
+Weingartner gritted his teeth in regret.
+ 
+Regis shied away when he was glared at.
+ 
+"Erm... Sorry..."
+ 
+"I will say again that it was impressive, and it was my failure to not detect this. But..."
+ 
+Weingartner shouted with all his might, his fist also trembled.
+ 
+"I will not let you pass through here! You can either go back to the hole on your own or as a corpse!"
+ 
+He raised the iron staff in his hands.
+ 
+There was no spear tip, it was just an iron staff. But the image of the fallen soldiers showed that it carried enough weight to crush helmets and skulls.
+ 
+Altina held her sword with both hands.
+ 
+Regis shook his head and said:
+ 
+"Princess, please act with care... There is only one man, there are many ways of dealing with him."
+ 
+"Yes, princess! Let me go in your stead!"
+ 
+Eric advised her too.
+ 
+"No! If I avoid this here, no one will follow me in the future. I need to keep showing my might in order to advance my cause!"
+ 
+Altina moved forward.
+ 
+The troops all took a couple of steps backwards to avoid getting caught in the fray. They all saw the duel half a month ago.
+ 
+They weren't here as bystanders this time.
+ 
+The troops here left everything in Altina's hands, just like they trusted Jerome or Evrard.
+ 
+It had nothing to do with appearances, age or position.
+ 
+The troops trusted the strongest person on the battle field.
+ 
+Regis felt the huge disparity -- Although he was a soldier too, but his way of thinking and values were different from them, so he couldn't look at things in the same way as them.
+ 
+For Regis, Altina was the 4th princess of the empire and a 14 year old girl. Both her sword and teacher were top class, but she was still a girl.
+ 
+It couldn't be helped if he worried or felt uneasy.
+ 
+He couldn't chase the image of the broken helmets on the fallen soldiers out of his head.
+ 
+"Princess..."
+ 
+"What? It's too late to stop this now okay?"
+ 
+"Yes... But please don't force yourself..."
+ 
+"Yes, I promise you."
+ 
+Altina concentrated on the foe before her, speaking to Regis with her back towards him.
+ 
+"I will definitely win! So follow me!"
+ 
+She kicked the ground as she shouted.
+ 
+Weingartner waved his iron staff in response.
+ 
+"I can't lose either! I will not hand the land of Varden Duchy to Belgaria!!"
+ 
+"I will change the empire! Let me use the fort in order to do that!!"
+ 
+"Ugh!?"
+ 
+Altina raised her sword.
+ 
+It touched the ceiling.
+ 
+Weingartner smirked:
+ 
+"That's too careless, princes!"
+ 
+"What are you saying!"
+ 
+The sword sliced through the tough boulders and swung forward.
+ 
+The white haired general stared with his eyes wide open.
+ 
+"You actually--!?"
+ 
+"Haahh--!!"
+ 
+She wasn't stopped by the ceiling, she was using the ceiling as a catch, and releasing all the weight in her strike with one blow.
+ 
+If Weingartner attacked without hesitation, he might have been faster than her.
+ 
+But the experienced general was slow to react to unknown situations.
+ 
+The moment of hesitation gave Altina the time to make the decisive blow.
+ 
+'Grand Tonnerre Quatre" swung down.
+ 
+Weingartner blocked with his staff.
+ 
+It didn't stop the sword.
+"Ugu Wahh!?"
+The iron staff bent. The sword glanced through Weingartner's chest and struck into the ground.
+ 
+The old general fell with his back on the floor.
+ 
+The soldiers pointed their spears at him.
+ 
+"Don't move!"
+ 
+"Ugh... Ah... it's regretful... With my failure of losing the critical defensive fort, I cannot face the Duke nor the citizens... Just kill me."
+ 
+"I am sorry, but it's not over yet! I will make a move first!"
+ 
+Altina charged ahead.
+ 
+She climbed to a higher floor.
+ 
+Regis gave instructions to the soldiers hastily.
+ 
+"10 men stay behind! 2 of you pass the message 'we have captured the enemy commander' and the rest protect the princess!"
+ 
+The soldiers acknowledged in unison.
+Regis chased after Altina and ran alongside the troops.
+ 
+Eric moved alongside him.
+ 
+"That was amazing... the princess... sliced through the ceiling."
+ 
+"That was reckless."
+ 
+"And her left hand was still injured."
+ 
+"No... it is healed. She even crushed a rock."
+ 
+"Hmm? Her wrist wasn't hurt, so she can still do that much... But no matter how strong her grip is, her upper arm would still hurt from the burden right? Her fracture might be fine now though."
+ 
+"... What... did you say?"
+"Didn't you notice? She was fighting with just her right hand. Her left hand was just supporting."
+ 
+"Just her right hand!?"
+ 
+"Sir Regis, you did mention that you wouldn't understand sword techniques even if you saw them."
+ 
+"She, she lied to me~!?
+ 
+"That... seems troubling..."
+ 
+Eric laughed dryly.
+ 
+I would never have let her take part if I knew! Regis thought angrily.
+ 
+After climbing up several flights of steps and Eric pulling him by the hand near the end, Regis finally made it to the cannons.
+ 
+Altina and the troops had completed the capture.
+ 
+The artillery soldiers made no attempt to resist, raising their hands in surrender at a corner.
+ 
+Before them was a man in the uniform of general similar to what Weingartner was wearing.
+ 
+"I, I am the chief of staff... I sincerely hope you will treat us properly as prisoners of war. Torture and unnecessary killing goes against the 8th rule of engagement..."
+ 
+"Take care of this, Regis!"
+ 
+The brutish Altina was not good with these sort of things.
+ 
+Regis was panting hard as he walked towards them.
+ 
+"Hah... hah... hah... hah..."
+ 
+"..."
+ 
+"Hah... hah... We won't kill you."
+ 
+"Thank, thank you."
+ 
+Or rather, Regis was the one who was on the verge of death.
+ 
+Altina giggled:
+ 
+"Is that enough? You won't recite stuff?"
+ 
+"Hah... hah... I... will die..."
+ 
+"Don't just read books, exercise more."
+ 
+"... I will consider that."
+ 
+It was really hard to follow this princess.
+ 
+Especially for an inept person like him.
+ 
+Because the cannons were linked to the outside, they were able to breathe the air outside.
+ 
+The cold air that should only be chilling felt comfortable for some reason. Regis pulled the collar of his uniform to dry his sweat.
+ 
+It was a really short moment, but the soldiers closed their eyes as they basked in the sun and wind.
+ 
+Altina took out the flag that was prepared beforehand.
+ 
+Eric handed a spear to her.
+ 
+"Please use this, princess."
+ 
+"Thank you."
+ 
+"It's taken from the enemy though."
+ 
+"Fufu... This really feels like a battle field right?"
+ 
+Altina tied the flag to the spear and leaned outside.
+ 
+Regis started to worry.
+ 
+"The wind is strong so..."
+ 
+"Ahaha, it's fine!"
+ 
+"But if you fall..."
+ 
+"It's fine! You worry too much!"
+Altina waved the flag.
+ 
+The flag that depicted the shield of the citizens.
+ 
+I hope that this battle will be the first step, Regis thought.
+ 
+Altina shouted out loud.
+ 
+"Everyone~!! We captured it~!"
+ 
+With black knight Jerome taking the lead, the black knights charged over.
+ 
+The main gate opened at this moment.
+ 
+Team 3 was doing well.
+ 
+The invincible history of Fort Volks from Varden Duchy was ended.
+Previous Chapter | Main Page | Next Chapter

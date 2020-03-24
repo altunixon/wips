@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="5641af11-28fd-4552-89cb-40efbcb98a71" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+<docTitle>
+  <text>Cooking with Wild Game: Volume 12</text>
+</docTitle>
+<navMap>
+  <navPoint id="navPoint1">
+    <navLabel>
+      <text>Color Illustrations</text>
+    </navLabel>
+    <content src="Text/Front_Illustrations.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint2">
+    <navLabel>
+      <text>Chapter 1: The Nostalgic Post Station Town</text>
+    </navLabel>
+    <content src="Text/Chapter-01.xhtml" />
+    <navPoint id="navPoint3">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/Chapter-01.xhtml#sigil_toc_id_1" />
+    </navPoint>
+    <navPoint id="navPoint4">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/Chapter-01.xhtml#sigil_toc_id_2" />
+    </navPoint>
+    <navPoint id="navPoint5">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/Chapter-01.xhtml#sigil_toc_id_3" />
+    </navPoint>
+    <navPoint id="navPoint6">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/Chapter-01.xhtml#sigil_toc_id_4" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint7">
+    <navLabel>
+      <text>Chapter 2: Reopening</text>
+    </navLabel>
+    <content src="Text/Chapter-02.xhtml" />
+    <navPoint id="navPoint8">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/Chapter-02.xhtml#sigil_toc_id_5" />
+    </navPoint>
+    <navPoint id="navPoint9">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/Chapter-02.xhtml#sigil_toc_id_6" />
+    </navPoint>
+    <navPoint id="navPoint10">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/Chapter-02.xhtml#sigil_toc_id_7" />
+    </navPoint>
+    <navPoint id="navPoint11">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/Chapter-02.xhtml#sigil_toc_id_8" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint12">
+    <navLabel>
+      <text>Chapter 3: The Night Before the Meeting</text>
+    </navLabel>
+    <content src="Text/Chapter-03.xhtml" />
+    <navPoint id="navPoint13">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/Chapter-03.xhtml#sigil_toc_id_9" />
+    </navPoint>
+    <navPoint id="navPoint14">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/Chapter-03.xhtml#sigil_toc_id_10" />
+    </navPoint>
+    <navPoint id="navPoint15">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/Chapter-03.xhtml#sigil_toc_id_11" />
+    </navPoint>
+    <navPoint id="navPoint16">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/Chapter-03.xhtml#sigil_toc_id_12" />
+    </navPoint>
+    <navPoint id="navPoint17">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="Text/Chapter-03.xhtml#sigil_toc_id_13" />
+    </navPoint>
+  </navPoint>
+  <navPoint id="navPoint18">
+    <navLabel>
+      <text>Mid Meal Snack</text>
+    </navLabel>
+    <content src="Text/Mid-Meal_Snack.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint19">
+    <navLabel>
+      <text>Cooking with Wild Game: Vegetables Settings Data</text>
+    </navLabel>
+    <content src="Text/Veggies.xhtml" />
+  </navPoint>
+  <navPoint id="navPoint20">
+    <navLabel>
+      <text>Translator’s Notes</text>
+    </navLabel>
+    <content src="Text/Notes.xhtml" />
+  </navPoint>
+</navMap>
+</ncx>

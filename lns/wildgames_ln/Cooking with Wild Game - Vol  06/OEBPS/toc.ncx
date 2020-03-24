@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="fd3ce3e5-ca26-4103-9b02-756a953c07b9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Cooking with Wild Game - Vol. 06</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1">
+      <navLabel>
+        <text>Color Illustrations</text>
+      </navLabel>
+      <content src="Text/Front_Illustrations.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint2">
+      <navLabel>
+        <text>Prologue: The Busy Day Off</text>
+      </navLabel>
+      <content src="Text/Prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint3">
+      <navLabel>
+        <text>Chapter 1: The Depraved Clan</text>
+      </navLabel>
+      <content src="Text/Chapter-01.xhtml"/>
+      <navPoint id="navPoint4">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/Chapter-01.xhtml#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint5">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/Chapter-01.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint6">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/Chapter-01.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint7">
+        <navLabel>
+          <text>4</text>
+        </navLabel>
+        <content src="Text/Chapter-01.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint8">
+      <navLabel>
+        <text>Chapter 2: House Head Conference</text>
+      </navLabel>
+      <content src="Text/Chapter-02.xhtml"/>
+      <navPoint id="navPoint9">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/Chapter-02.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint10">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/Chapter-02.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint11">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/Chapter-02.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint12">
+      <navLabel>
+        <text>Chapter 3: Night of Destruction</text>
+      </navLabel>
+      <content src="Text/Chapter-03.xhtml"/>
+      <navPoint id="navPoint13">
+        <navLabel>
+          <text>1</text>
+        </navLabel>
+        <content src="Text/Chapter-03.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint14">
+        <navLabel>
+          <text>2</text>
+        </navLabel>
+        <content src="Text/Chapter-03.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint15">
+        <navLabel>
+          <text>3</text>
+        </navLabel>
+        <content src="Text/Chapter-03.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint16">
+      <navLabel>
+        <text>Mid-meal Snack: Silver Vase</text>
+      </navLabel>
+      <content src="Text/Mid-Meal_Snack.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint17">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="Text/Afterword.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint18">
+      <navLabel>
+        <text>Translator’s Notes</text>
+      </navLabel>
+      <content src="Text/Notes.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

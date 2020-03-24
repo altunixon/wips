@@ -1,0 +1,174 @@
+/* Some code was borrowed from or inspired by:
+Blitz (https://github.com/FriendsOfEpub/Blitz),
+Standard Ebooks (https://standardebooks.org/),
+Matt Garish and Markus Gylling's book: EPUB 3 Best Practices (http://shop.oreilly.com/product/0636920024897.do).
+
+Other rules were created through trial and error by /u/christmas_cavalier.
+
+If you extract this from an epub, keep in mind that unused selectors are removed for optimization purposes and extra selectors may be added for special cases. It won't be the original version.*/
+
+@namespace epub "http://www.idpf.org/2007/ops";
+
+/* Superscript references to endnotes. Not all Reading Systems will support it though. */
+
+a[epub|type="noteref"] {
+	font-size: 75%;
+	line-height: 1.2;
+	vertical-align: super;
+	vertical-align: 33%;
+}
+
+@page {
+	margin: 30px 30px 20px 30px;
+	/* Recommended by Barnes & Noble in this old spec: https://simg1.imagesbn.com/pimages/pubit/support/pubit_epub_formatting_guide.pdf */
+	padding: 0; 
+}
+
+body {
+	font-size: 100%;
+	line-height: 1.5;
+	/* iBooks and Kobo support widows and orphans */
+	widows: 2;
+	orphans: 2;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+	-epub-hyphens: auto;
+	overflow-wrap: break-word;
+}
+
+body * {
+	line-height: inherit;
+}
+
+h1, h2, h3, hr {
+	page-break-inside: avoid;
+	break-inside: avoid;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	-epub-hyphens: none;
+	page-break-after: avoid;
+	break-after: avoid;
+	text-align: center;
+}
+
+/* Display these HTML5 elements as block. For EPUB 2.0 compatability */
+
+nav, section {
+	display: block;
+}
+
+/* Demote these if no Titlepage */
+
+h1 {
+	font-size: 1.75em;
+	font-variant: small-caps;
+	margin: 3em 0;
+}
+
+h2 {
+	font-size: 1.55em;
+	font-variant: small-caps;
+	margin: 3em 0;
+}
+
+h3 {
+	font-size: 1.4em;
+	font-variant: small-caps;
+	margin: 2.5em 0;
+}
+
+/* HORIZONTAL RULES — CONTEXT BREAKS */
+
+hr {
+	width: 25%;
+	margin-left: 37.5%;
+	margin-top: 1.4375em;
+	margin-bottom: 1.4375em;
+	height: 0;
+	border: none;
+	border-top: 0.125em solid currentColor;
+	/* currentColor = color of text (getting around night mode) */
+	opacity: 0.5;
+	/* Opacity -> grayscale. If opacity is declared for too many elements in a XHTML file, performance of legacy RMSDK takes a hit */
+}
+
+div#cover img {
+	vertical-align: middle;
+}
+
+div.imgBox {
+	page-break-inside: avoid;
+	break-inside: avoid;
+	text-align: center;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+	height: auto;
+	width: auto;
+	object-fit: contain;
+}
+
+p.credit {
+	font-size: 1.1em;
+	text-align: center;
+	text-indent: 0;
+}
+
+/* Display links without underline. A personal preference */
+
+a[href] {
+	text-decoration: none;
+}
+
+/* Display chapter subtitle on new line */
+
+span[epub|type~="subtitle"] {
+	display: block;
+	font-weight: normal;
+}
+
+ol {
+	margin: 1.5em 0;
+	padding-left: 5%;
+}
+
+.caption {
+	font-size: 0.95em;
+}
+
+/* Try to use a better font for Japanese (Kana and Kanji) */
+
+span:lang(ja) {
+	font-family: "Yu Gothic" /* Included in Windows */, "NotoSans" /* Included in Android */, inherit /* Fallback to RS default */;
+}
+
+/* Styles for EPUB 3 navigation document */
+
+/* Following EPUB 3 spec by the letter (applies to RS but let’s make sure it is respected because we never know) */
+
+nav[epub|type~="toc"] ol {
+	list-style: none !important;
+}
+
+/* [Opinionated] Default to prevent bloat in case linear="no" is rendered as linear="yes" */
+
+nav[epub|type~="landmarks"] {
+	display: none;
+}
+
+nav ol li a {
+	color: inherit;
+	text-decoration: none;
+}
+
+nav ol li {
+	margin-top: 0.5em;
+}
+
+/* End navigation styles */

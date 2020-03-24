@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Cooking with Wild Game - Vol. 01</dc:title>
+    <dc:creator id="creator">EDA</dc:creator>
+    <meta property="file-as" refines="#creator">EDA</meta>
+    <meta property="role" refines="#creator">aut</meta>
+    <dc:contributor id="ill">Kochimo</dc:contributor>
+    <meta property="role" scheme="marc:relators" refines="#ill">ill</meta>
+    <dc:contributor id="trl">Skythewood</dc:contributor>
+    <meta property="role" scheme="marc:relators" refines="#trl">trl</meta>
+    <dc:contributor id="edt1">Deus ex-Machina</dc:contributor>
+    <meta property="role" scheme="marc:relators" refines="#edt1">edt</meta>
+    <dc:contributor id="edt2">Rockgollem</dc:contributor>
+    <meta property="role" scheme="marc:relators" refines="#edt2">edt</meta>
+    <dc:contributor id="edt3">ratorasepo</dc:contributor>
+    <meta property="role" scheme="marc:relators" refines="#edt3">edt</meta>
+    <meta property="belongs-to-collection" id="collection">Cooking with Wild Game</meta>
+    <meta property="collection-type" refines="#collection">series</meta>
+    <meta property="group-position" refines="#collection">1</meta>
+    <dc:language>en</dc:language>
+    <dc:date>2018-12-23T18:46:38.746Z</dc:date>
+    <dc:identifier id="BookId">1657e6c3-5bcd-438b-a0d4-e88fc221e769</dc:identifier>
+    <meta property="dcterms:modified">2018-12-27T09:42:37Z</meta>
+    <meta content="0.9.10" name="Sigil version" />
+    <meta name="cover" content="image0001" />
+    <meta property="identifier-type" refines="#BookId">URI</meta>
+  </metadata>
+  <manifest>
+    <item id="image0001" href="Images/0001_0001.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="Chapter-01.xhtml" href="Text/Chapter-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter-02.xhtml" href="Text/Chapter-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Intermission.xhtml" href="Text/Intermission.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter-04.xhtml" href="Text/Chapter-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter-05.xhtml" href="Text/Chapter-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Intermission-02.xhtml" href="Text/Intermission-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="stylesheet" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="Text/Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="x003.png" href="Images/003.png" media-type="image/png"/>
+    <item id="x006.png" href="Images/006.png" media-type="image/png"/>
+    <item id="x015.png" href="Images/015.png" media-type="image/png"/>
+    <item id="x029.png" href="Images/029.png" media-type="image/png"/>
+    <item id="x040.png" href="Images/040.png" media-type="image/png"/>
+    <item id="x052.png" href="Images/052.png" media-type="image/png"/>
+    <item id="x063.png" href="Images/063.png" media-type="image/png"/>
+    <item id="x085.png" href="Images/085.png" media-type="image/png"/>
+    <item id="x098.png" href="Images/098.png" media-type="image/png"/>
+    <item id="x110.png" href="Images/110.png" media-type="image/png"/>
+    <item id="x122.png" href="Images/122.png" media-type="image/png"/>
+    <item id="x135.png" href="Images/135.png" media-type="image/png"/>
+    <item id="Front_Illustrations.xhtml" href="Text/Front_Illustrations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x04-05.png" href="Images/04-05.png" media-type="image/png"/>
+    <item id="Prologue.xhtml" href="Text/Prologue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Afterword.xhtml" href="Text/Afterword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Promotional-01.jpeg" href="Images/Promotional-01.jpeg" media-type="image/jpeg"/>
+    <item id="Chapter-03.xhtml" href="Text/Chapter-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter-06.xhtml" href="Text/Chapter-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Notes.xhtml" href="Text/Notes.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="nav"/>
+    <itemref idref="Front_Illustrations.xhtml"/>
+    <itemref idref="Prologue.xhtml"/>
+    <itemref idref="Chapter-01.xhtml"/>
+    <itemref idref="Chapter-02.xhtml"/>
+    <itemref idref="Chapter-03.xhtml"/>
+    <itemref idref="Intermission.xhtml"/>
+    <itemref idref="Chapter-04.xhtml"/>
+    <itemref idref="Chapter-05.xhtml"/>
+    <itemref idref="Chapter-06.xhtml"/>
+    <itemref idref="Intermission-02.xhtml"/>
+    <itemref idref="Afterword.xhtml"/>
+    <itemref idref="Notes.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/Cover.xhtml"/>
+  </guide>
+</package>

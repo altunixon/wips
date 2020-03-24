@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Cooking with Wild Game - Vol. 06</dc:title>
+    <dc:creator id="creator">EDA</dc:creator>
+    <meta property="role" refines="#creator" scheme="marc:relators">aut</meta>
+    <dc:contributor id="ill">Kochimo</dc:contributor>
+    <meta property="role" refines="#ill" scheme="marc:relators">ill</meta>
+    <dc:contributor id="trl">Skythewood</dc:contributor>
+    <meta property="role" refines="#trl" scheme="marc:relators">trl</meta>
+    <dc:contributor id="edt">Ratorasepo</dc:contributor>
+    <meta property="role" refines="#edt" scheme="marc:relators">edt</meta>
+    <meta property="belongs-to-collection" id="series">Cooking with Wild Game</meta>
+    <meta property="group-position" refines="#series">6</meta>
+    <meta property="collection-type" refines="#series">series</meta>
+    <dc:language>en</dc:language>
+    <dc:identifier id="BookId">fd3ce3e5-ca26-4103-9b02-756a953c07b9</dc:identifier>
+    <meta property="identifier-type" refines="#BookId">URI</meta>
+    <meta property="dcterms:modified">2018-12-31T18:18:28Z</meta>
+    <meta name="cover" content="image0001" />
+    <meta name="Sigil version" content="0.9.10" />
+  </metadata>
+  <manifest>
+    <item id="image0001" href="Images/0001.png" media-type="image/png" properties="cover-image"/>
+    <item id="image0002" href="Images/0002.png" media-type="image/png"/>
+    <item id="image0003" href="Images/0003.png" media-type="image/png"/>
+    <item id="image0004" href="Images/0004.png" media-type="image/png"/>
+    <item id="image0005" href="Images/0005.png" media-type="image/png"/>
+    <item id="image0006" href="Images/0006.png" media-type="image/png"/>
+    <item id="image0007" href="Images/0007.png" media-type="image/png"/>
+    <item id="image0008" href="Images/0008.png" media-type="image/png"/>
+    <item id="image0009" href="Images/0009.png" media-type="image/png"/>
+    <item id="image0010" href="Images/0010.png" media-type="image/png"/>
+    <item id="image0011" href="Images/0011.png" media-type="image/png"/>
+    <item id="image0012" href="Images/0012.png" media-type="image/png"/>
+    <item id="image0013" href="Images/0013.png" media-type="image/png"/>
+    <item id="image0014" href="Images/0014.png" media-type="image/png"/>
+    <item id="Prologue.xhtml" href="Text/Prologue.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter-01.xhtml" href="Text/Chapter-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter-02.xhtml" href="Text/Chapter-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Chapter-03.xhtml" href="Text/Chapter-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Mid-Meal_Snack.xhtml" href="Text/Mid-Meal_Snack.xhtml" media-type="application/xhtml+xml"/>
+    <item id="stylesheet" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="cover" href="Text/Cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="Front_Illustrations.xhtml" href="Text/Front_Illustrations.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Notes.xhtml" href="Text/Notes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Afterword.xhtml" href="Text/Afterword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Promotional-06.jpeg" href="Images/Promotional-06.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover"/>
+    <itemref idref="nav"/>
+    <itemref idref="Front_Illustrations.xhtml"/>
+    <itemref idref="Prologue.xhtml"/>
+    <itemref idref="Chapter-01.xhtml"/>
+    <itemref idref="Chapter-02.xhtml"/>
+    <itemref idref="Chapter-03.xhtml"/>
+    <itemref idref="Mid-Meal_Snack.xhtml"/>
+    <itemref idref="Afterword.xhtml"/>
+    <itemref idref="Notes.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/Cover.xhtml"/>
+  </guide>
+</package>

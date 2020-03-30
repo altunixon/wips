@@ -1,0 +1,101 @@
+<br/>
+<br/>
+Table of Contents<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Table of Contents<br/>
+<br/>
+<br/>
+Color Illustrations<br/>
+<br/>
+<br/>
+Prologue<br/>
+<br/>
+<br/>
+Chapter 1: Business Reopens<br/>
+<br/>
+<br/>
+1<br/>
+<br/>
+<br/>
+2<br/>
+<br/>
+<br/>
+3<br/>
+<br/>
+<br/>
+4<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Chapter 2: Embroiled in Disputes Once Again<br/>
+<br/>
+<br/>
+1<br/>
+<br/>
+<br/>
+2<br/>
+<br/>
+<br/>
+3<br/>
+<br/>
+<br/>
+4<br/>
+<br/>
+<br/>
+5<br/>
+<br/>
+<br/>
+6<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Chapter 3: Malefic Star<br/>
+<br/>
+<br/>
+1<br/>
+<br/>
+<br/>
+2<br/>
+<br/>
+<br/>
+3<br/>
+<br/>
+<br/>
+4<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Chapter 4: Commotion in the Post Station Town<br/>
+<br/>
+<br/>
+1<br/>
+<br/>
+<br/>
+2<br/>
+<br/>
+<br/>
+3<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+Epilogue<br/>
+<br/>
+<br/>
+Mid Meal Snack: The Hearth Caretaker of the Wu Clan<br/>
+<br/>
+<br/>
+Afterword<br/>
+<br/>
+<br/>
+Translator’s Notes<br/>
+<br/>
+<br/>
+<br/>
+<br/>

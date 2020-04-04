@@ -1,30 +1,30 @@
-### Altina the Sword Princess Volume 14 (3 of 5)
-Translator: Skythewood
-#### Editor: Hiiro
-Thirty minutes ago—
+### Altina the Sword Princess Volume 14 (3 of 5)<br/>
+#### Translator: Skythewood<br/>
+#### Editor: Hiiro<br/>
+Thirty minutes ago—<br/>
 The Belgaria Imperial Fourth Army’s 9th infantry platoon sailed out into the sea.<br/>
 They split themselves onto twelve boats used for river crossings.<br/>
 All for the sake of completing their mission.<br/>
 Their boats had oil barrels in tow. These barrels were incredibly heavy on land, but surprisingly, they float easily on the water.<br/>
 The plan was to drift close to the Hispania Empire’s naval fleet by flowing with the current.<br/>
-The deputy platoon leader on look out duty said tensely in a quiet voice:
+The deputy platoon leader on look out duty said tensely in a quiet voice:<br/>
 "Platoon leader! It’s an enemy patrol ship!"<br/>
 The rowing soldiers noticed it too, and turned tense.<br/>
-"What are those?】"They are increasing in numbers…】"Are they the enemy vessels…?"<br/>
+"What are those?""They are increasing in numbers…""Are they the enemy vessels…?"<br/>
 They were operating covertly, so the platoon leader couldn’t shout at them. Instead, he kicked the few soldiers near him, which shut them up effectively.<br/>
 The situation had changed.<br/>
 It was clear that this was beyond the scope of their plan.<br/>
 They sailed out last night too.<br/>
 With the strategist on board, they looked from the sea as a unit performed a meaningless charge on land— as they did something that seemed pointless at sea.<br/>
 Back then, there were only large warships out in the ocean.<br/>
-The deputy leader asked:
+The deputy leader asked:<br/>
 "platoon leader, did the enemy discerned our intentions?"<br/>
 "Maybe."<br/>
 "In that case, we should abort our operation."<br/>
 He was right. Under such close surveillance and with oil barrels in tow, going near was as good as suicide.<br/>
 However, the platoon leader heard a little bit of the entire operation from commander Balasko.<br/>
 He couldn’t grasp the whole picture from the bits of information.<br/>
-But there was definitely a plan. A plan that would allow their forces to capture Fort Bassetti with minimal losses!
+But there was definitely a plan. A plan that would allow their forces to capture Fort Bassetti with minimal losses!<br/>
 "We must carry out the mission tonight."<br/>
 "Platoon leader?"<br/>
 "This operation has to be executed in a dark night— I heard that from commander Balasko. In that case, isn’t tonight our only chance?"<br/>
@@ -37,12 +37,12 @@ Their supply line was stretched so long that it took more than a week for the su
 On top of the wagons transporting the goods, the supplies needed to be escorted by thousands of soldiers.<br/>
 For a large scale invasion campaign, it was likely for battles to occur along the supply route.<br/>
 The more resources they expend, the closer the Belgaria Empire would be to defeat.<br/>
-The platoon leader said determinedly:
+The platoon leader said determinedly:<br/>
 "Begin the operation."<br/>
 Ehh?! The deputy leader opened his eyes wide.<br/>
 It was the same for the other soldiers.<br/>
 How could this be— Intense feeling of discontent started spreading.<br/>
-The platoon leader nodded and said:
+The platoon leader nodded and said:<br/>
 "I know how ridiculous this order sounds, but if we back off now, we won’t reach the Hispania capital. This campaign will fail."<br/>
 "B-But…"<br/>
 "We are soldiers of the Belgaria Empire. We are here on the order of Mdm Généralissime. If we pull back here, how can we explain to our comrades in the other units? Do we tell them that we ran away because there are too many enemies?"<br/>
@@ -54,7 +54,7 @@ However, their honour would be another matter.<br/>
 The expressions of the soldiers changed.<br/>
 Fighting spirit was burning in their eyes.<br/>
 Even though they could only see the faces of their brethren right before them in this darkness.<br/>
-The deputy leader said:
+The deputy leader said:<br/>
 "Let’s charge in, platoon leader!"<br/>
 No one objected to that.<br/>
 "We are out at sea, but the things we need to do is the same. Let’s charge in and give them a sound strike."<br/>
@@ -66,7 +66,7 @@ The platoon leader used a special lantern (which was covered with boards and wou
 Soldiers from the other squad must be confused by this unexpected turn of events.<br/>
 However, no one fell out.<br/>
 Most of the men in the Ninth Platoon were veterans from the Beilschmidt Border Regiment.<br/>
-— Compared to the harsh training under the Black Knight Jerome, those Hispania Empire guys drifting in the sea is nothing!
+— Compared to the harsh training under the Black Knight Jerome, those Hispania Empire guys drifting in the sea is nothing!<br/>
 They didn’t scream ferociously, but the troops held their oars like they were gripping their pikes, and rowed the boat forward.<br/>
 Twelve boats sailed towards the spot designated by the strategist after three days of research.<br/>
 However, there weren’t any signposts out in the dark sea. It was so dark they couldn’t even see their own feet.<br/>
@@ -74,11 +74,11 @@ The only thing they could see were the lit torches.<br/>
 Light from the torches on the Hispania fleet.<br/>
 And the light from Fort Bassetti.<br/>
 The stationary fort was used as a lighthouse to determine their current position.<br/>
-The deputy leader said:
+The deputy leader said:<br/>
 "It should be around here, right?"<br/>
 "Yes."<br/>
 The enemy’s patrol vessel were making their rounds. They didn’t to notice the Belgarian’s presence yet.<br/>
-The platoon leader ordered his men:
+The platoon leader ordered his men:<br/>
 "Dump the oil."<br/>
 The soldier at the back of the boat pulled the tow line over. The sudden splashing sound gave them the chills.<br/>
 He pulled out the cork out of the barrel.<br/>
@@ -98,13 +98,13 @@ However, this was a human powered boat manned by soldiers from the land.<br/>
 A small sail ship was much faster than them.<br/>
 The patrol craft gradually gained on them.<br/>
 "A boat! Belgarian soldiers!"<br/>
-An enemy soldier yelled:
+An enemy soldier yelled:<br/>
 The platoon leader never learned Hispanian, but it had the same root as Belgarian, so their difference was on the level of different dialects.<br/>
 So he understood what the enemy said.<br/>
 But that wasn’t anything to be happy about.<br/>
 "Shoot! Don’t let them escape!"<br/>
 "Bastards… quick, they are gaining on us!"<br/>
-The deputy leader turned and said with a voice of despair:
+The deputy leader turned and said with a voice of despair:<br/>
 "Platoon leader, they are shooting fire arrows!"<br/>
 "What!?"<br/>
 The arrows flew over.<br/>
@@ -138,7 +138,7 @@ The deputy leader broke out of the surface too.<br/>
 "… I’m not sure if I’m fine though. Maybe my head isn’t working right."<br/>
 "Huh?"<br/>
 The platoon leader gestured his deputy to look towards the land.<br/>
-The deputy looked and said:
+The deputy looked and said:<br/>
 "What’s wrong?"<br/>
 "Do you see anything strange?"<br/>
 "Yeah… There’s two of them."<br/>
@@ -148,7 +148,7 @@ An explosion came from the sea.<br/>
 And the ocean started burning.<br/>
 Regis stopped unconsciously, and stared at that scene.<br/>
 "… How could it be?!"<br/>
-Altina who had walked slightly ahead turned back and said:
+Altina who had walked slightly ahead turned back and said:<br/>
 "Isn’t things proceeding just as planned?!"<br/>
 "T-There are some differences… but pretty similar to the plan."<br/>
 "Then it’s all good!"<br/>
@@ -157,7 +157,7 @@ Regis took out his pocket watch.<br/>
 But he couldn’t see clearly.<br/>
 It would be fine if he was near a tent with gas lamps, however, there wasn’t any light around him right now to see the hands on the watch.<br/>
 The sea might be burning, but that didn’t mean the light would reach the land.<br/>
-Altina asked:
+Altina asked:<br/>
 "What is it?"<br/>
 "… I want to check the time. I don’t think it’s time to begin the operation yet."<br/>
 "That’s right, I think it’s too early too."<br/>
@@ -170,15 +170,15 @@ Eric pointed to the road.<br/>
 As he was watching the ocean burn— the mustered Belgarian troops lit their torches.<br/>
 Similar to earlier, the soldier with torches wasn’t in formation.<br/>
 Their placement seemed haphazard.<br/>
-Eric asked worriedly:
+Eric asked worriedly:<br/>
 "Is it fine to lit the torches? We will get bombarded by the fleet again…?"<br/>
 Regis asked Eric to help out, but he didn’t tell Eric the details of the strategy.<br/>
 And of course, he already shared it with Altina.<br/>
-She pointed with confidence:
+She pointed with confidence:<br/>
 "It’s fine! Look, don’t the position of the torches resemble something?"<br/>
 "Resemble…?"<br/>
 "Compare it to the thing before you."<br/>
-Eric squinted and looked at the direction Altina is pointing— "Ahh!】 he shouted:
+Eric squinted and looked at the direction Altina is pointing— "Ahh!" he shouted:<br/>
 "It resembles! It resembles the fort…?!"<br/>
 "That’s right."<br/>
 "Could it be…! The fleet out at sea would think there are two forts?!"<br/>
@@ -192,24 +192,24 @@ Regis was planning to abort the operation, but the sea was ablaze earlier than t
 Eric stared closely at the fake fort formed from the torches.<br/>
 "Amazing…"<br/>
 "… Yes. The Hispania fleet out at sea won’t dare fire or come closer."<br/>
-Eric tilted his head:
+Eric tilted his head:<br/>
 "Huh? That’s strange? If they come closer, they would be able to determine which side is fake, right?"<br/>
 "If they draw close, our 《40 Allen cannon》 will engage them. If cannons from both sides engage in a shootout, our side will have the advantage of being ‘unsinkable ships’."<br/>
 As the sail ships were made from wood, it catches fire easily. In contrast, the land based Belgarian cannons didn’t have to worry about sinking.<br/>
 The cannons on the warships were clustered together, while the Belgarian cannons were spread out.<br/>
 With the light on the enemy ships, it would be easy to target them, while the Belgarian could hide in the darkness.<br/>
 It would be an one sided shootout.<br/>
-Eric said with a sigh:
+Eric said with a sigh:<br/>
 "As expected of Sir Regis!"<br/>
 "… The problem is, if they saw the moment we lit the torches, they can easily tell which side is fake."<br/>
 "Ah, is that so?!"<br/>
 "That’s why we need to set fire to the sea. If the area around the sail ships start burning, the crew’s attention would get drawn to those flames."<br/>
 "That’s right!"<br/>
 The explosion also helped with that.<br/>
-Regis concluded:
+Regis concluded:<br/>
 "… I didn’t know what happened out at sea, but we will proceed as planned."<br/>
 If they failed, then the enemy fleet would attack the fake fortress— which was the Belgarian formation.<br/>
-Altina said excitedly:
+Altina said excitedly:<br/>
 "Now we could attack Fort Bassetti with torches lit without worrying about the naval fleet attacking us!"<br/>
 Seeing Altina understood the plan, Regis felt glad at her growth.<br/>
 She wasn’t stupid, but she had the bad habit of disliking to think. But right now, she was trying her best to understand the strategy.<br/>
@@ -217,7 +217,7 @@ It would be perfect if she could understand the need for her to command from a s
 Altina walked towards the foremost unit, hopefully not to lead the charge.<br/>
 Regis still felt uneasy.<br/>
 The enemy fleet wasn’t firing at them, but the fort had cannons too.<br/>
-If the worst happens— Or rather, the chance wasn’t that low…
+If the worst happens— Or rather, the chance wasn’t that low…<br/>
 Fort Bassetti was in chaos.<br/>
 Lights appeared on the road to the south.<br/>
 That wasn’t surprising.<br/>
@@ -238,8 +238,8 @@ They couldn’t see as it was too far away… Did the Belgaria Imperial Navy sho
 The guard captain roared angrily at his men.<br/>
 "Relay the message! Tell the fleet to open fire! The enemy is attacking from the south!"<br/>
 In the day, the Belgarian camp was to their north.<br/>
-They used the cover of night to switch the direction of their attack. Was that the reason why the fleet admiral couldn’t be certain on their targets?
-At this moment, the south gate captain—
+They used the cover of night to switch the direction of their attack. Was that the reason why the fleet admiral couldn’t be certain on their targets?<br/>
+At this moment, the south gate captain—<br/>
 Never imagined that the Belgarian army lit their torches in the same pattern as his fort.<br/>
 From the sea, it looked like two forts colliding together.<br/>
 In the pitch darkness, only the light from the torches were visible. Even though the Belgarian army was charging at the fort, they couldn’t tell which side was actually moving.<br/>
@@ -247,7 +247,7 @@ The Belgarian army opened fire first.<br/>
 The cannon shot hit the wall.<br/>
 Screams erupted from the soldiers.<br/>
 The Hispanian soldiers lacked experience in large scale land combat, and the defenders were spooked.<br/>
-The guard captain yelled:
+The guard captain yelled:<br/>
 "Don’t fear, they are still far! Engage! Engage!"<br/>
 The cannoneers started preparing on hearing the command.<br/>
 "Loading!"<br/>
@@ -257,17 +257,17 @@ A steel stick was used to compress the ordnance.<br/>
 At the back of the cannon was a small hole— a vent. An awl was stabbed in here as they needed to make a hole through the gunpowder pouch.<br/>
 And finally, gunpowder was poured through this vent.<br/>
 The loading was then completed.<br/>
-The lead cannoneer covered his ears and yelled:
+The lead cannoneer covered his ears and yelled:<br/>
 "Fire!"<br/>
 The firer acknowledge with a shout before putting his torch onto the vent covered in gunpowder.<br/>
 The gunpower burned, spreading into the vent and the gunpowder pouch inside exploded.<br/>
-Boom!
+Boom!<br/>
 The explosion shook the air.<br/>
 The metal ball shot out of the bronze barrel.<br/>
 The cannon rocked violently backwards. It was outfitted with wheels, which was immensely useful on the stone walls.<br/>
 The cannon ball should have hit something, but they couldn’t tell as it was too dark.<br/>
 Maybe it killed lots of Belgarian soldiers.<br/>
-The lead cannoneer ordered:
+The lead cannoneer ordered:<br/>
 "Next round, load!"<br/>
 However, multiple shots flew in from the Belgarian army.<br/>
 The walls around the fort were smashed in an instant.<br/>
@@ -276,14 +276,14 @@ The Belgarian cannons were seriously strong.<br/>
 They shaved off almost the entire wall.<br/>
 It blew off a lot of shrapnels and wounded many Hispania soldiers.<br/>
 Injury to the limbs might be salvageable, but those who got hit in the head died on the spot. Those hit in the torso would die an agonizing death without medical aid.<br/>
-The south gate captain received several reports:
+The south gate captain received several reports:<br/>
 "The Belgarian cannons inflicted heavy losses to our cannoneers!"<br/>
 "What’s going on?!"<br/>
 "They are probably aiming for the torches!"<br/>
 How is that possible— the guard captain thought.<br/>
 The old cannons couldn’t achieve such high accuracy.<br/>
 However, the new cannons had rifling, helical grooves inside the bore of the barrel. It spun the fired rounds to keep it flying straight.<br/>
-<TL: https://en.wikipedia.org/wiki/Rifling>
+<TL: https://en.wikipedia.org/wiki/Rifling><br/>
 From the firing range of the old cannon, the new cannons could reliably hit the window of a house. That was how large the difference was.<br/>
 These were the breech loading cannons the Belgaria Empire manufactured by replicating the High Brittania Kingdom’s cannons, and the technology had not been spread to the Hispania Empire yet. Most of the soldiers saw this for the first time in this war.<br/>
 The new cannons known for their incredible range also displayed their accuracy and power in this battle.<br/>
@@ -293,14 +293,14 @@ The charges weren’t fired from outside the vent, so the explosive force won’
 Although Fort Bassetti had the advantage of terrain and numbers of cannons, the Belgaria cannons and cannoneers were vastly superior in quality compared to them.<br/>
 When the Belgarian’s new rifle got in range, the difference became more obvious.<br/>
 The defenders suffered heavy losses, and couldn’t even retaliate.<br/>
-The guard captain shouted at the messenger soldier:
+The guard captain shouted at the messenger soldier:<br/>
 "What’s wrong with the archers!? Are they still sleeping?!"<br/>
-The messenger said with ragged breath:
+The messenger said with ragged breath:<br/>
 "T-They are gone…!"<br/>
 "What?"<br/>
 If the light around the guard captain of Fort Bassetti was brighter, he would be able to see the pale face of the messenger.<br/>
 The illumination was kept dim to avoid enemy bombardment, so he didn’t notice.<br/>
-The messenger screamed with all his might:
+The messenger screamed with all his might:<br/>
 "They are gone! I can’t find the commander and the staff officers in the fort! Our troops are gone too! The fort is deserted!"<br/>
 "What… did you say…?!"<br/>
 The guard captain and the soldiers around him was speechless.<br/>
@@ -309,18 +309,18 @@ Their cannons were outmatched by the new cannons, but they weren’t pushed to t
 If they could relay the enemy’s position to the naval fleet, they could use the naval bombardment to turn the tide of battle.<br/>
 At this moment, a loud explosion came from the fort.<br/>
 "What is it this time?!"<br/>
-A soldier pointed to the gate:
+A soldier pointed to the gate:<br/>
 "I-It’s cannon fire! It destroyed the gate!"<br/>
 The guard captain felt his legs giving out.<br/>
 The Belgaria cannons fell silent.<br/>
-Which meant—
+Which meant—<br/>
 Cavalry in dark armour charged into the fort.<br/>
 "Hah! Those who want to die, come out and face me!"<br/>
-Going back to the time when an explosion occurred in the ocean—
+Going back to the time when an explosion occurred in the ocean—<br/>
 Freij stood in the fort commander’s balcony.<br/>
 The balcony that had an excellent view of the beautiful fort and the deep blue sea was now engulfed in an unpleasant darkness.<br/>
 He could see the fire spreading in the sea.<br/>
-Was it an enemy fleet?
+Was it an enemy fleet?<br/>
 But he couldn’t hear the sound of warships firing at each other.<br/>
 "What’s happening?"<br/>
 He felt someone tap his back.<br/>
@@ -336,7 +336,7 @@ She squeezed out a sound, and pointed somewhere.<br/>
 Freij wasn’t a retard, and could sense that she came here because something important happened. He stopped his grumbling.<br/>
 And looked in the direction his daughter was pointing.<br/>
 A lot of torches appeared on the road to the south.<br/>
-— When did they showed up?!
+— When did they showed up?!<br/>
 It must be the moment when there was an explosion and he was watching the fire out at sea.<br/>
 "Those Belgarians are here, huh."<br/>
 Like what they discussed a few days ago, the enemy’s plan was to numb the defences before attacking.<br/>
@@ -364,21 +364,21 @@ Freij scratched his hair.<br/>
 When he said that, he realized it.<br/>
 If the navy wasn’t firing, then this was just an old fort.<br/>
 This fort was built during the age of bows and arrows. The walls and gates wouldn’t last long under the bombardment of the new cannons.<br/>
-Mariam slammed on the paper she wrote just now:
+Mariam slammed on the paper she wrote just now:<br/>
 "Hurry and give the order! I will explain later."<br/>
 "Ughh… Those Belgarian bastards!"<br/>
 Looks like his daughter already noticed— the reason why they had to abandon the fort.<br/>
 Freij walked to the corridor to give the orders.<br/>
-But he suddenly turned back:
+But he suddenly turned back:<br/>
 "Mariam, put your clothes on properly!"<br/>
 Of the 15,000 soldiers in Fort Bassetti, 2,000 of them stayed behind to stall for time as the main group retreated from the west gate.<br/>
-Chapter 3: Snow and Wagons
+### Chapter 3: Snow and Wagons<br/>
 Fort Bassetti was seized, but it couldn’t serve as a base.<br/>
 Because the Hispanian Navy remained unscathed, their naval cannons could reduce the fort to dust.<br/>
 The Belgarian army assaulted the fort under the cover of night, killing and taking many enemy prisoners.<br/>
 And then pulled out before dawn.<br/>
 It would be a problem if the enemy fortifies this place again, so the walls were torn down with dynamites.<br/>
-The next day—
+The next day—<br/>
 Something white fell from the sky.<br/>
 They were in the middle of a march, and Regis looked up the sky through the window of the carriage.<br/>
 "… It’s snowing?"<br/>
@@ -392,13 +392,13 @@ She seemed well learned.<br/>
 "That’s right, if we compare to the winters in north Belgaria."<br/>
 "Because we are in a carriage."<br/>
 Clarice smiled.<br/>
-Regis shrugged and said:
+Regis shrugged and said:<br/>
 "… You are right. The troops would bear a grudge if I sat here and ordered them."<br/>
 Regis couldn’t ride a horse, so he had to sit in the carriage. If he forced the soldiers to march in terrible weather, the troops would bear a grudge.<br/>
 The commander of the forces was Altina, but the one making the movement plans was the strategist, a fact everyone already know.<br/>
 Regis looked at the map, checking if this place was dangerous.<br/>
 The terrain where the enemy could shoot arrows from a high vantage point; long, narrow path that made it difficult to protect the headquarters; and places where scouting for enemy for enemy was difficult while the enemy could easily surround and launch sneak attacks were known as 《Desperate ground》.<br/>
-<TL: 死地  https://ebooks.adelaide.edu.au/s/suntzu/art-of-war/chapter11.html>
+<TL: 死地  https://ebooks.adelaide.edu.au/s/suntzu/art-of-war/chapter11.html><br/>
 And not just normal tactics, he had to consider the possibility of attack from the river or lake, or setting fire to the forest.<br/>
 And of course, crossing such areas at times was inevitable.<br/>
 However, if there weren’t too many of such places, he could just station guards and scouts there.<br/>
@@ -411,7 +411,7 @@ Regis blushed.<br/>
 It was rumoured that Altina was chased out of the palace because of jealousy towards her beauty.<br/>
 People already believed such rumours when she was 14.<br/>
 And now, she looked just like the goddesses portrayed in religious paintings.<br/>
-She frowned:
+She frowned:<br/>
 "What is it, Regis? Something urgent?"<br/>
 "Hah! Oh right, it’s time to take a break."<br/>
 Yes, Altina nodded.<br/>
@@ -419,7 +419,7 @@ Yes, Altina nodded.<br/>
 They looked up to the sky.<br/>
 They finally understood why the stars and moon wasn’t visible last night, the sky was covered in thick grey clouds.<br/>
 The snow was getting heavier.<br/>
-There were soldiers around them, so Regis used formal speech:
+There were soldiers around them, so Regis used formal speech:<br/>
 "… I have decided on the place. In front of us is a place where the road meets the river, let’s make camp there. There might be a town over there."<br/>
 "A town, huh."<br/>
 Altina muttered quietly.<br/>
@@ -446,11 +446,11 @@ They halt the army and received him as an envoy.<br/>
 "I’m the chief of the Lokays town, Damia Ortho Posada."<br/>
 He looked young, but he was already the town chief.<br/>
 Heavy infantry surrounded Damia.<br/>
-Altina replied:
+Altina replied:<br/>
 "I’m the Généralissime of the Belgaria Empire, Marie Quatre Argentina de Belgaria."<br/>
 Regis didn’t state his name, and just stood quietly beside her.<br/>
 "……"<br/>
-Damia said boldly:
+Damia said boldly:<br/>
 "Lokays won’t submit to pagans. We are fine with you passing by, but you are not permitted to enter the town."<br/>
 The staff officers kept their straight faces, but some of the troops still laughed out loud.<br/>
 They were already warned to not display such insolence… But it couldn’t be helped, Regis thought.<br/>
@@ -464,13 +464,13 @@ Damia shook his head.<br/>
 "This isn’t a problem of our treatment. Belgarian belonged to the North sect. We won’t recognize your religious teachings."<br/>
 "Religion…?"<br/>
 Altina looked towards Regis.<br/>
-Regis wasn’t planning to take the stage, but had no choice:
+Regis wasn’t planning to take the stage, but had no choice:<br/>
 "… Most nations in this continent has the same religion. Some of them, like the Etruria Theocracy, has different beliefs."<br/>
 "Belgaria and Hispania has the same religion?"<br/>
-When she heard what Altina said, Damia said angrily:
+When she heard what Altina said, Damia said angrily:<br/>
 "No! The North sect has sold their souls to the devil! We are the ones who follows the true will of God."<br/>
 "Ehh? I don’t know the difference between the sects…"<br/>
-Seeing how confused she was, Regis explained:
+Seeing how confused she was, Regis explained:<br/>
 "… In the Hispania Empire, the High Sect is the mainstay. Most people from this sect won’t recognize other sects."<br/>
 "So what are the differences?"<br/>
 "… Things like how rituals are done, their customs, there are quite a bit of differences."<br/>
@@ -479,21 +479,21 @@ Seeing how confused she was, Regis explained:
 "Yes, we have a festival!"<br/>
 "… However, High Sects would fast on that day and not sing hymns."<br/>
 "Huh?!"<br/>
-Damia frowned:
+Damia frowned:<br/>
 "That’s only natural. This is the day the saint fast in solitude in order to speak with our God. Why are you people breaking the taboo and feasting?! You heretics!"<br/>
-Altina scratched her head:
+Altina scratched her head:<br/>
 "Why did we do that?"<br/>
 The rulers used the story of the saint as a reason to hold a festival, in order to let the citizens rest— Even if Regis said that, it would just agitate the fanatical High Sect youth unnecessarily.<br/>
-Regis changed the topic:
+Regis changed the topic:<br/>
 "… Well, let’s end the religious discussion here. We can’t let the soldiers wait in the snow for too long."<br/>
 "That’s right!"<br/>
 "We won’t be staying for long anyway, so we won’t requisite any buildings or enter the town unnecessarily."<br/>
 "So there won’t be any problems?"<br/>
 "… As long as they submit to the Belgarian Empire."<br/>
 Yes, Altina nodded.<br/>
-She then told Damia:
+She then told Damia:<br/>
 "If Lokays town submit to the Belgarian Empire, I can guarantee the safety of the resident’s property and lives. Because you will be our citizens then."<br/>
-He said stubbornly:
+He said stubbornly:<br/>
 "Belgaria Empire belongs to the North sect."<br/>
 "What’s wrong with that. We have lots of religion."<br/>
 The Empire expanded its borders by conquering the territory of other nations, so it was difficult for them to refute any religion.<br/>
@@ -502,24 +502,24 @@ However, Damia couldn’t accept that.<br/>
 "I won’t submit to a North sect emperor. We are the only ones who convey the true voice of God. The Hispanian Emperor is the rightful Emperor."<br/>
 Altina looked bewildered.<br/>
 She never expected a citizen to defy her so stubbornly.<br/>
-Regis sighed:
+Regis sighed:<br/>
 "… The citizens in north Hispania would secretly trade with other nations and receive travellers. They are quite open minded."<br/>
 Many of them lived abroad too.<br/>
 So if the Belgarian Empire really invaded them, they would surrender.<br/>
 After all, the invading army led by Altina would not commit wanton murders and pillaging.<br/>
-Regis continued:
+Regis continued:<br/>
 "… However, the closer you go to the center of the Hispania Empire, the more people there are who will only recognize the High Sect alone."<br/>
 Because the Emperor of the Belgarian Empire belonged to the North sect.<br/>
 So we won’t surrender— people like that would turn up too.<br/>
-Damia concluded:
+Damia concluded:<br/>
 "The North sect is the devil that twisted the gospels of God. We will never submit to you!"<br/>
-Altina asked:
+Altina asked:<br/>
 "What will your people do if my soldiers goes near the town?"<br/>
 "We will go to war! The righteousness of God is with us!"<br/>
 The soldiers started getting rowdy.<br/>
-Belgaria’s soldiers were strong. Given their confidence and pride in their strength, it was only natural for some to feel slighted, and think “You think you can beat us off?”
+Belgaria’s soldiers were strong. Given their confidence and pride in their strength, it was only natural for some to feel slighted, and think "You think you can beat us off?"<br/>
 One of the staff officers observing this conversation— the commander of the heavy infantry unit, Second Grade Combat Officer Balasko stepped forward.<br/>
-"Since you said “war”, then the women and children will be treated as combatants too. Please let our unit handle this."<br/>
+"Since you said "war", then the women and children will be treated as combatants too. Please let our unit handle this."<br/>
 "Hmm…"<br/>
 Altina fell into deep thought.<br/>
 The town residents were definitely civilians.<br/>
@@ -532,17 +532,17 @@ Damia, the youth adamant in his refusal grit his teeth. It was snowing, but he w
 After all, he just declared war against the commander of an invading army.<br/>
 Altina was troubled because of her pacifist ideals that prioritize the wellbeing of the people. Any other generals in the Belgaria Empire would have delegated this matter to Balasko.<br/>
 A battle with a town of 3,000 would end quickly, even before the main forces reach there.<br/>
-What about showing mercy to people revolting against the Belgaria Empire?
+What about showing mercy to people revolting against the Belgaria Empire?<br/>
 The matter could be resolved peacefully, but that wasn’t a qualified response for the commander of an invading army.<br/>
 If the citizens in the Hispanian capital said the same thing, then she would have no choice but to retreat without a fight.<br/>
 Altina’s orders was to bring the citizens with different ideals and thinking under Belgaria’s rule.<br/>
-She made her decision:
+She made her decision:<br/>
 "We won’t attack the town, ask you to leave the town or submit a tribute. I can promise you all that. However, we will be making camp near the town before the weather clears up. IF you harm my soldiers, I will never forgive you all."<br/>
 "……"<br/>
 It was Damia’s turn to be troubled.<br/>
 However, their status weren’t equal.<br/>
 He wasn’t given time to ponder an answer.<br/>
-Altina commanded:
+Altina commanded:<br/>
 "You may leave. Relay my words to the townsfolk."<br/>
 The heavy infantry soldiers brought him outside without waiting for a reply.<br/>
 The Belgarian campaign army headed towards the small town Lokays.<br/>
@@ -564,7 +564,7 @@ The only ones in the carriage were Regis and Altina.<br/>
 Altina frowned.<br/>
 "Ehh? You want to run them out of town?"<br/>
 "Since they refuse to surrender to the Belgaria Empire, that is the only way. I would let them bring enough provision to make it to the Hispanian capital."<br/>
-She asked uneasily:
+She asked uneasily:<br/>
 "Regis still believes that I can be the Empress of Belgaria, right?"<br/>
 "That’s correct."<br/>
 "When that time comes, I hope to have peaceful relations with the surrounding nations."<br/>
@@ -575,8 +575,8 @@ She asked uneasily:
 I know what you mean, Regis opened his arms to soothe her.<br/>
 "… Most citizens of the Hispania Empire are High Sect, and many of them refused to recognize other sects. Robbing the property of other sects isn’t a sin— that country uses this rationale to justify their military committing piracy."<br/>
 "Yes, that’s true."<br/>
-For example, if they weren’t an invading army but a weak traveller, what would happen?
-Like a North sect traveller who arrived at Damia’s town without knowing anything? Who can guarantee that person’s safety?
+For example, if they weren’t an invading army but a weak traveller, what would happen?<br/>
+Like a North sect traveller who arrived at Damia’s town without knowing anything? Who can guarantee that person’s safety?<br/>
 "… Like how hegemony that wants to conquer the world with military might is at odds with your ideal of pacifism. Getting people who don’t recognize people of other sects to work together with you is very difficult."<br/>
 Altina lowered her head.<br/>
 "Yes, that might be so."<br/>
@@ -606,16 +606,16 @@ As the middle of the Hispanian Empire were trecherous mountain ranges, the roads
 Altina had a resigned expression.<br/>
 "… You are really..."<br/>
 "Well, listen."<br/>
-Regis continued:
+Regis continued:<br/>
 "According to the spies report, the Hispania Emperor didn’t despatch any reinforcement towards Fort Bassetti. Given his personality, he wouldn’t accept any refugees into the capital."<br/>
 "Maybe."<br/>
 "The High Sect revered the Hispania Emperor as the one rightful ruler of all lands… But if that Emperor refuse to accept refugees, would their faith remain as strong?"<br/>
-Altina pouted unhappily:
+Altina pouted unhappily:<br/>
 "You are saying that since the High Sect don’t recognize pagans, so we should destroy the faith in the sect instead?"<br/>
 "… Count Castellado authored a book called 《Religion, War and Peace》. So the historical event written on it is similar to this."<br/>
 "Similar my foot!"<br/>
 She was very displeased.<br/>
-Regis shrugged:
+Regis shrugged:<br/>
 "… The means might look a little underhanded, but the result would be less people dying in the war, correct?"<br/>
 Altina shook her head.<br/>
 "I know what you mean, Regis… if we can avoid a war, then it would be a good thing."<br/>
@@ -623,13 +623,13 @@ Altina shook her head.<br/>
 "However, I hope they can understand the benefits of the equality and pacifism that I believe in."<br/>
 "… But if they don’t understand?"<br/>
 Altina put her right hand on her breast.<br/>
-And said determinedly:
+And said determinedly:<br/>
 "Dying for one’s conviction isn’t an unfortunate thing. I want to eradicate war from this world— I would fight to the bitter end against the things that attempt to twist my ideals."<br/>
 Regis stared at her.<br/>
-And then nodded:
+And then nodded:<br/>
 "… I understand. I will think up the strategies for you. A way to make the citizens change their faith without exploiting them."<br/>
 He promised.<br/>
-Altina said with a smile:
+Altina said with a smile:<br/>
 "Thank you, Regis."<br/>
 "… No, I should be the one thanking you. My thinking was too shallow."<br/>
 "Not at all. It is correct to put saving lives as the top priority."<br/>
@@ -649,4 +649,4 @@ As the invading army had to attack and take down enemy strongholds, so the suppl
 They should be reaching soon, but Regis still felt a little uneasy.<br/>
 If the supply unit was defeated, seizing the capital of Hispania would be incredibly difficult.<br/>
 His gaze fell back onto the map.<br/>
-Previous Chapter | Main Page | Next Chapter
+Previous Chapter | Main Page | Next Chapter<br/>

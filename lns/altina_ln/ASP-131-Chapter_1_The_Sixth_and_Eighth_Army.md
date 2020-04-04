@@ -1,14 +1,14 @@
-### Altina the Sword Princess Volume 13 Chapter 1
-The Sixth and Eighth Army
-Translator: Skythewood
-#### Editor: Darkdhaos, CEObrainz
+### Altina the Sword Princess Volume 13 Chapter 1<br/>
+The Sixth and Eighth Army<br/>
+#### Translator: Skythewood<br/>
+#### Editor: Darkdhaos, CEObrainz<br/>
 The Fourth Army started advancing again.<br/>
 Regis got on the carriage.<br/>
 And Clarice sat opposite him as usual.<br/>
 When there weren’t any outsiders, she would become very chatty.<br/>
 And would often tease Regis.<br/>
 But these few days, she spent most of her time just looking at Regis with a smile.<br/>
-Regis asked exasperatedly:
+Regis asked exasperatedly:<br/>
 "… Erm… What is it? The atmosphere feels different from usual."<br/>
 "Is that so?"<br/>
 "Yes."<br/>
@@ -18,11 +18,11 @@ Regis asked exasperatedly:
 "… That may be so."<br/>
 It happened several days ago.<br/>
 When he finally had the chance to have a proper conversation with Clarice.<br/>
-Back then, she told Regis “I like you”, and that wasn’t a lie or a joke. Regis didn’t think too much  about it back then, and thought she was just teasing him for fun again…
-— But what if that was a sincere confession?!
+Back then, she told Regis "I like you", and that wasn’t a lie or a joke. Regis didn’t think too much  about it back then, and thought she was just teasing him for fun again…<br/>
+— But what if that was a sincere confession?!<br/>
 No no no… Regis shook his head in his heart.<br/>
 It was hard for him to imagine that anyone would ever love him.<br/>
-But if that was so, then what did Clarice actually mean?
+But if that was so, then what did Clarice actually mean?<br/>
 "Hmm…"<br/>
 Regis rested his head on his hands and pondered.<br/>
 He couldn’t calm down.<br/>
@@ -32,7 +32,7 @@ He looked out the window, and saw Altina troddling over on her horse.<br/>
 "Can I bother you for a moment?"<br/>
 "Ah, alright."<br/>
 Regis opened the small windows at the front of the carriage, and told the driver to stop for a while.<br/>
-Altina smiled awkwardly:
+Altina smiled awkwardly:<br/>
 "Carriages sure are nice. You can reach such speed just by spinning the wheels around."<br/>
 "Madam Généralissime, please don’t say something so childish alright?"<br/>
 "Your Highness…?"<br/>
@@ -44,7 +44,7 @@ After handing her horse to a subordinate, Altina got on the carriage and sat dow
 "I see. I wanted to ask him some things too."<br/>
 "Then like usual, let’s set up tent in the evening, then go to sleep after finishing dinner—"<br/>
 "… Yes."<br/>
-Altina will practice with Eddie before and after meals, and this part was probably included in “after dinner”.<br/>
+Altina will practice with Eddie before and after meals, and this part was probably included in "after dinner".<br/>
 Regis and Clarice suddenly locked gazes.<br/>
 "……"<br/>
 "……"<br/>
@@ -54,27 +54,27 @@ Altina swiveled her head between the two of them.<br/>
 She was sharp.<br/>
 There wasn’t any basis for this, but she sensed the stiff atmosphere.<br/>
 At least for Regis, his feelings had changed subtly after that incident a few days ago.<br/>
-Clarice smiled awkwardly:
-"After hearing me say “I like you”, Regis has been troubled all this time."<br/>
+Clarice smiled awkwardly:<br/>
+"After hearing me say "I like you", Regis has been troubled all this time."<br/>
 Altina turned stiff.<br/>
 "… Hah?"<br/>
 It was a bit scary.<br/>
-Pfft, Clarice said with a laugh:
+Pfft, Clarice said with a laugh:<br/>
 "Ara ara, Your Highness is showing an expression I have never seen before because of Regis… I feel a little envious."<br/>
 "C-Clarice, are you serious?!"<br/>
 "What do you mean?"<br/>
 "R…Regis, the things about him! You l-l-like…"<br/>
 "Of course it’s true, Princess. In the entire Belgaria empire, would anyone hate Sir Regis? Ah, I don’t know what His Majesty Latreille thinks. What about you, Your Highness?"<br/>
 "Ehh? Well…"<br/>
-"Choose either “like” or “hate”, okay?"<br/>
+"Choose either "like" or "hate", okay?"<br/>
 "Then, li… Hey, why are there only two choices?!"<br/>
 Clarice sighed and drooped her shoulders.<br/>
 "Hah… My Princess has become smarter."<br/>
 "Why do you look so disappointed?!"<br/>
 "Well, I like the way the Princess is right now too."<br/>
 Regis who was sitting opposite them realized after hearing their conversation.<br/>
-"… Could it be, when you said “I like you” to me, you mean it the same way as liking Altina?"<br/>
-Clarice said with a giggle:
+"… Could it be, when you said "I like you" to me, you mean it the same way as liking Altina?"<br/>
+Clarice said with a giggle:<br/>
 "Ara ara, Sir Regis, isn’t that obvious?"<br/>
 The breath he had been holding in these few days could finally be exhaled.<br/>
 "T-That’s right~"<br/>
@@ -89,12 +89,12 @@ Yes—, Clarice tilted her head with a smile. Her expression made it hard to dis
 "Erm, yes."<br/>
 Altina looked even more anxious.<br/>
 Even Regis couldn’t sit still after hearing all that.<br/>
-Clarice said seriously:
+Clarice said seriously:<br/>
 "However, there isn’t any woman who will be willing to spend her days with a man who spends the majority of his salary on books."<br/>
-""Ughh…】"<br/>
+""Ughh…""<br/>
 Altina and Regis moaned at the same time.<br/>
-Clarice said with no room for debate:
-"I like Sir Regis. I like him very much. It’s true. But it is different from the “like” that Your Highness is thinking about. I have my own plans for the future too. I’m a bit skeptical about an impoverished life surrounded by books and not knowing what tomorrow will be like."<br/>
+Clarice said with no room for debate:<br/>
+"I like Sir Regis. I like him very much. It’s true. But it is different from the "like" that Your Highness is thinking about. I have my own plans for the future too. I’m a bit skeptical about an impoverished life surrounded by books and not knowing what tomorrow will be like."<br/>
 Regis’ head bowed in a slump.<br/>
 "… I have nothing to say about that."<br/>
 "Ah, ahaha… Well, Regis is really a handful!"<br/>
@@ -112,7 +112,7 @@ Even if he was revered as the saviour of the nation, and advanced his career eno
 The corners of Regis’ eyes turned moist as he slowly opened a book.<br/>
 As expected, this was the only thing for him.<br/>
 He just needed to read books. They would let him forget the sadness of the present, the unease of the future and the regrets of his past.<br/>
-Fufu, the world of books sure is wonderful!
+Fufu, the world of books sure is wonderful!<br/>
 "Regis! Don’t start reading books in the middle of a conversation, hey?!"<br/>
 Altina said through gritted teeth. But even so, this was the only thing Regis could do to soothe and calm his mind.<br/>
 "……"<br/>
@@ -136,7 +136,7 @@ There were four people in the carriage— Regis, Altina, Clarice and Eddie.<br/>
 After getting in touch with the Sixth Army, they had a firmer grasp on the situation there.<br/>
 Regis laid a simplified map on the table inside the carriage.<br/>
 "… The invading Etruria Theocracy army has 20,000 men. Seven forts of various sizes have fallen, and the southern base city Sembione fell into enemy hands a week ago."<br/>
-The fortification of Sembione city was on the average level in the empire. So why did the Sixth and Eighth Army abandoned it so readily?
+The fortification of Sembione city was on the average level in the empire. So why did the Sixth and Eighth Army abandoned it so readily?<br/>
 Eddie frowned.<br/>
 "The enemy forces has quite a substantial number. If they already took the city a week ago, won’t they continue with the next step of their invasion plan?"<br/>
 "That might be possible… But given how far they have invaded, it will make more sense to wait for a resupply there. After all, they also need rest."<br/>
@@ -155,11 +155,11 @@ Regis shook his head.<br/>
 "… The Tiraso Laverde clan is an important supporter of the Fourth Army. They did request many things from us. But I didn’t pick Aroe Maroe City as the battlefield for the sake of recovering lost grounds quickly."<br/>
 Altina and Eddie listened quietly.<br/>
 And of course, Clarice did the same. She didn’t interrupt this war conference.<br/>
-Regis said:
+Regis said:<br/>
 "… The southern lands are a critical food production area for the Belgarian empire. It is still half developed, but its crops like wheat, corn and soy account for half of the empire’s harvest."<br/>
 "It’s that much?!"<br/>
 "… If we lose a third of the south, then it won’t be any surprise if the price of wheat doubles. It’s the same for lemon and oranges. Potatoes, tomatoes and corn from the New World grows fast too, but we would probably lose them all."<br/>
-<TL: https://en.wikipedia.org/wiki/New_World>
+<TL: https://en.wikipedia.org/wiki/New_World><br/>
 "Isn’t that serious!"<br/>
 "…Grebauvar city also has specialty products, so it’s painful to let it go… But in this war, we can’t afford to lose any land in the south."<br/>
 "Yes! I understand! I will definitely recover these lands."<br/>
@@ -172,7 +172,7 @@ Eddie shrugged.<br/>
 "Haha… That’s true. When I proposed flooding Grebauvar city, he already nagged at me plenty."<br/>
 It would be a serious problem if the southern frontlines were pulled back substantially.<br/>
 They reached the consensus that they had to recover the territory.<br/>
-Regis asked:
+Regis asked:<br/>
 "Lord Eddie served in the Sixth Army before, correct?"<br/>
 "Ah—… That was about half a year ago, when we were suppressing Earl Trosa’s rebellion. It was terrible."<br/>
 He said impatiently.<br/>
@@ -196,14 +196,14 @@ Speaking of which, if he really lost a lot of soldiers, he couldn’t have maint
 An incompetent commander would lose the lives of his soldiers for nothing instead.<br/>
 According to Regis’ investigation, the Sixth Army’s fighting strength was constantly at the 20,000 mark, and there weren’t any large scale recruitment drives to bolster their numbers.<br/>
 Which meant that despite the lack of victory, there also weren’t any losses.<br/>
-He thought off handedly:
+He thought off handedly:<br/>
 "… From the battle records in recent years, the Sixth Army has a survival rate far higher than other units."<br/>
 The amount of rain during the rainy season in the south was staggering.<br/>
 Not only did the wet ground become hard to traverse, the amount of water in the river also increased, and it took an entire day to cross the river.<br/>
 The Fourth Army had brought a large amount of supplies with them in accordance to the Sixth Army’s request. They lost their resources along with their base. They also had many refugees in tow.<br/>
 Even the supplies in the base behind them were limited, a symptom of terrible planning. But they wouldn’t have lost if their planning was good in the first place.<br/>
 And so, the Fourth Army brought a larger than usual load of logistics to the south.<br/>
-Two weeks later—
+Two weeks later—<br/>
 The walls of Aroe Maroe City appeared before the Fourth Army.<br/>
 Its stone walls were erected on the grassy plains.<br/>
 The city was about the size of Grebauvar city and was considered massive for a regional province.<br/>
@@ -212,9 +212,9 @@ Large chunks of white clouds hung above the horizon.<br/>
 It was late morning, there was no trace of the downpour earlier, and the sky was completely clear.<br/>
 This region had high temperature and low humidity, which made for a fair climate. But after it rains, it feels like a sauna.<br/>
 You would sweat just from sitting around.<br/>
-Altina who was riding alongside the carriage on her horse shouted:
+Altina who was riding alongside the carriage on her horse shouted:<br/>
 "I can see it!"<br/>
-Regis answered through the carriage’s window:
+Regis answered through the carriage’s window:<br/>
 "The south sure is vast. This journey took more time than a round trip from Fort Volks to the capital."<br/>
 "We have to let the troops rest for a while—"<br/>
 "Yes."<br/>
@@ -258,12 +258,12 @@ Altina frowned.<br/>
 "Like what Eddie said, I don’t feel any aura from them at all."<br/>
 "… Did they neglect their training?"<br/>
 Regis couldn’t swing swords, wield spears or ride horses. So he couldn’t tell the power levels of the soldiers no matter how much he observed the individual soldiers.<br/>
-Altina commented:
+Altina commented:<br/>
 "I don’t think they are weak since there are few rookies. If I have to say, they are like veterans who are so familiar with war that they don’t feel tense."<br/>
 "… I see."<br/>
 "We are already invaded, aren’t they too relaxed about it?"<br/>
 They even saw soldiers with bare upper bodies and faces red from drinking in the day.<br/>
-Regis advised Altina:
+Regis advised Altina:<br/>
 "… That’s how the regional units are. It’s the Beilschmidt Border Regiment disciplined by the strict General Jerome that is special."<br/>
 "Don’t this mean that the commander here isn’t nervous at all?!"<br/>
 "… That is true."<br/>
@@ -293,7 +293,7 @@ As they had already discussed this before hand, Altina spoke without beating aro
 Rockhoward gritted his teeth.<br/>
 He seemed ashamed for being forced into such a situation by the enemy.<br/>
 However, the one primarily responsible for this, Dorval remained unfazed.<br/>
-Altina continued:
+Altina continued:<br/>
 "As the Généralissime of the empire, I will assume command of all the units here. Anyone who opposes may speak out now."<br/>
 "The Eighth Army is ready to carry out your orders!"<br/>
 Rockhoward answered with his chest held high.<br/>
@@ -303,7 +303,7 @@ Dorval showed a smile that made others feel uncomfortable.<br/>
 Rockhoward started sweating profusely. His face turned green and seemed to be on the verge of collapsing.<br/>
 "Ah, well… We the Eighth Army is ready to do all we can to defend the empire’s territory… I’m just following the orders of Lieutenant General Dorval."<br/>
 Dorval was unexpectedly calm even though his name was brought up. Normally, someone would be a little anxious when they were being faulted.<br/>
-— Is it because he is a grand noble from central?
+— Is it because he is a grand noble from central?<br/>
 His smile never left his face.<br/>
 "My deep apologies. We fought a few skirmishes, but the enemy are religious fanatics who battle like beasts, so we prioritized the safety of the citizens. Our numbers are too small to defend the vast lands in the south…"<br/>
 He droned on and on with his excuses.<br/>
@@ -322,21 +322,21 @@ Altina glared at him.<br/>
 Dorval shook his head.<br/>
 "No such thing! My house is also an impoverished noble in central. Hence, we have many old soldiers in my units, and they aren’t as spry as the young men…"<br/>
 "How can a commander behave like this!?"<br/>
-Before she lashed out, Regis interjected:
+Before she lashed out, Regis interjected:<br/>
 "Your Highness… the exhaustion of the soldiers can’t be discerned visually. Let’s take the advice of the experienced general."<br/>
 "Muu… If Regis says so."<br/>
-Dorval and Rockhoward both showed a surprised expression that says “So this guy is Regis”.<br/>
+Dorval and Rockhoward both showed a surprised expression that says "So this guy is Regis".<br/>
 They heard his name before, but this was the first time they saw him in person. They were probably shocked by his unsoldier-like appearance.<br/>
 Dorval immediately made a toady smile.<br/>
 "As expected of the famed hero strategist! Thank you very much for your kind understanding! Allow us to witness the heroic battles by the elites serving under Madam Généralissime."<br/>
 Which meant, he just wants the Fourth Army to fight while he watches from the sidelines.<br/>
 It was obvious that he had no intentions of fighting.<br/>
-Regis tried to calm his emotions as much as possible, and said calmly:
+Regis tried to calm his emotions as much as possible, and said calmly:<br/>
 "… I understand. When the Etruria Theocracy army attacks, the Fourth Army will engage the enemy with our full might. Since both of your armies are now under the Princess’ command, please refrain from acting on your own."<br/>
-""Understood!】"<br/>
+""Understood!""<br/>
 The two of them answered with a salute.<br/>
 Regis nodded too, then turned around and saluted Altina.<br/>
-Altina who was assigned a private chambers inside the Aroe Maroe city shouted:
+Altina who was assigned a private chambers inside the Aroe Maroe city shouted:<br/>
 "What the hell are they doing!? Don’t they have any drive at all!?"<br/>
 "… It’s more serious than I imagined."<br/>
 Regis sighed.<br/>
@@ -345,7 +345,7 @@ Clarice who always waits on her wasn’t in the room as she needed to prepare lu
 Eric stood at the door with his rifle as her escort officer. In his hands was the High Britanian made 《Snider Rifle》 gifted to him by Regis.<br/>
 Eddie and Abidal Evra were tending to the troops. The soldiers were exhausted and unhappy after the long journey, so they had to keep an eye on them.<br/>
 Right now, only Altina, Regis and Eric were in the room.<br/>
-Eric said:
+Eric said:<br/>
 "But doesn’t the Eighth Army’s Lieutenant General Rockhoward seem full of drive?"<br/>
 "Yes, compared to Dorval."<br/>
 When he heard their conversation, Regis tilted his head.<br/>
@@ -364,12 +364,12 @@ The heavy doors were opened, and a man dressed like a noble bowed gracefully.<br
 It was a handsome and graceful man.<br/>
 Altina showed a face of detest.<br/>
 "Inspector~?"<br/>
-Regis mediated:
+Regis mediated:<br/>
 "Well, not all inspectors are selfish and greedy."<br/>
 Inspector Becker who was assigned to the Beilschmidt Border Regiment was an infuriating man. That was the reason behind her prejudice against inspectors or their likes.<br/>
 Frank shrugged.<br/>
 "I understand. Just introducing myself as an inspector gives the impression that I’m fishing for a bribe. However, my wages are already enough for my family, and I’m not looking for more. My wife and son is like a goddess and angel, and I want for nothing else except their smiles."<br/>
-What’s with the sudden assault of random thoughts?
+What’s with the sudden assault of random thoughts?<br/>
 This person might be a weirdo.<br/>
 Regis scratched his face.<br/>
 "Erm… Inspector Duran is introduced to me by Ms Fanrine. She said that we can ask him anything after we meet up with the Eighth Army."<br/>
@@ -386,10 +386,10 @@ Altina said apologetically.<br/>
 No no, Frank shook his head.<br/>
 "I do hope you all can trust me, but I myself don’t trust my inspector colleagues. They are just rats living on the ship named the Ministry of Military Affairs. The retards who finally gnawed a hole through the bottom of the ship. Well, the Ministry is finally paying the price and dissolved for the bill it chalked up over the years… Ah, officially, I don’t have any post right now. When I introduced myself arrogantly earlier, that was just a lie."<br/>
 He looked bright and cheery, and didn’t seem to care where his next posting would be. As if he already secured a winning ticket. Maybe he already had a backup plan ready.<br/>
-Regis added in a bit of idle chat:
+Regis added in a bit of idle chat:<br/>
 "… Normally, the organization would be dissolved after the personnel have been reassigned… But to actually dismiss all the employees, that goes to show had much anger Emperor Latreille bore towards the Ministry of Military Affairs. Just how much headache did they cost him when he was Field Marshal?"<br/>
 Hahaha… Frank merely laughed, and avoided commenting on the new Emperor.<br/>
-Back to the topic;
+Back to the topic;<br/>
 "So, can you tell us about the command and actions of the Eighth Army?"<br/>
 "Just what happened that led to this current situation?"<br/>
 "Lieutenant General Rockhoward… is very cautious, but he would issue unexpected orders at times."<br/>
@@ -406,9 +406,9 @@ The Sixth Army’s base should be a sturdier fort at the frontlines further to t
 But it was lost in a short time, and they had to retreat across the Calena river to Sembione city. This situation was entirely their responsibility.<br/>
 No matter what, Sembione city still had 50,000 citizens and 20,000 soldiers.<br/>
 The Eighth Army linked up with them here.<br/>
-Rockhoward said:
+Rockhoward said:<br/>
 "Our unit is here to assist on Field Marshal Latreille’s orders. If the Sixth and Eighth Army work together, we can surely repel the Etruria Theocracy army in one fell swoop!"<br/>
-Dorval looked at the unit and asked:
+Dorval looked at the unit and asked:<br/>
 "How much food do you have?"<br/>
 "Enough for the Eighth Army to fight for a month."<br/>
 "Hmm…"<br/>
@@ -417,7 +417,7 @@ Maybe he just want to reduce the rate of food consumption in the city while they
 A week later, the Etruria Theocracy army appeared before Sembione city with 20,000 troops.<br/>
 The Empire was 40,000 strong.<br/>
 Rockhoward decided to end the war swiftly, and proposed leaving the city to engage the enemy. Dorval accepted this proposal.<br/>
-When Regis heard that, he couldn’t help shouting:
+When Regis heard that, he couldn’t help shouting:<br/>
 "What?!"<br/>
 "As I thought, you think that is strange too?"<br/>
 "That’s because… They had a fort right there for their defences. They should let the Etruria Theocracy attack and grind down a part of their numbers. After the enemy is exhausted, they could open the gate and force a decisive battle with the enemies on the plains."<br/>
@@ -429,7 +429,7 @@ Frank nodded.<br/>
 In a room assigned to the Eighth Army.<br/>
 The Lieutenant General sat in a leather chair in the innermost side, surrounded by his staff officers standing around his table.<br/>
 It was the Eighth Army’s war conference.<br/>
-A Staff Officer reported:
+A Staff Officer reported:<br/>
 "The Etruria Theocracy army is here! There are 20,000 of them!"<br/>
 "Hmmp… The Sixth Army kept saying retreat retreat, which made me wondered how large the enemy forces are. So it’s only this much huh?"<br/>
 "There’s nothing to fear, the Belgaria Empire’s victory is inevitable!"<br/>
@@ -449,12 +449,12 @@ None of his staff officers wanted to be a wet blanket, so they were all gung ho 
 "That’s right! Let’s teach those conscripts who switched their hoes for spears what a real battle is!"<br/>
 "This is a good chance to show them the might of our traditional western swordsmanship!"<br/>
 Without even drinking a sip of wine, these bunch of staff officers started getting hyped as if they were drunk.<br/>
-Rockhoward shouted in high spirit:
+Rockhoward shouted in high spirit:<br/>
 "Alright! Attack! We can win by fighting in the plains, why are we still defending the fort!?"<br/>
 "… My head hurts."<br/>
 It had been a long time since Regis felt a headache.<br/>
 He sighed.<br/>
-Frank frowned:
+Frank frowned:<br/>
 "Regrettably, I’m not exaggerating. They decided on their battle plan with the same atmosphere when deciding to go fox hunting."<br/>
 "Yes… I can’t tell he is such a person."<br/>
 "It might not be appropriate for a noble like me to say this, but aristocrats are like lions who boast at home, and act like loyal dogs in the presence of their supervisors."<br/>
@@ -477,25 +477,25 @@ Altina started complaining.<br/>
 "Haha… Well, maybe they are waiting for the rainy season to end. It is almost September, so it should be over soon."<br/>
 "Is that so?"<br/>
 The dialogue was almost over, but Altina shouted: "Wait wait wait!"<br/>
-She showed four fingers on her right hand, and two fingers on her left hand:
+She showed four fingers on her right hand, and two fingers on her left hand:<br/>
 "Even if leaving the base to attack is a mistake, the Belgaria Empire has 40,000 men, while the Etruria Theocracy has 20,000. Why did they lose?!"<br/>
-Frank answered:
+Frank answered:<br/>
 "When the two forces were facing off, a fire broke out in Sembione city."<br/>
 "Fire?!"<br/>
-"It seemed to have been caused by carelessness. But we only learned about it from the city guards after the fact… Lieutenant General Dorval who had overall command outside the city judged this to be “the base behind us had fallen”, and ordered a full retreat…"<br/>
+"It seemed to have been caused by carelessness. But we only learned about it from the city guards after the fact… Lieutenant General Dorval who had overall command outside the city judged this to be "the base behind us had fallen", and ordered a full retreat…"<br/>
 "~~~?!"<br/>
 Altina was shocked beyond words.<br/>
-Regis said with a sigh:
-"Hmm… This is just like the scene from Klone Milo’s famed work 《Heroes Elegy》. It is widely praised for being an outstanding heroic novel, but in the decisive battle, it was criticized for the part where “the enemy fell into a panic because of a fire that broke out suddenly, giving the protagonist a chance to turn the table”."<br/>
-Altina said angrily:
+Regis said with a sigh:<br/>
+"Hmm… This is just like the scene from Klone Milo’s famed work 《Heroes Elegy》. It is widely praised for being an outstanding heroic novel, but in the decisive battle, it was criticized for the part where "the enemy fell into a panic because of a fire that broke out suddenly, giving the protagonist a chance to turn the table"."<br/>
+Altina said angrily:<br/>
 "If there are 40,000 troops, the results of our battle with High Brittania would have been different! But a misunderstanding over a fire is mistaken for an enemy attack despite having such a large army!? Stop kidding me!"<br/>
 "… I can understand being mistaken when their base that had only minimal forces caught on fire."<br/>
 "Really?!"<br/>
 "… But they should have sent a messenger to verify first. They can order the retreat after making sure that the base had been lost."<br/>
 And of course, this would only work if they had deployed their troops cautiously to avoid pincer attacks.<br/>
 Altina vented her anger for that decision which was really too retarded.<br/>
-Did nervousness result in the commander’s mistake on the ground?
+Did nervousness result in the commander’s mistake on the ground?<br/>
 That might be so, but for a mishandling of fire to lead to such tremendous loss wasn’t a joke one could laugh about.<br/>
-How much blood would need to be spilled to seize back the fort?
+How much blood would need to be spilled to seize back the fort?<br/>
 It rained a little this evening, but the weather was clear the next day and the day after.<br/>
-Previous Chapter | Main Page | Early access available through Patreon
+Previous Chapter | Main Page | Early access available through Patreon<br/>

@@ -1,14 +1,14 @@
-### Altina the Sword Princess Volume 12 Side Story part 2
-Translator: Skythewood
-#### Editor: Darkdhaos
-The next morning——
+### Altina the Sword Princess Volume 12 Side Story part 2<br/>
+#### Translator: Skythewood<br/>
+#### Editor: Darkdhaos<br/>
+The next morning——<br/>
 The soldiers were a little excited.<br/>
 Because there had turkey for breakfast.<br/>
-Marion showed a “How’s that!” face.<br/>
+Marion showed a "How’s that!" face.<br/>
 "The troops will become stronger now right?"<br/>
 "This will do."<br/>
 After breakfast, Jerome gathered the soldiers in the plaza.<br/>
-And said bluntly:
+And said bluntly:<br/>
 "You lot are too weak!"<br/>
 "Ugh…"<br/>
 The soldiers reacted timidly. There were people who scolds others in normal units, but this came from the black knight himself, so no one dare refute him.<br/>
@@ -24,7 +24,7 @@ A youth standing in front raised his hand.<br/>
 "Woahh!"<br/>
 The soldiers’ expression became cheerful.<br/>
 The eyes of Marion who was listening besides him also started sparkling.<br/>
-Jerome spat:
+Jerome spat:<br/>
 "Why are you lot showing such a naive expression!? When I say you can change in an instant, I mean—— you will change the instant you see hell!"<br/>
 "H-Hell!?"<br/>
 The atmosphere of hope that was hyped up disappeared in an instant.<br/>
@@ -36,7 +36,7 @@ Marion panicked.<br/>
 "That won’t do!"<br/>
 "Anyone who can’t do it can sound out. I can excuse him from training."<br/>
 Marion patted her chest in relief.<br/>
-The soldiers also showed an expression that says “Since you say so”.<br/>
+The soldiers also showed an expression that says "Since you say so".<br/>
 "You lots… really want to live your entire lives in a decadent way huh. You believe you won’t be treated harshly just because you’re weak soldiers. Even now, when the enemy might come this day and murder your entire family, you still can’t find the resolve to die for the cause. Retards! That’s why you lot are the worst unit. It has nothing to do with being recruits or old timer. It’s because of your wimpy nature! That’s why you all will die, every single one of you!"<br/>
 "What…!?"<br/>
 The faces of Marion and the soldiers turned green.<br/>
@@ -96,11 +96,11 @@ Jerome shrugged.<br/>
 "Kukuku… don’t be retarded —— I’m a good guy who won’t talk back when the priest lectures me during mass."<br/>
 The soldiers finally understood the situation.<br/>
 The man before them was a hero, had extraordinary prowess, a terrible personality and didn’t care about the sanctity of life.<br/>
-Marion shouted:
+Marion shouted:<br/>
 "Everyone, remember how it is done in our training! Surround him and finish him off!"<br/>
 "Good, that’s more like it. The whole lot of you, come at me. I suggest you hurry up. If I get tired —— I won’t be able to hold back my strength."<br/>
 The screams of 600 men echoed through Fort Hauport.<br/>
-Night——
+Night——<br/>
 Jerome lied in his bed that was beside the window. The candle was already out.<br/>
 There was a knocking on the door.<br/>
 He didn’t answer.<br/>
@@ -178,7 +178,7 @@ Jerome drew his sword, parried all the incoming swords and kicked the stomach of
 "Blarrghhh—!!"<br/>
 The training continued until breakfast, and then went on until the bell signalling the night fall.<br/>
 One month passed.<br/>
-Fortress City Marschtedt——
+Fortress City Marschtedt——<br/>
 Morning, Coignieres practiced his sword in the courtyard.<br/>
 Even though he spent most of his day on war conference and administrative paper work.<br/>
 But on the battlefield, the thing he could count on was his own body. So he couldn’t relax on his training.<br/>
@@ -223,7 +223,7 @@ Holger was surprised, and his gaze then fell on the words.<br/>
 "The Black Knights can deploy at any moment."<br/>
 "The Seventh Army too."<br/>
 Coignieres and Holger locked eyes, then nodded.<br/>
-Fort Hauport——
+Fort Hauport——<br/>
 Lunch time.<br/>
 "Meat! Give me more!"<br/>
 The soldiers had a murderous air about them.<br/>
@@ -240,7 +240,7 @@ Blood kept dripping from the young soldier’s outreached arm. Marion ran to him
 "Thank you very much! I heard these meat are prepared by Lady Marion. Everyone’s very grateful!"<br/>
 "Erm… It’s thanks to the citizens who are willing to share it with us, and Sir Regis who promised to prepare their winter provisions..."<br/>
 "Sir Regis is awesome! But Lady Marion is the one who brought us the meat. Please watch me, I will do it! I will definitely hit the black knight tomorrow!"<br/>
-The soldiers around her also said "That’s right!】"Kill him!"<br/>
+The soldiers around her also said "That’s right!""Kill him!"<br/>
 Marion sighed again.<br/>
 "… Be careful."<br/>
 "Yes!"<br/>
@@ -256,9 +256,9 @@ He grabbed the messenger by the collar.<br/>
 "You must report to me, the commander first."<br/>
 "M-My apologies."<br/>
 He apologized with a bitter face.<br/>
-Jerome roared:
+Jerome roared:<br/>
 "Sound the alarm right now!"<br/>
-Marion said frantically:
+Marion said frantically:<br/>
 "Ehh!? But we need to confirm if it really is the enemy..."<br/>
 "Retard, speed is of the essence in war! If the report is wrong, then just snap the neck of the guard on watch!"<br/>
 He flung the messenger out.<br/>
@@ -293,8 +293,8 @@ A messenger ran over.<br/>
 "We will send a smoke signal!"<br/>
 "Right, make it quick."<br/>
 Marion looked to the sky. The sun was a bit to the west now, but it would be six hours before it gets dark.<br/>
-Will the fort hold til then…
-Will reinforcement come…?
+Will the fort hold til then…<br/>
+Will reinforcement come…?<br/>
 The smoke signal reporting the enemy attack was sent.<br/>
 Marion looked towards the eastern wall.<br/>
 The black knight was there.<br/>
@@ -309,7 +309,7 @@ The soldiers looked scared.<br/>
 "C-Commander, aren’t you afraid?"<br/>
 "Afraid of what?"<br/>
 "We only have 600 people while the enemy have 20,000… Erm… How many times do they outnumber us?"<br/>
-Another soldier said:
+Another soldier said:<br/>
 "It’s 30 times. And those in green armour are the 《Green Berets》. The archers of Estaburg are really strong."<br/>
 Jerome glared at the troops.<br/>
 "Fu? You think 30 mob soldiers from Estaburg are stronger than me? Seems like I have been going too easy for my training."<br/>
@@ -319,7 +319,7 @@ Jerome glared at the troops.<br/>
 The atmosphere changed.<br/>
 The soldiers intimidated by the 20,000 enemy started laughing. Soon, others joined them.<br/>
 Forcefully laughing to suppress one’s fear was better than trembling.<br/>
-Jerome thought:
+Jerome thought:<br/>
 —— They actually committed their main forces all at once huh.<br/>
 Their intention was to win an overwhelming debut battle, then ride the momentum to continue their attack.<br/>
 The Estaburg soldiers wore green armour and held bows. Even though they were attacking a fort, they were using mid poundage bows. Those were probably their preferred weapon.<br/>
@@ -334,7 +334,7 @@ A messenger ran to him.<br/>
 "Commander! A letter from the capital!"<br/>
 "What?"<br/>
 "It’s from the strategist Sir Regis d’Auric!"<br/>
-—— At a time like this!?
+—— At a time like this!?<br/>
 Jerome glared at him fiercely, which made the innocent messenger yelp.<br/>
 "Tchh… Later! A battle is ongoing right now!"<br/>
 "Eh!? But Sir Strategist..."<br/>
@@ -345,8 +345,8 @@ Jerome gritted his teeth.<br/>
 Maybe Regis predicted this situation and wrote down a counter measure.<br/>
 But Jerome was a man known as a hero.<br/>
 He wasn’t that desolate that he had to rely on someone so far away from the battlefield.<br/>
-——Even without Regis’ schemes, I can win!
-The sentry yelled:
+——Even without Regis’ schemes, I can win!<br/>
+The sentry yelled:<br/>
 "Commander! They have passed the marker!"<br/>
 "Fire the ballistas!"<br/>
 The catapults fixed to the city walls toss out stones the size of a human head.<br/>
@@ -368,7 +368,7 @@ Even so, they still withstood the enemy’s first wave.<br/>
 The Estaburg side placed their ladders onto the stone wall.<br/>
 This was a classic fort attack.<br/>
 Arrows were used to suppress the defender’s movement, and soldiers used the opportunity to scale the walls.<br/>
-Jerome shouted:
+Jerome shouted:<br/>
 "Burn them!"<br/>
 The fort defenders opened the lid on barrels and poured the content onto the ladders. This was oil. Some men got shot, but they successfully poured down the oil.<br/>
 The old soldier wounded by arrow still threw the torch in his hand even though he was still bleeding.<br/>
@@ -380,7 +380,7 @@ The light of the ladder and human being burnt.<br/>
 They continued delivering heavy blows to the enemy.<br/>
 But the difference in numbers was too large. Fort Hauport was completely surrounded.<br/>
 Merely 600 imperial soldiers fended off arrows and soldiers coming from all sides, and they slowly fell through attrition.<br/>
-Evening——
+Evening——<br/>
 Concentrated attacks from three directions were directed towards one corner of the wall.<br/>
 The best men had been assigned there from the start, but this was a weak point right from the beginning.<br/>
 After the guards around there died, they couldn’t keep the ladders away any longer and the Estaburg soldiers finally scaled the wall.<br/>
@@ -397,25 +397,25 @@ The young soldier stabbed with his pike.<br/>
 He wasn’t skilled enough to avoid arrows.<br/>
 He was shot in the stomach.<br/>
 "It doesn’t hurt! Compared to the black knight’s beating, this is nothing!"<br/>
-「Gyahhh!!」
+「Gyahhh!!」<br/>
 The pike of the young soldier pierced the Estaburg soldier.<br/>
 "Alright! Next!"<br/>
-「Die Gaian pig!」
+「Die Gaian pig!」<br/>
 "I’m not afraid of small fries like you! Compared to the scary black knight, this is nothing!"<br/>
 Their excitement dulled their pain, and they exerted arm power that might hurt their muscles. The pikes pierce the enemy’s heart with a speed of a skilled wielder.<br/>
 "Again!"<br/>
 A sword suddenly swung out from the midst of the Estaburg archers.<br/>
 The right arm of the young imperial soldier was lopped off.<br/>
-「Damn fools.」
+「Damn fools.」<br/>
 "Ughhh!?"<br/>
 This man was wearing white armour unlike the others. He had a sword in hand, a larger stature than the soldiers around him, and moved much faster.<br/>
-「Revenge for my sister!」
+「Revenge for my sister!」<br/>
 "Huh!?"<br/>
-The sword slashing at the young soldier——
+The sword slashing at the young soldier——<br/>
 Was deflected by a black lance.<br/>
 A man in black armour stepped forth.<br/>
 "Hmmp… I thought you guys can only spam arrows, aren’t you an interesting one."<br/>
-The young soldier who was on the verge of keeling over mumbled:
+The young soldier who was on the verge of keeling over mumbled:<br/>
 "… Black… Black knight."<br/>
 His vision was gradually engulfed by darkness.<br/>
 Jerome said without turning back.<br/>
@@ -425,10 +425,10 @@ Tears fell from the young soldier’s eyes.<br/>
 "Of course!"<br/>
 Jerome thrust out his lance.<br/>
 The Estaburg soldier in white armour dodged with feral-like movement.<br/>
-「Revenge—— for my sister Johaprecia! I will kill the imperial commander——」
+「Revenge—— for my sister Johaprecia! I will kill the imperial commander——」<br/>
 "Don’t nag during a fight, it’s annoying!"<br/>
 Three incredibly fast thrust pierced the white armour.<br/>
-「What!?」
+「What!?」<br/>
 "Woahhhh!"<br/>
 Jerome roared furiously.<br/>
 He knocked the white armoured soldier that was gushing blood off the wall. He then thrust with a speed that the surrounding archers didn’t have the time to react to.<br/>
@@ -481,7 +481,7 @@ Jerome clicked his tongue.<br/>
 Marion gasped.<br/>
 The enemy would become more driven.<br/>
 Even if they surrender, they would get massacred.<br/>
-She said vexingly:
+She said vexingly:<br/>
 "Going from Marschtedt city to Fort Hauport, reinforcement will reach by evening if they are fast… or nightfall if they are slow."<br/>
 "Yes."<br/>
 "So why isn’t reinforcement coming!?"<br/>
@@ -498,8 +498,8 @@ However, he did consider the possibility that the black knights would come. He f
 "… Why did you come here? You aren’t born in Hauport in the first place."<br/>
 Jerome crossed his arms.<br/>
 And tilted his head.<br/>
-—— Was he trying to achieve a victory that was as improbable as magic in order to prove that he was as good as that strategist?
-Wasn’t that childish?
+—— Was he trying to achieve a victory that was as improbable as magic in order to prove that he was as good as that strategist?<br/>
+Wasn’t that childish?<br/>
 "Hmmp… I already told you. I hate failing. Even if it is this small fort, I won’t allow Estaburg to take it."<br/>
 He upheld his pride.<br/>
 Even if it cost him his life.<br/>
@@ -509,14 +509,14 @@ Marion rubbed the corners of her eyes.<br/>
 "There is only one thing soldiers doomed for hell should do."<br/>
 "Eh?"<br/>
 "That is to bring one more enemy with them. Kill kill kill, send them a message that a war with Belgaria is not worth it. That is the mission of doomed soldiers. Their final mission."<br/>
-She said tremblingly:
+She said tremblingly:<br/>
 "What about the citizens…?"<br/>
 "Give them knives to off themselves. Being taken prisoner would be a worse fate."<br/>
 "Ugghhh…"<br/>
 Marion cried again.<br/>
 A quiet night that didn’t feel like a battlefield passed.<br/>
 Only the constant sound of sobbing.<br/>
-Imperial Year 851 August 3rd——
+Imperial Year 851 August 3rd——<br/>
 The sky was clear this morning.<br/>
 The Estaburg army approached Fort Hauport once again with the rising sun.<br/>
 Most of the ballistas had been destroyed by fire arrows, they couldn’t pull off the same attack they used yesterday.<br/>
@@ -530,7 +530,7 @@ At this moment, the sentry said something strange.<br/>
 "Black smoke sighted to the east!"<br/>
 Jerome tilted his head.<br/>
 He could see the black smoke.<br/>
-—— A forest fire?
+—— A forest fire?<br/>
 A wild fire? But it wasn’t spreading.<br/>
 Marion squainted.<br/>
 "That direction… Could it be… the Estaburg base?"<br/>
@@ -542,7 +542,7 @@ A thunderous boom came from afar.<br/>
 Jerome’s expression turned sinister.<br/>
 "That’s actually… a cannon?"<br/>
 Sounds that came from a far distance were usually cannons.<br/>
-Marion said:
+Marion said:<br/>
 "Did someone else attacked the enemy’s base!?"<br/>
 Not just anyone.<br/>
 The only group that could prepare cannons and mount an attack on the Estaburg’s base could only be the Seventh Army.<br/>
@@ -561,15 +561,15 @@ While their main forces was attacking a small fort, their own base had been atta
 When they saw their allies debuting from an unexpected place, the expression of the soldiers in the fort brightened up.<br/>
 Only Jerome was looking at the battle.<br/>
 "Damn it… This scheme is used to divert the enemy’s next actions!"<br/>
-The sentry yelled:
+The sentry yelled:<br/>
 "Turning! The Estaburg army is turning! They are turning east and leaving!"<br/>
 Warrrghhh!! The soldiers cheered like they did yesterday.<br/>
-Jerome roared:
+Jerome roared:<br/>
 "Don’t relax! Things are just starting!"<br/>
 "Ehh?"<br/>
 Marion who was as happy as the troops opened her eyes wide.<br/>
 "What’s the matter? Isn’t the Estaburg army returning to their base?"<br/>
-"Look carefully. His plan isn’t something so “gentle”."<br/>
+"Look carefully. His plan isn’t something so "gentle"."<br/>
 In this battlefield, only Jerome noticed.<br/>
 The Estaburg army entered the forest.<br/>
 At this moment, rifle reports sounded out.<br/>
@@ -577,35 +577,35 @@ Countless of them.<br/>
 It came from the forest.<br/>
 Even the soldiers looking from Fort Hauport yelped in surprise.<br/>
 The Estaburg army fell into disarray after being attacked.<br/>
-Marion yelled:
+Marion yelled:<br/>
 "W-What’s going on!?"<br/>
 "It’s an ambush. The soldiers laying the ambush in the forest is definitely not from Estaburg."<br/>
 "T-Then, who…?"<br/>
 "Are you all retards? It’s the Seventh Army of course."<br/>
 "Eh!? Then the attack on the Estaburg base is…?"<br/>
 Jerome understood what kind of scheme this was.<br/>
-He spat and said:
-"That’s a ruse. After seeing the fire and hearing the cannons, even you lot thought that  “Estaburg’s base had been attacked”. Their target is the enemy main forces that are retreating in a panic. When the enemy got hit by the ambush of riflemen and fall into confusion——"<br/>
+He spat and said:<br/>
+"That’s a ruse. After seeing the fire and hearing the cannons, even you lot thought that  "Estaburg’s base had been attacked". Their target is the enemy main forces that are retreating in a panic. When the enemy got hit by the ambush of riflemen and fall into confusion——"<br/>
 Black armoured knights appeared in the forest.<br/>
-The soldiers in Fort Hauport pointed and said:
+The soldiers in Fort Hauport pointed and said:<br/>
 "It’s the black knights! And the banner of general Coignieres!"<br/>
 Even if the Seventh Army commit their entire force, they would just be caught in an unfavourable battle of 13,000 against 20,000.<br/>
 They would pay a heavy price even if they won.<br/>
 But now, they were attacking one sidedly.<br/>
 Because the Estaburg army was hit by the ambush in the woods they were so proud of, the entire army fell into disarray.<br/>
-Jerome roared:
+Jerome roared:<br/>
 "This is a good chance right now! Anyone who can still move pick up your pikes!"<br/>
-Marion said frantically:
+Marion said frantically:<br/>
 "Eehhh!? W-What do you want to do!?"<br/>
 "Those bastards are our prey! There’s no reason to gift them to the Seventh Army! Attack! Open the gates!"<br/>
 "Please stop! Everyone’s tired..."<br/>
 The soldier’s roar drowned out her voice.<br/>
-"Warrghhh! Let’s get it on!】"Revenge!】"I will cut off the enemy commander’s head!"<br/>
+"Warrghhh! Let’s get it on!""Revenge!""I will cut off the enemy commander’s head!"<br/>
 If they weren’t that excited, they couldn’t bring their exhausted body to the battlefield.<br/>
 And it wasn’t Jerome’s character to let confused enemy soldiers who were fleeing go.<br/>
 "Kill those bastards!"<br/>
 Two hundred men charged out of the gates.<br/>
-There was a huge difference in numbers after all, so the enemy soldiers fleeing their way outnumbered them…
+There was a huge difference in numbers after all, so the enemy soldiers fleeing their way outnumbered them…<br/>
 However, this was a pincer attack by an organized unit against a panicking mob, so the match was already decided.<br/>
 The commander of the Estaburg army raised the white flag before noon.<br/>
 The eastern front achieved an overwhelming victory.<br/>
@@ -618,9 +618,9 @@ The knight leading them—— Holger dismounted.<br/>
 "Is this that guy’s scheme?"<br/>
 "Yes it is… You haven’t read that letter yet huh. Or he didn’t write the details clearly on his letter to you?"<br/>
 "Tch… So it happened again."<br/>
-It’s Regis’ scheme again. Were the actions of both friend and foe within his grasp!?
+It’s Regis’ scheme again. Were the actions of both friend and foe within his grasp!?<br/>
 Jerome glared at the ground.<br/>
-Holger smiled wryly and said:
+Holger smiled wryly and said:<br/>
 "Sir Regis’ plan was based on the assumption that Fort Hauport could hold for one day. We set off from Marschtedt and went the long way around the battlefield to set our traps. If there wasn’t enough time, the plan wouldn’t have worked."<br/>
 "Tch… Did he predicted the valiant struggles of the troops too!?"<br/>
 "Well, that too… But I think his trust in Lord Jerome plays a big part."<br/>
@@ -635,7 +635,7 @@ Holger shrugged.<br/>
 The other riders of the Black Knights also dismounted and kneeled on one knee.<br/>
 "General, please come back!"<br/>
 Jerome looked at them.<br/>
-And said sternly:
+And said sternly:<br/>
 "… You lot, what’s that battle just now? I was just gone for a month… and that’s how slow you all got? I will train you all properly again, prepare yourselves!"<br/>
 "Y-Yes!"<br/>
 Their shout was a mixture of fear and joy.<br/>
@@ -645,5 +645,5 @@ The walls were burned and the gate was on the verge of collapse.<br/>
 Soldiers and citizens formed long lines in front of the fort. Many had tears flowing from their eyes.<br/>
 Marion issued the order.<br/>
 "Everyone, to our hero, General Jerome… Salute!"<br/>
-Volume 12 End
-Previous Chapter | Main Page
+Volume 12 End<br/>
+Previous Chapter | Main Page<br/>

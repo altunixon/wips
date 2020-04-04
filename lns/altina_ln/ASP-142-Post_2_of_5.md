@@ -1,17 +1,17 @@
-### Altina the Sword Princess Volume 14 (2 of 5)
-Chapter 2: Fort Bassetti
-Translator: Skythewood
-#### Editor: Hiiro
+### Altina the Sword Princess Volume 14 (2 of 5)<br/>
+### Chapter 2: Fort Bassetti<br/>
+#### Translator: Skythewood<br/>
+#### Editor: Hiiro<br/>
 Hispania Empire General Freij Louis González was troubled.<br/>
 "There won’t be any reinforcements?"<br/>
-"His Majesty’s edict is “repel the enemy with the forces you have on hand”"<br/>
+"His Majesty’s edict is "repel the enemy with the forces you have on hand""<br/>
 The young knight relaying the message bowed his head low.<br/>
-— Even if you say that, it is impossible!
+— Even if you say that, it is impossible!<br/>
 Freij cursed in his heart, but didn’t let it show on his face.<br/>
-He didn’t know how the other countries were…
+He didn’t know how the other countries were…<br/>
 But in this nation, one’s conviction would greatly affect his reputation in society.<br/>
 It didn’t matter how perfect one acted, if there was any question of his loyalty to the Monarch or his faith in God, he would lose his current standing in an instant.<br/>
-Freij replied:
+Freij replied:<br/>
 "Which means, His Majesty has full confidence in us."<br/>
 "Yes Sir!"<br/>
 "His Majesty deemed that our forces are sufficient to defeat the Belgaria Empire."<br/>
@@ -27,7 +27,7 @@ There was a small table and chair inside, and a young girl moved a piece on a ch
 Her left hand held a piece as she wrote with a pen in her right hand on a paper.<br/>
 "I heard everything, Dear Father."<br/>
 Mariam Louis Jiménez couldn’t speak.<br/>
-<Sidenote, Louis is the family name of her father, and Jiménez is the family name of her mother. That is the naming convention in the Hispania Empire.>
+<Sidenote, Louis is the family name of her father, and Jiménez is the family name of her mother. That is the naming convention in the Hispania Empire.><br/>
 She was born from a distinguished military family, and was beautiful. By right, she should undergo bridal training and marry early.<br/>
 However, she was born mute.<br/>
 Those who couldn’t sing the holy scriptures were considered ominous. If she was a commoner, she would have been abandoned as a baby.<br/>
@@ -36,8 +36,8 @@ Freij raised her in an inconspicuous mansion, and she managed to survive despite
 As an army general, Freij was seldom home, and his wife was busy with religious activities. Seeing her child born with a handicap, she devote herself even harder into her religion.<br/>
 In the end, Mariam spent most of her time with her grandfather, a retired soldier.<br/>
 Her grandfather was a famous general known as the modern 《War God》. He was a man who only talked about military subjects, but to Mariam, he was the world. She stayed with him until he died of old age.<br/>
-<TL: 軍神 https://ja.wikipedia.org/wiki/%E8%BB%8D%E7%A5%9E >
-Mariam wrote:
+<TL: 軍神 https://ja.wikipedia.org/wiki/%E8%BB%8D%E7%A5%9E ><br/>
+Mariam wrote:<br/>
 "Because His Majesty fears Belgaria’s steamships."<br/>
 As she learned to write from her grandfather, her handwriting resembled his.<br/>
 Freij even wondered at times if his daughter was possessed by the spirit of her grandfather.<br/>
@@ -47,7 +47,7 @@ Freij even wondered at times if his daughter was possessed by the spirit of her 
 "The north and southern roads are within range of our navy. They wouldn’t want to engage our navy in a shootout. The east is the sea, and the west is a dense forest."<br/>
 "Hmm… That means they will come through the forest."<br/>
 Freij concluded.<br/>
-Mariam moved her pieces as she wrote:
+Mariam moved her pieces as she wrote:<br/>
 "That’s what everyone will think, but the Belgaria commander won’t do that."<br/>
 "Why do you think so?"<br/>
 "I understand the competency of the enemy commander from the previous battle. He is flexible and thorough in his thinking. This might be the work of the strategist though."<br/>
@@ -65,7 +65,7 @@ Freij wasn’t retarded, he knew that the only route left was the main road.<br/
 They didn’t have any military vessels, so they wouldn’t attack by sea.<br/>
 "Night raid. Belgaria will definitely attack at night."<br/>
 "Hmmm… I get it. I will get the troops ready."<br/>
-Freij pulled open the curtain and left the room—
+Freij pulled open the curtain and left the room—<br/>
 And went out to the corridor.<br/>
 "Guards!"<br/>
 A soldier standing by walked over immediately at his beckoning.<br/>
@@ -76,18 +76,18 @@ The young adjutant opened his eyes wide.<br/>
 "Did Lady Mariam…"<br/>
 "Hmm? Yes, that’s right."<br/>
 He could see the soldier looking relieved, but Freij didn’t admonish him.<br/>
-Even when he heard the words—
+Even when he heard the words—<br/>
 "Ohh, the God child had spoken."<br/>
 — Freij stubbornly ignored it.<br/>
 No matter what Mariam said, he was the one who issued the orders.<br/>
 "Quickly! Light more torches, assign more night watchers to guard against night raids. Tell the navy admiral to be more vigilant."<br/>
 "Yes Sir!"<br/>
 The adjutant then dashed off.<br/>
-Freij also has his pride, and was unhappy about the nickname of being the “Message pigeon of the God child”.<br/>
+Freij also has his pride, and was unhappy about the nickname of being the "Message pigeon of the God child".<br/>
 However, the fort had 15,000 men, while the invading Belgaria army numbered 40,000.<br/>
 He won’t have any reinforcement.<br/>
 Now wasn’t the time to be headstrong.<br/>
-Three nights later, they operation began—
+Three nights later, they operation began—<br/>
 The cloud was so dense that the moonlight couldn’t shine through.<br/>
 The forest was pitch dark, and you couldn’t even see your own hand.<br/>
 Belgaria soldiers suppressed their breathing. They were here since day time, and didn’t move at all.<br/>
@@ -101,8 +101,8 @@ The burning fire illuminated their surroundings.<br/>
 Their primal fear had been eased, but they were afraid because of their rational logic.<br/>
 Lighting torches in the dark would be very prominent, and get the attention of the Hispania fleet.<br/>
 However, this was in the forest, and not the road, so they were out of cannon range.<br/>
-But what if the fleet sail closer to the shore?
-And of course, the guards in Fort Bassetti would notice too. It was outside cannon range, but what if they charge out of the fort?
+But what if the fleet sail closer to the shore?<br/>
+And of course, the guards in Fort Bassetti would notice too. It was outside cannon range, but what if they charge out of the fort?<br/>
 There were less than ten people in the forest, not even one platoon.<br/>
 —If the enemy attack, they were dead.<br/>
 He was too terrified to even speak.<br/>
@@ -112,7 +112,7 @@ At the same time, a few soldiers rowing a boat was thinking the exact same thing
 Silently.<br/>
 They rowed out into the dark sea in a river boat, into the waters where the Hispania Empire’s fleet was.<br/>
 The ships had lights to avoid running into each other.<br/>
-As the ships’ position could be seen, their team could just avoid them…
+As the ships’ position could be seen, their team could just avoid them…<br/>
 However, there was no telling if a sharp eyed lookout would spot them, or the moonlight would shine through the gaps of the clouds.<br/>
 There might even be keen eared sailors who could hear the oars.<br/>
 The back of the troops on the boat were drenched in cold sweat.<br/>
@@ -121,12 +121,12 @@ The bright light illuminated the area around it, as if they were on guard agains
 However, they did account for the possibility of a long war, and didn’t light any excess torches.<br/>
 The cannon they heard earlier served as a starting signal.<br/>
 Shortly after, two light appeared in the forest.<br/>
-—What did that mean?
+—What did that mean?<br/>
 The strategist Regis d'Auric was seated at the very fore of the boat.<br/>
 "Alright, this spot will do."<br/>
 When he heard what the strategist said, the squad leader gave the order to "Stop."<br/>
 The soldiers couldn’t see the hand signals, and using whistles would be too loud and might draw the attention of the enemy vessel.<br/>
-So the order to "Stop】 was passed down the rowers one by one.<br/>
+So the order to "Stop" was passed down the rowers one by one.<br/>
 The strategist held a strange tool in his hand.<br/>
 It wasn’t a rifle or a crossbow. There were notches carved on the tool.<br/>
 "14, 5, 20, 3…"<br/>
@@ -142,7 +142,7 @@ And opened fire.<br/>
 They were smaller than the Belgaria warships, but their cannons still pack quite a punch.<br/>
 The strategist nodded.<br/>
 "… As I expected, compared to the 《40 Allen cannon》 we brought with us, they have further range. The decks of the warships are quite high too."<br/>
-The escort responsible for taking notes asked:
+The escort responsible for taking notes asked:<br/>
 "Sir Regis, can we attack the fort without using torches?"<br/>
 Regis pondered about it.<br/>
 "… If the unit moved in complete darkness, it will be terrible if they collided and fell. It will be fine if the moon is bright, but that would give the enemy a clearer view too."<br/>
@@ -150,18 +150,18 @@ Regis pondered about it.<br/>
 "… Regrettably… if the fort shoots fire arrows, the naval fleet will know the Belgaria army’s position. Even if we forcefully attack in darkness, we will still be bombarded by the warships."<br/>
 "I see."<br/>
 The assault force would be bombarded one sidedly by the fleet before they even draw near, and suffer heavy losses.<br/>
-The soldiers knew that very well…
+The soldiers knew that very well…<br/>
 And didn’t understand why they went out to sea in a small boat.<br/>
 "Sir Regis, it’s getting dangerous."<br/>
 "… Alright then. I had seen enough, let’s go back."<br/>
-The squad leader ordered "turned right】 to convey his instructions faster.<br/>
+The squad leader ordered "turned right" to convey his instructions faster.<br/>
 The soldiers onboard weren’t sailors, so they didn’t know the professional term like full right rudder.<br/>
 They quickly sailed out of the waters filled with enemy vessels.<br/>
-Was there any meaning in doing this?
+Was there any meaning in doing this?<br/>
 "I don’t get it."<br/>
-— Even so, the strategist definitely had a plan. Definitely!
+— Even so, the strategist definitely had a plan. Definitely!<br/>
 If they didn’t put their faith in this, it would turn into a grudge.<br/>
-Was the strategist really mad?
+Was the strategist really mad?<br/>
 It was a moonless night.<br/>
 The soldiers ran towards Fort Bassetti with torches in hand.<br/>
 And of course, the fleet opened fire at them.<br/>
@@ -180,9 +180,9 @@ Freij pushed open the door and entered the room.<br/>
 His daughter was looking sleepily out the window. She was still sitting on her bed.<br/>
 On the table at the side was breakfast that was placed there two hours ago.<br/>
 She picked up a churro and started eating.<br/>
-<TL: https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%AD%E3%82%B9>
+<TL: https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%AD%E3%82%B9><br/>
 "Mmmh, mmhh."<br/>
-Freij said as he shook his hands:
+Freij said as he shook his hands:<br/>
 "Don’t eat on the bed! Eat after you changed your clothes! And get off your bed!"<br/>
 "……"<br/>
 Mariam slowly got off the bed with the churro in her mouth.<br/>
@@ -192,15 +192,15 @@ Freij shielded his eyes with his hand.<br/>
 She was already of marriageable age.<br/>
 And had a very feminine body.<br/>
 Hence, when she acted crudely without any shame befitting a maiden her age, her father felt uneasy about her future.<br/>
-She then started taking off her pyjamas. It was troubling that she didn’t think of her father as a member of the opposite gender, and didn’t she feel any shame at all?
+She then started taking off her pyjamas. It was troubling that she didn’t think of her father as a member of the opposite gender, and didn’t she feel any shame at all?<br/>
 Freij started regretting that he dumped the responsibility of educating her to her grandfather.<br/>
 — She was just like an eight year old boy.<br/>
 Although she was already sixteen.<br/>
 Mariam reached for her blouse unhappily. She prefer clothes without buttons, the type she could just pull over her head.<br/>
-Freij said resignedly:
+Freij said resignedly:<br/>
 "Put on your underwear."<br/>
 "……"<br/>
-She took pen, ink and paper from the side of the bed:
+She took pen, ink and paper from the side of the bed:<br/>
 "Men don’t wear underwear."<br/>
 "You are a woman! And you are already old enough for marriage."<br/>
 "Father, you are too stubborn on tradition."<br/>
@@ -232,14 +232,14 @@ She ignored what her father said, and started writing.<br/>
 "Our supplies?"<br/>
 "For something similar to last night, we can keep it up for a month."<br/>
 Freij suddenly thought of something.<br/>
-Speaking of which…
+Speaking of which…<br/>
 "There are very few corpses on the road. Maybe the Belgaria forces are smaller than we expected."<br/>
 "Maybe it’s a feint night raid."<br/>
 Hah! He finally realized it.<br/>
 "I get it! Belgaria’s plan is to attack with small numbers every night, and make us exhaust our ammunition!"<br/>
 "NO"<br/>
 He was refuted by a single word from his daughter, which made Freij turn stiff.<br/>
-He said through gritted teeth:
+He said through gritted teeth:<br/>
 "How can you be so sure? It’s plausible, right"<br/>
 "The troops won’t follow such a retarded strategy."<br/>
 "Ugh…"<br/>
@@ -256,16 +256,16 @@ However, he still couldn’t figure out his opponent’s intention.<br/>
 "Ugh..."<br/>
 He was speaking with his daughter, but he felt like a cadet in the Military Academy waiting for a trainer to grade his answer.<br/>
 Freij ended the conversation.<br/>
-He said with a wave of his hand:
+He said with a wave of his hand:<br/>
 "Well, in any case, we just need to be wary of a night raid. We won’t relax our vigilance either. So put on your skirt! And go to church, it’s almost time for mass."<br/>
 "……"<br/>
 She wanted to continue writing, but put down her pen after a short pause. She sighed and picked up her skirt.<br/>
 Freij turned around.<br/>
-—Sigh, just what is my daughter thinking?
-If she was really a “God child”, then God must have a hard time caring for this kid.<br/>
+—Sigh, just what is my daughter thinking?<br/>
+If she was really a "God child", then God must have a hard time caring for this kid.<br/>
 The way the father and daughter sighed really resemble each other.<br/>
 The Belgaria Empire performed the night raid again and again. Aside from nights when the moon was clear without any clouds, they did so three times.<br/>
-And on the fifth evening—
+And on the fifth evening—<br/>
 The commander of the infantry, Second Grade Combat Officer Balasko barged into headquarters with his face flushed.<br/>
 "You want us to charge the fort tonight too?!"<br/>
 Regis laid planks onto the floor, making the place into a large table. He then laid paper as big as a carpet onto it, strung them together with threads, and wrote numbers on it.<br/>
@@ -281,12 +281,12 @@ And considered it.<br/>
 "… There’s no need, we have moved on to the next stage."<br/>
 "You don’t trust me?!"<br/>
 Regis stopped writing.<br/>
-He looked at Balasko while squatting:
+He looked at Balasko while squatting:<br/>
 "… I think you are the one who doesn’t trust me."<br/>
 "Ah, no…"<br/>
 Balasko took a step back.<br/>
 He was the officer with the most years of experience under his belt. He had seen Regis’ strategies with his own eyes so far. He believes that Regis was a capable strategist.<br/>
-He said tremblingly:
+He said tremblingly:<br/>
 "B-But, sending the soldiers to their death without any explanation… I can’t take that anymore."<br/>
 Regis put down his pen.<br/>
 He then stood up and looked at Balasko in the eye.<br/>
@@ -300,13 +300,13 @@ She must have heard the conversation from outside. She looked briefly at Regis, 
 "You are dissatisfied about something?"<br/>
 "Ah, no…"<br/>
 "I know how you feel. But Regis is doing this for your sake."<br/>
-Balasko couldn’t stand it anymore:
+Balasko couldn’t stand it anymore:<br/>
 "If it’s for my sake, then please tell me the plan!"<br/>
-Altina admonished him:
+Altina admonished him:<br/>
 "If you know the plan, and is faced with a situation where you have to send your men to certain death, your attitude towards them will change, right?"<br/>
 "Ehh? That’s…"<br/>
 "Right now, you don’t know what Regis is thinking— so you are on the same side as the troops. That’s what you tell them too, correct?"<br/>
-Balasko nodded:
+Balasko nodded:<br/>
 "You are right, Mdm."<br/>
 "But what if you learn of the plan? And you can’t tell them? Despite knowing the plan, you can only order them to move out without explaining anything to them. What do you think the troops would think of such an officer?"<br/>
 "Ugh…?!"<br/>
@@ -314,7 +314,7 @@ He thought about how his subordinates would feel.<br/>
 And fell silent.<br/>
 Regis scratched his head.<br/>
 "… You will reveal your attitude if you think that, which is the troubling part."<br/>
-Altina said to Regis with a similar tone:
+Altina said to Regis with a similar tone:<br/>
 "Don’t keep playing the role of the villain. Not everyone can conceal their emotions completely."<br/>
 Her actions felt really mature.<br/>
 It was true that if people get too emotional, they would act irrationally.<br/>
@@ -323,13 +323,13 @@ When he realized the girl under his tutelage was teaching him, he felt a little 
 The corner of Regis’ eased naturally.<br/>
 "… Mdm Généralissime is right… Concealing the fact that there is even a plan is going too far."<br/>
 "That’s right."<br/>
-Balasko asked:
+Balasko asked:<br/>
 "As expected, all the night raids so far are a part of a grand scheme the strategist thought up, correct?"<br/>
 Regis nodded.<br/>
 Although he wanted to refute the term ‘thought up’.<br/>
 However, he knew there was no point in saying he ‘has no confidence’.<br/>
 "… Since I already told you, please keep it a secret. We can’t let the troops realize that everything they are doing is part of a scheme."<br/>
-Balasko nodded seriously and saluted:
+Balasko nodded seriously and saluted:<br/>
 "Yes Sir!"<br/>
 His face was filled with resolve, and there wasn’t any doubt in his eyes.<br/>
 Unfortunately, just this change in facial expression was enough to tell the troops that there was a plan.<br/>
@@ -346,7 +346,7 @@ He wanted to chat with her a little, but he couldn’t make any time for the two
 She waved her hand.<br/>
 "I’m not a kid anymore, and I won’t get in Regis’ way."<br/>
 "… Is that so? Then will you stay in the headquarters tonight to issue commands?"<br/>
-Altina said with a smile:
+Altina said with a smile:<br/>
 "I. Re. Fuse."<br/>
 That was the only thing that didn’t change— Regis shrugged.<br/>
 Tonight was a new moon.<br/>
@@ -354,32 +354,32 @@ There was no moon light.<br/>
 The cloud was so thick that the stars weren’t visible.<br/>
 As if dark drapes had been pulled over the night sky.<br/>
 The weather was on their side.<br/>
-However, when Regis looked out at the sea—
+However, when Regis looked out at the sea—<br/>
 He felt a chill down his spine.<br/>
 "That light is…?!"<br/>
 Up until yesterday, there was just the Hispania fleet there, with just enough light to stop them from colliding with each other.<br/>
 There were six vessels in total.<br/>
 However, it was different tonight.<br/>
 The ocean was filled with lots of light, too many to count.<br/>
-The enemy navy couldn’t have increased by ten folds. Then what was that?
+The enemy navy couldn’t have increased by ten folds. Then what was that?<br/>
 Regis stood up.<br/>
 At this moment, he could hear footsteps.<br/>
 It was the soft clinking of light armour, someone was approaching in the dark. The lantern in the tent shone on the blonde hair of the visitor.<br/>
 "Sir Regis!"<br/>
 "Ah… Eric."<br/>
 Regis only knew who it was after hearing his voice. It was too dark after all. He could only see Eric’s face clearly as he got nearer.<br/>
-Eric pointed at the sea urgently:
+Eric pointed at the sea urgently:<br/>
 "There are lots of scouting vessels in the ocean! They had lit their torches and became wary of the situation around them!"<br/>
 "What?!"<br/>
 Regis’ heart skipped a bit.<br/>
-—They saw through my plan?!
+—They saw through my plan?!<br/>
 He felt his hands shaking.<br/>
-The plan was finally ready after sacrificing so much…
+The plan was finally ready after sacrificing so much…<br/>
 He looked carefully at Fort Bassetti. In the pitch darkness, he could only see the torches that had been lit on the fort.<br/>
 He couldn’t see anything else.<br/>
 "… And the road!? Did they illuminate the road too?!"<br/>
 "There are no abnormalities there. No reports had come in, so I’m not sure of the situation over there."<br/>
-— Should he abort the mission?
+— Should he abort the mission?<br/>
 Regis gulped.<br/>
 He looked towards Eric.<br/>
 Eric was resting his rifle on the ground and kneeling on one knee. He was looking up and waiting for Regis to speak.<br/>
@@ -398,7 +398,7 @@ She opened her eyes wide at Regis’ feeble voice.<br/>
 "… They saw through our plan… No, but… if they did saw through it..."<br/>
 Regis was so frantic that he couldn’t even speak in complete sentences.<br/>
 Like she said, it was almost time to commence the operation.<br/>
-Should they abort?
+Should they abort?<br/>
 They could still inform the land units in time.<br/>
 However, the naval units had already left.<br/>
 Regis felt dizzy, staggered, and almost fell over.<br/>
@@ -423,7 +423,7 @@ The sea surveillance had been increased.<br/>
 There wasn’t any movement from the fort, but they must be on guard too.<br/>
 "… Did they see through my plan?"<br/>
 "Really?"<br/>
-Seeing the frowning Altina, Regis shook his head:
+Seeing the frowning Altina, Regis shook his head:<br/>
 "… If that is the case, they won’t be increasing the patrols at sea. They would execute a more effective countermeasures. They didn’t realized the plan, but the enemy knew that I’m scheming something out at sea."<br/>
 That was probably their gut feeling.<br/>
 After all, if his opponent knew what his plan was, they wouldn’t be using such a method.<br/>
@@ -444,11 +444,11 @@ Given how strong the enemy surveillance net was, such a task was impossible.<br/
 "How could it be..."<br/>
 "Regis’ plan failed?!"<br/>
 Altina and Eric looked shocked.<br/>
-Regis asked himself:
-Was his judgement correct? Was he confused or acting timid?
+Regis asked himself:<br/>
+Was his judgement correct? Was he confused or acting timid?<br/>
 The battlefield was always tense, and filled with irrational uneasiness.<br/>
 Despite all that, he still had to make a decision.<br/>
-Eric asked:
+Eric asked:<br/>
 "Should I send the message to abort the operation?"<br/>
 Regis was about to nod, but he stopped himself.<br/>
 "… No, I will do it."<br/>
@@ -465,14 +465,14 @@ She had a heavy sword on her back that even a grown man would have trouble lifti
 However, she wasn’t someone who would stop if he called out to her. Regis had no choice but to chase after her.<br/>
 Eric walked right beside him.<br/>
 "Everybody will understand, Sir Regis."<br/>
-— Would they?
+— Would they?<br/>
 If the operation was aborted, those who were still alive would be forgiving.<br/>
-But what about the dead?
-The many soldiers who died in preparation of this plan, would they understand?
+But what about the dead?<br/>
+The many soldiers who died in preparation of this plan, would they understand?<br/>
 Regis felt nauseous, and covered his mouth.<br/>
-He was too naive!
-Where did he go wrong?
-Did the enemy commander execute this countermeasure based on his instincts?
+He was too naive!<br/>
+Where did he go wrong?<br/>
+Did the enemy commander execute this countermeasure based on his instincts?<br/>
 If that was so, then it was his mistake for giving them the time for them to act on their instincts.<br/>
 "… This is my fault."<br/>
 At this point, Regis saw a fiery light from the corner of his eyes.<br/>
@@ -480,4 +480,4 @@ The light made him stop unconsciously.<br/>
 The air was shaking.<br/>
 "?!"<br/>
 The three of them looked out at the sea.<br/>
-Previous Chapter | Main Page | Next Chapter
+Previous Chapter | Main Page | Next Chapter<br/>

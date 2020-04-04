@@ -1,16 +1,16 @@
-### Altina the Sword Princess Volume 14 (1 of 5)
-Translator: Skythewood
-#### Editor: Hiiro, Seir K
-Recap
+### Altina the Sword Princess Volume 14 (1 of 5)<br/>
+#### Translator: Skythewood<br/>
+#### Editor: Hiiro, Seir K<br/>
+Recap<br/>
 Regis d’Auric was a young soldier inept in swordplay and horsemanship, spending all his time reading. He was transferred to the borders, where he met a girl with vermillion hair and crimson eyes— Marie Quatre Argentina de Belgaria. Nickname, Altina.<br/>
 Her mother was a commoner, and she was chased out of the palace for this. Despite being just fourteen, she was appointed the commander of a border regiment because of her status as a royal… She didn’t lament her fate resolving herself to change the Empire for the sake of the oppressed people.<br/>
-「I want to become Empress, lend me your wisdom.」
+「I want to become Empress, lend me your wisdom.」<br/>
 In order to be acknowledged by others as a commander, Altina challenged the hero Jerome who was the de facto leader, and won.<br/>
 Regis didn’t have any confidence in himself, but he still promised to be her strategist.<br/>
 The two of them experienced a series of hardships.<br/>
 The attack of the barbarians.<br/>
 Assaulting the impregnable Fort Volks.<br/>
-Traveling to the capital to attend the 《Founding Day Festival》…
+Traveling to the capital to attend the 《Founding Day Festival》…<br/>
 While the Belgarian Empire was in turmoil caused by succession issues, a declaration of war came from the neighbouring High Brittania.<br/>
 At the same time, the Varden Archduchy attacked Fort Volks as if they were working in concert, but the assault was crushed in just a single night. Following this, they aided the Seventh Army in their retreat from the 《Battle of Lafressange》.<br/>
 To cut off the enemy’s supply line, Regis eliminated the High Brittania’s 《Queen’s Fleet》 as the acting admiral.<br/>
@@ -34,15 +34,15 @@ On a certain hill, they clashed with the 30,000 soldiers from Hispania.<br/>
 The soldiers spread out into small groups using boulders and trees as cover.<br/>
 However, Regis used the new cannons to blow away all obstacles destroying all the enemy’s hiding places. The surprised and now unprotected enemy was routed in the face of the new rifles of the Belgaria Empire.<br/>
 Altina drew her sword.<br/>
-"All units, advance!】 
-Prologue: DominanceBelgaria Empire year 851, November 17th—
+"All units, advance!" <br/>
+Prologue: DominanceBelgaria Empire year 851, November 17th—<br/>
 The sound of rifle reports echoed on the battlefield.<br/>
 Altina’s Fourth Army was the first unit to train with rifles in the Empire.<br/>
 They could maintain formation in live battle, reload quickly and shot with high accuracy.<br/>
 "Fire!!"<br/>
-The soldiers fired orderly like in training at the approaching, spread-out Hispania army, 
+The soldiers fired orderly like in training at the approaching, spread-out Hispania army, <br/>
 But the enemy didn’t slow down.<br/>
-"Charge!】"Charge!】"Charge!"<br/>
+"Charge!""Charge!""Charge!"<br/>
 They were like moths to a flame.<br/>
 Altina frowned on her horse karakara. Her side had the upper hand, but she still hated seeing people dying.<br/>
 "Why aren’t they retreating?"<br/>
@@ -56,7 +56,7 @@ Before the battle begun, the battlefield had a lot of cover ,boulders, trees and
 The opposing commander chose this place intentionally to minimize the effectiveness of the Belgaria Empire’s new rifles and cannons.<br/>
 After all, if the field of vision was poor, the new rifle wouldn’t be able to make full use of its advantage of range and firepower.<br/>
 However, this was within Regis’ expectations too.<br/>
-After seeing the enemy spread out—
+After seeing the enemy spread out—<br/>
 The Belgaria army’s new cannons, the 200 《40 Allen cannon》 pulverised all the covers on the battlefield leading to the Hispania soldiers reckless charge in this open and completely different battlefield.<br/>
 Most of them didn’t even notice the flaw in their tactics, and got shot down by the rifles.<br/>
 Altina looked shocked.<br/>
@@ -79,22 +79,22 @@ He checked his pocket watch, then gave an order to the buglers.<br/>
 It was a one-sided affair, but ammunition and stamina of the troops were still being depleted. It was almost time to switch out the front ranks.<br/>
 A smoke signal had been raised behind the enemy; they realized that the bugles wouldn’t reach, and used a different method.<br/>
 The order to retreat was late, but it was better than never.<br/>
-Altina pointed to the enemy:
+Altina pointed to the enemy:<br/>
 "The Hispaniards are fleeing!"<br/>
 The correct terms to use on the battlefield was ‘retreat’ or ‘retrograde’.<br/>
 However, the enemy was running in scattered groups without any semblance of formation.<br/>
-As he looked at the battlefield Regis said:
+As he looked at the battlefield Regis said:<br/>
 "… The Hispania army was 30,000 in the beginning, but their numbers had dwindled to less than 20,000."<br/>
 "What a tragedy."<br/>
 Countless corpses littered the battlefield.<br/>
-Regis said with a shiver:
+Regis said with a shiver:<br/>
 "… As expected, rifles are scary."<br/>
 "That’s right."<br/>
 "… In the past, most casualties in battle were only wounded, and could return to their homes with their lives."<br/>
 "But it’s different in a war with rifles."<br/>
 "… Yes."<br/>
 He had fought several battles and braced himself, but it was still heart wrenching.<br/>
-She asked seriously:
+She asked seriously:<br/>
 "But, we have to move forward. Isn’t that right, Regis?"<br/>
 "… Yes, that’s right. No matter how great our ideals are, it would just be wishful-thinking if we don’t win the battle in front of us."<br/>
 Altina nodded.<br/>
@@ -111,8 +111,8 @@ Altina swung her blade towards the enemy.<br/>
 The enemy was already routed.<br/>
 It was no longer a battle, but since the enemy was fleeing instead of surrendering, they couldn’t let them off so easily.<br/>
 After a pursuit and another 5,000 casualties, the battle concluded.<br/>
-Chapter 1: Thirteenth Army
-Evening—
+### Chapter 1: Thirteenth Army<br/>
+Evening—<br/>
 Regis’ tent was near the headquarters.<br/>
 An officer, a woman around 20 years of age with a fair face and shoulder-length brown hair, entered his abode with a textbook perfect salute.<br/>
 "Strategist of the Généralissime Office, Sir Regis d'Auric! Second Grade Combat Officer Marion Alphonse de Barguesonne of the Thirteenth Army, reporting for duty."<br/>
@@ -136,7 +136,7 @@ They would need to deal with the aftermath of the battle.<br/>
 And rest after that had been done.<br/>
 Regis showed a face of resignation.<br/>
 "… This is already the era of rifles. I hope the Généralissime won’t rush onto the frontlines again."<br/>
-"You are right. But… my grandfather often said “No matter what era it is, you can’t neglect training with the spear.” “A commander who isn’t confident in their own abilities would hesitate during crucial moments.”"<br/>
+"You are right. But… my grandfather often said "No matter what era it is, you can’t neglect training with the spear." "A commander who isn’t confident in their own abilities would hesitate during crucial moments.""<br/>
 Marion’s grandfather was the late Lieutenant General Barguesonne, a renowned general with years of experience under his belt.<br/>
 In contrast, Regis would even hit his own knee when he wielded a sword, so his confidence was really low.<br/>
 And he did hesitate when faced with an important decision.<br/>
@@ -153,7 +153,7 @@ Regis laid out a simplified map.<br/>
 "… Well then, this would be the security zone for the Thirteenth Army tonight."<br/>
 "Yes."<br/>
 It was a plan for the unit to roster some of their men to watch over a designated area.<br/>
-Marion said in surprise:
+Marion said in surprise:<br/>
 "We have to surveil such a big territory?"<br/>
 "Our high performance rifles and cannons are not effective at night after all."<br/>
 Hence, the chance of an enemy night raid was higher.<br/>
@@ -174,7 +174,7 @@ Marion looked confused.<br/>
 "No, it’s fine, I’m just wondering what 《Perishia War Chronicles》 is…? I’m ashamed to say that I’m ignorant about that."<br/>
 "I see— It’s a niche book after all, and wouldn’t be sold at the borders. But it’s interesting, so do give it a read. It should be available for retail in the capital."<br/>
 "Okay! Is it a battle chronicle? Or a strategy guide?"<br/>
-Hmm? Regis tilted his head:
+Hmm? Regis tilted his head:<br/>
 "It’s an entertainment novel."<br/>
 "……Huh?"<br/>
 She got even more confused.<br/>
@@ -193,18 +193,18 @@ She was Jessica, the deputy leader of the mercenary band 《Renard Pendu》. Her
 "Ara, are you in the middle of a war meeting?"<br/>
 "We just finished."<br/>
 Regis answered.<br/>
-Marion said in surprise:
+Marion said in surprise:<br/>
 "Sir Strategist, isn’t she a civilian? What is she doing here?"<br/>
 Now that she mentioned it, they had never met yet, Regis thought.<br/>
 《Renard Pendu》 was famous, but they weren’t a part of the Fourth Army, and numbered less than a thousand.<br/>
 Hence, their deputy band leader wouldn’t be summoned to take part in a war conference in the first place.<br/>
 Jessica didn’t like places with so many people anyway.<br/>
-She chuckled with a wry smile:
+She chuckled with a wry smile:<br/>
 "Lord Auric, she seems to be misunderstanding something."<br/>
 "… What?"<br/>
 "She probably thinks that I’m a harlot you have hired."<br/>
 Regis spit in shock.<br/>
-Marion’s face turned beet red:
+Marion’s face turned beet red:<br/>
 "I-I didn’t think that far! I-I just saw your attire that didn’t fit the battlefield and… and…"<br/>
 Jessica’s guess seemed to be spot on.<br/>
 Regis said with a blushed face.<br/>
@@ -215,22 +215,22 @@ Jessica intentionally flicked her hair. Her beautiful hair and pale nape looked 
 "Really? Didn’t you tell me I was beautiful before?"<br/>
 "Hey…?!"<br/>
 That was true, but the way she put it made it really easy to misunderstand.<br/>
-Marion’s face turned gloomy as she started mumbling:
+Marion’s face turned gloomy as she started mumbling:<br/>
 "… Leaving jerks like the Black Knight aside… to think that even the Strategist called pretty girls to the battlefield."<br/>
 He had to clear up this misunderstanding quickly.<br/>
-Regis sighed and said:
+Regis sighed and said:<br/>
 "Ms Jessica, it’s mean to tease an upstanding soldier."<br/>
 "Fufu… She just had such an interesting expression when she saw me."<br/>
-Marion glared at her:
+Marion glared at her:<br/>
 "Who exactly are you?"<br/>
-Jessica who was usually elegant acted very provocative today for some reason. She said with a faint smile:
+Jessica who was usually elegant acted very provocative today for some reason. She said with a faint smile:<br/>
 "I’m the deputy leader of the 《Renard Pendu》 mercenary band, Jessica Schweinzeberg. As an officer, it’s better for you to not judge a book by its cover."<br/>
 "Tch… Even if you are a mercenary, this is still an Imperial War Camp, so watch your attire."<br/>
 Jessica and Marion glared at each other.<br/>
-Why did things turn out this way?
+Why did things turn out this way?<br/>
 Regis’ stomach started to ache.<br/>
 "… Erm, Second Grade Combat Officer Marion, I will leave the command of the security perimeter to you. Ms Jessica, how can I help you?"<br/>
-Marion finally remembered she had work to do, and said with a salute:
+Marion finally remembered she had work to do, and said with a salute:<br/>
 "I will take my leave then! I will make haste and complete my assignment!"<br/>
 She ran off in a hurry.<br/>
 Jessica who was left behind shrugged.<br/>
@@ -246,9 +246,9 @@ She wouldn’t recommend books to the people around her, but she would still sim
 "… Alright. I’m not reading for the sake of earning people’s respect. I might get belittled, but since I mentioned it, she might read that book someday."<br/>
 "You are really…"<br/>
 Jessica’s expression softened.<br/>
-Regis said with an awkward smile:
+Regis said with an awkward smile:<br/>
 "… Are you here to discuss books with me? I would be happy to oblige."<br/>
-She said resignedly:
+She said resignedly:<br/>
 "On the night just after a battle concluded? What mercenaries are interested in would be information of the big picture."<br/>
 "That’s true. Although it’s a pity, I just read a book I wanted to talk about."<br/>
 "Even though you are so tired?"<br/>
@@ -309,7 +309,7 @@ Regis scratched his head.<br/>
 "Yes, vessel one has been dismantled for research, while vessel two is still operational."<br/>
 "Can it be deployed? If we can win in the sea, then the terrain would be advantageous to us instead. We can even force them to surrender without a fight."<br/>
 "… I think so too. However, the captured vessels are under the jurisdiction of the Ministry of Military Affairs, and is now owned by the First Army. Researching the steamship and training on its usage are both dependent on it, if the Imperial Navy loses this ship, and we would be twenty years behind in terms of technology. Emperor Latreille would probably not agree to this."<br/>
-Jessica smirked:
+Jessica smirked:<br/>
 "How unexpectedly timid… Stowing things away so carefully and never ever utilizing items happen quite often too."<br/>
 "Well, it can’t be helped. Let’s look forward to the ships built by the Empire."<br/>
 "When can it be finished?"<br/>
@@ -320,12 +320,12 @@ Most of the Navy was under the control of the First Army.<br/>
 If they had to fight against Latreille in the future, this might become an obstacle.<br/>
 They had to avoid their communication with High Brittania from being cut off.<br/>
 Regis needed to consider countermeasures early.<br/>
-Jessica asked:
+Jessica asked:<br/>
 "Well, I understand the situation with the Hispania Empire. Have you thought up any tactics to deal with the enemy’s naval bombardment?"<br/>
 "… No, I couldn’t come up with any schemes."<br/>
 "I see."<br/>
 Jessica knew what he meant.<br/>
-Hahaha, Regis smiled awkwardly:
+Hahaha, Regis smiled awkwardly:<br/>
 "… You heard of an old novel called 《Pueri and Roy》?"<br/>
 "Never heard of that before. When was it published?"<br/>
 "… About ten years before we were born."<br/>
@@ -335,7 +335,7 @@ Regis thought.<br/>
 From her appearance, she was probably about his age, maybe a little older.<br/>
 "Maybe I’m older than your mother?"<br/>
 That was improbable.<br/>
-However, he heard that Jessica was known as the “Magician”.<br/>
+However, he heard that Jessica was known as the "Magician".<br/>
 No, it couldn’t be.<br/>
 Regis gave up.<br/>
 "… Let’s drop the discussion about a woman’s age. That book is so old that it’s hard to purchase a copy."<br/>
@@ -343,7 +343,7 @@ Regis gave up.<br/>
 "… Actually, it’s sold in a normal book shop in Sembione city!"<br/>
 "What?!"<br/>
 The two of them talked about books as they exchanged military opinions.<br/>
-The next day—
+The next day—<br/>
 The Belgaria Imperial Army marched on fort Bassetti.<br/>
 Altina rode on a horse with the headquarters unit.<br/>
 On the other hand, Regis rode on a white carriage. He did so because he couldn’t ride a horse, and the desk inside let it serve as a mobile war room.<br/>
@@ -354,7 +354,7 @@ The maid Clarice sat opposite him.<br/>
 "… Well, I was discussing the coming war plans, and giving her the assignment of supply team escorts."<br/>
 "I see."<br/>
 "She is the strategist of a Mercenary band that had been through countless battles. Her opinions are very insightful."<br/>
-I see, Clarice nodded:
+I see, Clarice nodded:<br/>
 "So that’s how it is. I thought you two would definitely be talking passionately about books."<br/>
 Regis broke out in cold sweat.<br/>
 "… You overheard?"<br/>
@@ -364,7 +364,7 @@ It was still formally a war conference.<br/>
 "My apologies. So for Sir Regis and Ms Jessica, it’s a secret… I see."<br/>
 "Why did you make it sound ambiguously towards the end?"<br/>
 He seemed to have caused unnecessary misunderstanding again.<br/>
-Clarice said quietly:
+Clarice said quietly:<br/>
 "I’m just kidding."<br/>
 "Ms Clarice, you are always like this… How troubling."<br/>
 "I wonder if the Princess will think this is a joke too?"<br/>
@@ -372,19 +372,19 @@ Clarice said quietly:
 Clarice smiled cheerfully.<br/>
 Regis knew she was just teasing, but it was still nerve wrecking.<br/>
 There wasn’t any unsightly relationship between him and Jessica, but he didn’t want Altina to know that they were talking about books.<br/>
-There wasn’t any need to hide it though…
-Clarice added:
+There wasn’t any need to hide it though…<br/>
+Clarice added:<br/>
 "Last night… The Princess was waiting for Regis to come the entire time."<br/>
-"Ehh, really!? She could have just summoned me.】"It probably wasn’t anything urgent."<br/>
+"Ehh, really!? She could have just summoned me.""It probably wasn’t anything urgent."<br/>
 That’s why she didn’t send anyone to get Regis.<br/>
 It wasn’t urgent, and she probably just wants to chat with Regis.<br/>
-Regis nodded:
+Regis nodded:<br/>
 "… Our forces didn’t suffer much losses, but we still finished a battle."<br/>
 He could understand why she wanted to be with somebody.<br/>
 That was probably why Regis spoke with Jessica for so long.<br/>
 Altina didn’t have any friends.<br/>
 Normally, a noble lady would have some ladies-in-waiting with her. However, she went to war as a Généralissime instead of a Princess.<br/>
-<TL: https://en.wikipedia.org/wiki/Lady-in-waiting>
+<TL: https://en.wikipedia.org/wiki/Lady-in-waiting><br/>
 They couldn’t afford to bring court ladies with her for a strolling and chatting.<br/>
 Altina’s handmaiden Clarice took on such a role.<br/>
 "Sir Regis has a special place in the Princess’ heart. No one can replace you, not even me."<br/>
@@ -393,7 +393,7 @@ Altina’s handmaiden Clarice took on such a role.<br/>
 "… I see."<br/>
 It sound strange, but there was still a need to make idle chatter.<br/>
 After all, Altina didn’t want to invade another country in the first place, so it might be taking a huge toll on her mind. Regis needed to take that into consideration too.<br/>
-Regis nodded:
+Regis nodded:<br/>
 "… Thank you, Clarice. You have always been a big help."<br/>
 "No, this isn’t anything much."<br/>
 "… But to me, it is a big help."<br/>
@@ -406,14 +406,14 @@ Clarice tilted her head.<br/>
 "No… That’s fine, so what would you like?"<br/>
 "I hope Regis can tell me one thing."<br/>
 "If it’s something I know."<br/>
-In response, she said quietly:
+In response, she said quietly:<br/>
 "Do you like?"<br/>
 "Huh?"<br/>
 "Do you like Ms Jessica?"<br/>
 "… No."<br/>
 Regis fell into deep thought.<br/>
 Jessica was a beauty, and had the same hobby of reading like him. Regis should be able to get along with her for a long time.<br/>
-From her looks and personality, there might be some soldiers who had fallen heads over heels for her…
+From her looks and personality, there might be some soldiers who had fallen heads over heels for her…<br/>
 However, his conclusion remained the same.<br/>
 "… She also has the right to choose."<br/>
 After all, Regis had zero confidence in his charms.<br/>
@@ -425,7 +425,7 @@ After all, Regis had zero confidence in his charms.<br/>
 Hmm, it was troubling.<br/>
 If it was something recorded in books, he could write it out immediately, but Regis found it hard to talk about himself. After all, there wasn’t any books that listed Regis’ feelings.<br/>
 "… I know she is a charming lady, but I don’t feel any urge to say I like her. Now that you mentioned it, I had never considered anything related to my love life."<br/>
-Regis answered with an awkward smile, and Clarice sighed:
+Regis answered with an awkward smile, and Clarice sighed:<br/>
 "Sir Regis is the same as usual."<br/>
 "… Did I fail to meet your expectations?"<br/>
 "Who knows? By the way, do you like the Princess?"<br/>
@@ -437,13 +437,13 @@ Regis slid down his chair because of the unexpected question, and quickly adjust
 Clarice said happily.<br/>
 Afternoon.<br/>
 The Imperial Army marching on fort Bassetti started making camp.<br/>
-A knight in dark red armour came to the headquarters tent and saluted:
+A knight in dark red armour came to the headquarters tent and saluted:<br/>
 "Flying Sparrow Knights commander, First Grade Combat Officer Abidal Evra, reporting."<br/>
 "Thank you for coming."<br/>
 Regis returned his salute.<br/>
 Altina was already seated at the deepest end of the rectangular table.<br/>
 "How’s your knight corps?"<br/>
-Abidal Evra stood at attention and said:
+Abidal Evra stood at attention and said:<br/>
 "They are a little tired from the long journey, but the morale is high and everyone thirst to achieve war merits. After all, the riflemen has completely taken over the role as the queen of the battlefield."<br/>
 "That’s really reliable."<br/>
 "Some even mock themselves as the transportation knight corps… They are really eager to take part in battles other than pursuing routed enemies."<br/>
@@ -456,7 +456,7 @@ The heavy infantry was commanded by Second Grade Combat Officer Balasko, an old 
 His hair was completely white and he was as old as Evrard, but if anyone dare call him old, he would beat them off in a training match so thoroughly that they wouldn’t be able to stand steadily. That was how stubborn he was, although it was a little childish too.<br/>
 Balasko seemed unhappy.<br/>
 "The knight corps don’t have it that bad. When the heavy infantry step into the battlefield, there’s just the enemy’s corpses left."<br/>
-The officers around him looked troubled when they heard the old soldier’s grumbles. And amongst them—
+The officers around him looked troubled when they heard the old soldier’s grumbles. And amongst them—<br/>
 There was someone who laughed heartily.<br/>
 He was a knight dressed in black armour.<br/>
 "Isn’t it nice that we can relax?"<br/>
@@ -475,7 +475,7 @@ Balasko glared at him.<br/>
 After hearing Holger’s words, not just Balasko, the others also started to frown.<br/>
 The one who came up with that strategy was no other than their strategist. The old guards still remember how the enemies died to Regis’ tactics.<br/>
 I don’t want to meet my end like that— That was how everyone felt.<br/>
-Sensing all their eyes were on him, Regis scratched his head:
+Sensing all their eyes were on him, Regis scratched his head:<br/>
 "… I will try my best to not let everyone fall into a terrible situation like that. The enemy would put the utmost care to think up their strategies too, so I had to handle them cautiously."<br/>
 That’s right! Altina beside him nodded.<br/>
 "Even if you triump yesterday, it doesn’t mean today’s victory is guaranteed— right? Regis said that before."<br/>
@@ -483,7 +483,7 @@ That’s right! Altina beside him nodded.<br/>
 It was from a book— before he could say his cliche line, Altina changed the topic.<br/>
 "By the way, he is really late! What is he doing?!"<br/>
 The officer who should be attending this war conference didn’t show even though the scheduled time has passed.<br/>
-Holger said with his head low:
+Holger said with his head low:<br/>
 "My apologies. As the Thirteenth Army is newly formed, there are many issues to attend to."<br/>
 "That can’t be helped… But that guy will get mad if others are late—"<br/>
 "Haha, ha… that’s true."<br/>
@@ -516,12 +516,12 @@ Well, never mind… Altina shrugged.<br/>
 "…There are many small nations to the east, and they formed an alliance centered around the Estaburg Kingdom in defiance of the Belgaria Empire."<br/>
 Shortly before this, there was a brief moment of peace when the late Emperor took his Sixth consort Johaprecia Octovia from the east.<br/>
 "… As their First Prince died in an earlier battle, and the aged King is confined to bed, the Second Prince is running the show now. However, they are already negotiating the terms of surrender."<br/>
-Holger said in a tone as if he was discussing rumours:
+Holger said in a tone as if he was discussing rumours:<br/>
 "May I ask something? Did our strategist destroy the formidable Estaburg main forces without even stepping into the eastern front?"<br/>
 "Huh? No… the battle is won by the combined effort of the Seventh Army and the Fourth Army detachment."<br/>
 "Fufufu… General Coignieres of the Seventh Army and my unit merely carried out the schemes in accordance to the strategist’s letter."<br/>
 "No no, your group are the one who chose the most effective strategy from the few I suggested… Or rather, the one who put it into action deserves more credit than the one who merely suggested the idea."<br/>
-Holger nodded:
+Holger nodded:<br/>
 "Since Sir Strategist said so, that must be true."<br/>
 "… Yes. Erm… Regarding the eastern front, shortly after the battle at the Estaburg Kingdom concluded, the Seven Nation Army and a part of the Fourth Army… which was actually a mixture of the former Second Army, the Black Knights and new recruits formed the Thirteenth Army and came to the southern war front."<br/>
 At this moment, someone entered the headquarters.<br/>
@@ -539,32 +539,32 @@ Leaving Jerome’s word choices aside, his idea made sense.<br/>
 Regis gave up.<br/>
 "… I will look into it."<br/>
 "Hmmp… If you can get it done, then do it before I yell at you!"<br/>
-At this moment, another person ran in:
+At this moment, another person ran in:<br/>
 "Hahh… Hahh… Hahh… Why didn’t you wait for me?!"<br/>
 It was Marion.<br/>
 Jerome looked away annoyedly.<br/>
 "Because you walk too slow."<br/>
 "It’s all because you didn’t come back even when it’s time for the war conference…!!"<br/>
-She only remembered she was in the presence of the Généralissime after yelling that. Marion said with her head low:
+She only remembered she was in the presence of the Généralissime after yelling that. Marion said with her head low:<br/>
 "My sincere apologies. The commander and assistant commander of the Thirteenth Army reporting in."<br/>
 Jerome was appointed the commander of the Thirteenth Army.<br/>
 And Marion was his deputy.<br/>
-Altina smiled wryly:
+Altina smiled wryly:<br/>
 "It seemed you are enjoying your new assignment, Jerome."<br/>
 "Ku, are you mocking me now that you are the Généralissime? Want to test if my skills have deteriorated?"<br/>
 "How intriguing— I won’t run out of stamina this time."<br/>
 The two glared at each other.<br/>
-Regis mediated:
+Regis mediated:<br/>
 "Let’s stop this, we still have a fort to attack."<br/>
 He said as he laid out a new map on the table.<br/>
 It was a map of Fort Bassetti and the surrounding terrain.<br/>
-Jerome grunted:
+Jerome grunted:<br/>
 "Hmmp… You had gotten a little smarter. When the Princess and I stared at each other in the past, your face look so green that I thought you would faint."<br/>
 "… That’s true."<br/>
 It wasn’t that long ago either.<br/>
 That was last year.<br/>
 "You have more guts now. But just a little bit more."<br/>
-Is he praising me?
+Is he praising me?<br/>
 "… Although I didn’t want to be a soldier. I just want to be a librarian."<br/>
 Regis shook his head nostalgically, and places the pieces on the map.<br/>
-Previous Chapter | Main Page | Next Chapter
+Previous Chapter | Main Page | Next Chapter<br/>

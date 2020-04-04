@@ -1,8 +1,8 @@
-### Altina the Sword Princess Volume 13 Chapter 4
-The Price of Betrayal
-Translator: Skythewood
-Machine editor: ratorasepo
-#### Editors: Darkdhaos, CEObrainz
+### Altina the Sword Princess Volume 13 Chapter 4<br/>
+The Price of Betrayal<br/>
+#### Translator: Skythewood<br/>
+Machine editor: ratorasepo<br/>
+#### Editors: Darkdhaos, CEObrainz<br/>
 This was the flaw of moving the headquarters drastically during battle.<br/>
 The plan was similar to the tactics used by the High Britannian Kingdom. Splitting your unit in half in the face of the enemy’s charge, and lure them in deep before surrounding them.<br/>
 Other than the fact that they didn’t have large quantities of the new model of rifles, there weren’t any significant differences.<br/>
@@ -11,7 +11,7 @@ Back then, Regis used a cavalry charge to counter High Britannia’s tactics.<br
 When the headquarters were shifting, relaying orders became difficult.<br/>
 No matter how wide the enemy detection network was, it was useless if the reports couldn’t make it to headquarters.<br/>
 And now, Regis was in the same situation.<br/>
-— We are attacked by a cavalry charge when our security is at its weakest!
+— We are attacked by a cavalry charge when our security is at its weakest!<br/>
 He clicked his tongue.<br/>
 "Just where did they come from…?!"<br/>
 He despatched adequate amount of scouts to prevent anything unexpected from happening, and he even knew how the enemy was deployed.<br/>
@@ -21,20 +21,20 @@ The messenger got down on one knee.<br/>
 Altina yelled in anger.<br/>
 "Did they turn on us?!"<br/>
 Her bellow struck fear even in the experienced soldiers around her.<br/>
-The messenger trembled and said:
+The messenger trembled and said:<br/>
 "I-I don’t know!"<br/>
-— A turncoat and sneak attack? Were they colluding with the Etruria Theocracy all this time?
+— A turncoat and sneak attack? Were they colluding with the Etruria Theocracy all this time?<br/>
 He thought back to Rockhoward’s behaviour.<br/>
-Was all his retarded speech just an act?
-Was he trying to lower their guard by pretending to be incompetent?
-What should we do?!
+Was all his retarded speech just an act?<br/>
+Was he trying to lower their guard by pretending to be incompetent?<br/>
+What should we do?!<br/>
 There wasn’t enough time.<br/>
-He had to decide now!
+He had to decide now!<br/>
 Regis browsed the shelves in his mind at blistering speed.<br/>
 He chose a book from countless others, and flipped the pages quickly.<br/>
 "… The western half of the Fourth Army are to advance to the south."<br/>
 He gave the orders.<br/>
-Eric said in surprise:
+Eric said in surprise:<br/>
 "Shouldn’t they head north?!"<br/>
 "… Yes, they will be supported by the Sixth Army if they head north."<br/>
 "That’s right."<br/>
@@ -51,13 +51,13 @@ Regis who was racking his brain for a counter-strategy spoke to his other self w
 — This is too unlikely.<br/>
 He thought carefully.<br/>
 If the Eighth Army and Rockhoward really want to betray the Empire, he didn’t need to do so at this moment.<br/>
-Wouldn’t it be easier for him to storm the rooms of the key personnel with heavy infantry while we were still in the Aroe Maroe city?
+Wouldn’t it be easier for him to storm the rooms of the key personnel with heavy infantry while we were still in the Aroe Maroe city?<br/>
 And if he really rebelled, the family and relatives of the commander and his staff officers couldn’t remain unscathed.<br/>
 They would probably be executed.<br/>
 The harshest punishment of the Belgaria Empire was awaiting them. It was hard to believe that the Etruria Theocracy could offer anything enticing enough for them to turn traitor.<br/>
-Was their treason so hard to believe?
-Then what was their intention in attacking our rear?
-Did they really have a reason to rebel, that Regis couldn’t even imagine? Or maybe they just decided on that?
+Was their treason so hard to believe?<br/>
+Then what was their intention in attacking our rear?<br/>
+Did they really have a reason to rebel, that Regis couldn’t even imagine? Or maybe they just decided on that?<br/>
 By right, Regis should issue the order to attack without hesitation.<br/>
 "Ughh… "<br/>
 "Regis?!"<br/>
@@ -73,10 +73,10 @@ The cavalry pushed aside the ranks and were closing in.<br/>
 Without a doubt, they were the cavalry of the Belgarian Empire. They wore the emblem of the Eighth Army on their chest.<br/>
 Fast.<br/>
 Although the soldiers of the Fourth Army falling into chaos was part of the reason, they reached the headquarters since its distance from the rear guard was relatively short.<br/>
-And Rockhoward himself was leading the charge!
+And Rockhoward himself was leading the charge!<br/>
 "Uwhoooaaa—!!"<br/>
 Damn fool! Altina raised his sword.<br/>
-She yelled:
+She yelled:<br/>
 "You unforgivable traitor! I will teach you a lesson!"<br/>
 Finally, the Eighth Army’s cavalry broke through into the headquarters.<br/>
 Rockhoward held his spear up high.<br/>
@@ -105,7 +105,7 @@ Moments ago, it was just a matter of time before the enemy had to surrender.<br/
 Regis felt that his voice wasn’t his own.<br/>
 "… Do not pursue too deeply… Reorganize the troops."<br/>
 The messenger nodded with a pained expression, and blew a rather sad tune. It was a victory, but it felt like a defeat.<br/>
-Rockhoward spoke again:
+Rockhoward spoke again:<br/>
 "Madam Généralissime, the enemy is getting away!"<br/>
 "That’s right."<br/>
 "My cavalry is ready! Please give the orders to pursue!"<br/>
@@ -128,7 +128,7 @@ Rockhoward made a dumbfounded expression.<br/>
 "… And the result of your actions, is that the Etruria Army that was about to surrender, is now retreating easily."<br/>
 "Yes, they judged that they can’t win after my army joined the fray, so they retreated. It’s not strange at all."<br/>
 "… What are you saying? The battle had already been decided, but the enemy has now gotten away because of the chaos at our rear."<br/>
-Rockhoward used the tone of a teacher and said:
+Rockhoward used the tone of a teacher and said:<br/>
 "Isn't it fine if we win?"<br/>
 "… No, that’s not what I mean… Do you know how many soldiers lost their lives to create this encirclement?"<br/>
 "Hahaha! Sir Strategist, you sure are obsessed over strange things. So you are saying that I stole your war merit?"<br/>
@@ -152,7 +152,7 @@ Her eyes were filled with intense fury.<br/>
 "Because you violated orders, the victory that was in our grasp got away! And you are not even reflecting on your mistakes! Not only did you act without orders, you are hopelessly incompetent! You don’t have the qualification to command an army!"<br/>
 "Ughh… My face… was kicked…?!"<br/>
 Rockhoward nursed his nose.<br/>
-He said in a quivering voice:
+He said in a quivering voice:<br/>
 "Even if you are a royal, this is unforgivable! I’m the head of a Marquis house!"<br/>
 Altina replied in a louder voice.<br/>
 "Who cares! In my capacity as the Généralissime, I hereby declare— you are dismissed from your appointment as the commander of the Eighth Army!"<br/>
@@ -188,11 +188,11 @@ Her sword was pointed right at his nose.<br/>
 "Your desires resulted in the valiant sacrifices of many soldiers to be in vain. Take responsibility for disobeying orders."<br/>
 "Gaa… Ugg… Ughhh."<br/>
 His face turned green and then red. Blood was dripping from the tip of his nose, and sweat was flowing from his brow.<br/>
-At this moment, from the human wall—
+At this moment, from the human wall—<br/>
 A man walked out.<br/>
 "Pardon my intrusion."<br/>
 A smile appeared on his elegant mouth. It was Inspector Frank Ignatius de Duran.<br/>
-Altina didn’t move and asked:
+Altina didn’t move and asked:<br/>
 "What is it?"<br/>
 Frank shrugged.<br/>
 "This is my work. Can you let me handle the rest?"<br/>
@@ -214,7 +214,7 @@ So it would be solved with money— it wasn’t that surprising, since powerful 
 Even the justice system in this country was biased towards the nobles.<br/>
 As long as they had money, they could get away with anything.<br/>
 Altina looked unhappy.<br/>
-Frank soothed her:
+Frank soothed her:<br/>
 "I will explain to the officers of the Eighth Army. He is still the commander, and compared to the Madam Généralissime who kicked his face, it will be easier for me to explain. I will work hard to seek the understanding of his subordinates."<br/>
 "If they were loyal enough to their master to the extent of getting mad at me, why didn’t they stop his simple-minded actions!"<br/>
 What she said was true.<br/>
@@ -237,10 +237,10 @@ Before news of this major incident made it back, the Fourth Army returned to Aro
 They gathered Rockhoward’s subordinates, the key officers of the Eighth Army in the courtyard.<br/>
 Frank informed them of what happened.<br/>
 Would they be infuriated by the fact that their master was arrested… Surprisingly it didn’t matter.<br/>
-One officer said:
+One officer said:<br/>
 "… I can’t guess what the head will do at any time."<br/>
 "So he has always acted like this?"<br/>
-The officer nodded in response to Frank’s question:
+The officer nodded in response to Frank’s question:<br/>
 "Hmm, how should I put this… He has a habit of forgetting about other things when he focuses on one matter."<br/>
 Maybe it would be better to say that his ability to concentrate on one thing was extraordinary.<br/>
 So he didn’t seem suited to be a commander, Frank commented frankly.<br/>
@@ -262,13 +262,13 @@ When they heard that, the others started chattering.<br/>
 "But they are still less than 10,000 strong."<br/>
 "They have sent detachments to the northern and eastern front…"<br/>
 "But the soldiers working directly under the Madam Généralissime are limited in number, right?"<br/>
-"I heard that scrawny strategist say there were plans to “increase the number of regulars”."<br/>
+"I heard that scrawny strategist say there were plans to "increase the number of regulars"."<br/>
 "Alright, let’s give it a try!"<br/>
 It seems that the commander of the Eighth Army was less popular than expected.<br/>
 There wasn’t anyone concerned with Rockhoward’s punishment, lest those who plead to reduce his sentence. Most of the officers left the courtyard.<br/>
 The majority of them were planning to transfer to the Fourth Army.<br/>
 Only a few elderly men were left.<br/>
-Frank asked:
+Frank asked:<br/>
 "What are your plans?"<br/>
 "Ehh… We are past the age of seeking fame and fortune, so we will just retire back to our hometown. If the current Emperor requires our services, we will still offer him our swords."<br/>
 "I’m impressed by your sense of loyalty."<br/>
@@ -276,16 +276,16 @@ Frank asked:
 "Maybe I don’t need to say this… knights nowadays strive for fame and fortune, and place less priority on fealty. Compared to them, I feel that you all are the real knights."<br/>
 The old officers shook their heads.<br/>
 "We are just too old to serve a new master. Lord Military constable, the Rockhoward Marquis house served the royal family since the times of the L'Empereur Flamme. The current head might be retarded, but he definitely had no intention of committing treason. Please be lenient on his sentencing."<br/>
-Seeing them lower their heads, Frank replied solemnly:
+Seeing them lower their heads, Frank replied solemnly:<br/>
 "This humble one will relay your words to His Majesty."<br/>
-During the same time, in a different venue—
+During the same time, in a different venue—<br/>
 The large conference hall big enough to seat tens of people had only two occupants.<br/>
 One of them was Regis.<br/>
 The other was the commander of the Sixth Army, Lieutenant General Dorval.<br/>
 Altina wasn’t here.<br/>
 Both of them didn’t have escorts as they had something confidential to discuss— Regis was the one who proposed this meeting.<br/>
 It seemed the other party had something to say about the recent battle.<br/>
-The word “Rage” seemed to be carved onto Dorval’s forehead.<br/>
+The word "Rage" seemed to be carved onto Dorval’s forehead.<br/>
 "What the hell is that, explain it right now!"<br/>
 Regis spoke without being fazed.<br/>
 "… With the assistance of the Sixth Army, we defeated the Etruria Army. Unfortunately, our encirclement was broken because of the recklessness of the Eighth Army."<br/>
@@ -302,7 +302,7 @@ Dorval didn’t accept this explanation.<br/>
 If Altina heard that, she might agree with Dorval.<br/>
 That was why he didn’t let her come.<br/>
 Because this conversation wasn’t just about the battle.<br/>
-Dorval cautioned him painstakingly:
+Dorval cautioned him painstakingly:<br/>
 "You are too young! I admit that this scheme was splendid, but if you lose the trust of your troops, you won’t be able to command properly as a general!"<br/>
 "… I will keep that in mind. By the way, since we are talking about trust, what about you, Lieutenant General Sir?"<br/>
 "What did you say!?"<br/>
@@ -324,15 +324,15 @@ He had faced the murderous intent of the Black Knight Jerome, the Mercenary King
 Even though Regis was as weak as a puppy, he could still make comparison between the people he had met.<br/>
 ——Lieutenant General Dorval was nothing.<br/>
 Regis didn’t even break a sweat.<br/>
-He asked:
+He asked:<br/>
 "… Where are the rations that should be stowed in the forts?"<br/>
-Dorval smirked:
+Dorval smirked:<br/>
 "What are you talking about…? Unfortunately, those rations have fallen into the hands of Etruria. You want me to compensate these losses? But I protected the lives of the citizens. Or are you saying that wheat is more important than human lives?"<br/>
 "… Talking about something that seems relevant but actually isn’t, will just divert the point. I’m talking about the rations. You can compare the difference between wheat and human lives next time."<br/>
 "It is relevant!"<br/>
 "… I will say this again. This is about the rations. Now, where are they?"<br/>
 "I said Etruria has them!"<br/>
-"… We already got the testimony from the Etruria officers we captured that the “warehouses were empty”."<br/>
+"… We already got the testimony from the Etruria officers we captured that the "warehouses were empty"."<br/>
 "Hmmp! Are you asking me something so ridiculous because of the ramblings of an enemy soldier!? Stop joking with me!"<br/>
 Regis nodded.<br/>
 "… One of the Princess’ backers is House Tiraso Laverde. A competent house that united all the new nobles in the south. Lieutenant General Dorval who is garrisoned in the south for such a long period time must know about them."<br/>
@@ -346,7 +346,7 @@ The land was slowly being dyed a deep shade of red.<br/>
 "Aren’t you talking about rations?!"<br/>
 "… The current price has reached its peak."<br/>
 Regis stared at Dorval.<br/>
-A bellow that seemed to be coming from the earth resounded:
+A bellow that seemed to be coming from the earth resounded:<br/>
 "Do you have any proof, brat?!"<br/>
 It was a smile that looked just like the devil on religious paintings.<br/>
 And of course, he was prepared when he entered the lion’s den.<br/>
@@ -370,7 +370,7 @@ Dorval drew his blade.<br/>
 Regis backed away.<br/>
 But it was futile in the face of such a brutish act.<br/>
 He might have faced many powerful men,have gotten used to their killing intent and intimidating aura, but his frail body that couldn’t wield a sword remained unchanged.<br/>
-— I’m gonna die?!
+— I’m gonna die?!<br/>
 "Regis—?!"<br/>
 With a shout, the door of the conference hall was broken.<br/>
 The thick doors were crushed by Altina’s sword, 《Grand Tonnerre Quatre》.<br/>
@@ -380,7 +380,7 @@ It was Eddie.<br/>
 The blade of his 《Defendre Sept》 drew near.<br/>
 "Dorval!!"<br/>
 "Don’t forget your honorifics, retard!"<br/>
-The blade swung with a cry—
+The blade swung with a cry—<br/>
 And shattered before it reached Eddie.<br/>
 Duke Eddie Fabio de Balzac was incredibly skilled in breaking his enemy’s weapon.<br/>
 He shattered Dorval’s sword in one hit.<br/>
@@ -413,7 +413,7 @@ Altina sighed again.<br/>
 "Ughh…"<br/>
 Dorval sighed.<br/>
 But it was already too late.<br/>
-She announced:
+She announced:<br/>
 "In the name of the Généralissime— I hereby relieve you of your appointment as the commander of the Imperial Sixth Army!"<br/>
 He hung his balding head low.<br/>
 The sentries patrolling the fort rushed over after hearing the disturbance.<br/>
@@ -431,7 +431,7 @@ Eddie nodded.<br/>
 "Understood. But it will be best to get someone to take over me soon. I don’t want to be alone with Dorval for too long."<br/>
 "I understand."<br/>
 Finally, only Regis and Altina were left in the conference hall.<br/>
-She asked:
+She asked:<br/>
 "Are you really not hurt?"<br/>
 "I’m fine."<br/>
 "Hey Regis— Why didn’t you hand Dorval over to the National Military Police Department immediately?"<br/>
@@ -453,7 +453,7 @@ Altina placed her hands on her hips.<br/>
 "It can’t be helped! There’s a pile of things for you to do now. Work hard, Regis!"<br/>
 Speaking of which, he couldn’t fathom how this girl was filled with endless cheer and optimism, how dazzling, admirable and impressive.<br/>
 No matter how dire the situation might be, she could continue to move forward with determination.<br/>
-Regis muttered quietly:
+Regis muttered quietly:<br/>
 "… Thank you."<br/>
 "Ahahaha! Now now, I already decided that I will protect Regis properly!"<br/>
 "… Considering the position of a mistress and her subordinates, this is a little weird."<br/>
@@ -468,4 +468,4 @@ So it would be an attack on a fort.<br/>
 More importantly, Emperor Latreille’s intention lies beyond defending their land.<br/>
 "The next time, we will be invading another country."<br/>
 Altina pursed her lips when she heard Regis say that.<br/>
-Previous Chapter | Main Page | Next Chapter
+Previous Chapter | Main Page | Next Chapter<br/>

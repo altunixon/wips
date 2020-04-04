@@ -1,10 +1,10 @@
-### Altina the Sword Princess Volume 12 Side Story part 1
-The Black Knight and the Abandoned Fort
-Translator: Skythewood
-#### Editor: Darkdhaos
+### Altina the Sword Princess Volume 12 Side Story part 1<br/>
+The Black Knight and the Abandoned Fort<br/>
+#### Translator: Skythewood<br/>
+#### Editor: Darkdhaos<br/>
 Jerome Jean de Beilschmidt had black hair and eyes, rode on a dark horse with dark armour and had never lost a battle before.<br/>
 He obtained the title of 《Black Knight》 because of his appearance and capabilities, his name was enough to strike fear into both friend and foe.<br/>
-Imperial year 851 July 1st——
+Imperial year 851 July 1st——<br/>
 A detachment from the fourth army and the seventh army formed a mixed unit, and was despatched to the eastern front.<br/>
 They numbered 13,000 in total.<br/>
 The number was a bit low for the main forces holding up the eastern front, but it was a huge number for one army.<br/>
@@ -13,17 +13,17 @@ Benjamin (Lieutenant General) leads 4,500 remnants of the Second Army.<br/>
 Jerome (Major General) had 500 black knights cavalry under him.<br/>
 They advanced along the main road within the forest.<br/>
 The sun was setting in the west.<br/>
-At the head of the long marching line were——
+At the head of the long marching line were——<br/>
 Jerome on his black horse and a newly appointed knight captain besides him.<br/>
 "… Life is sure full of twists and turns."<br/>
 The knight mumbling to himself was Holger Orjes.<br/>
-Jerome sneered:
+Jerome sneered:<br/>
 "Hmmp… you want to complain about something?"<br/>
 "No no, I’m just thinking aloud. To think that I will one day ride alongside the heroic black knight of Belgaria and have my own subordinates."<br/>
 "I see."<br/>
 "Half a year ago, I was just a mercenary in Varden Grand Duchy, and got assigned to Fort Volks."<br/>
 Before the Beilschmidt Border Regiment seized Fort Volks, Regis captured Holger in order to obtain intelligence.<br/>
-After they seized the fort——
+After they seized the fort——<br/>
 Holger was amongst those who wishing to switch allegiance to the Belgarian Empire. He did so partly out of fear that he would be hung as a mercenary if he didn’t submit...<br/>
 "I will use anything that is of use, even trash."<br/>
 They didn’t question his origins at all.<br/>
@@ -43,7 +43,7 @@ There were countless enemy soldiers who lost their lives to Regis’ schemes.<br
 Holger was born to a knight house, but he lost his home nation to a civil war in the Germanian Federation, and ended up as a mercenary.<br/>
 He received training on leading troops in the past, so he had the ability to command men.<br/>
 And his turbulent experience as a mercenary made him more experienced than a regular from the imperial army, which also made him more cool headed and calm during emergencies.<br/>
-Jerome couldn’t bring himself to compliment others…
+Jerome couldn’t bring himself to compliment others…<br/>
 But he knew the importance of talented men. Holger’s hard life could be considered a blessing to his unit too.<br/>
 He pointed ahead.<br/>
 "Lord Jerome, there’s a city ahead."<br/>
@@ -55,7 +55,7 @@ Because it was a stronghold for a territory constantly engulfed in war, it was v
 "The cavalry can bring out their full might on this open plain."<br/>
 "The Seventh Army is proficient in assaulting in tight formation, so this terrain will be advantageous for them."<br/>
 Even the wheat fields were just another battlefield for Jerome and the others.<br/>
-Fortress City Marschtedt——
+Fortress City Marschtedt——<br/>
 When the unit reached the city, the sun was already setting.<br/>
 A war conference was held before dinner.<br/>
 They attendees were seated according to their ranks.<br/>
@@ -69,14 +69,14 @@ But after that nightmarish defeat, he now has the responsibility as the acting c
 He felt completely different.<br/>
 Coignieres’ demeanour was a little similar with Regis. Probably because he respected Regis as the saviour of the nation. Be it his preparation of the information ahead of time or his other actions, all this reminded others of Regis.<br/>
 "The Seventh Army left 5,000 men behind to hold the fort. 2,000 of them are in this city… The remaining 3,000 are assigned to defend other strongholds. Our combined army of 13,000 are now here to reinforce them. When the Seventh Army set off for the campaign, we have 21,000 men, even though we suffer heavy losses… I’m confident that we have enough soldiers to defend the eastern front. The Seventh Army’s 8,000 infantry, Lord Benjamin’s former Second Army of 4,500——"<br/>
-Jerome cut in:
+Jerome cut in:<br/>
 "You lost men again, retard."<br/>
 Benjamin wiped the sweat from his brow with a handkerchief.<br/>
 "W-We got ambushed on unfamiliar terrain..."<br/>
 During the march, his infantry was attacked by enemies of unknown allegiance, and suffered casualties.<br/>
 About a thousand men died.<br/>
 Aside from those who were killed, there were many injured too. Their wounds could heal, but Benjamin still lost 20% of his combat ready forces.<br/>
-Jerome sneered with disdain:
+Jerome sneered with disdain:<br/>
 "Hmm… Regis already warned you plenty about ambushes. With that much advance notice, can this really be called an ambush?"<br/>
 Unfortunately, the strategist’s warning was in vain. Even though the intel was spoonfed to him, Benjamin didn’t know how to prepare his troops.<br/>
 Coignieres mediate between them.<br/>
@@ -88,7 +88,7 @@ But if the numbers exceed a thousand, oral commands couldn’t be heard anymore.
 It would no longer be a group, but an organization.<br/>
 Regis who could adjust his command style as the number of troops increased was an exception. Normally, such a post couldn’t be given to someone without the specialized training.<br/>
 Even though he was incompetent, Benjamin was still a noble and had been educated in the ways of a commander.<br/>
-Jerome said slowly as if he was trying to carve these words inside Benjamin’s head:
+Jerome said slowly as if he was trying to carve these words inside Benjamin’s head:<br/>
 "Benjamin, you only got your rank because of your peerage. Stop being narcissistic about being a Lieutenant General right now. Be aware of your incompetence and follow the orders of others."<br/>
 "What!? But..."<br/>
 "Right now, you’re the highest ranking officer, but you’re also the most incompetent here. We are all standing in the same battlefield, and you are the only one with troop losses."<br/>
@@ -114,7 +114,7 @@ Soldiers weren’t chess pieces, and wouldn’t obey orders unquestionably.<br/>
 Furthermore, they probably hold a grudge against the commander that kept on failing.<br/>
 There were no moral or literal benefits for them.<br/>
 Before Benjamin could respond, Holger raised a hand.<br/>
-"Pardon me… The Fourth Army detachment received the orders to “support the Seven Nation Army”. In that case, doesn’t it mean we should be rostered under the command of the Seventh Army?"<br/>
+"Pardon me… The Fourth Army detachment received the orders to "support the Seven Nation Army". In that case, doesn’t it mean we should be rostered under the command of the Seventh Army?"<br/>
 "Hmmm."<br/>
 Benjamin made a pondering face.<br/>
 He finally realized that he might die if he cross blades with the Black Knight over a heated argument.<br/>
@@ -124,7 +124,7 @@ Having an excuse for him to back down was a godsend.<br/>
 Coignieres bowed deeply.<br/>
 Jerome sighed irritably.<br/>
 —— What a clown.<br/>
-With only staff officers present, what’s the point in being so stubborn over appearance?
+With only staff officers present, what’s the point in being so stubborn over appearance?<br/>
 As a typical grand noble, Benjamin would defend his dignity instinctively even if it doesn’t make any sense.<br/>
 Coignieres was nowhere near being a renowned strategist, but he was no fool.<br/>
 At the very least, he knew authority wouldn’t win him a battle, and understood how to watch out for sneak attacks.<br/>
@@ -142,7 +142,7 @@ Then the garrison force would be the 2,000 defenders and the 13,000 reinforcemen
 "Good."<br/>
 Jerome didn’t like passive strategies and garrisoning forts, but he wouldn’t turn it down if the time calls for it. He was commenting on the adequate preparations.<br/>
 They shift their focus to the enemy nation.<br/>
-Coignieres pointed and said:
+Coignieres pointed and said:<br/>
 "There are many smaller states to the east, but the Estaburg Kingdom clashes with the Belgarian Empire the most frequently."<br/>
 Compared to the neighbouring nations, that kingdom was larger and more powerful. If not for the threat of the Empire, it would have already conquered the surrounding lands.<br/>
 A dense forest laid between the Estaburg Kingdom and the Empire, which the Imperial soldiers were not proficient in fighting in.<br/>
@@ -151,7 +151,7 @@ That was why the frontlines reached an impasse here.<br/>
 Marschtedt was surrounded by wheatfields. They had the advantage of terrain in a field battle, the city didn’t have any weak points, a well secured place.<br/>
 A chess piece was put some distance away.<br/>
 "What is this?"<br/>
-After hearing Jerome’s question, Coignieres replied hesitantly:
+After hearing Jerome’s question, Coignieres replied hesitantly:<br/>
 "… That’s Fort Hauport. It was built to expand our territory."<br/>
 In that sense, it wasn’t too bad a position.<br/>
 It was less than a day’s march from the forest where the Estaburg Kingdom had the advantage of terrain. There was nothing to dislike about this strong chess move.<br/>
@@ -188,7 +188,7 @@ Abandoning the town made sense from the strategic level, but it was rather cold 
 "As expected of a city fort."<br/>
 In the past, Jerome was based in a small fort called Sierck. These two were probably about the same size.<br/>
 A skirmish would be fine, but if the enemy outnumber the defenders more than three times, the fort would be lost.<br/>
-It was useless to blame Coignieres who just became the commander some days ago…
+It was useless to blame Coignieres who just became the commander some days ago…<br/>
 It was necessary to build a city before expanding a fort, but building a city with just a small fort was prohibited.<br/>
 Jerome himself banned shops from being set up near Fort Siercks.<br/>
 That would make the lives of the soldiers less convenient, but in case anything happened, they still had the option of abandoning Fort Sierck and pulling back to the border city of Tunovell.<br/>
@@ -206,7 +206,7 @@ Coignieres clenched his fists.<br/>
 "…If I… have not taken up my current role, I will want to fight in Fort Hauport too. But for the sake of defending the Empire, I had to take up command here."<br/>
 After confirming the battle situation, they need to adjust and clarify the command structure.<br/>
 Since their orders were for the Black Knights and the former Second Army to be rostered under the command of Coignieres from the Seventh Army, it has more or less been settled.<br/>
-After the war conference——
+After the war conference——<br/>
 The map was kept and food was served.<br/>
 Dishes were served one after another, this was how the aristocrats of Belgaria dined.<br/>
 The main dish was venison.<br/>
@@ -217,7 +217,7 @@ His fighting skills and horsemanship was average, but his command ability was to
 "Who is asking you about the venison?"<br/>
 Just kidding —— Holger laughed.<br/>
 Even seasoned veterans wouldn’t dare joke with Jerome. Holger was a weird man.<br/>
-He said quietly:
+He said quietly:<br/>
 "No matter what the Black Knights do, Marschtedt city won’t fall. But the Seventh Army are just a defeated bunch… Brigadier Coignieres will not want to let go of 500 highly skilled cavalry."<br/>
 Jerome stabbed into the venison with his knife.<br/>
 The map had been kept away, but that was where Marschtedt city was positioned.<br/>
@@ -259,7 +259,7 @@ Holger saluted.<br/>
 Thump! Jerome stabbed the venison.<br/>
 "There. The place where the enemy will strike first."<br/>
 The map had been kept, but that was where Fort Hauport was.<br/>
-The next day——
+The next day——<br/>
 Jerome rode to Fort Hauport. He set off in the morning and reached in the evening.<br/>
 What a pain...<br/>
 The city was really just besides the fort.<br/>
@@ -279,7 +279,7 @@ Fort Hauport’s commander was a woman.<br/>
 Speaking of which, the commander seemed to be related to Lieutenant General Barguesonne —— Coignieres did say that.<br/>
 Jerome nursed his temple for a moment.<br/>
 "Ughh…"<br/>
-Small fort, female commander…
+Small fort, female commander…<br/>
 Just thinking about the duel that was a stain to his name made his head hurt.<br/>
 She was about twenty, her brown hair just long enough to touch her shoulders. She performed a perfect salute.<br/>
 "I’m the commander of Fort Hauport garrison regiment, subordinate to the Imperial Seventh Army —— Second Grade Combat Officer Marion Alphonse de Barguesonne."<br/>
@@ -291,7 +291,7 @@ His granddaughter huh.<br/>
 Her tone was respectful, but Marion’s sharp gaze was just like that conceited Princess. How infuriating.<br/>
 "I’m Major General Jerome Jean de Beilschmidt. Answer me seriously—— do you people want to live?"<br/>
 "Ehh? W-Well… Everyone has decided to do all they can!"<br/>
-—— Everyone decided? Is this something a commander should say!?
+—— Everyone decided? Is this something a commander should say!?<br/>
 Jerome mocked in his heart.<br/>
 No matter what, it was as Coignieres said —— the soldiers here had no plans to give up on this ‘last bastion of defence’ that guards their hometown.<br/>
 "Tch… forget it. Show me the fort."<br/>
@@ -304,7 +304,7 @@ After touring the gates, walls, position of the watch towers, they inspected the
 They were well equipped.<br/>
 He watched the soldiers gathered in the courtyard.<br/>
 They were uneasy and couldn’t settle down.<br/>
-After all, these were men who didn’t answer to the call to go on an expedition even though the Empire was in danger. He couldn’t count on them too much…
+After all, these were men who didn’t answer to the call to go on an expedition even though the Empire was in danger. He couldn’t count on them too much…<br/>
 He could tell how capable they were from their faces and body.<br/>
 Jerome sighed.<br/>
 "A bunch of weaklings. There’s nothing more to say."<br/>
@@ -317,7 +317,7 @@ Marion glared at him.<br/>
 "I hate failure! I won’t let Fort Hauport fall. Even if it is one small puny fort, I won’t permit the Estaburg Kingdom from taking it!"<br/>
 "W-Will there be reinforcements!?"<br/>
 The faces of Marion and the troops brightened immediately.<br/>
-Jerome spat and said:
+Jerome spat and said:<br/>
 "Retards! The Empire doesn’t have the manpower to spare. Don’t you know how the war has been going?"<br/>
 "I-I’ve seen the reports… Then, what should we do?"<br/>
 "Hmmp… you bunch of trash. You lot are soldiers. Of course you will fight and win! That’s what it means to ‘defend’. No matter how noble your spirit, it’s meaningless if you lose."<br/>
@@ -328,7 +328,7 @@ Jerome showed her the written orders. It was signed by Coignieres.<br/>
 Marion was dumbstruck.<br/>
 "H-Hand over command authority… to you!? That’s too reckless! To a guy that just got here!? I won’t accept this! I will protest to Coignieres! If my grandfather is still alive, he will never allow such an order——"<br/>
 Jerome swung out his fist.<br/>
-Pow!
+Pow!<br/>
 The sound akin to stone splitting echoed out.<br/>
 A mark was left on Marion’s face, and she collapsed onto the floor quietly.<br/>
 Ara ara, Jerome shrugged.<br/>
@@ -355,7 +355,7 @@ She seemed to have relinquished her command authority as ordered, but she insist
 "There’s no budget!"<br/>
 "Then go hunt for food."<br/>
 "Please stop being unreasonable. If we go into the forest, the Estaburg Kingdom will ambush us. Their 《Green Berets》 are very strong. If they are around, the citizens of Hauport City won’t be able to hunt. We will be less susceptible to attack if a big group went… But having too many people will scare the wild games away!"<br/>
-Hmmp! Marion stared at him. Her face seemed to be saying “You can’t do anything about that right!?”
+Hmmp! Marion stared at him. Her face seemed to be saying "You can’t do anything about that right!?"<br/>
 Her attitude was maddening, but it was clear that she had given some thoughts to these issues. After rationing the food carefully, the best they could do was this salty soup.<br/>
 Coignieres’ unit had normal meals. This means, they didn’t provide provisions to the recruits and old timers.<br/>
 "If you can’t go into the forest, then get them from the city."<br/>
@@ -367,8 +367,8 @@ Coignieres’ unit had normal meals. This means, they didn’t provide provision
 The enemy might come here tonight, and she was still worried about winter? Even Jerome was stunned.<br/>
 But on second thought, those who were even a little bit aware of the danger had already skipped town.<br/>
 Those left behind were the ones who wanted to live on just like the way they had lived in the past.<br/>
-Or those who had given up…
-Or stopped thinking…
+Or those who had given up…<br/>
+Or stopped thinking…<br/>
 Even if he issued the order, the soldiers here all hailed from Hauport. Morale would plummet if they were given direct orders to seize their hometown’s winter provisions, and couldn’t be ignored.<br/>
 "Hmmp… It can’t be helped. I will prepare the winter provisions. So get the food from the city first."<br/>
 "How are you going to do that? We don’t have the funds to buy food from other territories."<br/>
@@ -380,25 +380,25 @@ If they could hunt in the woods, they just need two months to gather enough meat
 But if they worked for two months, they wouldn’t be able to raise the money to purchase the same amount of food.<br/>
 Even for the Belgarian Empire where the main roads were well maintained, the transportation cost was a sizeable expenditure.<br/>
 Jerome delegated the troublesome stuff away.<br/>
-"No problem, leave it to me. There is a strategist called the “Wizard” in the Imperial Fourth Army. Preparing the provisions for a small city is nothing to him."<br/>
+"No problem, leave it to me. There is a strategist called the "Wizard" in the Imperial Fourth Army. Preparing the provisions for a small city is nothing to him."<br/>
 If Regis heard this, he would definitely refute it loudly.<br/>
 Just how much did she trust him to think like this...<br/>
 Marion leaned forth.<br/>
 "We will be asking Sir Regis d’Auric!?"<br/>
-——Sir?
+——Sir?<br/>
 Seemed like rumours about Regis had spread to the eastern borders.<br/>
 Jerome nodded.<br/>
 "Of course, use him as you wish. That fellow is like my subordinate."<br/>
 "Sir Regis isn’t coming!?"<br/>
-—— Hah! That trash is probably studying in the capital to pass his test!
+—— Hah! That trash is probably studying in the capital to pass his test!<br/>
 Even though he thought this way, but raising Regis’ evaluation would be beneficial to Jerome in the future, so he kept up the facade.<br/>
 "The strategist is in the capital right now. He’s very capable, but also very busy."<br/>
 "Ah… That’s right. He won’t come to this small fort at the borders… He’s the saviour of the nation after all."<br/>
 Her shoulders slouched.<br/>
 Marion said with a sigh.<br/>
 "… Even my esteemed grandfather couldn’t win against the High Britannian Army, but he won a string of victory both on land and in the sea… If it is that Sir genius strategist, he can definitely save this fort."<br/>
-The “esteemed grandfather” she mentioned was Lieutenant General Barguesonne who only issued the order to charge.<br/>
-And that “Sir genius strategist” was Regis.<br/>
+The "esteemed grandfather" she mentioned was Lieutenant General Barguesonne who only issued the order to charge.<br/>
+And that "Sir genius strategist" was Regis.<br/>
 The difference between expectation and reality made Jerome dizzy.<br/>
 "He is just a bibliomaniac."<br/>
 "He likes to read huh. I see, he must be reading deep and sophisticated strategy books. I have much to learn too."<br/>
@@ -435,8 +435,8 @@ They already requested for more staff from the Ministry of Military Affairs, but
 "I-It’s impossible to complete the administrative works like this… Ah, you’re lying to me again!? I won’t be tricked by you! Don’t look down on me just because I’m from a backwater city!"<br/>
 Marion pouted and walked away.<br/>
 Jerome brought the soup to his mouth.<br/>
-It would be great if they could prepare the provisions…
+It would be great if they could prepare the provisions…<br/>
 He needed to relay the situation here to Regis. So he needed to write a letter. It wasn’t until the extent of that Princess, but Jerome hated writing.<br/>
 He clicked his tongue.<br/>
 And felt unmotivated.<br/>
-Previous Chapter | Main Page | Next Chapter
+Previous Chapter | Main Page | Next Chapter<br/>

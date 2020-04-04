@@ -1,9 +1,9 @@
-### Altina the Sword Princess Volume 13 Chapter 3
-The Battle of Aroe Maroe
-Translator: Skythewood
-Machine editor: ratorasepo
-#### Editor: Darkdhaos, CEObrainz
-Imperial Year 851 September 15th —
+### Altina the Sword Princess Volume 13 Chapter 3<br/>
+The Battle of Aroe Maroe<br/>
+#### Translator: Skythewood<br/>
+Machine editor: ratorasepo<br/>
+#### Editor: Darkdhaos, CEObrainz<br/>
+Imperial Year 851 September 15th —<br/>
 The rainy season had ended several days ago. While the defenders were wondering why the Etruria Theocracy still hadn’t attacked, they finally showed up.<br/>
 "The enemy army numbers 30,000!"<br/>
 The scout shouted.<br/>
@@ -32,18 +32,18 @@ Altina crossed her arms.<br/>
 "… They are planning a straightforward invasion. Their victory so far probably boosted their confidence a lot."<br/>
 Dorval who gifted these victories to the enemy didn’t seem to mind at all.<br/>
 As there had been wins and losses throughout the various wars, he probably felt that he wouldn’t be punished for something of this extent.<br/>
-He was known as an “experienced brave general” in the capital, but this term wasn’t associated with “many victories”.<br/>
+He was known as an "experienced brave general" in the capital, but this term wasn’t associated with "many victories".<br/>
 Since the commander was like that, the troops from the Sixth Army didn’t seem too bothered either.<br/>
 — Well, there was no point in deploying soldiers who didn’t have the will to fight to the frontlines.<br/>
-Rockhoward asked:
+Rockhoward asked:<br/>
 "Why has the enemy increased in number??"<br/>
 "Ehh? That’s because…"<br/>
 They must be reinforcements sent in the past month. The answer was too obvious, which made it hard to discern his intentions.<br/>
-Altina answered:
+Altina answered:<br/>
 "They are reinforcements from their home nation, right?"<br/>
 "Hmm, I see. They have been winning the battles, yet they are still sending in reinforcements… The enemy commander sure is cautious."<br/>
 "That seems to be the case—"<br/>
-— Wrong, he committed his reserves for the sake of this decisive battle?
+— Wrong, he committed his reserves for the sake of this decisive battle?<br/>
 They felt that the Imperial army wouldn’t retreat any further.<br/>
 That was what Regis thought, but he decided to ignore it since Rockhoward didn’t seem to have any deep intentions.<br/>
 Even if he was bothered by the increase in enemy numbers, there was nothing to gain from discussing the reason. At least, this wasn’t something they should be discussing right now.<br/>
@@ -51,11 +51,11 @@ Their priority should be how to deal with this problem.<br/>
 "Hmm…"<br/>
 Anyway, Rockhoward’s focus point was a little strange.<br/>
 As if he had the habit of acting on whatever came to mind.<br/>
-There was something he couldn’t say to the commander of an army and the head of an aristocratic house. That he was “just like a kid”.<br/>
+There was something he couldn’t say to the commander of an army and the head of an aristocratic house. That he was "just like a kid".<br/>
 Regis sighed in his heart.<br/>
 Dorval didn’t have the will to fight, and Rockhoward’s thinking was too shallow.<br/>
 However, the Fourth Army’s forces were less than half that of the enemy. So the Sixth Army would need to contribute too.<br/>
-Regis asked:
+Regis asked:<br/>
 "……Lieutenant General Dorval, do you have any good plans in mind?"<br/>
 "Hmm? Well… the Imperial Army has 50,000 men while the enemy has 30,000. It will be fine if we defend the fort."<br/>
 "… A steady plan. How long would we defend for?"<br/>
@@ -79,19 +79,19 @@ According to Regis’ calculations, that was roughly right. If they ration their
 Eddie scratched his head.<br/>
 "Well, that’s true."<br/>
 — Even though there wasn’t an alternative plan, these issues would still be there. This plan still needed to be discussed.<br/>
-Altina pushed the discussion forward:
+Altina pushed the discussion forward:<br/>
 "Regis, you decide."<br/>
 — That will be faster, huh.<br/>
 The scene of continuing the discussion, getting the staff officers to concur, and go into battle with high morale was too idealistic.<br/>
 Regis suddenly noticed.<br/>
 That he was under great pressure.<br/>
 Such a situation wasn’t rare either.<br/>
-With this in mind…
+With this in mind…<br/>
 — Ah, it’s because I commanded the First Army before. The difference is too big.<br/>
 Latreille’s subordinates were hardened soldiers who were ready to lay down their lives. They would readily die to defend their country.<br/>
 Regis realized that his thinking was too idealistic.<br/>
-He remembered what Altina said before, and cautioned himself:
-“That’s how the local armies are.”
+He remembered what Altina said before, and cautioned himself:<br/>
+"That’s how the local armies are."<br/>
 Regis sorted out his thoughts and proposed a battle plan.<br/>
 "… The enemy thinks that Aroe Maroe City is the site of the decisive battle. We can deduce this since they committed their reserves here. I probably don’t need to say this, but mobilizing 10,000 soldiers will require massive funding and preparations. The Etruria Theocracy plans to win this battle and claim the south of the Belgaria Empire as their own territory for the long term.<br/>
 — it’s easy to tell their intention to redraw the borders."<br/>
@@ -106,7 +106,7 @@ It was retarded of Rockhoward to propose leaving the base— the one who said th
 The others were shocked too.<br/>
 Including Rockhoward who lost because of such a plan some time ago.<br/>
 "Sir Strategist is still young. Even if we have the advantage in numbers, it’s better for us to defend the fort. If not, we won’t be able to react if any unforeseen circumstance happens."<br/>
-— Like a fire accident?
+— Like a fire accident?<br/>
 It would be too uncouth to ask them that.<br/>
 Regis nodded.<br/>
 "… Why don’t we leave the responsibility of defending Aroe Maroe City to Lieutenant General Rockhoward’s Eighth Army?"<br/>
@@ -114,8 +114,8 @@ Regis nodded.<br/>
 "… Didn’t you point out that we should defend our base, Lieutenant General Sir? Then it is only right to leave this responsibility to the unit most concerned about this issue."<br/>
 "Hmm… But when the evaluation for winning this battle happens, the Eighth Army will be criticized for just holding the fort, I can’t accept this proposal as a general."<br/>
 His concern was actually the evaluation after winning the battle.<br/>
-Was this the right attitude as a soldier…
-Or was this the epitome of selfishness…?
+Was this the right attitude as a soldier…<br/>
+Or was this the epitome of selfishness…?<br/>
 As expected, the focus point of this man is weird— Regis thought once again.<br/>
 "… Please don’t worry. The arrogant Ministry of Military Affairs that mete out rewards and punishment based on rumours had been dissolved, and Her Highness, the Généralissime has taken over their responsibilities. She is a person who fully understands the importance of defending the fort in a battle like this. Isn’t that right, Madam Généralissime?"<br/>
 "Hmm? You’re talking about me?"<br/>
@@ -135,7 +135,7 @@ If they were attacked from behind when they leave the base to engage the enemy, 
 It was a scheme Regis often used— and if the enemy commander was capable too, they would do the same thing.<br/>
 Regis wasn’t the only one who would use unexpected tactics, so he had to wary of the enemy doing so too.<br/>
 For the sake of the troops’ morale, it was worth it to assign 20,000 men to the defence of Aroe Maroe City.<br/>
-Dorval asked worriedly:
+Dorval asked worriedly:<br/>
 "In that case, we will have to fight the enemy of 30,000 with less than 30,000 men on our side…?"<br/>
 "… That’s true in terms of numbers."<br/>
 "Isn’t that too reckless?"<br/>
@@ -155,7 +155,7 @@ Dorval continued to think about it.<br/>
 "In that case, it will be fine too."<br/>
 He didn’t want to offend the Généralissime if he resisted taking to the field too hard— That was probably what he thought.<br/>
 Dorval nodded reluctantly.<br/>
-The next morning—
+The next morning—<br/>
 It was a plain with no end in sight.<br/>
 The morning sun casted long shadows from the city.<br/>
 The Fourth Army formed up at the edge of the shadow, about 50Ar (3573m) to the west of Aroe Maroe City.<br/>
@@ -163,10 +163,10 @@ They were positioned horizontally to face the enemy coming from the south.<br/>
 To the left of the unit was a wide river.<br/>
 The Sixth Army commanded by Lieutenant General Dorval was deployed behind the Fourth Army.<br/>
 As they weren’t at the very frontlines, the veterans of the Sixth Army were all very laxed.<br/>
-Behind them—
+Behind them—<br/>
 Further to the north, there was a large pond.<br/>
 Before them was the enemy, to the right was the river, to their left was Aroe Maroe City, and to their backs was the pond— that was how they were positioned.<br/>
-Typeset by: Hiiro74
+Typeset by: Hiiro74<br/>
 Fourth Army headquarters.<br/>
 Altina was riding on a horse.<br/>
 Regis was mounted on a horse and standing to the side— although Eric was the one holding the reigns.<br/>
@@ -179,7 +179,7 @@ Eddie came.<br/>
 "Oh—? So it’s fine either way?"<br/>
 "… This is a battle on the plains."<br/>
 He didn’t plan for the 20,000 troops of the Eighth Army that were defending Aroe Maroe City to attack. Regis couldn’t ignore their existence, but he didn’t need to account for them in his plan.<br/>
-Regis explained:
+Regis explained:<br/>
 "… There is no point in adding in troops that can’t coordinate with us. It’s better for them to defend the base."<br/>
 "That’s unexpected. Regis thinks the Dorval of the Sixth Army is more useful than Rockhoward from the Eighth Army."<br/>
 "… Yes."<br/>
@@ -233,14 +233,14 @@ Eric tilted his head.<br/>
 "Yes."<br/>
 This was the center of the Fourth Army, and soldiers in tidy formation were all around them.<br/>
 As this was near the headquarters, the troops were formed up neatly as if they were measured with a ruler.<br/>
-Eric tilted his head, and Regis said:
+Eric tilted his head, and Regis said:<br/>
 "… See the distance between each of them, they are almost standing shoulder to shoulder right? Like I mentioned before, if there are gaps in the formation, a soldier will need to face two or three enemies at once."<br/>
 "Ah, that’s right! Infantry has to form tight formations."<br/>
 "Yes… A tighter formation is stronger, which will give an advantage in numbers locally. Alright, regarding the issue of a surprise attack. What if we let this unit turn to one side?"<br/>
 "Ahh?!"<br/>
 When humans walk, their arms and legs would swing. They couldn’t move shoulder to shoulder, so they need space to their front and back.<br/>
 It was difficult for a unit to turn in a certain direction.<br/>
-Regis added:
+Regis added:<br/>
 "And of course, we have been conducting training to change our formation… But it is impossible to switch our direction so swiftly in battle. Do you know how much time is needed to reorganize the formation of 10,000 men?"<br/>
 "It’s exactly as you say!"<br/>
 "… No matter what, the soldier’s morale will plummet if they are attacked from the flanks or the rear. The fault will lie with the tactics of the commander. Troops that had lost their will to fight can never win."<br/>
@@ -254,7 +254,7 @@ The soldiers at the front rank lifted their brand new rifles. It was the rifle L
 It was the new Belgarian made rifle, the 《Fusil 851》.<br/>
 Compared to the prototype, its design was simpler, the gun was longer and lighter on the whole.<br/>
 On Altina orders, bugles were sounded.<br/>
-The captain of the rifle team shouted:
+The captain of the rifle team shouted:<br/>
 "Fire!!"<br/>
 The soldiers holding the new rifles pulled their triggers.<br/>
 The stopper mechanism was released, and spring-loaded hammer hit the firing pin into the chamber.<br/>
@@ -278,7 +278,7 @@ The rifle team at the first rank had been preparing for a long time, but they we
 — It’s impressive for them to reach 50% accuracy at such a distance.<br/>
 After adequate training, they would be able to hit with high accuracy at the intended distance of 14 Ar (1000m).<br/>
 If they excluded incompetent examples like Regis.<br/>
-Shortly after, reports that the "Etruria army has started to charge!】 was received.<br/>
+Shortly after, reports that the "Etruria army has started to charge!" was received.<br/>
 At this distance, they will engage the enemy between a minute and a half to two minutes.<br/>
 If it were the old muskets, even well-trained soldiers could fire just one more shot… But the new rifles could fire four more times.<br/>
 However, even with four more shots, they could only take down around 400 more soldiers. Even with the new rifles, two hundred of them weren’t enough to affect the grand scheme of things.<br/>
@@ -314,10 +314,10 @@ Regis sat on Eric’s horse.<br/>
 "Then don’t gallop too fast."<br/>
 He was ignored.<br/>
 As the shaking was too intense, Regis was almost thrown off a few times.<br/>
-— I will definitely die if I fell off the horse, right?
+— I will definitely die if I fell off the horse, right?<br/>
 He started imagining what the world after death would be like. There probably weren’t any books in heaven. The thought of that spurred his courage to do live on.<br/>
 He couldn’t die before reading that book. Be it a part of an incomplete series, or new works slated for release.<br/>
-Eric shouted:
+Eric shouted:<br/>
 "Sir Regis, the unit to our rear is being attacked!"<br/>
 "Please hurry!"<br/>
 That was all he could say.<br/>
@@ -334,15 +334,15 @@ She wielded her giant sword with both hands.<br/>
 Her attack from the back of her horse broke all of the enemy’s spears.<br/>
 Judging from this battle, she had gotten even stronger.<br/>
 She used to judge that Latreille was better than her in swordsmanship, and Jerome on a horse with a lance was stronger than her.<br/>
-But how would the current Altina fare against them?
+But how would the current Altina fare against them?<br/>
 Wielding the giant sword as if it was a normal one, such a scene felt as unreal as a B-grade play.<br/>
 She was swift.<br/>
 And that was enough to exert overwhelming power.<br/>
 Even if the enemy’s quality wasn’t high, this was enough to show how strong Altina was.<br/>
 The Belgarian soldier around her regained their morale.<br/>
-"Don’t let the enemy near the Princess!】"Hit them back!】"Let them see the tenacity of the Empire!"<br/>
+"Don’t let the enemy near the Princess!""Hit them back!""Let them see the tenacity of the Empire!"<br/>
 Regis was flustered.<br/>
-— It will be troubling if you all work too hard!
+— It will be troubling if you all work too hard!<br/>
 "Your Highness!"<br/>
 He shouted.<br/>
 Her hearing was acute even in this messy battle. When she noticed him, she reorganized the unit as she slowly backed away to headquarters.<br/>
@@ -353,7 +353,7 @@ Her hearing was acute even in this messy battle. When she noticed him, she reorg
 The Fourth Army splitting into two was part of the plan.<br/>
 The Etruria Theocracy army had already broken through.<br/>
 The headquarters had gotten away. The soldiers of the Fourth Army had also separated to the left and right.<br/>
-And in front of the enemy—
+And in front of the enemy—<br/>
 Was the Sixth Army.<br/>
 For an army of 10,000, the distance between ranks would be very long.<br/>
 When the front ranks engaged the enemy, the rear ranks could get rather boring. They could still hear the battle cries, screams and clashing of weapons, as well as the bloodthirst in the air too.<br/>
@@ -369,7 +369,7 @@ The atmosphere was similar to friends drinking coffee in the city.<br/>
 They would be lectured if the officers heard them, so they kept their voices down. But there was still a few whose shoulders shook whilst snickering.<br/>
 The sounds of battle in front of them were growing intense.<br/>
 It seemed that the battle was getting heated.<br/>
-A soldier said with an annoyed face:
+A soldier said with an annoyed face:<br/>
 "Since they are reputed to be heroes and elites, just let the Fourth Army fight by themselves."<br/>
 "Well, they have 8,000 men and cavalry, so they should be able to take out half of the Etruria army."<br/>
 "If they took on that many casualties, won’t they retreat?"<br/>
@@ -405,22 +405,22 @@ The staff officers stood up in shock.<br/>
 "Retard!! There’s a lake behind us!"<br/>
 They weren’t deployed near the lake at the start. But the soldiers who had grasped the situation backed away on their own, and the units at the back were almost pushed into the lake.<br/>
 Even though the soldiers were lightly armoured, they would drown if they fell into the water. This was different from swimming in the lake during the summer.<br/>
-The other staff officers said:
+The other staff officers said:<br/>
 "Retrograde to the east!"<br/>
 They were cut off to the west by the river, but to their east were plains. And if they moved a bit further, they would reach the fort.<br/>
 Let’s go back to the fort and reorganize— such a consensus formed.<br/>
 But they couldn’t do so.<br/>
 "The path is blocked by the cavalry from the Fourth Army!"<br/>
-When he heard this report, Dorval lashed out:
+When he heard this report, Dorval lashed out:<br/>
 "What the hell are they doing?!"<br/>
 "I don’t know either…"<br/>
 He was just a messenger.<br/>
-A staff officer suddenly realized:
+A staff officer suddenly realized:<br/>
 "Speaking of which, that strategist was the one who deployed us as the reserves…"<br/>
 Dorval stamped the ground violently.<br/>
 "He planned for this right from the beginning!? That despicable brat!!"<br/>
 No clear orders were issued out.<br/>
-"The front ranks have engaged the enemy!】, the battle reports continued to pour in.<br/>
+"The front ranks have engaged the enemy!", the battle reports continued to pour in.<br/>
 The chaos was about to cause a rout— there was such a possibility, but these weren’t weak soldiers.<br/>
 They were regulars in the Belgaria Empire.<br/>
 And the bulk of them were veterans.<br/>
@@ -451,21 +451,21 @@ The Sixth Army’s front ranks held.<br/>
 The way those bulky soldiers formed a line with their large shields were just like a wall.<br/>
 "… Incredible. I have seen quite a number of units, but none of them have a formation as tough as them. In terms of prowess as infantry, they might be even better than the First Army."<br/>
 "There are no weak points at all!"<br/>
-Eric commented in awe:
+Eric commented in awe:<br/>
 "… Normally, the first rank will retreat after tanking the enemy’s charge, leaving the next rank to hold the line. That was necessary to dissipate the momentum of the charge in stages. However, the Sixth Army didn’t relent at all, just like a steel wall."<br/>
-However, there was a lake behind them, which was why they couldn’t retreat…
+However, there was a lake behind them, which was why they couldn’t retreat…<br/>
 But no matter what reasons there may be, it wasn’t a simple matter of fighting on a whim.<br/>
 Every one of them was very capable.<br/>
 And now, the Etruria army that charged in was the one in chaos.<br/>
 The enemy front ranks they should have broken through were still holding, and forcing them to a standstill.<br/>
 That led to the ranks behind them that were still charging crashing into their own front ranks.<br/>
 It was hard to fight at full strength when you were squeezed by your own allies from behind. There were some who got pushed out of position, resulting in their formation breaking up.<br/>
-As Regis wasn’t used to riding a horse, he couldn’t shrug. He thought calmly and said:
+As Regis wasn’t used to riding a horse, he couldn’t shrug. He thought calmly and said:<br/>
 "… What are the platoon leaders of the Etruria Army doing? It is their responsibility to keep the formation in line, right?"<br/>
 In the Belgaria Empire, even officers that were commoners had to learn to command ten to a hundred people in the Military Academy.<br/>
 Which was equivalent to a squad leader or platoon commander.<br/>
 Only nobles could learn how to command a thousand or more men, commoners had no chance to learn that.<br/>
-Eric who was riding in front asked:
+Eric who was riding in front asked:<br/>
 "Sir Regis, did you learn how to command 10,000 men before? I heard that exceptionally gifted commoners would also have the privilege of being instructed as potential staff officers."<br/>
 "… I had never received such training."<br/>
 "Ehh, that is surprising. So you only learned how to command a hundred men?"<br/>
@@ -474,14 +474,14 @@ Eric who was riding in front asked:
 "… After all, I couldn’t even ride a horse, so there was no point in teaching me all that."<br/>
 "Ahh…"<br/>
 In the Belgarian Empire, commanders needed to be mounted on a horse to exercise their command. Leaving squad leaders aside, it was mandatory for platoon commanders in charge of a hundred men to learn horse riding.<br/>
-His results in tactics were outstanding, but the instructors still told him mockingly to “practice riding a horse first”.<br/>
+His results in tactics were outstanding, but the instructors still told him mockingly to "practice riding a horse first".<br/>
 And the result of avoiding riding lessons and continuing to read led to such a result.<br/>
 Regis raised the corners of his lips.<br/>
 "… My aspiration was being an administrative officer in the rear. I wanted to perform administrative tasks and organize the logistics."<br/>
 His goal was actually to work in a military library.<br/>
 Even now, he still yearns for it.<br/>
 And after becoming the strategist for the Office of the Généralissime, that path was sealed.<br/>
-— Farewell, my dream job of being surrounded by books
+— Farewell, my dream job of being surrounded by books<br/>
 Altina’s voice pulled him back to reality.<br/>
 "Regis! What should we do?!"<br/>
 "… It’s about time to counterattack."<br/>
@@ -512,7 +512,7 @@ It was soft, but Eric still heard Regis’ mumbling. Regis said as if answering 
 "… Most commanders can only order attacks or retreats. I think they should issue more complicated orders."<br/>
 "I have only seen bugles that can issue such a variety of orders in the Fourth Army."<br/>
 "… I think that should be the minimum standard."<br/>
-"“We are pulling back but not fleeing, and will be moving to the left and right instead”, is there a specific bugle tune for that?"<br/>
+""We are pulling back but not fleeing, and will be moving to the left and right instead", is there a specific bugle tune for that?"<br/>
 "… The ideal situation is to let the entire unit move as one entity."<br/>
 The situation was gradually improving.<br/>
 The Etruria Army was in chaos because of the attack on their flanks.<br/>
@@ -520,7 +520,7 @@ Regis exhaled.<br/>
 It appears that he didn’t need to do anything more.<br/>
 He just needed to leave the rest to Altina and the other officers. It wouldn’t be long before the Etruria Theocracy army surrenders.<br/>
 That was supposed to happen.<br/>
-Altina turned around and said in surprise:
+Altina turned around and said in surprise:<br/>
 "Regis, something is happening!"<br/>
 "… Ehh?"<br/>
 When he heard her say that, Regis turned and looked too.<br/>
@@ -528,10 +528,10 @@ The headquarters were in the eastern half of the Fourth Army right now.<br/>
 And a strange situation was happening at their rear.<br/>
 He could see cavalry.<br/>
 — Are they Belgarian!? No, the Flying Sparrow Knights should be deployed to the east of the Sixth Army, and they shouldn’t have moved.<br/>
-Was it an ambush by the enemy?!
+Was it an ambush by the enemy?!<br/>
 A messenger ran over.<br/>
 "Our rear has been attacked, and our formation is in disarray!"<br/>
 Regis almost fell off his horse.<br/>
-A sneak attack?!
+A sneak attack?!<br/>
 He felt as if his heart was being squeezed tightly by a devil.<br/>
-Previous Chapter | Main Page | Next Chapter
+Previous Chapter | Main Page | Next Chapter<br/>

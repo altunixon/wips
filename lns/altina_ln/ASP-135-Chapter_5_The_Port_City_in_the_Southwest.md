@@ -1,9 +1,9 @@
-### Altina the Sword Princess Volume 13 Chapter 5
-The Port City in the Southwest
-Translator: Skythewood
-Machine editor: ratorasepo
-#### Editors: Darkdhaos, CEObrainz
-Imperial Year 851, October 9th—
+### Altina the Sword Princess Volume 13 Chapter 5<br/>
+The Port City in the Southwest<br/>
+#### Translator: Skythewood<br/>
+Machine editor: ratorasepo<br/>
+#### Editors: Darkdhaos, CEObrainz<br/>
+Imperial Year 851, October 9th—<br/>
 The sea breeze blowing in from the south felt warm.<br/>
 This was the port city Tarnoritz, situated to the southwest of the Empire.<br/>
 As the largest port in the south, many large sail ships were docked here. There was also a shipyard, where the thumping of the hammers could be heard all the time.<br/>
@@ -18,7 +18,7 @@ Their recent best sellers were medicine from the east.<br/>
 Three streets away from that luxurious manor.<br/>
 Regis’ group was brought to a guest reception house built with red bricks.<br/>
 It was a queer building that was a mixture of Belgarian architecture, the neighboring countries… and even displaying cultures from countries across the ocean.<br/>
-Hispania style pillars and doors, eastern pottery, paintings and sculptures…
+Hispania style pillars and doors, eastern pottery, paintings and sculptures…<br/>
 This was like a museum of a foreign land.<br/>
 Regis sighed in awe.<br/>
 "… Amazing."<br/>
@@ -41,11 +41,11 @@ Eleanor looked Regis’ way.<br/>
 "No no no…"<br/>
 "There are tens of thousands of books collected from overseas in the basement too."<br/>
 "……"<br/>
-Only when Altina said:"Hey, Regis?!】 did he finally snapped out of it.<br/>
+Only when Altina said:"Hey, Regis?!" did he finally snapped out of it.<br/>
 He covered it up with a cough.<br/>
 "Haha… I still have my aspirations and responsibilities."<br/>
 He said the same thing as before, but Altina still stared at him.<br/>
-Eleanor said with a wry smile:
+Eleanor said with a wry smile:<br/>
 "Well, I don’t have any ill intentions. Sir Regis, do feel free to take any book you wish to read. After all, the money you helped me earn is enough to buy another shipload."<br/>
 "Ehh?! That matter has already been settled?!"<br/>
 "I told you before, right? Getting contracts from royals and nobles is my specialty."<br/>
@@ -55,7 +55,7 @@ Eleanor said with a wry smile:
 "Can you perform this level of negotiations too, Regis?"<br/>
 "No… I’m not that good with negotiations."<br/>
 If I’m smarter, maybe things would have been settled smoothly without needing to disband the Sixth and Eighth Army— He thought.<br/>
-That was almost a month ago—
+That was almost a month ago—<br/>
 The Sixth Army was disbanded, and most of them returned to the capital.<br/>
 They had close relations to the grand nobles, and wouldn’t be troubled about their next assignment.<br/>
 Almost all the merchants who helped Dorval embezzle the resources from the army were caught.<br/>
@@ -69,7 +69,7 @@ Unexpectedly, most of his private army wished to transfer to the Fourth Army.<br
 And the Fourth Army took them all in.<br/>
 It seemed that their loyalty towards Rockhoward was lower than Regis thought.<br/>
 After that, the former Eighth Army soldier performed admirably in the battle to liberate the Sembione city from the Etruria Theocracy army.<br/>
-The battle went as planned—
+The battle went as planned—<br/>
 Attacking a fixed base allowed the new Belgaria Empire artillery and rifles to shine, giving them an overwhelming advantage.<br/>
 After all, if the opponent remained on the defensive, then the Empire just needed to bombard them from afar.<br/>
 And now, the Fourth Army’s numbers swelled to 20,000.<br/>
@@ -87,7 +87,7 @@ Eleanor took out a letter.<br/>
 She handed the letter to Elise.<br/>
 "Pardon me!"<br/>
 She took the letter with quivering hands, and read it anxiously.<br/>
-Eleanor said to Regis and the others who didn’t know the full picture:
+Eleanor said to Regis and the others who didn’t know the full picture:<br/>
 "House Tiraso Laverde has a branch house in High Britannia. Marbella is doing business over there."<br/>
 "Ah, I see… if it’s a relative, you can discuss things that are more confidential."<br/>
 "Fufu… Well, we don’t trust each other to such an extent… But they are our biggest business partner."<br/>
@@ -98,7 +98,7 @@ Altina opened her eyes wide.<br/>
 As expected, that’s their decision— Regis thought.<br/>
 Latreille was planning to invade High Britannia all along. He would never offer terms that the other party could accept.<br/>
 Those in power in High Britannia had pushed all the responsibility for starting the war onto Margaret.<br/>
-Eleanor continued:
+Eleanor continued:<br/>
 "The parliament has decided to crown Elizabeth Victoria as their new queen. There are two reasons why this has not been announced officially— One, negotiations with the Belgaria Empire that is holding Margaret have yet to be concluded. High Britannia hopes to work out a peace treaty… Or rather, they are afraid of retributory attacks from the Empire. Another reason is that Elizabeth isn’t in the country. It will be strange to announce the coronation of the new queen if the subject herself isn’t there."<br/>
 She looked at Elise.<br/>
 Regis and Altina also looked at her.<br/>
@@ -108,13 +108,13 @@ As the letter was written in Belgarian, it took quite some time for her to read 
 "The fault doesn’t lie with you. Or rather, it is the right decision to leave that chaotic kingdom. If you fell into the hands of the Margaret faction or the anti-monarchy faction, you would be dead."<br/>
 "Uggh…"<br/>
 Elise showed a pained expression.<br/>
-Regis asked:
+Regis asked:<br/>
 "… Can you send a ship towards the High Britannia kingdom?"<br/>
 "Yes. Diplomatically speaking, the two nations are still at war so commuting directly is banned. But the shipping route through a third country has been restored."<br/>
 "… Is the Hispania Empire the third country?"<br/>
 "That’s the shortest route."<br/>
 "… You have to do it fast."<br/>
-Eleanor narrowed her eyes when he heard what Regis said:
+Eleanor narrowed her eyes when he heard what Regis said:<br/>
 "The next target is Hispania?"<br/>
 "… Yes."<br/>
 "That is a troubling country, but they are also an important trade partner. Doesn’t the Emperor know that?"<br/>
@@ -128,7 +128,7 @@ It couldn’t be helped— Regis soothed her. He had said this line plenty of ti
 "Yes, we have no chance against the First Army right now. Our goal of being at peace with the neighboring countries is for the sake of saving the people. In order to do so, we need to eliminate the division of social classes and war. Overthrowing the current establishment isn’t our goal, and the aristocrats aren’t our enemy. We must not get our goal and means wrong. Most importantly we can’t save anyone with feelings alone."<br/>
 "I understand. I heard that from you plenty of times already. Even if we receive an order that goes against our ideals, we can’t lose our cool."<br/>
 "… I will be counting on you."<br/>
-Elise asked with an uneasy expression:
+Elise asked with an uneasy expression:<br/>
 "Your Highness Argentina and Lord Regis will be raising the flag of revolution against the new Emperor Latreille?"<br/>
 "Of course!"<br/>
 Altina clenched her fist and nodded firmly.<br/>
@@ -164,7 +164,7 @@ Regis felt troubled that they didn’t understand the gravity of this issue, and
 Elise nodded.<br/>
 "That sounds incredible."<br/>
 Looks like I will need to explain properly, Regis organized his thoughts.<br/>
-Thirty minutes later—
+Thirty minutes later—<br/>
 After explaining the fundamentals, she finally understood half of it.<br/>
 Probably.<br/>
 Elise frowned and said troubledly.<br/>
@@ -221,7 +221,7 @@ Outside was the vast ocean.<br/>
 On the other end of the sea was the kingdom of High Britannia. It was her home, and the place she would need to fight in.<br/>
 The true battle would be starting for Elise.<br/>
 And for Altina, the curtains would be drawn for a new battle.<br/>
-Imperial Year 851 November 3rd—
+Imperial Year 851 November 3rd—<br/>
 There was news that the northern part of the Empire was already snowing, but it was just slightly better than summer for the south.<br/>
 An urgent envoy brought the Emperor’s edict.<br/>
 This was Sembione city.<br/>
@@ -248,7 +248,7 @@ It would be a problem if she tore the edict written by the Emperor’s own hands
 That was how agitated the content of the edict would make her.<br/>
 Regis stated the content of the edict.<br/>
 Aside from Altina and Abidal Evra, Eddie, Eric and the other officers were also present in the hall.<br/>
-He said to everyone:
+He said to everyone:<br/>
 "The Etruria Theocracy surrendered."<br/>
 The officers started getting rowdy, but they were in the presence of the commander, and quiet down immediately.<br/>
 Altina narrowed her eyes.<br/>
@@ -265,7 +265,7 @@ Altina nodded.<br/>
 "Is that so. No matter how it was done… it is great that we can avoid a war."<br/>
 "… That’s true."<br/>
 Belgaria Empire asked the theocracy to surrender before the invasion.<br/>
-If they agreed, the rulers of that land would become an aristocrat of the Empire…
+If they agreed, the rulers of that land would become an aristocrat of the Empire…<br/>
 If they surrender after war had broken out, what awaited the ruler was a cruel end.<br/>
 The Etruria Theocracy was estimated to have less than 10,000 soldiers left. There was no way they could fend off the Belgaria Empire’s army of 60,000.<br/>
 Surrendering was a wise choice.<br/>
@@ -274,7 +274,7 @@ Regis sighed in his heart.<br/>
 "Now, let’s get to the main issue…"<br/>
 — Conquer the Hispania Empire.<br/>
 The fury from Altina seemed to have taken physical form.<br/>
-Regis soothed her:
+Regis soothed her:<br/>
 "This is an edict, Madam Généralissime."<br/>
 "I know, I know! It’s fine… This isn’t the first time we are invading another country. Didn’t we take Fort Volks too?"<br/>
 "… That’s right."<br/>
@@ -285,10 +285,10 @@ The difference was, they had a force of 60,000 now, so strategically wise, it wa
 There was also the issue of their targets.<br/>
 — Is this really fine? We will target the cities where the citizens of the enemy are living in.<br/>
 We will be fighting against the enemy forces in the beginning, but the cities will also be targeted as we keep pushing forward to victory.<br/>
-Can Altina keep her cool?
+Can Altina keep her cool?<br/>
 Regis thought uneasily.<br/>
 However, there was nowhere else to go.<br/>
-Regis said to the envoy from the capital:
+Regis said to the envoy from the capital:<br/>
 "We hear and obey. The Madam Généralissime will attack the Hispania Empire with all available resources she can spare."<br/>
 The envoy lowered his head respectfully.<br/>
 "This humble one will return to the capital with Madam Généralissime’s reply."<br/>
@@ -327,7 +327,7 @@ Gilbert said coldly.<br/>
 "… Well, that’s true."<br/>
 He probably didn’t think that Hispania would win against Belgaria.<br/>
 So he had no intention of betraying them at all.<br/>
-After thinking about the reason he raised this topic, Regis asked:
+After thinking about the reason he raised this topic, Regis asked:<br/>
 "… That’s not what you want to talk about, correct? That’s just some idle chatter to get to know me, huh."<br/>
 Gilbert showed a face of contempt.<br/>
 "You are just like Jessica. Quick-witted people sure are annoying."<br/>
@@ -355,7 +355,7 @@ Regis shook his head.<br/>
 "… If you saw what happened in the last battle, you would understand."<br/>
 "What happened to your ideals?"<br/>
 "… Well, that’s the reality of my position right now."<br/>
-Gilbert spat and said:
+Gilbert spat and said:<br/>
 "Are you really such a docile man!? Was your clash with the Prince who was more or less confirmed to be the next Emperor all fake!?"<br/>
 Regis was surprised.<br/>
 He thought that Jessica would come up with the battle plan for 《Renard Pendu》, while Gilbert would lead the men on the frontlines...<br/>
@@ -374,7 +374,7 @@ Gilbert gritted his teeth.<br/>
 "… Because Hispania disguise their navy as pirates, and harass the merchant ships from other nations. They are conducting banditry and fraud on the national stage."<br/>
 "That’s true."<br/>
 "… Pacifism means that people should be united when faced with a crisis, and not the ‘refusal to battle no matter what happens’. That would be impractical."<br/>
-Gilbert asked curiously:
+Gilbert asked curiously:<br/>
 "You think that Hispania is a ‘crisis everyone should overcome together’?"<br/>
 "… I don’t deny that. That nation has already lost its aspiration when it was founded, and is now relegated to a giant criminal organization."<br/>
 Hispania’s territory was once conquered and divided by several powerful nations. After a certain religious group repelled all the foreign forces, they declared their independence. This happened 3 centuries ago.<br/>
@@ -386,7 +386,7 @@ Gilbert nodded.<br/>
 "I understand. Let me see your proof in the upcoming battle."<br/>
 "… Very well."<br/>
 Since he was willing to take to the battlefield, that meant he believes Regis.<br/>
-He left with these parting words:
+He left with these parting words:<br/>
 "Keep a tight rein on the Princess."<br/>
 "Rein…"<br/>
 She isn’t a horse— Regis who was thinking that slowly understood the implication of his words.<br/>
@@ -415,7 +415,7 @@ The metallic ‘shink’ drew everyone’s attention.<br/>
 "Well, it’s not impossible…"<br/>
 "It can be used?"<br/>
 "… Not just the rifles, the cannons have been upgraded to the newest model. I think they have their own unique way of being used."<br/>
-Just as he was about to explain, a report came in saying "there is movement from the enemy!
+Just as he was about to explain, a report came in saying "there is movement from the enemy!<br/>
 "<br/>
 Regis looked with his telescope.<br/>
 "Hmm… Looks like they are spreading out and closing in under the cover of the rocks and trees. Not a bad strategy."<br/>
@@ -449,10 +449,10 @@ They were already informed of their targets.<br/>
 "Yeah yeah."<br/>
 She rolled her eyes.<br/>
 I can’t even — Even though she was thinking that, she didn’t refute Regis’ proposal.<br/>
-She took a deep breath, then yelled:
+She took a deep breath, then yelled:<br/>
 "Front ranks artillery units! Maintain the target! Fire!!"<br/>
 Upon receiving the order, the bugles sounded.<br/>
-And then—
+And then—<br/>
 The violent sound of the cannons shook the ground.<br/>
 The sound from rifles were already intimidating, and the boom of numerous cannons had even greater shock and awe.<br/>
 The soldiers in the frontmost rank had all stuffed their ears with cork.<br/>
@@ -469,8 +469,8 @@ But the Belgarian artillery soldiers picked them up easily.<br/>
 They fired again.<br/>
 The earth was shaking and the air vibrates.<br/>
 Unlike the spherical shape of the old model, the projectile was elongated like a bullet. This allowed the lump of metal to travel faster than the speed of sound.<br/>
-The boulders and trees covering the slope—
-Were shattered!
+The boulders and trees covering the slope—<br/>
+Were shattered!<br/>
 The soldiers from the Belgaria Empire cheered loudly.<br/>
 What awaited the Hispania Empire soldiers who were spreading out for their charge, was a battlefield that had changed drastically, where most of the cover had been blown to pieces.<br/>
 And countless rifle reports.<br/>
@@ -489,5 +489,5 @@ His heart was aching.<br/>
 Altina nodded.<br/>
 She thrust her sword forward.<br/>
 "All units, advance!"<br/>
-End of Volume 13
-Previous Chapter | Main Page | Next Chapter
+End of Volume 13<br/>
+Previous Chapter | Main Page | Next Chapter<br/>

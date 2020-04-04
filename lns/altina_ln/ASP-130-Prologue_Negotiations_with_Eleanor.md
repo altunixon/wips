@@ -1,8 +1,8 @@
-### Altina the Sword Princess Volume 13 Prologue
-Negotiations with Eleanor
-Translator: Skythewood
-#### Editor: Darkdhaos, CEOBrainz
-Imperial year 851 August 23rd—
+### Altina the Sword Princess Volume 13 Prologue<br/>
+Negotiations with Eleanor<br/>
+#### Translator: Skythewood<br/>
+#### Editor: Darkdhaos, CEOBrainz<br/>
+Imperial year 851 August 23rd—<br/>
 In the plains near the city of Wal Allen, 30 Li south of the capital Versailles.<br/>
 The plains were bathed in the light of the setting sun.<br/>
 A laced parasol flew into the sky.<br/>
@@ -16,7 +16,7 @@ Regis already investigated the background of the Tiraso Laverde house, so he kne
 — So this girl isn’t a servant, but her younger sister.<br/>
 Did she brought her sister to take care of her… Or was it easier to teach her all sorts of things by keeping her close.<br/>
 The Tiraso Laverde Marquis house was a wealthy merchant in the south.<br/>
-Regis said:
+Regis said:<br/>
 "Let us help you retrieve your parasol."<br/>
 "Sorry about that, Regis."<br/>
 "Not at all… Let’s head into the tents. Looks like this negotiation will take some time."<br/>
@@ -62,11 +62,11 @@ Regis was filled with self reproachment.<br/>
 If he negotiated a better strategy before the battle, things would have been different. Regis still thought that way.<br/>
 Such tragedy had been repeating itself from a long time ago.<br/>
 His proposed strategy being rejected led to Marquis Thénezay death on the battlefield, everything started from there.<br/>
-Could he have avoided sacrifices?
-Minimized casualty?
-Or the most basic thing, avoided pointless battle?
+Could he have avoided sacrifices?<br/>
+Minimized casualty?<br/>
+Or the most basic thing, avoided pointless battle?<br/>
 Regis regretted every battle he was involved in.<br/>
-Eleanor asked:
+Eleanor asked:<br/>
 "And so, what does the battle with the Estaburg Kingdom in the east have to do with the south— Sir Regis have you figured that out yet?"<br/>
 "… Hmm, it’s probably because Estaburg are linked by marriage to the Hispania empire to the south."<br/>
 "You actually knew, as expected of Sir Regis."<br/>
@@ -76,7 +76,7 @@ Eleanor asked:
 Even though Regis had seen the scripts for shows before, he had not seen a performance as a member of the audience.<br/>
 A ticket cost a week’s salary for a Fifth Grade Admin Officer after all, and wasn’t a price poor peasants could afford.<br/>
 Money wasn’t an issue anymore, but he couldn’t make time to watch shows leisurely now.<br/>
-Eleanor continued:
+Eleanor continued:<br/>
 "That Hispania Empire openly voiced their suspicion that consort Johaprecia was actually murdered."<br/>
 "… Oh."<br/>
 "Hispania didn’t invade directly, but Etruria which received support from them did."<br/>
@@ -142,7 +142,7 @@ Well well, Eleanor brushed her dark hair.<br/>
 Altina slapped the table with a bang.<br/>
 "But Sir Regis should be the one to decide right? Have you improved his benefits compared to before, Madam Généralissime?"<br/>
 "Ughh…"<br/>
-Before the topic heads down a weird direction, Regis interjected:
+Before the topic heads down a weird direction, Regis interjected:<br/>
 "I still have my aspirations and responsibilities, so I won’t change job hop. My apologies, Princess… I thought you are tired from the long expedition, that’s why I neglected to inform you, and took on this negotiation alone."<br/>
 "Ah, yes, well… Just do what you usually do…"<br/>
 Altina was at a loss for words.<br/>
@@ -179,7 +179,7 @@ Altina lowered her head.<br/>
 "Ehh…? Inn-vast?"<br/>
 Altina had been learning about the importance of money recently, she had yet to venture into the topics of investment yet and looked lost.<br/>
 It couldn’t be helped, it would be a surprise if she knew.<br/>
-Regis explained:
+Regis explained:<br/>
 "The achievements of Your Highness had stabilized the position of your supporters— that’s what she meant."<br/>
 "Ahh, is that so? That’s wonderful."<br/>
 Eleanor smiled.<br/>
@@ -190,18 +190,18 @@ We were just discussing this that— Regis said and brought the topic back on tr
 Altina stood up.<br/>
 "And the people in the city?!"<br/>
 "… We have sent out scouts, but there isn’t any detailed information yet."<br/>
-Eleanor said:
+Eleanor said:<br/>
 "The Sixth Army’s Viscount Dorval announced their retreat in advance, so the evacuation was completed without any issues. However, a lot of things such as crops and livestocks were abandoned."<br/>
 "Is that so."<br/>
 Altina was still tense, but she calmed herself and sat down.<br/>
-Regis thought:
+Regis thought:<br/>
 — Speaking of which, Lord Eddie once served in the Sixth Army. Maybe he knows about Lieutenant General Trouvére. I will ask him later.<br/>
 Their intelligence was still lacking.<br/>
 The Sixth Army had garrisoned the southern frontlines for a long period of time without any outstanding battle records, so there wasn’t any prominent records that draws attention.<br/>
 The commander wasn’t invited during the emperor’s coronation, which shows how the military and social world regarded him.<br/>
 The problem probably lies with the existence of the Sixth Army. And Latreille seemed to have noticed that.<br/>
-So what was his intention in dispatching Altina’s unit there? Was it just to resolve the war in the southern front as soon as possible?
-Or did he had something else in mind?
+So what was his intention in dispatching Altina’s unit there? Was it just to resolve the war in the southern front as soon as possible?<br/>
+Or did he had something else in mind?<br/>
 "… Looks like we have to continue gathering intel."<br/>
 Regis muttered.<br/>
 A woman’s voice came from outside the tent.<br/>
@@ -215,7 +215,7 @@ The eyes of Renoir who had been listening quietly sparkled.<br/>
 She said in a barely audible voice.<br/>
 The thick reddish brown liquid shook in the tea cup.<br/>
 It seemed that the tea leaves were of a more expensive variety today.<br/>
-Just the smell made Eleanor lavished it with praise:
+Just the smell made Eleanor lavished it with praise:<br/>
 "As expected of Your Highness, this is top grade tea."<br/>
 "Is that so?"<br/>
 Altina took a sip.<br/>
@@ -254,7 +254,7 @@ Regis had such rumours before.<br/>
 "… That will really be a handful."<br/>
 That would literally be treason.<br/>
 However, the enemy had the support of a neighbouring nation, so this war wouldn’t be settled easily this time.<br/>
-Regis asked agan:
+Regis asked agan:<br/>
 "… Can you pass a message to everyone in the alliance? Généralissime Argentina will repel the invaders from the south as soon as possible. She won’t let you wait long."<br/>
 "I understand. Since Sir Regis says so, everyone will definitely accept it."<br/>
 "I hope you are placing your trust in the Princess, and not me…"<br/>
@@ -269,7 +269,7 @@ And leaned forward.<br/>
 "I never thought that we the southern new nobles will be involved with military secrets— Since Sir Regis mentioned it, it must be important. Pray tell me the details."<br/>
 "The new rifles of the Belgaria Empire, the 《Fusil 851》 is a replica of High Brittania Kingdom’s 《Snider Rifle》. That isn’t a secret kept under wraps."<br/>
 These rifles came to the Belgaria Empire with the invading High Brittania army, and several thousands of them were seized by the Empire.<br/>
-"Please wait a moment.】— Regis said as he took out a High Brittania made rifle from his luggage.<br/>
+"Please wait a moment."— Regis said as he took out a High Brittania made rifle from his luggage.<br/>
 He placed the rifle onto the table.<br/>
 "It’s more complicated than a sword… But look here. The edge of this part is distorted right? That’s because it’s made by pouring molten steel into a mould. If we dismantle this rifle and use clay to cast its shape, we can replicate it easily."<br/>
 Eleanor studied the rifle seriously.<br/>
@@ -293,11 +293,11 @@ Eleanor nodded.<br/>
 "That’s not the style of Belgaria though."<br/>
 "It’s a replica of High Brittania in the first place… Besides, the fundamental technology was based on the Germanian Federation which focus on efficiency. Records states that it wasn’t accepted by the king of the original inventor, and after a limited test quantity was used to suppress a rebellion, it was leaked to other countries…"<br/>
 At this point, Altina said:"You’re getting off topic again."<br/>
-Regis got back on track and continued:
+Regis got back on track and continued:<br/>
 "Another thing, the 《Fusil 851》 requires rubber. Top quality rubber can only be obtained in the south. For the nobles who want to take on the manufacturing of rifles, this is a great advantage."<br/>
 "Indeed."<br/>
 Maybe this was one of the reasons why Latreille sent Altina’s unit to the south. If the supply of rubber got blocked, it would affect the production of the new rifles.<br/>
-Regis concluded:
+Regis concluded:<br/>
 "… This is the proposal I thought up as a bargaining chip. I assure you that we will take back the city as quickly as possible. I would like Ms Eleanor to negotiate with Emperor Latreille on the productions of the rifle."<br/>
 She showed a smile that had a subtle meaning behind it.<br/>
 "Securing business deals from royals and nobles is my specialty, just leave it to me— but Sir Regis, you omitted the most crucial part correct?"<br/>
@@ -331,7 +331,7 @@ He never had confidence in the first place.<br/>
 However, Regis learned after experiencing many battles that having a timid attitude was pointless.<br/>
 Or rather, the most important thing to do in his position was to let others trust him.<br/>
 — I can’t fail again.<br/>
-When they left the tent, Regis called out to Eleanor who was walking in front of him:
+When they left the tent, Regis called out to Eleanor who was walking in front of him:<br/>
 "Oh right… there’s one more thing."<br/>
 "Hmm?"<br/>
 "Actually, there’s a guest I want you to meet."<br/>
@@ -343,4 +343,4 @@ Moments later, she conversed shortly with Elise...<br/>
 To carry out the plan as quickly as possible, Eleanor set off for the capital immediately. Her goal was to negotiate with the new Emperor, Latreille.<br/>
 The Fourth Army linked up with the unit garrisoned in the south.<br/>
 They reached the consensus that it was safer for Elise to stay with them as Regis’ guest for now.<br/>
-Previous Chapter | Main Page | Next Chapter
+Previous Chapter | Main Page | Next Chapter<br/>

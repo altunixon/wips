@@ -1,8 +1,8 @@
-### Altina the Sword Princess Volume 12 Chapter 1
-Thunderclap
-Translator: Skythewood
-#### Editor: Darkdhaos, Ainz
-Four hours ago——
+### Altina the Sword Princess Volume 12 Chapter 1<br/>
+Thunderclap<br/>
+#### Translator: Skythewood<br/>
+#### Editor: Darkdhaos, Ainz<br/>
+Four hours ago——<br/>
 Regis felt really blissful now.<br/>
 On the morning of the 12th, the newspaper with the testimony of Royal Chamberlain Beclard was published.<br/>
 The capital turned rowdy when this serious allegation appeared suddenly before the coronation.<br/>
@@ -22,7 +22,7 @@ In order to hide his identity within the capital, Regis was still crossdressing.
 His blissful time lasted less than half a day.<br/>
 They then rushed back towards the basecamp of 《Renard Pendu》.<br/>
 By the way, the third prince Bastian, his friend Elize, the activist Bourgine, news reporter Claude, the injured Franziska and her younger sister Martina stayed behind in the capital.<br/>
-Basecamp——
+Basecamp——<br/>
 Jessica who was leading the mercenaries glared at Regis.<br/>
 Her face was beautiful, but there was a shroud of intimidation in her expression.<br/>
 "Lord Auric, you’re late. The sun is almost setting."<br/>
@@ -46,13 +46,13 @@ Regis was adamant on going even if he had to go alone, so he gladly accepted the
 After leaving the basecamp, they headed for the eastern hills.<br/>
 They were about 700 strong.<br/>
 Regis, Fanrine and Jessica sat together inside a shaky carriage. It goes without saying that Regis couldn’t ride a horse.<br/>
-The driver said:
+The driver said:<br/>
 "Deputy commander, the Fourth Army is in sight!"<br/>
 "What should we do, Lord Auric?"<br/>
 "Please raise the white flag! We will be attacked if we continue to advance like this."<br/>
 "Aye Sir!"<br/>
 Fortunately, the First Army didn’t make any moves, and Regis’ group reached the Fourth Army safely.<br/>
-No, it wasn’t certain that things would end safely yet…
+No, it wasn’t certain that things would end safely yet…<br/>
 The soldiers of the Fourth Army raised their lances and raised their bows against the mercenaries they had never seen before.<br/>
 One false move and they would probably be attacked.<br/>
 Regis alighted from their box carriage.<br/>
@@ -64,11 +64,11 @@ Their reaction was different from what he expected.<br/>
 Even though they were the Fourth Army’s soldier he knew.<br/>
 He thought the mood would be like returning home, but something seems off.<br/>
 As if he went into the wrong house.<br/>
-Fanrine who was standing behind him whispered:
+Fanrine who was standing behind him whispered:<br/>
 "… Sir Regis, your attire!"<br/>
 "Ahh?!"<br/>
 He completely forgot. Regis didn’t look like a strategist right now. Even sharp eyed reporters couldn’t see through his disguise.<br/>
-But what would the soldiers think if he took off his wig here…
+But what would the soldiers think if he took off his wig here…<br/>
 The column of imperial soldiers parted.<br/>
 Someone walked forth from the depths of the unit.<br/>
 Her fiery vermillion hair swayed, and a sword larger than her body was hung on her shoulder. Crimson eyes stared Regis’ way.<br/>
@@ -76,9 +76,9 @@ Her fiery vermillion hair swayed, and a sword larger than her body was hung on h
 "Sigh… A-Altina!"<br/>
 "Regis! Regis! Regis! Regis! Regis! Regis!"<br/>
 The young girl sprinted over and caught him in an embrace.<br/>
-With all her might——
-"Croak】,  Regis made a sound like a frog being squashed.<br/>
-Headquarters of the Imperial Fourth Army——
+With all her might——<br/>
+"Croak",  Regis made a sound like a frog being squashed.<br/>
+Headquarters of the Imperial Fourth Army——<br/>
 There were 6 people in the tent.<br/>
 They were Regis, Altina, Eddie, Abidal Evra, Jessica and Fanrine. Eric stood guard at the entrance.<br/>
 Altina who had finally calmed down glared at Regis.<br/>
@@ -96,11 +96,11 @@ Altina’s face turned beet red.<br/>
 Wahaha, Eddie laughed.<br/>
 "That’s a great line! I will say this to that person after I return to Fort Volks."<br/>
 His beloved Fifth Princess stayed behind in the fortress.<br/>
-Regis said in a panic:
+Regis said in a panic:<br/>
 "Wahh… N-No, that’s not what I mean…!!"<br/>
 "You have a way with words after becoming a woman, Regis."<br/>
 "Please don’t tease me, Lord Eddie."<br/>
-After the conversation became like this, a cold voice interjected:
+After the conversation became like this, a cold voice interjected:<br/>
 "… Is it fine to be this relaxed? The sun is setting. Do you want to continue this stand off?"<br/>
 Jessica asked in a cold tone as usual.<br/>
 Regis smiled wryly.<br/>
@@ -124,15 +124,15 @@ Regis picked up the pen.<br/>
 —— This is the one I have always been using.<br/>
 The grip felt familiar. This was the pen usually used which was left behind in Fort Volks.<br/>
 Even though the death notification was received and the army mobilized, Clarisse still believed. Believed that Regis was still alive, and the time when he will use this pen will come again.<br/>
-Or maybe, she wanted to lay it besides his grave…
+Or maybe, she wanted to lay it besides his grave…<br/>
 Regis thought about this as he started writing.<br/>
 He finished in no time, scrolled the letter up and used stamp Altina’s seal on the wax.<br/>
-Jessica remarked coldly again:
+Jessica remarked coldly again:<br/>
 "You have no hesitation in using the Princess’ seal."<br/>
 "Haha… Because Altina will fail once in every three times she seal a letter."<br/>
 "You even used a nickname."<br/>
 "I hope you don’t misunderstand..."<br/>
-Regis actually said “Altina” in the presence of so many people.<br/>
+Regis actually said "Altina" in the presence of so many people.<br/>
 It would be bad if this start a weird rumour amongst the troops, so he would address her formally in public. However, the staff officers in the Fourth Army already knew about their relationship.<br/>
 "I’m just Altina’s strategist. We’re just not used to being too formal with each other."<br/>
 "I’m used to others speaking to me formally though."<br/>
@@ -172,7 +172,7 @@ Speaking of which, Regis only said ‘We should let the soldiers sleep in a warm
 "It’s just this bit of distance, so a new recruit will do."<br/>
 "How should we question Latreille? Like ‘did you murder Regis’ or something? Ah, speaking of which, he didn’t."<br/>
 After all, Regis was still alive and kicking before her.<br/>
-Regis said with an awkward smile:
+Regis said with an awkward smile:<br/>
 "No… I think he already tried. If not, news of me dying in battle wouldn’t have spread."<br/>
 "Ah, is that so!?"<br/>
 "Well, let’s talk about this later… First is the matter of the envoy. At this distance, we can just pass the letter to them directly. They can reply via mail too."<br/>
@@ -195,14 +195,14 @@ Abidal Evra probably wasn’t used to their interactions and appeared a little t
 Eric continued his guard duty without moving.<br/>
 Fanrine who was seated at the end of the table raised a hand.<br/>
 "I’m curious too. What did you write, Sir Regis?"<br/>
-"Well… The first part is about me. “I had to leave the battlefield because of pressing matters, and sincerely apologize for any inconvenience caused to the Field Marshal and commander of the First Army.” I also wrote that I have made it back to the Fourth Army safely."<br/>
+"Well… The first part is about me. "I had to leave the battlefield because of pressing matters, and sincerely apologize for any inconvenience caused to the Field Marshal and commander of the First Army." I also wrote that I have made it back to the Fourth Army safely."<br/>
 "You didn’t mention anything about them listing you as killed in action?"<br/>
 "Even if we don’t complain about this, they will still apologize and correct the records. After all, people being listed as killed in action when they are actually alive happens occasionally."<br/>
 "But Prince Latreille attempted to assassinate you."<br/>
 "I don’t have any evidence."<br/>
 Or rather, if they delve deeper into the matter, the fact that mercenaries from 《Renard Pendu》 had killed the sentries would be uncovered.<br/>
 There was no point in pursuing this matter.<br/>
-Altina smiled:
+Altina smiled:<br/>
 "But this will definitely shock Latreille — receiving a letter from Regis whom he thought he had killed! It’s a pity I won’t be able to see his reaction!"<br/>
 "I don’t think he will leave the palace. During his duel against High Britannia’s colonel Coulthard he sustained injuries so bad that he couldn’t even ride a horse. It would take about two months before he can make a full recovery."<br/>
 "What?!"<br/>
@@ -216,7 +216,7 @@ Altina frowned.<br/>
 "You want to report that to the Ministry of Military Affairs?"<br/>
 "Ugghh…"<br/>
 She looked enraged, but suppressed her emotions. She had grown after I was forced to leave her—— Regis thought.<br/>
-Although he wished she was composed enough to collect intel before mobilizing the army…
+Although he wished she was composed enough to collect intel before mobilizing the army…<br/>
 "Well, this situation isn’t completely meaningless."<br/>
 "What do you mean?"<br/>
 "The people in the capital… especially the nobles. We can draw their attention through the existence of the Fourth Army, which will be beneficial for us in the future."<br/>
@@ -227,21 +227,21 @@ Although he wished she was composed enough to collect intel before mobilizing th
 Altina reached her hand out.<br/>
 And touched his hair.<br/>
 "Why are you dressed like a girl? Clarisse laughed so hard that she cried."<br/>
-So those weren’t tears of joy from meeting me again!?
+So those weren’t tears of joy from meeting me again!?<br/>
 He finally knew why the corner of Clarisse’s eyes were red.<br/>
 "No… This is…"<br/>
-Jessica said softly:
+Jessica said softly:<br/>
 "… Lord Auric asked me to help him crossdress."<br/>
 "T-That isn’t wrong, but putting it that way will lead to misunderstandings?!"<br/>
 Kekeke… Fanrine tried her best not to laugh.<br/>
 With no other choice, Regis had to recount his ordeal from the beginning.<br/>
-Imperial First Army, Field Tent——
+Imperial First Army, Field Tent——<br/>
 When the sun was about to set behind the western hills, a rider hoisting a messenger flag came running.<br/>
 Germain spoke. As he served as Latreille’s eyes, he had the habit of reporting what he sees.<br/>
 "Prince Latreille, it seems to be a messenger."<br/>
 "Hmm."<br/>
 His right eye’s vision had recovered, but his left eye remains blind. And the doctor diagnose that his right eye will lose its light one day.<br/>
-Germain asked:
+Germain asked:<br/>
 "Could this be the Fourth Army’s declaration of war? Or will they question us about the death of their strategist?"<br/>
 "No, that won’t be."<br/>
 Latreille sat in his chair.<br/>
@@ -271,12 +271,12 @@ Germain continued reading it.<br/>
 "It might be excuses, but we can’t investigate the Fourth Army. And since I’m about to take the throne, avoiding a civil war is just what I am hoping for."<br/>
 "Indeed… 500 cavalries and 4000 infantry might be too grand an entourage for the Princess, but it can still be explained away since there are still remnants of the High Britannia Army within our borders."<br/>
 If they used the reason that the Empire was still a battlefield, there would be no way to refute them.<br/>
-Latreille said grudgingly:
+Latreille said grudgingly:<br/>
 "… It is the failure of the Field Marshal that High Britannia invaded so deep into our territory."<br/>
 The letter didn’t mention all this, but it would be brought to light if they tried to refute the content of the letter. Since the other party thought this far, it would not be possible to fault them.<br/>
 Latreille clicked his tongue in his heart.<br/>
 As expected of that strategy, this tactic was as brilliant as before. He already thought out the ways to counter any of Latreille’s accusations.<br/>
-Germain asked:
+Germain asked:<br/>
 "How should we respond?"<br/>
 "… Express our jubilance in learning that First Grade Admin Officer Regis d’Auric is still alive, and apologize for the mistake in our earlier report. Then compliment him for his contributions in the victorious battle of Grebauvar, and award him a medal. Invite Argentina to the coronation ceremony, and welcome the men of the Fourth Army —— we have no choice but to say that."<br/>
 That would be conceding to all the demands from the other party.<br/>
@@ -297,7 +297,7 @@ Just like what Regis said, the soldiers of the Fourth Army got to sleep somewher
 The two units that was standing against each other in the day marched in two separate lines along the streets of the capital, which was a rare sight to behold.<br/>
 The citizens who was worried about the outbreak of civil war welcome them with smile of relief.<br/>
 People crowded the sidewalks as they watch the impromptu parade.<br/>
-The next day——
+The next day——<br/>
 It was raining, but that wouldn’t stop the coronation.<br/>
 Bourgine was once persecuted for giving a speech in this plaza in front of the palace. And now, an extravagant stage had been erected right in this plaza.<br/>
 Heavy infantry in silver armour serving as guards and formed ranks.<br/>
@@ -305,7 +305,7 @@ Heavy infantry in silver armour serving as guards and formed ranks.<br/>
 A man with large ears and tanned skin yelled. He was the reporter Claude from Weekly Quarry. He had a flat leather cap, and wore a wrinkled suit.<br/>
 A petite young girl ran over.<br/>
 "How selfish! Please! Don't leave me behind! Ha, ha..."<br/>
-She also wore something like leather cap and a suit, but her skin was fair and eyes were blue. Her blonde hair was tied behind in a ponytail
+She also wore something like leather cap and a suit, but her skin was fair and eyes were blue. Her blonde hair was tied behind in a ponytail<br/>
 Claude gave something to the girl.<br/>
 "Wear this."<br/>
 It was a piece of wood with a stamp that could worn on the neck with its strings.<br/>
@@ -346,7 +346,7 @@ Before the main gate of the palace was a lectern, and the nobles were seated rig
 While the reporter’s zone were separated with a fence, in a position where they could see the lectern and the nobles from the side.<br/>
 They could see everyone’s faces.<br/>
 An ideal spot.<br/>
-Although the heavy infantry standing before them were an eyesore…
+Although the heavy infantry standing before them were an eyesore…<br/>
 "Move away! Or just sit down!"<br/>
 When they heard the reporter’s angry roar, the guards squatted down in a panic, which was a little cute—— Betty thought.<br/>
 The short Betty stood on her toes and looked towards the lectern.<br/>
@@ -361,7 +361,7 @@ Claude would usually call those people by their name, but there were others watc
 "Shut up.."<br/>
 Claude squeezed to the front of the group of reporters.<br/>
 As she was shorter, Betty pushed to the front right behind him.<br/>
-Claude leaned forth from the barricade and pointed:
+Claude leaned forth from the barricade and pointed:<br/>
 "Look at the nobles seating section."<br/>
 "How gorgeous and extravagant—"<br/>
 "Do you remember their seating order?"<br/>
@@ -426,7 +426,7 @@ Claude’s mouth twisted and he showed a sinister smile.<br/>
 The aristocrats weren’t getting unsettled over nothing.<br/>
 Claude cast his gaze to Regis who was seated beside the Princess.<br/>
 "… Is this part of your scheme too?"<br/>
-Betty pointed and asked:
+Betty pointed and asked:<br/>
 "Senpai, who are the nobles seated on the second row?"<br/>
 "They are the nobles from around the capital —— Grand nobles from central. Latreille’s faction. Not only are they rich and powerful, the Prince they supported even became the Emperor. They are the happiest group here."<br/>
 "It feels uncomfortable that the strong became even mightier."<br/>
@@ -451,7 +451,7 @@ Betty noticed something.<br/>
 Claude said with a faint smile.<br/>
 Looking again, there were empty seats amongst the grand nobles although many nobles craved for these front row seats.<br/>
 "Is it because of the rain?"<br/>
-"No… Because there are noble who are willing to risk Lèse-majesté, with the reason that “Latreille’s suspicion of regicide hasn’t been cleared yet”. They are people who are willing to fight a duel in order to defend their honour."<br/>
+"No… Because there are noble who are willing to risk Lèse-majesté, with the reason that "Latreille’s suspicion of regicide hasn’t been cleared yet". They are people who are willing to fight a duel in order to defend their honour."<br/>
 "Speaking of which, the Empress is absent?"<br/>
 "Hmm? Ahh… Betty, it’s about to begin. You have to remember the entire flow, and write them down later."<br/>
 "Leave it to me!"<br/>
@@ -461,7 +461,7 @@ After the Weekly Quarry publicized Royal Chamberlain Marquis Beclard’s testimo
 And she has not been found til this day. Many people drew conjectures about the empty seat at the very front row.<br/>
 The bugle announcing the beginning of the ceremony was blown. Drums were beaten in rhythm.<br/>
 The solemn orchestra pulled open the curtains for the ceremony.<br/>
-The waiting room inside a palace——
+The waiting room inside a palace——<br/>
 Latreille was in traditional formal wear, and waited silently for the coronation to begin.<br/>
 Germain entered the room.<br/>
 "… We still can’t find the Empress."<br/>
@@ -485,7 +485,7 @@ The moment he left the palace, he heard the band playing. And the cheers of the 
 He headed for the ceremonial stage.<br/>
 And climbed the steps.<br/>
 There were merely eight steps.<br/>
-—— How many people’s blood stained his hand in order for him to climb these steps?
+—— How many people’s blood stained his hand in order for him to climb these steps?<br/>
 On the fourth step, he saw someone at the lectern.<br/>
 "… Father."<br/>
 It was the wrinkled figure of the previous emperor. With a sword thrust through his chest.<br/>
@@ -524,13 +524,13 @@ The pope recited words of blessing to Latreille and crowned him.<br/>
 The ceremony proceeded smoothly.<br/>
 He could finally feel it physically.<br/>
 Latreille raised his head and looked at the lead coloured sky as rain drops fell.<br/>
-—— Even if heaven doesn’t will it, I’m still the best candidate to be emperor. I will prove that to everyone by becoming a snake that devours all other nations!
-He declared:
+—— Even if heaven doesn’t will it, I’m still the best candidate to be emperor. I will prove that to everyone by becoming a snake that devours all other nations!<br/>
+He declared:<br/>
 "Only the Belgaria empire has the right to call itself the only superpower in these lands! When there are no more enemies to fight, I promise that I will bring you all everlasting peace and prosperity. Follow my lead! I will bring you victory!"<br/>
 He raised his fist.<br/>
 Cheers erupted in the crowd.<br/>
 "Vive le nouvel Empereur! Vive le nouvel Empereur!"<br/>
 The band started playing and the citizens sang the national anthem.<br/>
-Imperial Year 851, August 13th——
+Imperial Year 851, August 13th——<br/>
 The new emperor of the Belgaria Empire, Allen Deux Latreille de Belgaria was coronated.<br/>
-Previous Chapter | Main Page | Next Chapter
+Previous Chapter | Main Page | Next Chapter<br/>

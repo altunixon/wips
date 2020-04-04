@@ -1,7 +1,7 @@
-### Altina the Sword Princess Volume 12 Chapter 3 & 4
-Southwards
-Translator: Skythewood
-#### Editor: Darkdhaos, CEObrainz
+### Altina the Sword Princess Volume 12 Chapter 3 & 4<br/>
+Southwards<br/>
+#### Translator: Skythewood<br/>
+#### Editor: Darkdhaos, CEObrainz<br/>
 Altina got up first and left the banquet.<br/>
 Regis chased after her.<br/>
 "Well well… Things are getting messy."<br/>
@@ -13,7 +13,7 @@ Regis sighed.<br/>
 "Lack of greed might be a virtue, but lack of concern is wrong..."<br/>
 "Hmm…"<br/>
 She would have refuted him in the past, but Altina had learnt the importance of studying now.<br/>
-As they walked along the corridor paved with green carpet, Regis said as they walked:
+As they walked along the corridor paved with green carpet, Regis said as they walked:<br/>
 "You might be right, but the Belgarian Empire has not appointed a Généralissime for a long time now. This rank still exists in the system, so it’s natural for you to not understand its significance."<br/>
 "So I’m not wrong!"<br/>
 "Hmm…  Even though I think a general should have knowledge about this… But it can’t be helped since we’re busy with the war. I’m partly to blame too."<br/>
@@ -22,7 +22,7 @@ As they walked along the corridor paved with green carpet, Regis said as they wa
 "Is the Baton of the Généralissime this thing here?"<br/>
 Altina swung around the command baton that Latreille had given her as proof of her status.<br/>
 It was made from gold and carved with intrinsic designs, and had gems embedded on it everywhere.<br/>
-Regis said worriedly:
+Regis said worriedly:<br/>
 "It hasn’t been taken out of the treasury for about two hundred years."<br/>
 "Hmm?"<br/>
 "Looking at this from another angle, this is a more valuable piece of art than the famous paintings displayed in the hall just now…"<br/>
@@ -66,10 +66,10 @@ Regis nodded his head in a vague manner.<br/>
 They walked out of the palace. As there was a large number of reporters and civilians gathered at the gate, they boarded a carriage.<br/>
 The celebration in the city was at its rowdiest right now. It would probably last for a week before it ends.<br/>
 The driver did as he was instructed earlier, avoiding the main roads and took the long way around half the capital before reaching a certain mansion.<br/>
-The mansion of the Tiraso Laverde House——
+The mansion of the Tiraso Laverde House——<br/>
 As she wasn’t on good terms with the other nobles and the First Army, those close with Altina didn’t stay in the palace, and lodged here instead.<br/>
 Heavy Infantry from the Fourth Army guarded the gates as if this was the headquarters on a battlefield. They even erected their unit flags inside the courtyard.<br/>
-Regis and Altina alighted from their carriage/
+Regis and Altina alighted from their carriage/<br/>
 The servants lined up to welcome them.<br/>
 The door in the entrance opened, and an aristocratic lady walk out from the depths of the corridor. It was Fanrine.<br/>
 "Thank you for your hard work, Princess Argentina, Sir Regis."<br/>
@@ -98,7 +98,7 @@ When Clarisse was before others, she would speak plainly without any expression,
 This even made the servants here afraid.<br/>
 She met Regis’ gaze, but they didn’t speak.<br/>
 Even though the two of them finally met again yesterday after so long, Regis couldn’t find the time to converse with her because he was too busy. She was the princess’ maid, while Regis was a strategist. So he couldn’t find any reason to look for her and chat.<br/>
-Fanrine said:
+Fanrine said:<br/>
 "Well then, come join us Sir Regis."<br/>
 "There’s a seat for me in the party too?"<br/>
 "Of course! You’re promoted to First Grade Admin Officer right? Compared to combat officers, it’s harder for admin officers to advance in grade. I have never heard of such a young First Grade Admin Officer. You’re amazing!"<br/>
@@ -122,7 +122,7 @@ They seemed to be good friends in the past, and often practice swords and horse 
 But now, Eddie was the bodyguard of Auguste, and a member of Argentina’s faction. It would be hard for them to meet as friends again.<br/>
 Thinking about it carefully—— The Fourth Army were somewhat distant from the social world. There wasn’t really anyone who could call Eddie who was a Duke and a First Grade Admin Officer a friend.<br/>
 "… So you came to find me?"<br/>
-"Felicia said you’re a “good friend” right? Even more the reason for you to be my friend."<br/>
+"Felicia said you’re a "good friend" right? Even more the reason for you to be my friend."<br/>
 "Saying that the Fifth Princess is my friend is too great an honour…"<br/>
 "She was really happy when you rekt her in chess. She seemed to like your merciless way of doing things."<br/>
 "B-Back then..."<br/>
@@ -141,7 +141,7 @@ Eddie changed the topic suddenly.<br/>
 Eddie’s smile vanished.<br/>
 "… Beatrice huh. Yes… Regis, you really know everything."<br/>
 He sighed.<br/>
-However, Regis didn’t know the details. He couldn’t even recall the name Beatrice. Did he forgot, or was she not very well known?
+However, Regis didn’t know the details. He couldn’t even recall the name Beatrice. Did he forgot, or was she not very well known?<br/>
 He was intrigued, but this was just an idle chatter along the corridor. It was best not to delve too deeply into this.<br/>
 "Let’s discuss this next time."<br/>
 "Yah… That’s right… Best not let them wait too long."<br/>
@@ -159,7 +159,7 @@ Elise was here too.<br/>
 "Thank you for your hard work in attending the ceremony, Lord Regis. I heard that Princess Argentina has been appointed to the rank of Généralissime, congratulations to the both of you."<br/>
 This girl who hailed from the Kingdom of High Britannia would sometimes show an air of nobility.<br/>
 Even though she looked just like an ordinary girl, but her proper demeanour and choice of words made others straighten their posture.<br/>
-Bastian smiled awkwardly:
+Bastian smiled awkwardly:<br/>
 "I heard that you are heading south?"<br/>
 "Yes."<br/>
 "I see… It’s a shame, but I will be staying in the capital. There are things I still need to do, and I need to continue my studies under Professor Bourgine."<br/>
@@ -182,7 +182,7 @@ These words were probably too embarrassing, and Bastian lowered his head.<br/>
 "Y-Yeah..."<br/>
 Regis tilted his head.<br/>
 "This is a request from the Third Prince, and escorting important guests is one of the duties of the Imperial army… But why? Why head to the south that’s going to become a battlefield?"<br/>
-Bastian answered in place of the hesitant Elise:
+Bastian answered in place of the hesitant Elise:<br/>
 "Sorry, but can you not ask for the reason? Please just understand that I have to get Elise to the house Tiraso Laverde."<br/>
 "… I see."<br/>
 "I wanted to go too…"<br/>
@@ -201,9 +201,9 @@ The girl looked younger, but she was acting like Bastian’s elder sister or mot
 "It will be interesting! I will definitely write a romantic story that will leave you rolling on the floor laughing!"<br/>
 Is it really fine for a romance story to make others laugh out loud? Regis thought, but he didn’t interrupt their conversation.<br/>
 He could guess Elise’s identity from their conversation. And could imagine why she was choosing to cross the ocean at this time.<br/>
-Elise looked towards Regis:
+Elise looked towards Regis:<br/>
 "Since I’m seeking your protection, I think I should confess everything..."<br/>
-"No… your identity as “Ms Elise from High Britannia who came here to study abroad” is more convenient for me."<br/>
+"No… your identity as "Ms Elise from High Britannia who came here to study abroad" is more convenient for me."<br/>
 "Eh?"<br/>
 "I might have modest talent —— but I’m now the strategist of the Généralissime Office… which is roughly equivalent to the aide of the Minister of Military Affairs."<br/>
 "The Généralissime Office is set up by Argentina after all."<br/>
@@ -237,20 +237,20 @@ A pale slender hand reached out and grabbed Regis’ sleeve.<br/>
 This slender hand pulled Regis into the room with amazing strength.<br/>
 "Uwah!?"<br/>
 Regis fell onto the floor, and the door was closed.<br/>
-——What happened!?
+——What happened!?<br/>
 It was a very small room.<br/>
 Like a room for the servant of guests to stay in, or a storage room for luggage.<br/>
 In order to seal off Regis’ movement, that person straddled on top of him.<br/>
 The person was lighter than he expected.<br/>
 "Please keep still."<br/>
 It was a female voice.<br/>
-After he calmed down, he looked at that person—
+After he calmed down, he looked at that person—<br/>
 It was a slender woman with white skin and light coloured hair.<br/>
 "……Jessica!?"<br/>
 "Quiet down."<br/>
 "W-Why are you doing this?"<br/>
 She was dressed like an aristocratic lady right now. Her white dress really suit her.<br/>
-This attire wasn’t prominent in this mansion. But maybe her beauty would attract the attention of the men instead…
+This attire wasn’t prominent in this mansion. But maybe her beauty would attract the attention of the men instead…<br/>
 Regis already explained to the Fourth Army who Jessica was, and already made it clear that she was now an ally. He didn’t understand why she was being so forceful about meeting Regis without being seen by others.<br/>
 Jessica sighed.<br/>
 "Soldiers from the Fourth Army are patrolling here right?"<br/>
@@ -286,7 +286,7 @@ Hmm, Regis thought about it.<br/>
 "You won’t understand. The members psyche are already at their limits. They are only bearing with it in the hope that my brother will be rescued… But they are guys who can’t conceal their feelings that well. Surrounded by imperial forces and living in tents on the outskirts of the capital, they are as tense as men with ropes tied to their necks, walking along the cliff."<br/>
 "… It’s that bad?"<br/>
 "We don’t trust the imperials. We are always on guard against being backstabbed out of the blue."<br/>
-Jessica took out a small blade from seemingly out of nowhere. That looked just like a normal dress, just where was she hiding that?
+Jessica took out a small blade from seemingly out of nowhere. That looked just like a normal dress, just where was she hiding that?<br/>
 She pressed that blade onto Regis’ neck.<br/>
 "Answer me Regis d’Auric… Did you lie to me?"<br/>
 "Not at all."<br/>
@@ -300,7 +300,7 @@ When Latreille attempted to assassinate Regis, Regis only escaped the search and
 Food, water, sleeping bag and the guards were all prepared by them, and they even went to the Fourth Army despite the risk of war breaking out.<br/>
 Imperial soldiers would be given remuneration, and when things stabilized, they would be rewarded according to their contributions and maybe receive a promotion.<br/>
 However, mercenaries work for the sake of remunerations. Normally, they would receive half the money in advance as a deposit.<br/>
-Regis said troublingly:
+Regis said troublingly:<br/>
 "… I understand, but it’s hard for me to give you a satisfactory payment right now. After all, the Fourth Army don’t have enough funds. Although there is a budget set aside for the Généralissime Office, the soonest we can get it will be next month."<br/>
 "Are you saying we should wait?"<br/>
 "… I can only ask you to believe me, but I’m not just idling around either. I also asked you to go to the south with us."<br/>
@@ -352,7 +352,7 @@ He entered the dining hall.<br/>
 In the middle of the wide and extravagant hall was a beige coloured long table. Art pieces adorned the wall, and the servants were lined up there too.<br/>
 Altina was sat at the farthest end of the table.<br/>
 He thought they would have started already, but it seemed that the food had not been served yet. There were just bread and glasses on the table.<br/>
-Altina said:
+Altina said:<br/>
 "You’re finally here, Regis!"<br/>
 "E-Erm… Have you all been waiting for me?"<br/>
 "Naturally. This party is held in honour of you and me after all."<br/>
@@ -370,18 +370,18 @@ To Altina’s left was Eddie, who wasn’t wearing a sword because there were gu
 Beside him was the knight commander Abidal Evra. He was dressed for battle, ready for action at a moment’s notice. To him, the capital was the enemy’s territory.<br/>
 Directly opposite Altina, on the other long end of the table, a man in his early thirties was seated there.<br/>
 He was a gentleman dressed elegantly in the style of a noble. His reddish brown hair was combed back, while his brows and beard was as neat as a painting.<br/>
-After meeting Regis’ gaze, he greeted politely:
+After meeting Regis’ gaze, he greeted politely:<br/>
 "Lord Regis, congratulations on your promotion to First Grade Admin Officer."<br/>
 "Thank you."<br/>
 "Nice to meet you, I’m Count Gauchen. I serve as a bureau manager under Military Affairs Minister Beylard"<br/>
 He is my supervisor—— Fanrine added. She was a General Affairs Officer within the same Ministry.<br/>
 A Bureau Manager was a position that could issue orders to many people under the ministry.<br/>
 He was already attained the peerage of Count in his early thirties, a great accomplishment at such a young age. Maybe he was related to the grand nobles, and gave the feeling of being an elite.<br/>
-—— Did Ms Fanrine invite him? For what purpose?
+—— Did Ms Fanrine invite him? For what purpose?<br/>
 As Regis thought about that, the maids served up the dishes.<br/>
 Altina raised her glass.<br/>
 "Cheers!"<br/>
-The host Fanrine responded:
+The host Fanrine responded:<br/>
 "Congratulations to Princess Argentina’s appointment as Généralissime, and to Sir Regis’ promotion."<br/>
 The sound of glasses clinking overlapped.<br/>
 Regis raised his glass, and then brung it to his lips.<br/>
@@ -394,7 +394,7 @@ Regis turned his eyes to Gauchen.<br/>
 He had finished his glass too.<br/>
 "Wonderful grape wine. The taste is exquisite, but more importantly, the transparency is excellent. I wish organizations would be just like it."<br/>
 "… It’s not transparent right now?"<br/>
-He nodded in response to Regis’ question:
+He nodded in response to Regis’ question:<br/>
 "I strong armed my way to attend this party. I wish to have a good discussion with the Princess Généralissime and her staff with regards to setting up the Généralissime Office."<br/>
 Altina waved her hand.<br/>
 "I leave all this difficult stuff to Regis."<br/>
@@ -422,7 +422,7 @@ Hence, Gauchen didn’t state it explicitly.<br/>
 "And the others?"<br/>
 "Most will lose their jobs."<br/>
 "Ehh? Can they accept that?"<br/>
-Gauchen laughed disdainfully:
+Gauchen laughed disdainfully:<br/>
 "Even Minister Beclard himself couldn’t accept it. Compared to the Ministry of Military Affairs, the authority of the Ministry of Ceremony is too limited. And His Majesty Latreille also expressed his clear intention to cut down on the scale of pompous parades."<br/>
 "So this is actually a demotion."<br/>
 "Yes. Other high ranking officials… feels the same of course."<br/>
@@ -446,14 +446,14 @@ Gauchen tilted his head.<br/>
 "It will be inevitable for a time."<br/>
 "… And after that?"<br/>
 Regis looked him in the eye.<br/>
-Where should he begin?
-Was he someone trustworthy? Since Fanrine invited him, he was probably not from Latreille’s faction…
+Where should he begin?<br/>
+Was he someone trustworthy? Since Fanrine invited him, he was probably not from Latreille’s faction…<br/>
 Altina said as she chewed on her meat.<br/>
 "If I thought he could succeed, I wouldn’t have competed with him for the throne!"<br/>
 She spoke her mind.<br/>
 Regis said with a sigh.<br/>
 "Well… That’s how it is. The future I want to see is slightly different from the ideals of the Emperor."<br/>
-He still couldn’t utter the words “The Imperial Army will lose“.<br/>
+He still couldn’t utter the words "The Imperial Army will lose".<br/>
 Gauchen nodded.<br/>
 "As expected, Lord Auric is different from the other soldiers."<br/>
 "I know that much. After all, I can’t use a sword or ride a horse..."<br/>
@@ -467,7 +467,7 @@ But it was clear from her face that she acknowledge Gauchen’s capabilities.<br
 The dissolution of the Ministry of Military Affairs.<br/>
 Minister Beylard's transfer to the Ministry of Ceremony.<br/>
 Most of the employees got retrenched.<br/>
-And his view on how things would develop in the future…
+And his view on how things would develop in the future…<br/>
 Regis finally realized Fanrine’s true intention out of countless possibilities.<br/>
 "Hmm… The Généralissime Office would need to take over the work of the Ministry of Military Affairs. Right now, the Fourth Army is extremely lacking in manpower to deal with the administrative work."<br/>
 "I know about that."<br/>
@@ -476,17 +476,17 @@ Regis finally realized Fanrine’s true intention out of countless possibilities
 In order to help the shorthanded Fourth Army, Fanrine introduced us to the dissolved Military Affairs Ministry.<br/>
 That might be so, but this was still an organization that had been dissolved by Latreille because of its serious flaws. So not all its employees were beneficial to it.<br/>
 There was a need to scrutinize them.<br/>
-And Regis needed to see clearly if Gauchen had the capability. Was he someone who could be entrusted with work and be of help to Altina?
-Regis then asked——
+And Regis needed to see clearly if Gauchen had the capability. Was he someone who could be entrusted with work and be of help to Altina?<br/>
+Regis then asked——<br/>
 "To His Majesty Latreille, Princess Argentina and the Fourth Army is a double edged sword. They are a necessary force for him to push his hegemonism agenda. But our difference in ideologies meant he couldn’t completely dismiss the possibility that we will rebel against him."<br/>
 And of course, we have no intention of doing so now—— Regis concluded.<br/>
-Altina added:
+Altina added:<br/>
 "I just want to end all wars in this world, not defeat Latreille or start a civil war."<br/>
 "…That might be so, but he will definitely see us as famished hunting dogs. A civil war almost erupted a few days ago after all."<br/>
 "It’s his fault for sending that rubbish report!"<br/>
 "That’s a bit far-fetched."<br/>
 In the end, in the last letter Latreille sent in his capacity as a Field Marshal, he apologized for the mistake. Since he became the Emperor, all that was now moot.<br/>
-Regis continued:
+Regis continued:<br/>
 "His Majesty Latreille should be trying his best to weaken the Fourth Army. After all, he attempted to assassinate its strategist."<br/>
 "… So it’s true."<br/>
 Gauchen wasn’t surprised at all.<br/>
@@ -526,9 +526,9 @@ Fanrine didn’t answer.<br/>
 Finally, Gauchen raised his hand.<br/>
 "On top of the southern front, the Princess also needs to support the northern and eastern fronts, so it’s an undeniable fact that she needed the appointment of Généralissime. Even if she is promoted to Full General, the sixth and eighth army won’t yield to her orders."<br/>
 "I think so too."<br/>
-In the past, when she was in Fort Sierck——
+In the past, when she was in Fort Sierck——<br/>
 The newly appointed Major General Altina took over the role of commander from the Black Knight, Brigadier General Jerome.<br/>
-Even though she outranked him in the Ministry’s orders, her peerage and military rank…
+Even though she outranked him in the Ministry’s orders, her peerage and military rank…<br/>
 The soldiers wouldn’t obey her command.<br/>
 The same thing would happen if the Fourth Army heads to the south. There wasn’t time for a duel this time.<br/>
 Altina clenched her fists when she heard what Regis said.<br/>
@@ -536,11 +536,11 @@ She was still smiling, but she had an aura of intense rage.<br/>
 "Hmmp… so the people in the Ministry already knew that Jerome wouldn’t listen to my orders… Can I punch him?"<br/>
 Gauchen leaned back.<br/>
 "T-The personnel assignment back then has nothing to do with me."<br/>
-Regis consoled him:
+Regis consoled him:<br/>
 "There are all sorts of work in the Ministry too… But it’s different for the Généralissime Office. If they refused orders, we can dismiss the commanders of the Sixth and Eighth Army."<br/>
 "We can do that!?"<br/>
 Altina stared with her eyes wide.<br/>
-Regis affirmed that:
+Regis affirmed that:<br/>
 "Since the Ministry of Military Affairs can do it, we can do so too."<br/>
 "But if we dismiss the commander, than the noble army which makes up the core will be gone too."<br/>
 Altina nodded after hearing Gauchen additional comments.<br/>
@@ -550,15 +550,15 @@ Regis shrugged.<br/>
 The sixth and eighth army might not be the noble’s army, and there are other troops they could count on, but it will be better to not dismiss the commander recklessly to keep the forces as intact as possible.<br/>
 "Hmmp—— instead of a duel, dismissing them will be far easier."<br/>
 "That’s right."<br/>
-Gauchen got back to the topic:
+Gauchen got back to the topic:<br/>
 "I think the idea that His Majesty Latreille was forced by circumstances to hand the Staff of the Généralissime to the Princess is correct."<br/>
 Alright! Eddie struck a victory pose.<br/>
-However—— Regis continued the conversation:
+However—— Regis continued the conversation:<br/>
 "How would he quell any rebellion then?"<br/>
-Gauchen said calmly:
+Gauchen said calmly:<br/>
 "His Majesty is starting to mass produce the new rifles. After the southern front is stable, he should be ready to start issuing out large quantities of rifles."<br/>
 The First Army reputed to be the mightiest in the Empire would be armed with the new rifles.<br/>
-Abidal Evra groaned:
+Abidal Evra groaned:<br/>
 "I don’t want to fight them..."<br/>
 Regis felt the same.<br/>
 "That’s true. I think that His Majesty Latreille only gave out the Staff of Généralissime out so generously because we are at a turning point of the war."<br/>
@@ -577,11 +577,11 @@ Altina pouted.<br/>
 Gauchen was shocked when Regis laughed and brushed aside what the Princess cum Généralissime just said.<br/>
 Ahh… Regis covered his mouth.<br/>
 "Well… There is one big difference between rifles and the weapons used so far."<br/>
-After thinking about it for a while, Altina leaned forward:
+After thinking about it for a while, Altina leaned forward:<br/>
 "Ah, it’s supplies!"<br/>
 "Correct! Amazing, you have improved a lot!"<br/>
 "Fufufu, praise me more, Regis."<br/>
-Eddie crossed his arms and tilted his head:
+Eddie crossed his arms and tilted his head:<br/>
 "Hmm? Supplies?"<br/>
 "Rifles need ammunition in order to fight. And His Majesty Latreille wants to have sole control over the production of ammunition."<br/>
 "Ohh… I see. I get it, so that’s how it is——"<br/>
@@ -592,7 +592,7 @@ After this would be —— the dissolution of noble armies and nationalizing the
 Regis shrugged.<br/>
 "As for the Staff of the Généralissime, he will be taking it back later, so he generously handed it to you for now."<br/>
 That’s how he actually thinks!? Altina puffed out her cheeks.<br/>
-Gauchen sighed and said:
+Gauchen sighed and said:<br/>
 "… No one in the Ministry or the aristocrats understand the situation to such an extent. As expected of you."<br/>
 "Lord Gauchen already realized this too. Have you told the other nobles about this?"<br/>
 "Fufu… Nobles are arrogant creatures. They have no doubts that the world exist for their sakes. They believe like an innocent child that the new Emperor won’t strip them of their privileges. Even if I warn them about this, they will just mock me for thinking too much. Their reasoning will be—— since it has gone on for a century, it will continue for another century."<br/>
@@ -620,8 +620,8 @@ Ara, Altina added.<br/>
 "There are actually people who are willing to join our unit that don’t even have any rest days, this is great—"<br/>
 "… By the way, I forgot to mention the work conditions. Lord Gauchen, I have never taken a day off ever since I was assigned to this unit. Will you be fine with that?"<br/>
 "Eh!?"<br/>
-Chapter 4  Heading to the South
-One week later——
+### Chapter 4  Heading to the South<br/>
+One week later——<br/>
 Imperial Year 851, August 20th.<br/>
 The Fourth Army led by Généralissime Marie Quatre Argentina de Belgaria set off from the Imperial Capital Versailles.<br/>
 They were about 8,000 strong.<br/>
@@ -639,7 +639,7 @@ They were merely tagging along because they believed Regis when he said the Merc
 A week wasn’t enough to post a letter to Fort Volks and receive a reply. Even Regis wasn’t sure how Gilbert would reply, whether if he would accept.<br/>
 The acting band leader Jessica and her 10 years old sister Martina travelled together.<br/>
 Franziska still haven’t recovered because of dystrophia, and had to stay in the capital. Bastian was taking care of her.<br/>
-Behind them——
+Behind them——<br/>
 Elise rode on another carriage.<br/>
 On the battlefield, the guest had to stay in the rear while the strategist remained in the center—— that was the official reason he gave.<br/>
 Regis who realized Elise’s true identity was worried about others finding out who she was, and didn’t want her to know unnecessary information, so he quarantined her off.<br/>
@@ -647,8 +647,8 @@ Clarisse looked in the direction of the capital.<br/>
 "She is very reluctant to see you go."<br/>
 "Hmm? Ahh, you mean Ms Fanrine. A lot has happened after all..."<br/>
 Because she was traveling with Regis, she met in life threatening danger. Marked by assassins, soldiers bared their blades at them, and they travelled for several days in the treacherous hills.<br/>
-Why didn’t Fanrine hate Regis?
-Wasn’t that the biggest mystery?
+Why didn’t Fanrine hate Regis?<br/>
+Wasn’t that the biggest mystery?<br/>
 How unfathomable.<br/>
 Clarisse narrowed her eyes.<br/>
 "Yes, a lot of things."<br/>
@@ -681,15 +681,15 @@ Clarisse returned her gaze back to Regis.<br/>
 "Is that really fine? He had already left home for such a long time."<br/>
 "What about you, Sir Regis?"<br/>
 Why is she asking again, is there any meaning behind this—— Regis thought.<br/>
-After he splitted up with Altina, the notification that was sent to his sister was…
+After he splitted up with Altina, the notification that was sent to his sister was…<br/>
 "Ah, was my killed in action notification sent to my sister!?"<br/>
 Clarisse nodded.<br/>
-Regis hugged his head. Did they sent her the body and personal effects too!? But they belonged to someone else!
+Regis hugged his head. Did they sent her the body and personal effects too!? But they belonged to someone else!<br/>
 "Oh no… I never thought about putting the affairs of my death in order. No, did anyone send her the notice that this is a mistake?"<br/>
 "I wonder…?"<br/>
 "Well, the ones who send out bereavement notification… is the Ministry of Military Affairs, which has been dissolved!?"<br/>
 What about the pending jobs? The logistical supplies, promotions and assignment had been taken over by the First Army and the Généralissime Office.<br/>
-What about the cancelation of the bereavement notification!?
+What about the cancelation of the bereavement notification!?<br/>
 Regis broke out in cold sweat.<br/>
 "I-I will be lectured! I can’t do anything about the mistake, but I didn’t contact her for over a week even though I was fine! P-Paper… Pen..."<br/>
 "Over here, Sir Regis. Please calm down."<br/>
@@ -721,7 +721,7 @@ He felt bashful and returned his gaze to the letter. His hands were trembling, b
 "No. I was really worried about you, Sir Regis. I really like you."<br/>
 "Uwahh."<br/>
 He couldn’t write any further. Regis felt that his brain was a mess.<br/>
-On the 3rd day of their journey to the south——
+On the 3rd day of their journey to the south——<br/>
 Noon.<br/>
 There was a scout report.<br/>
 A merchant with a caravan that came from the south wishes to meet with the army.<br/>
@@ -731,12 +731,12 @@ Regis crossed his arms.<br/>
 The messenger saluted.<br/>
 After that, the merchant sent a message that they wish to visit the headquarters.<br/>
 It seems like the other party just wanted to meet with Regis.<br/>
-Even if it was a business negotiation, Altina will just tell Regis "I will leave it to you】, and she was already tired from the march.<br/>
+Even if it was a business negotiation, Altina will just tell Regis "I will leave it to you", and she was already tired from the march.<br/>
 After a short wait, a lady walked forth from the midst of the troops.<br/>
 Her hair that was as black as ink was draped over her black dress. Regis thought it would be a man since the visitor was a merchant, and didn’t expect such a young lady.<br/>
 A young girl in a white dress followed behind her. She had a laced parasol in her hands to keep the bright sun from harming the lady’s skin. Since she wasn’t dressed like a maid, then that young girl was probably a servant.<br/>
 The thing about her that was most unlike a merchant was her lack of any luggage.<br/>
-The impression she gave was of an aristocratic lady out on a stroll. Why did the scouts report say that she was a merchant from a caravan?
+The impression she gave was of an aristocratic lady out on a stroll. Why did the scouts report say that she was a merchant from a caravan?<br/>
 She pulled aside the veil before her face, and her eyes as dark as obsidian looked Regis’ way.<br/>
 "Seems like you’re still alive, Regis?"<br/>
 It was an alluring voice, but the tone was just like a man.<br/>
@@ -744,9 +744,9 @@ Regis gulped.<br/>
 "Ehh!? Ms Eleanor!?"<br/>
 The visitor was Eleanor Ailred Winn de Tiraso Laverde. The daughter of a Duke house, she was a capable lady with the known as 《La Renarde du Sud》.<br/>
 Regis was just wondering why he didn’t see her at the banquet some days ago, and now they meet here.<br/>
-Eleanor said with a trembling voice:
+Eleanor said with a trembling voice:<br/>
 "… Regis, it’s been a while, but what I’m about to say pains me a lot."<br/>
 "What’s the matter?"<br/>
 "Please help us."<br/>
 A sudden squall that was louder than the wind blew by, sweeping the parasol in the young girl’s hands into the sky.<br/>
-Previous Chapter | Main Page | Next Chapter
+Previous Chapter | Main Page | Next Chapter<br/>

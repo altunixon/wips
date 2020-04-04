@@ -1,8 +1,8 @@
-### Altina the Sword Princess Volume 1 to 10 Appendices
-The world of Altina the Sword Princess
-Translator: Skythewood
-Volume 1
-Currency
+### Altina the Sword Princess Volume 1 to 10 Appendices<br/>
+The world of Altina the Sword Princess<br/>
+#### Translator: Skythewood<br/>
+Volume 1<br/>
+Currency<br/>
 In the Imperial year 850, the Belgaria Empire only had three types of currency, the Livre gold coin, Sol silver coin and Denier bronze coin. There was no paper money.<br/>
 The livre gold coin and denier bronze coin were about the size of the 10 yen coin circulating in Japan now, while the sol silver coin was as big as a 500 yen coin.<br/>
 As for their value, it was 1 livre = 20 sol = 240 denier, but there were times when it gets messed up.<br/>
@@ -17,7 +17,7 @@ There wasn’t any insurance or social safety net in the Empire, so most people 
 There were those who send their wages back home too.<br/>
 And so, the organization that took on the role of a bank was the church.<br/>
 Spread across the entire nation be it the boondocks or frontlines, reliable enough to deposit savings and perform transactions and strong enough to stand up to the boorish ways of the aristocrats. In this era, only the church fulfil these criterias.<br/>
-Lighting
+Lighting<br/>
 In this era, the Belgaria Empire uses four types of illumination tools.<br/>
 The best was gaslamps, which was bright, steady and minimal smoke. However, the fuel was hard to obtain, and only a part of the Imperial capital uses it. For example, the halls of the palace.<br/>
 Second best would be oil lamp, which was the most common in the Empire. Soaking the wick into a container filled with oil, that’s how simple the design was. Not only could it illuminate the house, it was used by pedestrians and even the headlights of carriages, very widespread in usage.<br/>
@@ -32,8 +32,8 @@ On the other hand, it emit too much black smoke and couldn’t be used in the ho
 Fire was lighted by using tinderbox.<br/>
 Only well to do families could afford the lighting tools described above. Servants and the impoverished could only rely on the moonlight.<br/>
 Electricity was still being researched by scientist, and the production of electricity has yet to reach a practical stage yet. It would be another hundred years before the debut of the light bulb.<br/>
-Volume 2
-Cannons
+Volume 2<br/>
+Cannons<br/>
 In Imperial year 851 of the Belgaria Empire, firearms such as pistols, muskets and cannons exist.<br/>
 The cannons were the first to be implemented into the army, and was the the most influential in changing the face of war.<br/>
 It’s design was very simple, one side of the barrel was sealed in a conical shape. The inside was like a narrow cup.<br/>
@@ -42,7 +42,7 @@ If the pouch of gunpowder was ignited, there would be an explosion, and the pres
 And so, how could the gunpowder be ignited? After all, it was deep inside the steel cast cannon, and covered by the iron ball and wrapped in a pouch.<br/>
 In the depths of the cannon was a thin narrow hole called a vent, which was about the size of a finger. The vent pick, a ice pick like dagger, was struck down the vent and into the gunpowder pouch.<br/>
 Next gunpowder was poured into the vent, and it could be ignited from the outside.<br/>
-Although some of the pressure from the explosion would escape from this vent…
+Although some of the pressure from the explosion would escape from this vent…<br/>
 This method of ignition had never changed in almost 400 years.<br/>
 The cannons might be powerful, but if the projectile was just an iron ball, it’s area of effect would be quite narrow. Therefore, it was more prominent in sieges to destroy castle gates and walls, or in naval battle.<br/>
 And after equipping a large quantity of it, it was very effective in city and fortress defense, which was an exception to its usage.<br/>
@@ -52,7 +52,7 @@ An abnormal explosion might break the body of the cannon, or the projectile migh
 And many of the artillery soldiers weren’t familiar with the operation of the cannons, so the rate of cannons breaking down were rather high.<br/>
 By the way, in the Kingdom of High Britannia on the other side of the ocean, the ‘Elswick cannon’ that was breech loaded had been invented.<br/>
 Even though it had a complicated design, it was powerful, long ranged and very accurate.<br/>
-Books
+Books<br/>
 Before the invention of paper, books were written on thin slices of wood and animal skin. Ink was the charred remnants of burned oil, or crushed minerals dissolved in water.<br/>
 When Belgaria was founded, basic papermaking technology was already widespread.<br/>
 Back then, things like torn rags were used as the ingredient. The torn rags were cut into pieces, submerged into water, then stretched out slightly and tried.<br/>
@@ -64,11 +64,11 @@ Not only was cheap paper readily available, there was also a publisher right bes
 It wasn’t just rolling paper into scrolls or folding them up, but binded books that used fine strongs and steel staples.<br/>
 Thin books bound together by glue were also made.<br/>
 Books bound by glue was basically the same as the book fabrication process used in modern Japan. But gluing one edge of the papers to create a spine, it could be secured firmly.<br/>
-(I think that’s how this book should be like, not that wouldn’t be so for the digital version.)
+(I think that’s how this book should be like, not that wouldn’t be so for the digital version.)<br/>
 By the way, Regis was an avid reader, but not a book lover or collector. He had a theory that ‘the value of a book isn’t decided by its rarity or workmanship, but its content’.<br/>
 But at the same time, it was a fact that holding a rare and well made book in hand would make one feel happy.<br/>
-Volume 3
-Carriage
+Volume 3<br/>
+Carriage<br/>
 In Imperial year 851 of the Belgaria Empire, carriages were like a car in modern times, an irreplaceable mean of transporting people and cargo.<br/>
 The horses that draw a carriage were called ‘carriage horses’, horses that were tough, strong and didn’t tire easily would be treated like treasure.<br/>
 For horses in the military, the most important thing was to let them get used to the sound of rifles and cannons, so they won’t be spooked by them. Horses that had been specially trained in such a way were known as warhorses.<br/>
@@ -84,9 +84,9 @@ Station wagons would switch out the horses at relay stations, so it could mainta
 In this volume, the carriage prepared by Prince Latreille had suspensions and was known as  carriage. Only aristocrats could use them.<br/>
 The suspension of this era was the leaf spring. A steel plate was fixed to the bottom of the carriage, and the chasis was secured to it. Bumps would thus be absorbed through the bending of the steel plate.<br/>
 Even though horses had been supporting the flow of cargo for humans for 2000 years, with the invention of the steam engine and combustion engine, they had gradually faded away.<br/>
-Class
+Class<br/>
 Ranks were used in the Belgarian Army. Generalissimo, General, Lieutenant General, Major General, Brigadier General, First Grade, Second Grade, Third Grade, Fourth Grade, Fifth Grade, Sixth Grade, Leading Trooper, Trooper First Class, Trooper.<br/>
-Strictly speaking, the Emperor who was the Commander-in-Chief (and the Field Marshall who commands in his stead) and recruits who had yet to become official soldiers were not part of the military ranks
+Strictly speaking, the Emperor who was the Commander-in-Chief (and the Field Marshall who commands in his stead) and recruits who had yet to become official soldiers were not part of the military ranks<br/>
 The General officers (Generalissimo, General, Lieutenant General, Major General, Brigadier General) could command a thousand or more troops.<br/>
 Private armies existed to, but in order to receive command authority by the military, the condition was that the commander had the nobility title of Vicomte and above.<br/>
 Senior Officers (First Grade, Second Grade, Third Grade) would receive the tasks assigned by the Generals, and would command their subordinates (Junior Officers and Troopers) to perform their mission.<br/>
@@ -101,8 +101,8 @@ As this was an era where ‘civil servant = soldier or aristocrat’, those work
 Men (Leading Trooper, Trooper First Class, Trooper) were commoners, with most of the Troopers being conscripts. They would become proper soldiers if they pass inspection, and there were cases where someone enter with the rank of Trooper First Class.<br/>
 Their front line authority and equipment didn’t differ too much, with their wages being the biggest difference.<br/>
 Not only do Leading Troopers have their task as a men, they also need to lead their subordinates and train recruits.<br/>
-Volume 4
-Glasses
+Volume 4<br/>
+Glasses<br/>
 In Imperial year 851 of the Belgaria Empire, and Steelart Year 42 of High Britannia Kingdom, glasses were a very extravagant object.<br/>
 According to the ingredient used for the lenses, glasses could be divided into two categories.<br/>
 Very pure and transparent glass and crystals were hard to obtain, and working them would require special skills.<br/>
@@ -116,7 +116,7 @@ By the way, the smoke in smoke crystals would disappear if it gets heated up. If
 That might be so, but there wasn’t any devices that emit radiation in this era, so all this were naturally occurring items.<br/>
 The frames holding up the lenses were usually made from gold or silver. Not only was it easy to work with, it had a high class feel about it and didn’t bend or rust easily.<br/>
 In order to conceal his crimson eyes which was a feature of Belgarian Royalty, Bastian wore sunglasses made with smoke crystals. But his actions rendered this concealment meaningless… it definitely wasn’t because the effect of using sunglasses as a disguise was poor.<br/>
-Rifle
+Rifle<br/>
 High Britannia was the first nation in the world to mass produce rifles.<br/>
 Back then, muskets were the most common type of firearm, which was prepared by the tedious steps of putting in gunpowder into the barrel, inserting the bullet and pouring gunpowder down the pan before firing.<br/>
 And since the muskets required the flint to ignite the gunpowder, it had the flaw of being unusable because of foul weather.<br/>
@@ -131,8 +131,8 @@ However, the issue of it being weather dependant and the firing rate remained un
 On another note, the first nation to use breech loaded firearms was the Germanian Federation. They wanted to improve it in secret… But it debut splendidly during a civil war, and its warehouses were broken into shortly after, and the technology spread to other countries.<br/>
 The complicated designs made it break down frequently, so it wasn’t highly evaluated by the soldiers back then.<br/>
 With the advancement in firearms, war evolved quickly. In just 20 years, rifles turned from single shot loading to rifle clips. And 30 years after that, the automatic machine guns were invented.<br/>
-Volume 5
-Pain Traditionnel
+Volume 5<br/>
+Pain Traditionnel<br/>
 The staple food of the Belgarian Empire was pain traditionnel, which was bread. Compared to neighbouring nations, the outside of Belgarian bread was hard and would break with a crack, while the inside was as safe as cake.<br/>
 The reason the bread turned out this way wasn’t only because of the traditional baking method, the difference in the main ingredient, wheat, also played a huge part.<br/>
 The wheat of other nations were hard, while the ones grown by Belgaria were softer. Hard wheat contained more protein, while the softer variant contained less protein.<br/>
@@ -143,12 +143,12 @@ It was hard to bake soft bread with soft flour.<br/>
 Even though they soft bread could be made by mixing in sugar, eggs or butter… but these were high class items, and it was impractical for commoners to use them daily.<br/>
 With the theory of adding salt, water and yeast into soft flour would allow them to bake delicious pain traditionnel… The professional bakers are still working on this.<br/>
 After the yeast ferment into air and steam, the dough would raise as if it was clay, giving the bread its soft texture.<br/>
-So for soft flour that had less gluten, could they stop the gas and steam from escaping the dough during fermentation to bake delicious bread? If so, how would they seal them in?
+So for soft flour that had less gluten, could they stop the gas and steam from escaping the dough during fermentation to bake delicious bread? If so, how would they seal them in?<br/>
 When they place the ingredient into the oven, they would inject steam inside it. The exterior would gelatinize, and become dry and hard because of the high temperature inside the oven.<br/>
 After the exterior hardened, it could seal the gases inside it, allowing the bread to rise.<br/>
 And in order to not let the exterior crack unevenly during the rising of the bread, the dough would be scored before hand. These were known as coupe after the bread rose, and a large coupe was a sign that fermentation had gone well.<br/>
 Freshly baked pain traditionnel was very delicious. The citizens of the Empire would queue up in front of bakeries during meal times to buy freshly baked bread.<br/>
-Armure
+Armure<br/>
 Spears were hunting tools that had been used before the founding of nations. Even though countries of various sizes were founded throughout the Empire and the changes in war tactics, the main weapon of the battlefield were still spears.<br/>
 In order to protect soldiers from spears, swords and arrows, armour were designed.<br/>
 The first type of armour was chain mail.<br/>
@@ -166,8 +166,8 @@ Shields were used to defend against blunt weapons, and since the enemy attacks w
 Then came the debut of the rifles.<br/>
 In the year 851, the Belgarian Empire suffered heavy losses because of High Britannia’s breech loaded rifles. With the marked improvement of firearms after this, armour and shields could no longer defend against them.<br/>
 The main weapon of the battlefield changed from spears to rifles, and the figure of knights in armure de plaque disappear with the change in era.<br/>
-Volume 6
-Cuirassé
+Volume 6<br/>
+Cuirassé<br/>
 Using rafts with sails tied to it to fish existed long before human invented writing, so its invention wasn’t recorded.<br/>
 When the Belgarian Empire was founded in the west of the continent, sail ships capable of crossing oceans could already be built.<br/>
 The ships back then were simple in design, planks laid out in the shape of a boat were secured with horizontal boards, the gaps were filled in with limestone, hemp and resin. The ship might break apart if the waves were too big.<br/>
@@ -179,7 +179,7 @@ Back then, only the upper decks had cannons, and the fleet with vessels of diffe
 As High Britannia was an island nation, it’s import of tea through commerce resulted in their experience with vessels far exceeding the other countries, and wrote doctrines on naval warfare.<br/>
 The fleet with uniform firepower and speed would form up in a line, and fire their cannons in unison. As this strategy was very effective, fleets that only place their cannons on the deck became a thing of the past. That was 200 years ago. Now, the Belgarian Empire and the surrounding nations also mimic High Britannia and mass produced such warships, and it became the era of battleships.<br/>
 If High Britannia built a 74 gun battleship, the Belgarian Empire would craft a 80 gun battleship, leading to a race in inflating the size and number of guns for battleships. There was even an incident where a battleship sunk when all its guns fired because of the reckless demand of the military to increase the number of guns.<br/>
-Soins Médicaux
+Soins Médicaux<br/>
 The medical technology of the Belgaria Empire in Imperial year 851 was much more advanced than the neighbouring states.<br/>
 The surrounding nations still thought that illness was the malevolence of the devil and used prayers as treatment. If the patient had a fever, his entire body would be dipped into water, if there were wounds, poisonous grass would be stuff in there, and treatment was mostly dependent on religious or traditional remedies.<br/>
 As cutting off the body part that hurts was the mainstream method of treatment, the ones who  were familiar with scissors and performed such surgeries were barbers. There was no concept of sterilization, so the blades weren’t heated or disinfected with alcohol before it was used.<br/>
@@ -194,8 +194,8 @@ Priority would be given to the heavily injured and urgent cases. Or rather, they
 The textbook would indicate if a wound to a certain body part or the appearance of a certain colour of liquid would mean the patient was beyond saving.<br/>
 Most heavy injuries result in death, and they would suffer from sequelae even if they survived. Only a very small handful could make a full recovery.<br/>
 When war broke out, there would be a large number of death and injuries. In this world, there were no healing magic or items to revive the dead.<br/>
-Volume 7
-Literie
+Volume 7<br/>
+Literie<br/>
 Since the time when man was still living in caves, they started using beddings.<br/>
 In the beginning, animal skin was laid onto the ground. Some time later, they slept on elevated platform made from wood keep bugs away, and beds appeared.<br/>
 After pillows started to be used, a headboard was added to stop them from falling off. It was about a thousand years ago when they made beds similar to the modern versions.<br/>
@@ -209,7 +209,7 @@ A higher grade would be beds stuffed with feathers. It was expensive, and even n
 High class beds would have canopy. Those were a ceiling supported by four pillars, with curtains draped onto it. Depending on the design, it might look extravagant and have the function of keeping mosquitoes away. In other words, the canopy was used to repel bugs.<br/>
 They would build huge bedrooms and place it in the center, away from the cold stone walls.<br/>
 If the weather was bad, one would need to stay at home for a long period of time. During such times, the bed wasn’t just a place to sleep, but also a place to relax.<br/>
-Des Aliments Non Périssables
+Des Aliments Non Périssables<br/>
 The meals of a normal family would be centered around bread, supplemented by cheese, vegetables. Sometimes, there would be meat. Eggs and fruit was high class product.<br/>
 The Empire had more than 100,000 soldiers and employ 100,000 workers that support the army, so military supply requires a huge budget.<br/>
 Most of the supplies were food.<br/>
@@ -222,8 +222,8 @@ Other ingredients like onions, figs, dried fish and wine would be transported to
 But no matter what method was used, they couldn’t preserve it for long periods like modern canned food. For long campaigns, the army would need to source for food on the ground.<br/>
 Despite the importance of food during war, the supply team won’t receive much praise, would not be able to make it big and would be looked down upon.<br/>
 Sloppy supply planning and pillaging in the name of official requisition often happens during war.<br/>
-Volume 8
-Corset
+Volume 8<br/>
+Corset<br/>
 The slimmer the waist, the more beautiful the lady — Such values began in Imperial Year 700 of the Belgarian Empire (150 years before Altina’s story).<br/>
 Before that, there was time when the upper society starved too, so being plump was a sign of wealth.<br/>
 With the improvement in grain quality and irrigation, agriculture developed quickly and starvation disappeared, leading to the shift in values. A slender waist was proof that one have not been pregnant, and was charming enough to entice men.<br/>
@@ -233,7 +233,7 @@ In the beginning, it was made from soft material like the skin of animals and tr
 Because the binding was too tight, there were people who faint in parties and those who suffer from organs failure. Some time later — with the advent of firearms, death rates in war increases and the women who were only asked to stay at home had to work outside out of necessity.<br/>
 As the number of jobs women took on increases, the fashion also changes. Unnecessary frills were removed, and clothes became easier to take off, making it easier to move in.<br/>
 Corsets which was hard to move in and hinder breathing was discarded, warm and fitting underwear that could shape their body and felt comfortable on the skin became popular.<br/>
-Lettre
+Lettre<br/>
 In Imperial year 851 of the Belgaria Empire, paper was expensive, and sealing letters inside envelope was an extravagant behaviour only done by the aristocrats.<br/>
 The military and merchants would roll letters up, secure it with strings and mail it in tubes.<br/>
 Few commoners could read, and they wouldn’t send mail.<br/>
@@ -244,8 +244,8 @@ The number of cases where the letter was delivered wrongly and the wax seal brok
 Also, the postal service that was handled by the Transport Ministry branched out and became an independent postal office. A new system of fees were implemented.<br/>
 As postal charges weren’t dependant on the number of paper but the weight, heavy waxes fell out of fashion.<br/>
 Wax were now used in things like wine bottles.<br/>
-Volume 9
-Fabrication de l'acier 1
+Volume 9<br/>
+Fabrication de l'acier 1<br/>
 A long time ago, when the world lacked oxygen, iron was dissolved inside water. With the increase of organism that photosynthesizes, the amount of oxygen in the ocean grew, and the iron in the sea oxidizes and sunk to the seabed.<br/>
 When the seabed filled with minerals rises up with the earth crustal displacement, it formed iron ore mines.<br/>
 It was possible to obtain oxidized iron in the form of Magnetite and Hematite from the mines.<br/>
@@ -256,8 +256,8 @@ With advancement in iron processing technology, it’s usage became more widespr
 In place of that, coal was used. Coal could produce higher temperature than charcoal, and was more plentiful than the resources of the forest.<br/>
 However, coal contained things like sulphur and tar.<br/>
 If sulphur were mixed in, the iron would become brittle. Tar would evaporate when heated, and block the airway for the furnace.<br/>
-In order to solve these issues, coke, made by the destructive distillation of coal, was used. However, coke would also result in other problems… (To be continued in the next volume)
-Thé
+In order to solve these issues, coke, made by the destructive distillation of coal, was used. However, coke would also result in other problems… (To be continued in the next volume)<br/>
+Thé<br/>
 It had already been mentioned in the ‘Cuirassé’ section — technology like sailship and cannons came from the east 500 years ago. Back then, they relied mainly on small scale trade by traveling over land.<br/>
 However, about 200 years ago (When the Belgarian Empire expanded their territory on the strength of their powerful cavalry), with the debut of large sail ships, the various nations started competing on commerce.<br/>
 The Kingdom of High Britannia which was an island nation was very enthusiastic about trade.<br/>
@@ -270,8 +270,8 @@ Even in modern Japan, there were scientific studies on the effect of catechin an
 During this period, the western nations were making losses in commerce. Even though demand for tea leaves and spices were rising, the things they could export were mostly highly priced and hard to mass produce.<br/>
 They make payment in silver, and the continuous outflow of silver in cause the domestic price of silver to increase.<br/>
 The High Britannia parliament was looking into laws to prohibit the outflow of silver.<br/>
-Volume 10
-fabrication de l'acier 2
+Volume 10<br/>
+fabrication de l'acier 2<br/>
 Digging up iron ore from mines and refining them into iron was known as smelting.<br/>
 It was explained previously that the fuel used in smelting, coke, was obtained by the destructive distillation of coal.<br/>
 Destructive distillation was done by cutting off air supply and heating it up. Under normal circumstances, heating up coal would just make it burn, but doing so without oxygen would just distill the impurities. In other words, this was thermal decomposition. And the device used for destructive distillation was called a coke furnace.<br/>
@@ -280,8 +280,8 @@ In order to send air into the furnace forcefully, manpower and watermill could n
 By the way, steam generators were invented in the beginning to expel water from coal mines. Boilers that could withstand high steam pressure couldn’t be forged in the beginning, so a lot of the excavated coal was used on the steam generator itself, making it very inefficient.<br/>
 By civilization was developed by the meshing of countless factors. The used of the steam generator increased the temperature inside the furnace, and large quantity of high grade iron was produced. Boilers that could withstand higher steam pressure was forged from them, and a more efficient steam generator was developed.<br/>
 With the appearance of high temperature furnace, large quantity of molten iron could be produced, and the lives of the people started changing drastically. Steel farm tools cleared the forest, and farming efficiency improved, increasing the human population by leaps and bounds.<br/>
-However, there was still some problems with steel made from blast furnace… (To be continued next volume)
-Fusée
+However, there was still some problems with steel made from blast furnace… (To be continued next volume)<br/>
+Fusée<br/>
 When relaying orders to units far away from the battlefield, and notifying the capital of abnormal situation at the national borders during times of peace, speed was of the essence.<br/>
 The most reliable means were fast horses. They could send information accurately.<br/>
 However, if the content of the information was simple, simpler methods like pigeons and alarm bells could be used.<br/>
@@ -296,4 +296,4 @@ If it needed to be ready for use for long periods of time, in places like the wa
 In order for it to be usable during rain, roof and chimney would be built. It would have a special design so its flames could be seen in the direction of their allies even at night.<br/>
 By using a series of fusée, even if the distance required several days of marching, it could be relayed in a few hours.<br/>
 The invention of the telegraph happened after the development of the railway. And before that, fusée was the fastest mean of relaying information out of all the methods of men.<br/>
-Main Page
+Main Page<br/>

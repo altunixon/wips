@@ -14,17 +14,26 @@ xpath_nu_group = '//a[contains(@href, "/group/")]'
 xpath_nu_chapter = '//a[@class="chp-release"]'
 xpath_nu_extnu = '//a[@class="chp-release"]'
 
-content_wordpress = '//div[@class="entry-content"]'
+template_wordpress = {
+    'transit_link': None, 
+    'article_text': '//div[contains(@class, "entry-content")]', 
+}
 
 series_watch = {
-    'sevens-ln': {
-        'transit_link': None, 
-        'article_text': content_wordpress, 
+    'sevens-ln': template_wordpress, 
+    'isekai-tensei-soudouki': template_wordpress, 
+    'the-strange-adventure-of-a-broke-mercenary': template_wordpress, 
+    'okami-wa-nemuranai': template_wordpress, 
+    'manuke-fps': template_wordpress, 
+    'the-death-mage-who-doesnt-want-a-fourth-time': {
+        'transit_link': None,
+        'article_text': '//div[@class="reading-content"]'
     }, 
-    'isekai-tensei-soudouki': {
-        'transit_link': None, 
-        'article_text': content_wordpress, 
+    'i-became-the-strongest-with-the-failure-frame【abnormal-state-skill】as-i-devastated-everything': {
+        'transit_link': None,
+        'article_text': '//div[@class="reading-content"]'
     }, 
+    'death-march-kara-hajimaru-isekai-kyusoukyoku': template_wordpress,
 }
 
 def chapter_zfill(chapter_txt, **zargs):

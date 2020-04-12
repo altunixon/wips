@@ -2,20 +2,46 @@
 import requests, os, re, json
 from lxml import html
 from bs4 import BeautifulSoup
-from browsers.html_scraper import html_scraper
+from helpers.str_helper import urlPrefixer, string_sanitizer
+from helpers.misc import countdown
+from helpers.dir_helper import MkDirP
+from browsers.scraper_lxml import html_scraper
 
-xpath_nu_navigation = ''
-xpath_nu_release = ''
-xpath_nu_group = ''
-xpath_nu_chapter = ''
-xpath_nu_extnu = ''
+nu_prefix = 'https://www.novelupdates.com/series/'
+xpath_nu_navigation = '//a[@class="next_page"]'
+xpath_nu_release = '//table[@id="myTable"]/tbody/tr'
+xpath_nu_group = '//a[contains(@href, "/group/")]'
+xpath_nu_chapter = '//a[@class="chp-release"]'
+xpath_nu_extnu = '//a[@class="chp-release"]'
+
+content_wordpress = '//div[@class="entry-content"]'
 
 series_watch = {
-    'nu_url': {
+    'sevens-ln': {
         'transit_link': None, 
-        'article_text': '', 
+        'article_text': content_wordpress, 
+    }, 
+    'isekai-tensei-soudouki': {
+        'transit_link': None, 
+        'article_text': content_wordpress, 
     }, 
 }
+
+def chapter_zfill(chapter_txt, **zargs):
+    if chapter_txt is not None:
+        vfill = zargs.pop('vfill', 2)
+        chfill = zargs.pop('chfill', 3)
+        if 'v' in chapter_txt and 'c' in chapter_txt:
+            str_vol, str_chp = chapter_txt.split('c', 1)
+            num_vol = re.sub(r"\D", "", str_vol)
+            num_chp = re.sub(r"\D", "", str_chp)
+            chapter_fill = 'v%s-c%s' % (num_vol.zfill(vfill), num_chp.zfill(chfill))
+        else:
+            num_chp = re.sub(r"\D", "", chapter_txt)
+            chapter_fill = 'c%s' % num_chp.zfill(chfill)
+        return chapter_fill
+    else:
+        return None
 
 if __name__ == '__main__':
     path_base = os.path.dirname(os.path.realpath(__file__))
@@ -30,6 +56,10 @@ if __name__ == '__main__':
         dest = 'path_json', type = str, 
         default = os.path.join(path_base, 'watched.json'), 
         help = 'JSON Datastore')
+    parser.add_argument('-w', '--wait', 
+        dest = 'time_wait', type = int, 
+        default = 3, 
+        help = 'Wait time in-between curls')
     parser.add_argument('-u', '--update', dest = 'check_ulazy', action = 'store_true')
     parser.set_defaults(check_ulazy = False)
     console_args = parser.parse_args()
@@ -44,14 +74,17 @@ if __name__ == '__main__':
     # Process series
     procd = set([])
     for series_nu in series_watch.keys():
-        series_id = series_nu.strip('/')
-        if series_id not in data_watched.keys():
-            data_watched[series_id] = {}
-        page_next = series_nu
+        series_saveto = os.path.join(console_args.path_out, string_sanitizer(series_nu))
+        MkDirP(series_saveto, meltdown = True)
+        series_url = urlPrefixer(series_nu.strip('/'), nu_prefix)
+        if series_url not in data_watched.keys():
+            data_watched[series_url] = {}
+        page_next = series_url
         while page_next is not None and page_next not in procd:
             procd.add(page_next)
             ### CHANGE TO HTML_SCRAPER
             page_html = requests.get(page_next).content
+            # print (html_scraper(page_html, tag_content = '//table[@id="myTable"]')['tag_content'])
             page_data = html_scraper(
                 page_html, 
                 pair = xpath_nu_release, 
@@ -62,21 +95,73 @@ if __name__ == '__main__':
             if len(page_data['pair']) > 0:
                 x = lambda y, z: y[z][0] if len(y[z]) > 0 else None
                 for chapter_data in page_data['pair']:
-                    chapter_extnu = x(chapter_data, 'href_extnu')
-                    chapter_text = x(chapter_data, 'text_chapter')
+                    chapter_extnu = urlPrefixer(x(chapter_data, 'href_extnu'), nu_prefix)
+                    chapter_name = x(chapter_data, 'text_chapter')
+                    # chapter_name = chapter_zfill(x(chapter_data, 'text_chapter'))
                     chapter_group = x(chapter_data, 'text_group')
-                    if chapter_extnu is not None and chapter_text is not None:
-                        if chapter_text not in data_watched[series_id].keys():
+                    if chapter_extnu is not None and chapter_name is not None:
+                        if chapter_name not in data_watched[series_url].keys():
                             chapter_req = requests.head(chapter_extnu, allow_redirects = True)
                             chapter_url = chapter_req.url
-                            chapter_html = chapter_req.read() ### ?????????
-                            print ('[READ] Scraping %s [%s]: %s' % (chapter_group, chapter_text, chapter_url))
-                            data_watched[series_id][chapter_text] = chapter_url
+                            print (
+                                '[READ] Scraping %s [%s]: %s' % (
+                                    chapter_group, 
+                                    chapter_name, 
+                                    chapter_url
+                                )
+                            )
+                            if series_watch[series_nu]['transit_link'] is None:
+                                chapter_html = requests.get(chapter_url).content
+                                chapter_article = html_scraper(
+                                    chapter_html, 
+                                    tag_content = series_watch[series_nu]['article_text']
+                                )['tag_content']
+                                # print (chapter_article)
+                                if len(chapter_article) > 0:
+                                    chapter_text = BeautifulSoup(
+                                        chapter_article[0], features = "lxml"
+                                    ).getText().replace('\n', '<br/>\n')
+                                    # chapter_md = re.sub('[“”【】『』]', '"', chapter_text)
+                                else:
+                                    chapter_text = None
+                            if chapter_text is not None:
+                                chapter_saveas = os.path.join(series_saveto, 
+                                    '%s.md' % string_sanitizer(chapter_name)
+                                )
+                                data_watched[series_url][chapter_name] = chapter_url
+                            else:
+                                print ('[#404] %s: "%s" > "%s"' % (chapter_name, chapter_extnu, chapter_url))
+                                chapter_saveas = os.path.join(series_saveto, 
+                                    '%s-BLANK.md' % string_sanitizer(chapter_name)
+                                )
+                                chapter_text = 'Indx: "%s"\n#404: %s [%s]\nJump: "%s"\nDest: "%s"' % (
+                                    page_next, 
+                                    series_nu, 
+                                    chapter_name, 
+                                    chapter_extnu, 
+                                    chapter_url
+                                )
+                            if not os.path.isfile(chapter_saveas):
+                                with open(chapter_saveas, 'w') as sf:
+                                    sf.write(chapter_text)
+                            else:
+                                print ('[SKIP] File "%s" Exists.' % chapter_saveas)
+                            countdown(console_args.time_wait, txt = '%s: done next chapter in' % chapter_name)
                         else:
-                            print ('[SKIP] %s' % data_watched[series_id][chapter_text])
+                            print ('[SKIP] Json "%s"' % data_watched[series_url][chapter_name])
                     else:
                         pass
-                page_nav = html_scraper(page_html, href = xpath_nu_navigation)
-                page_next = page_nav[0] if len(page_nav) > 0 else None
+                if not console_args.check_ulazy:
+                    page_nav = html_scraper(page_html, href = xpath_nu_navigation)['href']
+                    page_next = '%s/%s' % (series_url.strip('/'), page_nav[0].replace('./', '')) \
+                        if len(page_nav) > 0 \
+                        else None
+                    # print (page_next)
+                else:
+                    page_next = None
             else:
                 page_next = None
+            countdown(console_args.time_wait, txt = 'Next page "%s" in' % page_next)
+
+    with open(console_args.path_json, 'w', encoding='utf-8') as j:
+        json.dump(data_watched, j, ensure_ascii = False, indent = 4)

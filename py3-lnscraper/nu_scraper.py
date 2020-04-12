@@ -192,7 +192,7 @@ if __name__ == '__main__':
                                 chapter_saveas = os.path.join(series_saveto, 
                                     '%s-BLANK.md' % string_sanitizer(chapter_name)
                                 )
-                                chapter_out = 'Indx: "%s"\n#404: %s [%s]\nJump: "%s"\nDest: "%s"' % (
+                                chapter_out = 'Indx: "%s" <br/>\n#404: %s [%s] <br/>\nJump: "%s" <br/>\nDest: "%s"' % (
                                     page_next, 
                                     series_nu, 
                                     chapter_name, 

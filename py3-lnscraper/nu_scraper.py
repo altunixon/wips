@@ -42,7 +42,7 @@ def html2md(text_html, **kargs):
 
 def chapter_md(chapter_link, **kargs):
     xpath_article = kargs.pop('article', None)
-    chapter_html = browser_sel.get(chapter_link, read=True, wait=round(console_args.wait * 2.5))
+    chapter_html = browser_sel.get(chapter_link, read=True, wait=round(3 * 2.5))
     chapter_article = html_scraper(
         chapter_html, refer = chapter_link, tag_content = xpath_article
     )['tag_content']
@@ -57,7 +57,7 @@ def chapter_transit(chapter_landing, **kargs):
     xpath_transit = kargs.pop('transit', None)
     xpath_article = kargs.pop('article', None)
     if xpath_transit is not None:
-        landing_html = browser_sel.get(chapter_landing, read=True, round(console_args.wait * 2.5))
+        landing_html = browser_sel.get(chapter_landing, read=True, wait=round(3 * 2.5))
         landing_redirect = html_scraper(
             landing_html, 
             refer = chapter_landing, 
@@ -96,7 +96,7 @@ if __name__ == '__main__':
         capability='chrome@localhost:4445', 
         driver_bin='/usr/bin/chromedriver'
     )
-    browser_sel.get(nu_prefix, wait=round(console_args.wait * 3.5))
+    browser_sel.get(nu_prefix, wait=round(3 * 3.5))
 
     import argparse
     parser = argparse.ArgumentParser(description = 'Scraping Arguments.')
@@ -154,7 +154,7 @@ if __name__ == '__main__':
         while page_next is not None and page_next not in page_done:
             page_done.add(page_next)
             ### CHANGE TO HTML_SCRAPER
-            page_html = browser_sel.get(page_next, read=True, wait=round(console_args.wait * 2.5))
+            page_html = browser_sel.get(page_next, read=True, wait=round(3 * 2.5))
             # print (html_scraper(page_html, tag_content = '//table[@id="myTable"]')['tag_content'])
             page_data = html_scraper(
                 page_html, 
@@ -210,7 +210,7 @@ if __name__ == '__main__':
                                     sf.write(chapter_out)
                             else:
                                 print ('[SKIP] File "%s" Exists.' % chapter_saveas)
-                            countdown(console_args.time_wait, txt = '%s: done next chapter in' % chapter_name)
+                            countdown(3, txt = '%s: done next chapter in' % chapter_name)
                         else:
                             print ('[SKIP] Json "%s"' % data_watched[series_url][chapter_name])
                     else:
@@ -225,7 +225,7 @@ if __name__ == '__main__':
                     page_next = None
             else:
                 page_next = None
-            countdown(console_args.time_wait, txt = 'Next page "%s" in' % page_next)
+            countdown(3, txt = 'Next page "%s" in' % page_next)
         # Update watched.json after processing each serie
         with open(console_args.path_json, 'w', encoding='utf-8') as j:
             json.dump(data_watched, j, ensure_ascii=False, indent=4, sort_keys=True)

@@ -60,6 +60,15 @@ def chapter_zfill(chapter_txt, **zargs):
         return chapter_fill
     else:
         return None
+    
+def html2md(text_html, **kargs):
+    soup_features = kargs.pop('features', 'lxml')
+    soup_html = BeautifulSoup(text_html, features = soup_features)
+    # kill all script and style elements
+    for soup_script in soup_html(["script", "style"]):
+        soup_script.decompose()    # rip it out
+    soup_text = re.sub('\n+', '\n', soup_html.get_text())
+    return soup_text.replace('\n', '<br/>\n')
 
 def chapter_md(chapter_link, **kargs):
     xpath_article = kargs.pop('article', None)
@@ -70,10 +79,7 @@ def chapter_md(chapter_link, **kargs):
     )['tag_content']
     # print (chapter_html)
     if len(chapter_article) > 0:
-        chapter_text = BeautifulSoup(
-            chapter_article[0], features = "lxml"
-        ).getText().replace('\n', '<br/>\n')
-        # chapter_md = re.sub('[“”【】『』]', '"', chapter_text)
+        chapter_text = html2md(chapter_article[0])
     else:
         chapter_text = None
     return chapter_text
@@ -92,9 +98,7 @@ def chapter_transit(chapter_landing, **kargs):
                 landing_html, 
                 tag_content = xpath_article
             )['tag_content']
-            landing_md = BeautifulSoup(
-                landing_text[0], features = "lxml"
-            ).getText().replace('\n', '<br/>\n')
+            landing_md = html2md(landing_text[0])
             return '%s\n<br/>\n%s' % (
                 landing_md, 
                 chapter_md(landing_redirect[0], article = xpath_article)
@@ -133,7 +137,7 @@ if __name__ == '__main__':
         data_watched = {}
     
     # Process series
-    procd = set([])
+    page_done = set([])
     for series_nu in series_watch.keys():
         series_saveto = os.path.join(console_args.path_out, string_sanitizer(series_nu))
         MkDirP(series_saveto, meltdown = True)
@@ -141,8 +145,8 @@ if __name__ == '__main__':
         if series_url not in data_watched.keys():
             data_watched[series_url] = {}
         page_next = series_url
-        while page_next is not None and page_next not in procd:
-            procd.add(page_next)
+        while page_next is not None and page_next not in page_done:
+            page_done.add(page_next)
             ### CHANGE TO HTML_SCRAPER
             page_html = requests.get(page_next).content
             # print (html_scraper(page_html, tag_content = '//table[@id="myTable"]')['tag_content'])
@@ -220,6 +224,6 @@ if __name__ == '__main__':
             else:
                 page_next = None
             countdown(console_args.time_wait, txt = 'Next page "%s" in' % page_next)
-
-    with open(console_args.path_json, 'w', encoding='utf-8') as j:
-        json.dump(data_watched, j, ensure_ascii = False, indent = 4)
+        # Update watched.json after processing each serie
+        with open(console_args.path_json, 'w', encoding='utf-8') as j:
+            json.dump(data_watched, j, ensure_ascii = False, indent = 4)

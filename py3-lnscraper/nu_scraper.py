@@ -12,8 +12,8 @@ nu_prefix = 'https://www.novelupdates.com/series/'
 xpath_nu_navigation = '//a[@class="next_page"]'
 xpath_nu_release = '//table[@id="myTable"]/tbody/tr'
 xpath_nu_group = '//a[contains(@href, "/group/")]'
-xpath_nu_chapter = '//a[@class="chp-release"]'
-xpath_nu_extnu = '//a[@class="chp-release"]'
+xpath_nu_chapter = '//a[contains(@class, "chp-release")]'
+xpath_nu_extnu = '//a[contains(@class, "chp-release")]'
 
 def chapter_zfill(chapter_txt, **zargs):
     if chapter_txt is not None:
@@ -37,15 +37,14 @@ def html2md(text_html, **kargs):
     # kill all script and style elements
     for soup_script in soup_html(["script", "style"]):
         soup_script.decompose()    # rip it out
-    soup_text = re.sub('\n\n+', '<br/>\n', soup_html.get_text())
+    soup_text = re.sub('\n+', '\n', soup_html.get_text())
     return soup_text.replace('\n', '<br/>\n')
 
 def chapter_md(chapter_link, **kargs):
     xpath_article = kargs.pop('article', None)
     chapter_html = browser_sel.get(chapter_link, read=True, wait=7)
     chapter_article = html_scraper(
-        chapter_html, 
-        tag_content = xpath_article
+        chapter_html, refer = chapter_link, tag_content = xpath_article
     )['tag_content']
     # print (chapter_html)
     if len(chapter_article) > 0:
@@ -61,12 +60,12 @@ def chapter_transit(chapter_landing, **kargs):
         landing_html = browser_sel.get(chapter_landing, read=True, wait=7)
         landing_redirect = html_scraper(
             landing_html, 
+            refer = chapter_landing, 
             href = xpath_transit
         )['href']
         if len(landing_redirect) > 0:
             landing_text = html_scraper(
-                landing_html, 
-                tag_content = xpath_article
+                landing_html, refer = chapter_landing, tag_content = xpath_article
             )['tag_content']
             landing_md = html2md(landing_text[0])
             return '%s\n<br/>\n%s' % (
@@ -100,6 +99,10 @@ if __name__ == '__main__':
 
     import argparse
     parser = argparse.ArgumentParser(description = 'Scraping Arguments.')
+    #parser.add_argument(
+    #    dest = 'list_url', nargs = '*', 
+    #    default = [],
+    #    help='URL(s) for the accumulator')
     parser.add_argument('-o', '--output', 
         dest = 'path_out', type = str, 
         default = os.path.join(path_base, 'articles'), 
@@ -154,6 +157,7 @@ if __name__ == '__main__':
             # print (html_scraper(page_html, tag_content = '//table[@id="myTable"]')['tag_content'])
             page_data = html_scraper(
                 page_html, 
+                refer = page_next,
                 pair = xpath_nu_release, 
                 text_chapter = xpath_nu_chapter, 
                 href_extnu = xpath_nu_extnu, 
@@ -168,9 +172,19 @@ if __name__ == '__main__':
                     chapter_group = x(chapter_data, 'text_group')
                     if chapter_extnu is not None and chapter_name is not None:
                         if chapter_name not in data_watched[series_url].keys():
-                            # invest selenium get current url
-                            chapter_req = requests.head(chapter_extnu, allow_redirects = True)
-                            chapter_url = chapter_req.url
+                            if 'transit' not in series_watch[series_nu].keys() \
+                            or series_watch[series_nu]['transit'] is None:
+                                chapter_out = chapter_md(
+                                    chapter_extnu, 
+                                    article = series_watch[series_nu]['article']
+                                )
+                            else:
+                                chapter_out = chapter_transit(
+                                    chapter_extnu, 
+                                    transit = series_watch[series_nu]['transit'], 
+                                    article = series_watch[series_nu]['article']
+                                )
+                            chapter_url = browser_sel.driver.current_url
                             print (
                                 '[READ] Scraping %s [%s]: %s' % (
                                     chapter_group, 
@@ -178,18 +192,6 @@ if __name__ == '__main__':
                                     chapter_url
                                 )
                             )
-                            if 'transit' not in series_watch[series_nu].keys() \
-                            or series_watch[series_nu]['transit'] is None:
-                                chapter_out = chapter_md(
-                                    chapter_url, 
-                                    article = series_watch[series_nu]['article']
-                                )
-                            else:
-                                chapter_out = chapter_transit(
-                                    chapter_url, 
-                                    transit = series_watch[series_nu]['transit'], 
-                                    article = series_watch[series_nu]['article']
-                                )
                             if chapter_out is not None:
                                 chapter_saveas = os.path.join(series_saveto, 
                                     '%s.md' % string_sanitizer(chapter_name)
@@ -218,7 +220,7 @@ if __name__ == '__main__':
                     else:
                         pass
                 if not console_args.check_ulazy:
-                    page_nav = html_scraper(page_html, href = xpath_nu_navigation)['href']
+                    page_nav = html_scraper(page_html, refer = page_next, href = xpath_nu_navigation)['href']
                     page_next = '%s/%s' % (series_url.strip('/'), page_nav[0].replace('./', '')) \
                         if len(page_nav) > 0 \
                         else None

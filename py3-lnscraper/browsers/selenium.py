@@ -30,13 +30,13 @@ class SeleniumBrowser():
         self.debug   = options.pop('debug', False)
         self.proxy   = options.pop('proxy', None)
         self.proxyDict = None \
-            if self.proxy is not None \
+            if self.proxy is None \
             else {"http": self.proxy, "https": self.proxy, "ftp": self.proxy,} \
 
         self.driver = self.init_browser(
             self.capability, 
             **options, 
-            proxy=self.proxyDict
+            proxy = self.proxyDict
         )
         # Set page load wait time        
         self.driver.implicitly_wait(self.wait)

@@ -14,36 +14,34 @@ xpath_nu_group = '//a[contains(@href, "/group/")]'
 xpath_nu_chapter = '//a[@class="chp-release"]'
 xpath_nu_extnu = '//a[@class="chp-release"]'
 
-template_wordpress = {
-    'transit_link': None, 
-    'article_text': '//div[contains(@class, "entry-content")]', 
+conf_default = {
+    'wordpress': {
+        'transit_link': None, 
+        'article_text': '//div[contains(@class, "entry-content")]', 
+    }, 
+    'wordpress_2': {
+        'transit_link': None,
+        'article_text': '//div[@class="reading-content"]'
+    }, 
+    'list': {
+        # 'a-demon-lords-tale-dungeons-monster-girls-and-heartwarming-bliss': {
+        #     'transit_link': '/a[contains(@href, "jingai-musume-")]', 
+        #     'article_text': '//div[class="reading-content"]'
+        # }, 
+        'sevens-ln': 'wordpress', 
+        'isekai-tensei-soudouki': 'wordpress', 
+        'the-strange-adventure-of-a-broke-mercenary': 'wordpress', 
+        'okami-wa-nemuranai': 'wordpress', 
+        'manuke-fps': 'wordpress', 
+        'death-march-kara-hajimaru-isekai-kyusoukyoku': 'wordpress', 
+        'the-death-mage-who-doesnt-want-a-fourth-time': 'wordpress_2', 
+        'i-became-the-strongest-with-the-failure-frame【abnormal-state-skill】as-i-devastated-everything': 'wordpress_2', 
+        'ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita': 'wordpress_2', 
+    }
 }
 
-series_watch = {
-    # 'a-demon-lords-tale-dungeons-monster-girls-and-heartwarming-bliss': {
-    #     'transit_link': '/a[contains(@href, "jingai-musume-")]', 
-    #     'article_text': '//div[class="reading-content"]'
-    # }, 
-    'sevens-ln': template_wordpress, 
-    'isekai-tensei-soudouki': template_wordpress, 
-    'the-strange-adventure-of-a-broke-mercenary': template_wordpress, 
-    'okami-wa-nemuranai': template_wordpress, 
-    'manuke-fps': template_wordpress, 
-    'death-march-kara-hajimaru-isekai-kyusoukyoku': template_wordpress, 
-    'the-death-mage-who-doesnt-want-a-fourth-time': {
-        'transit_link': None,
-        'article_text': '//div[@class="reading-content"]'
-    }, 
-    'i-became-the-strongest-with-the-failure-frame【abnormal-state-skill】as-i-devastated-everything': {
-        'transit_link': None,
-        'article_text': '//div[@class="reading-content"]'
-    }, 
-    'ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita': {
-        'transit_link': None,
-        'article_text': '//div[@class="reading-content"]'
-    }, 
-}
-
+with open('list.json', 'w', encoding='utf-8') as jw:
+    json.dump(conf_default, jw, ensure_ascii=False, indent=4, sort_keys=True)
 
 def chapter_zfill(chapter_txt, **zargs):
     if chapter_txt is not None:
@@ -67,7 +65,7 @@ def html2md(text_html, **kargs):
     # kill all script and style elements
     for soup_script in soup_html(["script", "style"]):
         soup_script.decompose()    # rip it out
-    soup_text = re.sub('\n+', '\n', soup_html.get_text())
+    soup_text = re.sub('\n+', '<br/>\n', soup_html.get_text())
     return soup_text.replace('\n', '<br/>\n')
 
 def chapter_md(chapter_link, **kargs):
@@ -108,8 +106,21 @@ def chapter_transit(chapter_landing, **kargs):
     else:
         return chapter_md(chapter_landing, article = xpath_article)
 
+def json2dict(json_path):
+    if os.path.isfile(json_path):
+        try:
+            with open(json_path, 'r') as jr:
+                json_dict = json.load(jr)
+        except Exception as excp:
+            print (excp)
+            json_dict = {}
+    else:
+        json_dict = {}
+    return json_dict
+
 if __name__ == '__main__':
     path_base = os.path.dirname(os.path.realpath(__file__))
+    path_conf = os.path.join(path_base, 'list.json')
 
     import argparse
     parser = argparse.ArgumentParser(description = 'Scraping Arguments.')
@@ -130,11 +141,23 @@ if __name__ == '__main__':
     console_args = parser.parse_args()
     
     # Load/Init JSON
-    if os.path.isfile(console_args.path_json):
-        with open(console_args.path_json, 'r') as j:
-            data_watched = json.load(j)
-    else:
-        data_watched = {}
+    conf_list = json2dict(path_conf)
+    # Config format: { "template1": {"redirect", "article"}, "template2": {"redirect", "article"}, "list": {"name": {"redirect", "article"}, } }
+    series_watch = {}
+    for k, v in conf_list["list"].items():
+        if isinstance(v, str):
+            if v in conf_list.keys():
+                series_watch[k] = conf_list[v]
+            else:
+                print ('[SKIP] Conf Template NotFound: "%s" = %s' % (k, v))
+        elif isinstance(v, dict):
+            if 'article' in v.keys() and len(v['article']) > 0:
+                series_watch[k] = v
+            else:
+                print ('[SKIP] Conf XPath Missing: "%s" = %s' % (k, v))
+        else:
+            print ('[SKIP] Conf Invalid: "%s" = %s' % (k, v))
+    data_watched = json2dict(console_args.path_json)
     
     # Process series
     page_done = set([])
@@ -226,4 +249,4 @@ if __name__ == '__main__':
             countdown(console_args.time_wait, txt = 'Next page "%s" in' % page_next)
         # Update watched.json after processing each serie
         with open(console_args.path_json, 'w', encoding='utf-8') as j:
-            json.dump(data_watched, j, ensure_ascii = False, indent = 4)
+            json.dump(data_watched, j, ensure_ascii=False, indent=4, sort_keys=True)

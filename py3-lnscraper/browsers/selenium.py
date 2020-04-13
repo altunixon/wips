@@ -19,6 +19,7 @@ class SeleniumBrowser():
         self.capability = options.pop('capability', 'chrome')
         self.html_404   = '//*[contains(@Text(), "This site can’t be reached")]'
         # self.type    = 'unknown'
+        self.driver_bin = options.pop('driver_bin', None)
         self.wait    = int(options.pop('wait', 31))
         self.retries = int(options.pop('retry', 2))
         self.verify  = options.pop('verify', False)
@@ -68,12 +69,14 @@ class SeleniumBrowser():
             else False
         if br_capability.lower() == 'firefox':
             # self.type = 'firefox'
-            web_driver = os.path.join(
-                self.prog_path, 
-                'geckodriver.exe' \
-                    if ostype_nt \
-                    else 'geckodriver'
-            )
+            web_driver = self.driver_bin \
+                if self.driver_bin is not None \
+                else os.path.join(
+                    self.prog_path, 
+                    'geckodriver.exe' \
+                        if ostype_nt \
+                        else 'geckodriver'
+                )
             #os.environ["webdriver.gecko.driver"] = web_driver
             firefox_prof = webdriver.FirefoxProfile()
             firefox_prof.set_preference(
@@ -104,12 +107,14 @@ class SeleniumBrowser():
         elif br_capability.lower() == 'chrome' \
         or br_capability.lower() == 'chromium':
             # self.type = 'chrome'
-            web_driver = os.path.join(
-                self.prog_path, 
-                'chromedriver.exe' \
-                    if ostype_nt \
-                    else 'chromedriver'
-            )
+            web_driver = self.driver_bin \
+                if self.driver_bin is not None \
+                else os.path.join(
+                    self.prog_path, 
+                    'chromedriver.exe' \
+                        if ostype_nt \
+                        else 'chromedriver'
+                )
             #os.environ["webdriver.chrome.driver"] = web_driver
             chrome_useropts = webdriver.ChromeOptions()
             chrome_useropts.add_argument('--no-proxy-server')

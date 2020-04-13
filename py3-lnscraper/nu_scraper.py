@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from helpers.str_helper import urlPrefixer, string_sanitizer
 from helpers.misc import countdown
 from helpers.dir_helper import MkDirP
+from browsers.selenium import SeleniumBrowser
 from browsers.scraper_lxml import html_scraper
 
 nu_prefix = 'https://www.novelupdates.com/series/'
@@ -13,35 +14,6 @@ xpath_nu_release = '//table[@id="myTable"]/tbody/tr'
 xpath_nu_group = '//a[contains(@href, "/group/")]'
 xpath_nu_chapter = '//a[@class="chp-release"]'
 xpath_nu_extnu = '//a[@class="chp-release"]'
-
-conf_default = {
-    'wordpress': {
-        'transit_link': None, 
-        'article_text': '//div[contains(@class, "entry-content")]', 
-    }, 
-    'wordpress_2': {
-        'transit_link': None,
-        'article_text': '//div[@class="reading-content"]'
-    }, 
-    'list': {
-        # 'a-demon-lords-tale-dungeons-monster-girls-and-heartwarming-bliss': {
-        #     'transit_link': '/a[contains(@href, "jingai-musume-")]', 
-        #     'article_text': '//div[class="reading-content"]'
-        # }, 
-        'sevens-ln': 'wordpress', 
-        'isekai-tensei-soudouki': 'wordpress', 
-        'the-strange-adventure-of-a-broke-mercenary': 'wordpress', 
-        'okami-wa-nemuranai': 'wordpress', 
-        'manuke-fps': 'wordpress', 
-        'death-march-kara-hajimaru-isekai-kyusoukyoku': 'wordpress', 
-        'the-death-mage-who-doesnt-want-a-fourth-time': 'wordpress_2', 
-        'i-became-the-strongest-with-the-failure-frame【abnormal-state-skill】as-i-devastated-everything': 'wordpress_2', 
-        'ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita': 'wordpress_2', 
-    }
-}
-
-with open('list.json', 'w', encoding='utf-8') as jw:
-    json.dump(conf_default, jw, ensure_ascii=False, indent=4, sort_keys=True)
 
 def chapter_zfill(chapter_txt, **zargs):
     if chapter_txt is not None:
@@ -70,7 +42,7 @@ def html2md(text_html, **kargs):
 
 def chapter_md(chapter_link, **kargs):
     xpath_article = kargs.pop('article', None)
-    chapter_html = requests.get(chapter_link).content
+    chapter_html = browser_sel.get(chapter_link, read=True, wait=7)
     chapter_article = html_scraper(
         chapter_html, 
         tag_content = xpath_article
@@ -86,7 +58,7 @@ def chapter_transit(chapter_landing, **kargs):
     xpath_transit = kargs.pop('transit', None)
     xpath_article = kargs.pop('article', None)
     if xpath_transit is not None:
-        landing_html = requests.get(chapter_landing).content
+        landing_html = browser_sel.get(chapter_landing, read=True, wait=7)
         landing_redirect = html_scraper(
             landing_html, 
             href = xpath_transit
@@ -121,6 +93,10 @@ def json2dict(json_path):
 if __name__ == '__main__':
     path_base = os.path.dirname(os.path.realpath(__file__))
     path_conf = os.path.join(path_base, 'list.json')
+    browser_sel = SeleniumBrowser(
+        capability='chrome@localhost:4445', 
+        driver_bin='/usr/bin/chromedriver'
+    )
 
     import argparse
     parser = argparse.ArgumentParser(description = 'Scraping Arguments.')
@@ -144,19 +120,22 @@ if __name__ == '__main__':
     conf_list = json2dict(path_conf)
     # Config format: { "template1": {"redirect", "article"}, "template2": {"redirect", "article"}, "list": {"name": {"redirect", "article"}, } }
     series_watch = {}
-    for k, v in conf_list["list"].items():
-        if isinstance(v, str):
-            if v in conf_list.keys():
-                series_watch[k] = conf_list[v]
+    if os.path.isfile(path_conf):
+        for k, v in conf_list["list"].items():
+            if isinstance(v, str):
+                if v in conf_list.keys():
+                    series_watch[k] = conf_list[v]
+                else:
+                    print ('[SKIP] Conf Template NotFound: "%s" = %s' % (k, v))
+            elif isinstance(v, dict):
+                if 'article' in v.keys() and len(v['article']) > 0:
+                    series_watch[k] = v
+                else:
+                    print ('[SKIP] Conf XPath Missing: "%s" = %s' % (k, v))
             else:
-                print ('[SKIP] Conf Template NotFound: "%s" = %s' % (k, v))
-        elif isinstance(v, dict):
-            if 'article' in v.keys() and len(v['article']) > 0:
-                series_watch[k] = v
-            else:
-                print ('[SKIP] Conf XPath Missing: "%s" = %s' % (k, v))
-        else:
-            print ('[SKIP] Conf Invalid: "%s" = %s' % (k, v))
+                print ('[SKIP] Conf Invalid: "%s" = %s' % (k, v))
+    else:
+        pass
     data_watched = json2dict(console_args.path_json)
     
     # Process series
@@ -171,7 +150,7 @@ if __name__ == '__main__':
         while page_next is not None and page_next not in page_done:
             page_done.add(page_next)
             ### CHANGE TO HTML_SCRAPER
-            page_html = requests.get(page_next).content
+            page_html = browser_sel.get(page_next, read=True, wait=7)
             # print (html_scraper(page_html, tag_content = '//table[@id="myTable"]')['tag_content'])
             page_data = html_scraper(
                 page_html, 
@@ -189,6 +168,7 @@ if __name__ == '__main__':
                     chapter_group = x(chapter_data, 'text_group')
                     if chapter_extnu is not None and chapter_name is not None:
                         if chapter_name not in data_watched[series_url].keys():
+                            # invest selenium get current url
                             chapter_req = requests.head(chapter_extnu, allow_redirects = True)
                             chapter_url = chapter_req.url
                             print (
@@ -198,16 +178,17 @@ if __name__ == '__main__':
                                     chapter_url
                                 )
                             )
-                            if series_watch[series_nu]['transit_link'] is None:
+                            if 'transit' not in series_watch[series_nu].keys() \
+                            or series_watch[series_nu]['transit'] is None:
                                 chapter_out = chapter_md(
                                     chapter_url, 
-                                    article = series_watch[series_nu]['article_text']
+                                    article = series_watch[series_nu]['article']
                                 )
                             else:
                                 chapter_out = chapter_transit(
                                     chapter_url, 
-                                    transit = series_watch[series_nu]['transit_link'], 
-                                    article = series_watch[series_nu]['article_text']
+                                    transit = series_watch[series_nu]['transit'], 
+                                    article = series_watch[series_nu]['article']
                                 )
                             if chapter_out is not None:
                                 chapter_saveas = os.path.join(series_saveto, 

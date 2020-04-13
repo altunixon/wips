@@ -1,0 +1,25 @@
+{
+    "list": {
+        "ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita": "wordpress_2",
+        "death-march-kara-hajimaru-isekai-kyusoukyoku": "wordpress",
+        "i-became-the-strongest-with-the-failure-frame【abnormal-state-skill】as-i-devastated-everything": "wordpress_2",
+        "isekai-tensei-soudouki": "wordpress",
+        "isekai-yururi-kikou-raising-children-while-being-an-adventurer": {
+            "article": "//div[@class=\"entry-inner\"]"
+        },
+        "manuke-fps": "wordpress",
+        "okami-wa-nemuranai": "wordpress",
+        "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
+        "sevens-ln": "wordpress",
+        "the-death-mage-who-doesnt-want-a-fourth-time": "wordpress_2",
+        "the-strange-adventure-of-a-broke-mercenary": "wordpress"
+    },
+    "wordpress": {
+        "article": "//div[contains(@class, \"entry-content\")]",
+        "transit": null
+    },
+    "wordpress_2": {
+        "article": "//div[@class=\"reading-content\"]",
+        "transit": null
+    }
+}

@@ -185,20 +185,15 @@ if __name__ == '__main__':
                                     article = series_watch[series_nu]['article']
                                 )
                             chapter_url = browser_sel.driver.current_url
-                            print (
-                                '[READ] Scraping %s [%s]: %s' % (
-                                    chapter_group, 
-                                    chapter_name, 
-                                    chapter_url
-                                )
-                            )
+                            print ('[READ] Scraping %s [%s %s]: %s' % (
+                                    chapter_group, series_nu, chapter_name, chapter_url))
                             if chapter_out is not None:
                                 chapter_saveas = os.path.join(series_saveto, 
                                     '%s.md' % string_sanitizer(chapter_name)
                                 )
                                 data_watched[series_url][chapter_name] = chapter_url
                             else:
-                                print ('[#404] %s: "%s" > "%s"' % (chapter_name, chapter_extnu, chapter_url))
+                                print ('[#404] %s %s: "%s" > "%s"' % (series_nu, chapter_name, chapter_extnu, chapter_url))
                                 chapter_saveas = os.path.join(series_saveto, 
                                     '%s-BLANK.md' % string_sanitizer(chapter_name)
                                 )

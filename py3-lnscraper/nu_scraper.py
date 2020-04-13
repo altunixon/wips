@@ -37,7 +37,7 @@ def html2md(text_html, **kargs):
     # kill all script and style elements
     for soup_script in soup_html(["script", "style"]):
         soup_script.decompose()    # rip it out
-    soup_text = re.sub('\n+', '<br/>\n', soup_html.get_text())
+    soup_text = re.sub('\n\n+', '<br/>\n', soup_html.get_text())
     return soup_text.replace('\n', '<br/>\n')
 
 def chapter_md(chapter_link, **kargs):

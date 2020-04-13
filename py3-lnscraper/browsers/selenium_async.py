@@ -19,25 +19,27 @@ class SeleniumBrowser():
         self.capability = options.pop('capability', 'chrome')
         self.html_404   = '//*[contains(@Text(), "This site can’t be reached")]'
         # self.type    = 'unknown'
-        self.driver_bin = options.pop('driver_bin', None)
         self.wait    = int(options.pop('wait', 31))
         self.retries = int(options.pop('retry', 2))
         self.verify  = options.pop('verify', False)
-        self.dlexpect= options.pop('expect', 'img,arc,zip,rar,torrent,mp4,webm,misc')
+        self.dlexpect= options.pop('expect', 'img,arc,zip,rar,torrent')
         self.verbose = options.pop('verbose', True)
         self.pcolor  = options.pop('color', False)
         self._brint  = print_log if not self.pcolor else print_color
         self.debug   = options.pop('debug', False)
-        self.proxy   = options.pop('proxy', None)
-        self.proxyDict = None \
-            if self.proxy is not None \
-            else {"http": self.proxy, "https": self.proxy, "ftp": self.proxy,} \
+        self.proxy   = options.pop('proxy', '')
+        self.proxyDict = {
+            "http"  : self.proxy,
+            "https" : self.proxy,
+            "ftp"   : self.proxy,
+            } \
+            if len(self.proxy) > 0 \
+            else None
 
         self.driver = self.init_browser(
             self.capability, 
             **options, 
-            proxy=self.proxyDict
-        )
+            proxy=self.proxyDict)
         # Set page load wait time        
         self.driver.implicitly_wait(self.wait)
         # External downloader
@@ -61,17 +63,21 @@ class SeleniumBrowser():
         window_size = options.pop('window', '640x480')
         chrome_extension = options.pop('extension', None)
         ostype_nt   = True \
-            if os.name == 'nt' or 'cygwin' in system().lower() \
+            if os.name == 'nt' \
+            or 'cygwin' in system().lower() \
             else False
-        driver_bin_fifox = os.path.join(self.prog_path, 'geckodriver.exe' if ostype_nt else 'geckodriver')
-        driver_bin_chrom = os.path.join(self.prog_path, 'chromedriver.exe' if ostype_nt else 'chromedriver')
-
         if br_capability.lower() == 'firefox':
             # self.type = 'firefox'
-            web_driver = self.driver_bin if self.driver_bin is not None else driver_bin_fifox
+            web_driver = os.path.join(
+                self.prog_path, 
+                'geckodriver.exe' \
+                    if ostype_nt \
+                    else 'geckodriver'
+            )
             #os.environ["webdriver.gecko.driver"] = web_driver
             firefox_prof = webdriver.FirefoxProfile()
-            firefox_prof.set_preference("browser.privatebrowsing.autostart", True)
+            firefox_prof.set_preference(
+                "browser.privatebrowsing.autostart", True)
             firefox_prof.set_preference("reader.parse-on-load.enabled", False)
             firefox_prof.set_preference("devtools.jsonview.enabled", False)
             firefox_prof.set_preference('network.proxy.Kind', 'Direct')
@@ -98,18 +104,19 @@ class SeleniumBrowser():
         elif br_capability.lower() == 'chrome' \
         or br_capability.lower() == 'chromium':
             # self.type = 'chrome'
-            web_driver = self.driver_bin if self.driver_bin is not None else driver_bin_chrom
+            web_driver = os.path.join(
+                self.prog_path, 
+                'chromedriver.exe' \
+                    if ostype_nt \
+                    else 'chromedriver'
+            )
             #os.environ["webdriver.chrome.driver"] = web_driver
             chrome_useropts = webdriver.ChromeOptions()
-            
-            if off_screen:
-                chrome_useropts.add_argument('--window-position="-1920,-1080"')
-            else:
-                pass
-            if private:
-                chrome_useropts.add_argument('--incognito')
-            else:
-                pass
+            chrome_useropts.add_argument('--no-proxy-server')
+            if off_screen: chrome_useropts.add_argument('--window-position="-1920,-1080"')
+            else: pass
+            if private: chrome_useropts.add_argument('--incognito')
+            else: pass
             if head_less:
                 chrome_useropts.add_argument('--headless')
                 chrome_useropts.add_argument('--disable-gpu')
@@ -122,9 +129,10 @@ class SeleniumBrowser():
             chrome_useropts.add_argument('--no-sandbox')
             chrome_useropts.add_argument('--disable-dev-shm-usage')
             if proxyDict is not None:
-                chrome_useropts.add_argument('--proxy-server=%s' % proxyDict['http'])
+                chrome_useropts.add_argument(
+                    '--proxy-server=%s' % proxyDict['http'])
             else:
-                chrome_useropts.add_argument('--no-proxy-server')
+                pass
             driver = webdriver.Chrome(
                 web_driver, 
                 chrome_options = chrome_useropts

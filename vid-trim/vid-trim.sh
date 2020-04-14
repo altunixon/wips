@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
+IFS=$'\r\n'
 path_out=${1:-'./'}
-path_temp="/tmp"
+path_temp="/media/alt/ramdisk1"
 temp_img="${path_temp}/screenshot-trim.jpg"
 trim_fuzz="25%"
 
@@ -26,9 +27,10 @@ for v_in in ${@:2}; do
     $ss_h=$(echo "$ss_geo" | awk -F 'x' '{print $2}')
     # Crop video to final dimensions
     echo -e "Trim: '$v_base' [$v_resolution] => [$ss_geo]"
-    ffmpeg -i "$temp_vid" -filter:v "crop=$ss_w:$ss_h" -c:a copy "$v_out"
+    # ffmpeg -i "$temp_vid" -filter:v "crop=$ss_w:$ss_h" -c:a copy "$v_out"
+    ffmpeg -i "$temp_vid" -vf "crop=$ss_w:$ss_h" "$v_out"
     # Cleanup temp files
-    rm "$temp_img" "$temp_vid"
+    # rm "$temp_img" "$temp_vid"
 done
 
 # For Filename

@@ -8,6 +8,7 @@
         "sevens-ln": "wordpress",
         "the-death-mage-who-doesnt-want-a-fourth-time": "wordpress_2",
         "the-strange-adventure-of-a-broke-mercenary": "wordpress",
+        "hazure-skill-mapping-wo-te-ni-shita-ore-wa-saikyou-party-to-tomo-ni-dungeon-ni-idomu": "blogspot",
         "ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita": "wordpress_2",
         "manuke-fps": "wordpress",
         "isekai-yururi-kikou-raising-children-while-being-an-adventurer": {
@@ -20,6 +21,10 @@
     },
     "wordpress_2": {
         "article": "//div[@class=\"reading-content\"]",
+        "transit": null
+    },
+    "blogspot": {
+        "article": "//div/div[@class=\"post\"]",
         "transit": null
     }
 }

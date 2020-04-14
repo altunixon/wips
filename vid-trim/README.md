@@ -1,4 +1,4 @@
-### ffmpeg Take [screenshot] ar 30 second mark
+### ffmpeg take [screenshot] at 30 second mark
 ```bash
 ffmpeg -ss 00:00:30 -i input -vframes 1 -q:v 5 /tmp/screenshot.jpg
 ```
@@ -13,7 +13,7 @@ $ss_geo=$(magick identify /tmp/screenshot.jpg | awk '{print $3}')
 $ss_w=$(echo "$ss_geo" | awk -F 'x' '{print $1}')
 $ss_h=$(echo "$ss_geo" | awk -F 'x' '{print $2}')
 ```
-### Crop video ([default from center]) to final dimensions
+### ffmpeg [crop video] (default from center) to final dimensions
 ```bash
 ffmpeg -i input.mp4 -filter:v "crop=$ss_w:$ss_h" -c:a copy output.mp4
 ```
@@ -21,4 +21,4 @@ ffmpeg -i input.mp4 -filter:v "crop=$ss_w:$ss_h" -c:a copy output.mp4
 [video resolution]:https://trac.ffmpeg.org/wiki/FFprobeTips
 [trim]:http://www.imagemagick.org/Usage/crop/#trim_fuzz
 [geometry]:https://imagemagick.org/script/identify.php
-[default from center]:https://video.stackexchange.com/questions/4563/how-can-i-crop-a-video-with-ffmpeg
+[crop video]:https://video.stackexchange.com/questions/4563/how-can-i-crop-a-video-with-ffmpeg

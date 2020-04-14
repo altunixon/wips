@@ -4,7 +4,7 @@ IFS=$'\r\n'
 path_out=${1:-'./'}
 path_temp="/media/alt/ramdisk1"
 temp_img="${path_temp}/screenshot-trim.jpg"
-trim_fuzz="25%"
+trim_fuzz="5%"
 
 for v_in in ${@:2}; do
     # Get file name and extension
@@ -16,21 +16,22 @@ for v_in in ${@:2}; do
     temp_vid="${path_temp}/vid-in.${v_ext}"
     cp -rf "$v_in" "$temp_vid"
     
-    v_resolution=$(ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of csv=s=x:p=0 "$temp_vid")
+    # v_resolution=$(ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of csv=s=x:p=0 "$temp_vid")
     # Take screenshot
-    ffmpeg -ss 00:00:30 -i "$temp_vid" -vframes 1 -q:v 5 "$temp_img"
+    ffmpeg -hide_banner -ss 00:00:30 -i "$temp_vid" -vframes 1 -q:v 5 "$temp_img"
+    v_resolution=$(identify "$temp_img" | awk '{print $3}')
     # Trim screenshot img
     mogrify -trim -fuzz $trim_fuzz "$temp_img"
     # Detect final dimensions
-    $ss_geo=$(magick identify "$temp_img" | awk '{print $3}')
-    $ss_w=$(echo "$ss_geo" | awk -F 'x' '{print $1}')
-    $ss_h=$(echo "$ss_geo" | awk -F 'x' '{print $2}')
+    ss_geo=$(identify "$temp_img" | awk '{print $3}')
+    ss_w=$(echo "$ss_geo" | awk -F 'x' '{print $1}')
+    ss_h=$(echo "$ss_geo" | awk -F 'x' '{print $2}')
     # Crop video to final dimensions
     echo -e "Trim: '$v_base' [$v_resolution] => [$ss_geo]"
     # ffmpeg -i "$temp_vid" -filter:v "crop=$ss_w:$ss_h" -c:a copy "$v_out"
-    ffmpeg -i "$temp_vid" -vf "crop=$ss_w:$ss_h" "$v_out"
+    ffmpeg -hide_banner -i "$temp_vid" -vf "crop=$ss_w:$ss_h" "$v_out"
     # Cleanup temp files
-    # rm "$temp_img" "$temp_vid"
+    rm "$temp_img" "$temp_vid"
 done
 
 # For Filename

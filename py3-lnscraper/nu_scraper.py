@@ -35,8 +35,8 @@ def html2md(text_html, **kargs):
     soup_features = kargs.pop('features', 'lxml')
     soup_html = BeautifulSoup(text_html, features = soup_features)
     # kill all script and style elements
-    for soup_script in soup_html(["script", "style"]):
-        soup_script.decompose()    # rip it out
+    # for soup_script in soup_html(["script", "style"]):
+    #     soup_script.decompose()    # rip it out
     # soup_text = re.sub('\n+', '\n', soup_html.get_text()) # WTF no break!?
     soup_text = soup_html.get_text()
     return soup_text.replace('\n', '<br/>\n')

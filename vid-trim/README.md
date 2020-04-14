@@ -17,7 +17,7 @@ $ss_h=$(echo "$ss_geo" | awk -F 'x' '{print $2}')
 ```bash
 ffmpeg -i input.mp4 -filter:v "crop=$ss_w:$ss_h" -c:a copy output.mp4
 ```
-### Argument [as array] from position 2
+### Argument [as array] from position 2, more on [array syntax]
 ```bash
 ${@:2}
 ```
@@ -28,3 +28,4 @@ ${@:2}
 [geometry]:https://imagemagick.org/script/identify.php
 [crop video]:https://video.stackexchange.com/questions/4563/how-can-i-crop-a-video-with-ffmpeg
 [as array]:https://wiki.bash-hackers.org/scripting/posparams#mass_usage
+[array syntax]:https://wiki.bash-hackers.org/syntax/arrays#syntax

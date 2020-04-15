@@ -46,7 +46,7 @@ case $trem_mode in
                     *)
                         echo -e "Ignore Mapped Match, Staying with '$trem_dst'"
                         # Update mapfile with new keyword&path
-                        sed -i "/$mapd_key/d" "$path_mapfile"
+                        sed -i "/^$mapd_key/d" "$path_mapfile"
                         echo "${trem_key}|${trem_dst}" >> $path_mapfile
                     ;;
                 esac
@@ -60,14 +60,32 @@ case $trem_mode in
     replay)
         trem_key=${2:-}
         warning_empty $trem_mode "KEY" $trem_key
-        if [ $(grep "${trem_key}" $path_mapfile | wc -l) -gt 0 ]; then
-        
+        trem_maps=($(grep "${trem_key}" "$path_mapfile"))
+        if [ ${#trem_maps[@]} -gt 0 ]; then
+            echo -e "Multiple [$trem_key] Match:"
+            for map_line in $(seq 0 ${#trem_maps[@]}); do
+                # ??? might be wrong
+                echo -e "[$map_line]: '${trem_maps[mapline]}'"
+            done
+            read -p "Choose [0-${#trem_maps[@]}] to continue: " map_choice
+            case $map_choice in
+                [0-9]*) trem_map_chosen="${trem_maps[map_choice]}";;
+                *) trem_map_chosen="${trem_maps[0]}";;
+            esac
         else
-        
+            trem_map_chosen="${trem_maps[@]}"
         fi
+        trem_key=$(echo "$trem_map_chosen" | awk -F '|' '{print $1}')
+        trem_dst=$(echo "$trem_map_chosen" | awk -F '|' '{print $2}')
+        trem "${trem_dst}" ./*${trem_key}*
     ;;
     autoplay)
         trem_src=${2:-'./'}
+        for map_line in $(cat "$path_mapfile"); do
+            trem_key=$(echo "$map_line" | awk -F '|' '{print $1}')
+            trem_dst=$(echo "$map_line" | awk -F '|' '{print $2}')
+            trem "${trem_dst}" ./*${trem_key}*
+        done
     ;;
 esac
 echo -e "FINISH [$trem_mode]"

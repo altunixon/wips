@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 IFS=$'\r\n'
-path_mapfile="mapfile.txt"
+path_mapfile="/home/alt/git-repo/txt-lists/trem-maps.txt"
 
 function warning_empty() {
     if [ -z $3 ]; then
@@ -18,10 +18,10 @@ case $trem_mode in
         trem_key=${2:-}
         if [ -z $trem_key ]; then
             for x in $(cat "$path_mapfile"); do
-                echo "$x" | awk -F '|' '{print "trem \'"$2"\' *"$1"*"}'
+                echo "$x" | awk -F '|' '{print "trem \""$2"\" *"$1"*"}'
             done
         else
-            grep "$trem_key" "$path_mapfile" | awk -F '|' '{print "trem \'"$2"\' *"$1"*"}'
+            grep "$trem_key" "$path_mapfile" | awk -F '|' '{print "trem \""$2"\" *"$1"*"}'
         fi
     ;;
     add)
@@ -47,15 +47,15 @@ case $trem_mode in
                         echo -e "Ignore Mapped Match, Staying with '$trem_dst'"
                         # Update mapfile with new keyword&path
                         sed -i "/^$mapd_key/d" "$path_mapfile"
-                        echo "${trem_key}|${trem_dst}" >> $path_mapfile
+                        echo -e "${trem_key}|${trem_dst}\n" >> $path_mapfile
                     ;;
                 esac
             fi
         else
-            echo "${trem_key}|${trem_dst}" >> $path_mapfile
+            echo -e "${trem_key}|${trem_dst}\n" >> $path_mapfile
         fi
         # Add torrent
-        trem "${trem_dst}" ./*${trem_key}*
+        /home/alt/bin-sh/trem-add normal "${trem_dst}" ./*${trem_key}*
     ;;
     replay)
         trem_key=${2:-}
@@ -77,14 +77,14 @@ case $trem_mode in
         fi
         trem_key=$(echo "$trem_map_chosen" | awk -F '|' '{print $1}')
         trem_dst=$(echo "$trem_map_chosen" | awk -F '|' '{print $2}')
-        trem "${trem_dst}" ./*${trem_key}*
+        /home/alt/bin-sh/trem-add normal "${trem_dst}" ./*${trem_key}*
     ;;
     autoplay)
         trem_src=${2:-'./'}
         for map_line in $(cat "$path_mapfile"); do
             trem_key=$(echo "$map_line" | awk -F '|' '{print $1}')
             trem_dst=$(echo "$map_line" | awk -F '|' '{print $2}')
-            trem "${trem_dst}" ./*${trem_key}*
+            /home/alt/bin-sh/trem-add normal "${trem_dst}" ./*${trem_key}*
         done
     ;;
 esac

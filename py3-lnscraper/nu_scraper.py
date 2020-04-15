@@ -193,15 +193,15 @@ if __name__ == '__main__':
                             or series_watch[series_nu]['transit'] is None:
                                 chapter_out = chapter_md(
                                     chapter_extnu, 
-                                    article = series_watch[series_nu]['article']
+                                    article = series_watch[series_nu]['article'], 
                                     wait = wait_time.medium
                                 )
                             else:
                                 chapter_out = chapter_transit(
                                     chapter_extnu, 
                                     transit = series_watch[series_nu]['transit'], 
-                                    article = series_watch[series_nu]['article']
-                                    wait_time = wait_time.medium
+                                    article = series_watch[series_nu]['article'], 
+                                    wait = wait_time.medium
                                 )
                             chapter_url = browser_sel.driver.current_url
                             print ('[READ] Scraping %s [%s %s]: %s' % (

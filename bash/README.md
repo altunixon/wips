@@ -11,4 +11,18 @@ function ext-swap() {
     done
     unset IFS
 }
+
+function auto-xarg() {
+    IFS=$'\r\n'
+    cmd_out=${1:-}
+    cmd_in=${2:-}
+    if [ -z $cmd_in ] || [ -z $cmd_out ]; then
+        echo -e "Usage:\n\tauto-xarg '<cmd_out>' '<cmd_in>'\nNot: auto-xarg '$cmd_out' '$cmd_in'"
+    else
+        for x_arg in $(eval "$cmd_in"); do
+            eval "$cmd_out" "$x_arg"
+        done
+    fi
+    unset IFS
+}
 ```

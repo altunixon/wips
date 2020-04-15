@@ -2,6 +2,7 @@
 import requests, os, re, json
 from lxml import html
 from bs4 import BeautifulSoup
+from collections import namedtuple
 from helpers.str_helper import urlPrefixer, string_sanitizer
 from helpers.misc import countdown
 from helpers.dir_helper import MkDirP
@@ -38,12 +39,13 @@ def html2md(text_html, **kargs):
     for soup_script in soup_html(["script", "style"]):
         soup_script.decompose()    # rip it out
     soup_text = re.sub('^\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
-    soup_text = soup_html.get_text()
+    # soup_text = soup_html.get_text()
     return soup_text.replace('\n', '<br/>\n')
 
 def chapter_md(chapter_link, **kargs):
     xpath_article = kargs.pop('article', None)
-    chapter_html = browser_sel.get(chapter_link, read=True, wait=round(3 * 2.5))
+    wait_seconds = kargs.pop('wait', 11)
+    chapter_html = browser_sel.get(chapter_link, read=True, wait=wait_seconds)
     chapter_article = html_scraper(
         chapter_html, refer = chapter_link, tag_content = xpath_article
     )['tag_content']
@@ -57,8 +59,9 @@ def chapter_md(chapter_link, **kargs):
 def chapter_transit(chapter_landing, **kargs):
     xpath_transit = kargs.pop('transit', None)
     xpath_article = kargs.pop('article', None)
+    wait_seconds = kargs.pop('wait', 11)
     if xpath_transit is not None:
-        landing_html = browser_sel.get(chapter_landing, read=True, wait=round(3 * 2.5))
+        landing_html = browser_sel.get(chapter_landing, read=True, wait=wait_seconds)
         landing_redirect = html_scraper(
             landing_html, 
             refer = chapter_landing, 
@@ -97,7 +100,7 @@ if __name__ == '__main__':
         capability='chrome@localhost:4445', 
         driver_bin='/usr/bin/chromedriver'
     )
-    browser_sel.get(nu_prefix, wait=round(3 * 3.5))
+    browser_sel.get(nu_prefix, wait=11)
 
     import argparse
     parser = argparse.ArgumentParser(description = 'Scraping Arguments.')
@@ -121,6 +124,14 @@ if __name__ == '__main__':
     parser.set_defaults(check_ulazy = False)
     console_args = parser.parse_args()
     
+    # Set various wait times
+    wait_boiler = namedtuple('WaitTime', ['low', 'medium', 'high'])
+    if console_args.time_wait < 10:
+        wait_time = wait_boiler(
+            console_args.time_wait, round(console_args.time_wait * 1.5), round(console_args.time_wait * 2.5))
+    else:
+        wait_time = wait_boiler(
+            round(console_args.time_wait * 0.75), console_args.time_wait, round(console_args.time_wait * 1.5))
     # Load/Init JSON
     conf_list = json2dict(path_conf)
     # Config format: { "template1": {"redirect", "article"}, "template2": {"redirect", "article"}, "list": {"name": {"redirect", "article"}, } }
@@ -155,10 +166,14 @@ if __name__ == '__main__':
         while page_next is not None and page_next not in page_done:
             page_done.add(page_next)
             ### CHANGE TO HTML_SCRAPER
-            page_html = browser_sel.get(page_next, read=True, wait=round(3 * 2.5))
+            browser_sel.get(page_next, read=False, wait=wait_time.high)
+            if browser_sel.driver.current_url != page_next:
+                browser_sel.get(page_next, read=False, wait=(wait_time.high + wait_time.medium))
+            else:
+                pass
             # print (html_scraper(page_html, tag_content = '//table[@id="myTable"]')['tag_content'])
             page_data = html_scraper(
-                page_html, 
+                browser_sel.read(), 
                 refer = page_next,
                 pair = xpath_nu_release, 
                 text_chapter = xpath_nu_chapter, 
@@ -179,12 +194,14 @@ if __name__ == '__main__':
                                 chapter_out = chapter_md(
                                     chapter_extnu, 
                                     article = series_watch[series_nu]['article']
+                                    wait = wait_time.medium
                                 )
                             else:
                                 chapter_out = chapter_transit(
                                     chapter_extnu, 
                                     transit = series_watch[series_nu]['transit'], 
                                     article = series_watch[series_nu]['article']
+                                    wait_time = wait_time.medium
                                 )
                             chapter_url = browser_sel.driver.current_url
                             print ('[READ] Scraping %s [%s %s]: %s' % (
@@ -211,7 +228,7 @@ if __name__ == '__main__':
                                     sf.write(chapter_out)
                             else:
                                 print ('[SKIP] File "%s" Exists.' % chapter_saveas)
-                            countdown(3, txt = '%s: done next chapter in' % chapter_name)
+                            countdown(wait_time.low, txt = '%s: done next chapter in' % chapter_name)
                         else:
                             print ('[SKIP] Json "%s"' % data_watched[series_url][chapter_name])
                     else:
@@ -226,7 +243,7 @@ if __name__ == '__main__':
                     page_next = None
             else:
                 page_next = None
-            countdown(3, txt = 'Next page "%s" in' % page_next)
+            # countdown(3, txt = 'Next page "%s" in' % page_next)
         # Update watched.json after processing each serie
         with open(console_args.path_json, 'w', encoding='utf-8') as j:
             json.dump(data_watched, j, ensure_ascii=False, indent=4, sort_keys=True)

@@ -5,7 +5,7 @@ path_mapfile="/home/alt/git-repo/txt-lists/trem-maps.txt"
 trem_alias="/home/alt/bin-sh/trem-add normal"
 trem_recycle="/tmp/recyclebin/trem"
 msg_help="Usage:\n\t$0 <ls> [keyword]\n\t$0 <add> <dest> <keyword>\n\t$0 <replay|autoplay> <keyword>"
-mkdir -p "$trem_recycle"
+[ ! -d "$trem_recycle" ] && mkdir -p "$trem_recycle"
 
 function warning_empty() {
     if [ -z $3 ]; then
@@ -17,9 +17,10 @@ function warning_empty() {
 
 function recycle_torrent() {
     if [ -d "$trem_recycle" ]; then
-        mv ./*"$1"* "${trem_recycle%%/}/"
+        mv -f ./*"${1}"* "${trem_recycle%%/}/"
     else
-        echo -e "RecycleBin: '${trem_recycle}'\nMaybe cleanup by hand?: rm ./*${1}*"
+        echo -e "RecycleBin: '${trem_recycle}'\nMaybe cleanup by hand?: rm ./*\"${1}\"*"
+        # rm ./*"${1}"*
     fi
 }
 
@@ -68,8 +69,8 @@ case $trem_mode in
             echo -e "${trem_key}|${trem_dst}\n" >> $path_mapfile
         fi
         # Add torrent
-        $trem_alias "${trem_dst}" ./*${trem_key}*
-        [ $? -eq 0 ] && recycle_torrent ${trem_key}
+        $trem_alias "${trem_dst}" ./*"${trem_key}"*
+        [ $? -eq 0 ] && recycle_torrent "${trem_key}"
     ;;
     replay)
         trem_key=${2:-}
@@ -92,15 +93,16 @@ case $trem_mode in
         fi
         trem_key=$(echo "$trem_map_chosen" | awk -F '|' '{print $1}')
         trem_dst=$(echo "$trem_map_chosen" | awk -F '|' '{print $2}')
-        $trem_alias "${trem_dst}" ./*${trem_key}*
-        [ $? -eq 0 ] && recycle_torrent ${trem_key}
+        $trem_alias "${trem_dst}" ./*"${trem_key}"*
+        [ $? -eq 0 ] && recycle_torrent "${trem_key}"
     ;;
     autoplay)
         trem_src=${2:-'./'}
         for map_line in $(cat "$path_mapfile"); do
             trem_key=$(echo "$map_line" | awk -F '|' '{print $1}')
             trem_dst=$(echo "$map_line" | awk -F '|' '{print $2}')
-            /home/alt/bin-sh/trem-add normal "${trem_dst}" ./*${trem_key}*
+            $trem_alias "${trem_dst}" ./*"${trem_key}"*
+            [ $? -eq 0 ] && recycle_torrent "${trem_key}"
         done
     ;;
     *)

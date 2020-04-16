@@ -2,7 +2,7 @@
 
 IFS=$'\r\n'
 path_mapfile="/home/alt/git-repo/txt-lists/trem-maps.txt"
-trem_alias="/home/alt/bin-sh/trem-add normal"
+trem_alias=("/home/alt/bin-sh/trem-add" "normal")
 trem_recycle="/tmp/recyclebin/trem"
 msg_help="Usage:\n\t$0 <ls> [keyword]\n\t$0 <add> <dest> <keyword>\n\t$0 <replay|autoplay> <keyword>"
 [ ! -d "$trem_recycle" ] && mkdir -p "$trem_recycle"
@@ -35,7 +35,7 @@ case $trem_mode in
                 echo "$x" | awk -F '|' '{print "trem \""$2"\" *"$1"*"}'
             done
         else
-            grep "$trem_key" "$path_mapfile" | awk -F '|' -v trem="$trem_alias" '{print trem" \""$2"\" *"$1"*"}'
+            grep "$trem_key" "$path_mapfile" | awk -F '|' -v trem="${trem_alias[@]}" '{print trem" \""$2"\" *"$1"*"}'
         fi
     ;;
     add)
@@ -69,14 +69,14 @@ case $trem_mode in
             echo -e "${trem_key}|${trem_dst}\n" >> $path_mapfile
         fi
         # Add torrent
-        $trem_alias "${trem_dst}" ./*"${trem_key}"*
+        ${trem_alias[@]} "${trem_dst}" ./*"${trem_key}"*
         [ $? -eq 0 ] && recycle_torrent "${trem_key}"
     ;;
     replay)
         trem_key=${2:-}
         warning_empty $trem_mode "KEY" $trem_key
         trem_maps=($(grep "${trem_key}" "$path_mapfile"))
-        if [ ${#trem_maps[@]} -gt 1 ]; then]
+        if [ ${#trem_maps[@]} -gt 1 ]; then
             trem_li=$((${#trem_maps[@]} - 1))
             echo -e "Multiple [$trem_key] Match:"
             for map_line in $(seq 0 $trem_li); do
@@ -93,7 +93,7 @@ case $trem_mode in
         fi
         trem_key=$(echo "$trem_map_chosen" | awk -F '|' '{print $1}')
         trem_dst=$(echo "$trem_map_chosen" | awk -F '|' '{print $2}')
-        $trem_alias "${trem_dst}" ./*"${trem_key}"*
+        ${trem_alias[@]} "${trem_dst}" ./*"${trem_key}"*
         [ $? -eq 0 ] && recycle_torrent "${trem_key}"
     ;;
     autoplay)
@@ -101,7 +101,7 @@ case $trem_mode in
         for map_line in $(cat "$path_mapfile"); do
             trem_key=$(echo "$map_line" | awk -F '|' '{print $1}')
             trem_dst=$(echo "$map_line" | awk -F '|' '{print $2}')
-            $trem_alias "${trem_dst}" ./*"${trem_key}"*
+            ${trem_alias[@]} "${trem_dst}" ./*${trem_key}*
             [ $? -eq 0 ] && recycle_torrent "${trem_key}"
         done
     ;;

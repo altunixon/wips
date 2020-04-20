@@ -169,7 +169,11 @@ if __name__ == '__main__':
     rss_url = conf_list["rss"]
     rss_feed = feedparser.parse(rss_url)
     for rss_update in rss_feed.entries:
-        rss_chapter = rss_update['title'].split()[-1]
+        rss_chapter = rss_update['title'].split()[-1].strip()
+        if not rss_chapter.startswith('v') and not rss_chapter.startswith('c'):
+            rss_chapter = string_sanitizer('-'.join(rss_update['title'].split()[-2:]))
+        else:
+            rss_chapter = string_sanitizer(rss_chapter)
         rss_title = rss_update['summary'].split(':')[-1].strip()
         rss_extnu = rss_update['link']
         # print (rss_title, rss_chapter, rss_extnu)

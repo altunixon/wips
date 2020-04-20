@@ -275,7 +275,7 @@ class SeleniumBrowser():
     def read(self, url=None, **options):
         # read_wait = int(options.pop('wait', 0))
         read_dump = options.pop('dump', None)
-        if url is None:
+        if url is None or url == self.driver.current_url:
             html_text = self.driver.page_source
         else:
             html_text = self.get(url, **options, read=True)

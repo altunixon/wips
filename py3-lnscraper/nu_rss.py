@@ -64,7 +64,7 @@ def chapter_transit(chapter_landing, **kargs):
     wait_seconds = kargs.pop('wait', 5)
     if xpath_transit is not None:
         # landing_html = requests.get(chapter_landing).content
-        browser_sel.get(chapter_landing, read=True, wait=wait_seconds)
+        landing_html = browser_sel.get(chapter_landing, read=True, wait=wait_seconds)
         landing_redirect = html_scraper(
             landing_html, 
             refer = chapter_landing, 

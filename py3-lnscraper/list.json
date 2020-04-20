@@ -12,6 +12,8 @@
         "hazure-skill-mapping-wo-te-ni-shita-ore-wa-saikyou-party-to-tomo-ni-dungeon-ni-idomu": "blogspot",
         "ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita": "wordpress_2",
         "manuke-fps": "wordpress",
+        "the-new-gate": "shintranslations",
+        "my-death-flags-show-no-sign-of-ending": "wordpress",
         "isekai-yururi-kikou-raising-children-while-being-an-adventurer": {
             "article": "//div[@class=\"entry-inner\"]"
         }
@@ -23,6 +25,10 @@
     "wordpress_2": {
         "article": "//div[@class=\"reading-content\"]",
         "transit": null
+    },
+    "shintranslations": {
+        "article": "//div[contains(@class, \"entry-content\")]",
+        "transit": "//a[text()[contains(., \"Continue reading\")]]"
     },
     "blogspot": {
         "article": "//div/div[@class=\"post\"]",

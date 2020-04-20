@@ -1,6 +1,12 @@
 {
-    "ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita": {},
-    "hazure-skill-mapping-wo-te-ni-shita-ore-wa-saikyou-party-to-tomo-ni-dungeon-ni-idomu": {},
+    "ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita": {
+        "part3": "https://wordexcerpt.com/series/ankoku-kishi-monogatari/chapter-53-3/",
+        "v1c6": "https://wordexcerpt.com/series/ankoku-kishi-monogatari/re/act-1-6/"
+    },
+    "hazure-skill-mapping-wo-te-ni-shita-ore-wa-saikyou-party-to-tomo-ni-dungeon-ni-idomu": {
+        "c47": "https://masakiblueitranslation.blogspot.com/2020/04/hazure-skill-mapping-wo-te-ni-shita-ore_36.html",
+        "c48": "https://masakiblueitranslation.blogspot.com/2020/04/hazure-skill-mapping-wo-te-ni-shita-ore_19.html"
+    },
     "i-became-the-strongest-with-the-failure-frame": {
         "c152": "https://foxaholic.com/novel/i-became-the-strongest-with-the-failure-frame%e3%80%90abnormal-state-skill%e3%80%91as-i-devastated-everything/152/",
         "c153": "https://foxaholic.com/novel/i-became-the-strongest-with-the-failure-frame%e3%80%90abnormal-state-skill%e3%80%91as-i-devastated-everything/153/",
@@ -22,6 +28,7 @@
     },
     "isekai-yururi-kikou-raising-children-while-being-an-adventurer": {},
     "manuke-fps": {},
+    "my-death-flags-show-no-sign-of-ending": {},
     "okami-wa-nemuranai": {
         "v17c13": "https://www.sousetsuka.com/2020/04/okami-wa-nemuranai-1713.html",
         "v17c14": "https://www.sousetsuka.com/2020/04/okami-wa-nemuranai-1714.html",
@@ -31,11 +38,22 @@
         "v18c1-2": "https://www.sousetsuka.com/2020/04/okami-wa-nemuranai-1812.html",
         "v18c3-4": "https://www.sousetsuka.com/2020/04/okami-wa-nemuranai-1834.html"
     },
-    "sairin-yuusha-no-fukushuu-hanashi": {},
+    "sairin-yuusha-no-fukushuu-hanashi": {
+        "v5c3": "https://roartion.wordpress.com/sairin-yuusha-v5-c3/",
+        "v5c4": "https://roartion.wordpress.com/sairin-yuusha-v5-c4/",
+        "v5c5": "https://roartion.wordpress.com/sairin-yuusha-v5-c5/",
+        "v5c6": "https://roartion.wordpress.com/sairin-yuusha-v5-c6/"
+    },
     "sevens-ln": {},
     "the-death-mage-who-doesnt-want-a-fourth-time": {
         "c220": "https://lightnovelbastion.com/novel/death-mage/volume-10/death-mage-220/",
         "c221": "https://lightnovelbastion.com/novel/death-mage/volume-10/death-mage-221/"
+    },
+    "the-new-gate": {
+        "part1": "https://shintranslations.com/2020/04/the-new-gate-vol-16-chapter-1-part-1/",
+        "part4": "https://shintranslations.com/2020/04/the-new-gate-vol-1-chapter-3-part-4/",
+        "part5": "https://shintranslations.com/2020/04/the-new-gate-vol-1-chapter-3-part-5/",
+        "part6": "https://shintranslations.com/2020/04/the-new-gate-vol-1-chapter-3-part-6/"
     },
     "the-strange-adventure-of-a-broke-mercenary": {
         "c130": "https://houseofrain.home.blog/2020/04/07/broke-mercenary-chapter-130/"

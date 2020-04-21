@@ -99,9 +99,9 @@ def json2dict(json_path):
 
 def chapter_name(chapter_text, **kwargs):
     chapter_elem = [string_sanitizer(x) for x in chapter_text.split() if len(x) > 0]
-    chapter_check = lambda x, v, c: x[v] if x[v:].startswith('v') and x[c].startswith('c') else x[c:]
+    chapter_check = lambda x, v, c: x[v:] if x[v].startswith('v') and x[c].startswith('c') else x[c:]
     if len(chapter_elem) >= 3:
-        # matches 'name v24 c30 part1' 'name c31 part2' 'name v1 prologue' 'name v1 c5 epilogue'
+        # matches 'name v24 c30 part1' 'name c31 part2' 'name v1 prologue' 'name v1s c5 epilogue'
         if any(x in chapter_elem[-1] for x in series_extras):
             chapter_x = '-'.join(chapter_check(chapter_elem, -3, -2))
         # matches 'name v1 c9 part 3' 'name c10 part 1'
@@ -201,13 +201,13 @@ if __name__ == '__main__':
         for series_id, series_data in series_watch.items():
             # print (series_id)
             if series_id in rss_title:
-                browser_sel.get(rss_extnu, read=False, wait=wait_time.medium)
-                if browser_sel.driver.current_url != rss_extnu:
-                    chapter_url = browser_sel.driver.current_url
-                else:
-                    raise
-                if len(chapter_url) > 0 and len(rss_chapter) > 0:
-                    if rss_chapter not in data_watched[series_id].keys():
+                if rss_chapter not in data_watched[series_id].keys():
+                    browser_sel.get(rss_extnu, read=False, wait=wait_time.medium)
+                    if browser_sel.driver.current_url != rss_extnu:
+                        chapter_url = browser_sel.driver.current_url
+                    else:
+                        raise
+                    if len(chapter_url) > 0 and len(rss_chapter) > 0:
                         if 'transit' not in series_data.keys() \
                         or series_data['transit'] is None:
                             chapter_out = chapter_md(
@@ -239,10 +239,10 @@ if __name__ == '__main__':
                             print ('[SKIP] File "%s" Exists.' % chapter_saveas)
                         countdown(wait_time.low, txt = '%s: done next chapter in' % rss_chapter)
                     else:
-                        print ('[SKIP] Json "%s"' % data_watched[series_id][rss_chapter])
+                        print ('[ERRO] Rss invalid data:\n"%s"' % json.dumps(rss_update))
+                    break
                 else:
-                    print ('[ERRO] Rss invalid data:\n"%s"' % json.dumps(rss_update))
-                break
+                    print ('[SKIP] Json "%s"' % data_watched[series_id][rss_chapter])
             else:
                 pass
     with open(console_args.path_json, 'w', encoding='utf-8') as j:

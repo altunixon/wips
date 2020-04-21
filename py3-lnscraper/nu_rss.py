@@ -242,7 +242,7 @@ if __name__ == '__main__':
                         print ('[ERRO] Rss invalid data:\n"%s"' % json.dumps(rss_update))
                     break
                 else:
-                    print ('[SKIP] Json "%s"' % data_watched[series_id][rss_chapter])
+                    print ('[SKIP] Json "%s": "%s"' % (rss_chapter, data_watched[series_id][rss_chapter]))
             else:
                 pass
     with open(console_args.path_json, 'w', encoding='utf-8') as j:

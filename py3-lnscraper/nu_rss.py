@@ -101,12 +101,17 @@ def chapter_name(chapter_text, **kwargs):
     chapter_elem = [string_sanitizer(x) for x in chapter_text.split() if len(x) > 0]
     chapter_check = lambda x, v, c: x[v] if x[v:].startswith('v') and x[c].startswith('c') else x[c:]
     if len(chapter_elem) >= 3:
+        # matches 'name v24 c30 part1' 'name c31 part2' 'name v1 prologue' 'name v1 c5 epilogue'
         if any(x in chapter_elem[-1] for x in series_extras):
             chapter_x = '-'.join(chapter_check(chapter_elem, -3, -2))
+        # matches 'name v1 c9 part 3' 'name c10 part 1'
         elif chapter_elem[-1].isdigit():
             chapter_x = '-'.join(chapter_check(chapter_elem, -4, -3))
+        # matches 'name v1 c1' 'name c10'
         else:
             chapter_x = '-'.join(chapter_check(chapter_elem, -2, -1))
+        # edge cases 'name ss 10' > 'name-ss-10'
+        # 'series name ch 30' > 'name-ch-30', index exeption if string has less than 4 element after split()
     else:
         chapter_x = chapter_elem[-1]
     return chapter_x

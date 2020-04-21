@@ -98,23 +98,17 @@ def json2dict(json_path):
     return json_dict
 
 def chapter_name(chapter_text, **kwargs):
-    chapter_elem = [x for x in chapter_text.split() if len(x) > 0]
+    chapter_elem = [string_sanitizer(x) for x in chapter_text.split() if len(x) > 0]
+    chapter_check = lambda x, v, c: x[v] if x[v:].startswith('v') and x[c].startswith('c') else x[c:]
     if len(chapter_elem) >= 3:
-        if any(x in chapter_elem[-1] for x in series_extras) or chapter_elem[-1].isdigit():
-            # chapter_x = string_sanitizer('-'.join(chapter_elem[-2:]))
-            if chapter_elem[-2].startswith('c') and chapter_elem[-3].startswith('v'):
-                chapter_x = string_sanitizer('-'.join(chapter_elem[-3:]))
-            else:
-                chapter_x = string_sanitizer('-'.join(chapter_elem[-2:]))
+        if any(x in chapter_elem[-1] for x in series_extras):
+            chapter_x = '-'.join(chapter_check(chapter_elem, -3, -2))
+        elif chapter_elem[-1].isdigit():
+            chapter_x = '-'.join(chapter_check(chapter_elem, -4, -3))
         else:
-            # if chapter_elem[-1].startswith('v'):
-            #     chapter_x = string_sanitizer(chapter_elem[-1])
-            if chapter_elem[-1].startswith('c') and chapter_elem[-2].startswith('v'):
-                chapter_x = string_sanitizer('-'.join(chapter_elem[-2:]))
-            else:
-                chapter_x = string_sanitizer(chapter_elem[-1])
+            chapter_x = '-'.join(chapter_check(chapter_elem, -2, -1))
     else:
-        chapter_x = string_sanitizer(chapter_elem[-1])
+        chapter_x = chapter_elem[-1]
     return chapter_x
 
 if __name__ == '__main__':

@@ -15,6 +15,7 @@ xpath_nu_release = '//table[@id="myTable"]/tbody/tr'
 xpath_nu_group = '//a[contains(@href, "/group/")]'
 xpath_nu_chapter = '//a[contains(@class, "chp-release")]'
 xpath_nu_extnu = '//a[contains(@class, "chp-release")]'
+series_extras = set(['ss', 'intermission', 'prologue', 'epilogue', 'illust', 'side'])
 
 def chapter_zfill(chapter_txt, **zargs):
     if chapter_txt is not None:
@@ -96,6 +97,26 @@ def json2dict(json_path):
         json_dict = {}
     return json_dict
 
+def chapter_name(chapter_text, **kwargs):
+    chapter_elem = [x for x in chapter_text.split() if len(x) > 0]
+    if len(chapter_elem) >= 3:
+        if any(x in chapter_elem[-1] for x in series_extras) or isdigit(chapter_elem[-1]):
+            # chapter_x = string_sanitizer('-'.join(chapter_elem[-2:]))
+            if chapter_elem[-2].startswith('c') and chapter_elem[-3].startswith('v'):
+                chapter_x = string_sanitizer('-'.join(chapter_elem[-3:]))
+            else:
+                chapter_x = string_sanitizer('-'.join(chapter_elem[-2:]))
+        else:
+            # if chapter_elem[-1].startswith('v'):
+            #     chapter_x = string_sanitizer(chapter_elem[-1])
+            if chapter_elem[-1].startswith('c') and chapter_elem[-2].startswith('v'):
+                chapter_x = string_sanitizer('-'.join(chapter_elem[-2:]))
+            else:
+                chapter_x = string_sanitizer(chapter_elem[-1])
+    else:
+        chapter_x = string_sanitizer(chapter_elem[-1])
+    return chapter_x
+
 if __name__ == '__main__':
     path_base = os.path.dirname(os.path.realpath(__file__))
     path_conf = os.path.join(path_base, 'list.json')
@@ -169,6 +190,7 @@ if __name__ == '__main__':
     rss_url = conf_list["rss"]
     rss_feed = feedparser.parse(rss_url)
     for rss_update in rss_feed.entries:
+        # rss_chapter = chapter_name(rss_update['title'])
         rss_chapter = rss_update['title'].split()[-1].strip()
         if not rss_chapter.startswith('v') and not rss_chapter.startswith('c'):
             rss_chapter = string_sanitizer('-'.join(rss_update['title'].split()[-2:]))

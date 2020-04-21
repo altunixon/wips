@@ -15,7 +15,7 @@ xpath_nu_release = '//table[@id="myTable"]/tbody/tr'
 xpath_nu_group = '//a[contains(@href, "/group/")]'
 xpath_nu_chapter = '//a[contains(@class, "chp-release")]'
 xpath_nu_extnu = '//a[contains(@class, "chp-release")]'
-series_extras = set(['ss', 'intermission', 'prologue', 'epilogue', 'illust', 'side'])
+series_extras = set(['ss', 'intermission', 'prologue', 'epilogue', 'illust', 'side', 'part'])
 
 def chapter_zfill(chapter_txt, **zargs):
     if chapter_txt is not None:

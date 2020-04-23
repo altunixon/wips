@@ -1,5 +1,5 @@
 {
-	"rss": "https://www.novelupdates.com/rss.php?uid=248411&unq=5e9d78eeb67a4&type=read", 
+    "rss": "https://www.novelupdates.com/rss.php?uid=248411&unq=5e9d78eeb67a4&type=read", 
     "list": {
         "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
         "i-became-the-strongest-with-the-failure-frame": "wordpress_2",
@@ -8,12 +8,14 @@
         "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
         "sevens-ln": "wordpress",
         "the-death-mage-who-doesnt-want-a-fourth-time": "wordpress_2",
+		"hakai-no-miko": "wordpress_hakai",
         "the-strange-adventure-of-a-broke-mercenary": "wordpress",
         "hazure-skill-mapping-wo-te-ni-shita-ore-wa-saikyou-party-to-tomo-ni-dungeon-ni-idomu": "blogspot",
         "ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita": "wordpress_2",
         "manuke-fps": "wordpress",
         "the-new-gate": "shintranslations",
         "my-death-flags-show-no-sign-of-ending": "wordpress",
+		"wortenia-senki": "wordpress",
         "isekai-yururi-kikou-raising-children-while-being-an-adventurer": {
             "article": "//div[@class=\"entry-inner\"]"
         }
@@ -25,6 +27,10 @@
     "wordpress_2": {
         "article": "//div[@class=\"reading-content\"]",
         "transit": null
+    },
+	"wordpress_hakai": {
+        "article": "//div[contains(@class, \"entry-content\")]",
+        "transit": "//a[contains(@href, \"infinitenoveltranslations\")]"
     },
     "shintranslations": {
         "article": "//div[contains(@class, \"entry-content\")]",

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import requests, os, json
+from requests_toolbelt import MultipartEncoder
 
 # FUNCTIONS
 
@@ -42,14 +43,25 @@ if __name__ == '__main__':
                 a_file = os.path.basename(a_trnt)
                 with open(a_trnt, 'rb') as byte_data:
                     data_post['torrents].append(tuple(a_file, byte_data, "application/x-bittorrent"))
-                              
+            else:
+                pass
+
     data_post['urls'] = tuple(list(data_urls))
     if console_args.path_out is not None and len(console_args.path_out) > 0:
         data_post['savepath'] = console_args.path_out
-    else:
-        pass
     if console_args.name_tag is not None and len(console_args.name_tag) > 0:
         data_post['category'] = console_args.name_tag
     data_post['paused'] = 'true' if not console_args.auto_start else 'false'
-    data_encoder = MultipartEncoder(fields=data_post)
-    
+    data_encoded = MultipartEncoder(fields=data_post)
+    data_response = requests.post(
+        console_args.url_api,
+        data = data_encoded, 
+        headers = {'Content-Type': data_encoded.content_type}
+    )
+    print ('[#{status}] Content:\n{response}'.format(
+        status = data_response.status_code
+        response = json.dumps(data_response.content, indent=4, sort_keys=True, ensure_ascii=False)
+        )
+    )
+else:
+    pass

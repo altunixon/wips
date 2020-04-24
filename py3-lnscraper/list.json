@@ -30,7 +30,7 @@
     },
 	"wordpress_hakai": {
         "article": "//div[contains(@class, \"entry-content\")]",
-        "transit": "//a[contains(@href, \"infinitenoveltranslations\")]"
+        "transit": "//a[//a[text()[contains(., \"Enjoy~\")]]]"
     },
     "shintranslations": {
         "article": "//div[contains(@class, \"entry-content\")]",

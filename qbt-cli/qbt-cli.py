@@ -41,12 +41,15 @@ if __name__ == '__main__':
                 # ('images', ('foo.png', open('foo.png', 'rb'), 'image/png'))
                 a_file = os.path.basename(a_trnt)
                 with open(a_trnt, 'rb') as byte_data:
-                    data_post['torrents].append(tuple(a_file, byte_data, 'application/x-bittorrent'))
+                    data_post['torrents].append(tuple(a_file, byte_data, "application/x-bittorrent"))
+                              
     data_post['urls'] = tuple(list(data_urls))
     if console_args.path_out is not None and len(console_args.path_out) > 0:
         data_post['savepath'] = console_args.path_out
     else:
         pass
-
+    if console_args.name_tag is not None and len(console_args.name_tag) > 0:
+        data_post['category'] = console_args.name_tag
+    data_post['paused'] = 'true' if not console_args.auto_start else 'false'
     data_encoder = MultipartEncoder(fields=data_post)
     

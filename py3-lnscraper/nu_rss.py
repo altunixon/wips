@@ -41,6 +41,7 @@ def html2md(text_html, **kargs):
         soup_script.decompose()    # rip it out
     soup_text = re.sub('^\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
     # soup_text = soup_html.get_text()
+    # decompose broke mercenary wordads c131
     return soup_text.replace('\n', '<br/>\n')
 
 def chapter_md(chapter_link, **kargs):

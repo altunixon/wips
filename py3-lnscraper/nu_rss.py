@@ -41,8 +41,9 @@ def html2md(text_html, **kargs):
     # kill all script and style elements
     for soup_script in soup_html(["script", "style"]):
         soup_script.decompose()    # rip it out
-    soup_text = re.sub('^\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
     # soup_text = soup_html.get_text()
+    soup_text = re.sub('\t|\s+?\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
+    soup_text = re.sub('\s+', ' ', soup_text)
     # decompose broke mercenary wordads c131
     soup_text = soup_text.replace('\n', '<br/>\n')
     if link_ref is not None:

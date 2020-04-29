@@ -37,13 +37,15 @@ def html2md(text_html, **kargs):
     link_ref = kargs.get('refer', None)
     link_desc = kargs.get('desc', 'Link')
     soup_features = kargs.pop('features', 'lxml')
-    soup_html = BeautifulSoup(text_html, features = soup_features)
+    soup_html = BeautifulSoup(text_html, features=soup_features)
     # kill all script and style elements
-    for soup_script in soup_html(["script", "style"]):
+    for x in soup_html.find_all("div", {'class': 'sharedaddy'}):
+        x.decompose() # broke merc
+    for soup_script in soup_html(["script", "style", "ins"]):
         soup_script.decompose()    # rip it out
     # soup_text = soup_html.get_text()
-    soup_text = re.sub('\t|\s+?\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
-    soup_text = re.sub('\s+', ' ', soup_text)
+    # soup_text = re.sub('(\t|\s+)?\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
+    soup_text = re.sub('\n\s*\n', '\n', soup_html.get_text())
     # decompose broke mercenary wordads c131
     soup_text = soup_text.replace('\n', '<br/>\n')
     if link_ref is not None:
@@ -269,6 +271,6 @@ if __name__ == '__main__':
             json.dump(data_watched, j, ensure_ascii=False, indent=4, sort_keys=True)
     except Exception as excp:
         with open(os.path.join(path_base, 'error.log'), 'w+', encoding='utf-8') as ex:
-            ex.write(excp)
+            ex.write(repr(excp))
         
         

@@ -2,7 +2,9 @@
 ```bash
 ups-ping.sh <IP_ADDR> <DELAY_MINUTES> [recovery]
 ```
-**Should be run with crontab** <br/>
+
+### DESCRIPTION
+**Should REALLY be run with crontab** <br/>
 ERROR_FILE: "/tmp/ups-ping.err" <br/>
 Ping <IP_ADDR> with 4 package, if failed schedule shutdown after DELAY_MINUTES <br/>
 Set DELAY_MINUTES = 0 to shutdown immediately. <br/>

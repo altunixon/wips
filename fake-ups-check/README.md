@@ -1,12 +1,13 @@
 ### USAGE
 ```bash
-ups-ping.sh <IP_ADDR> <REPEAT_FOR> [<shutdown|reboot>]
+ups-ping.sh <IP_ADDR> <DELAY_MINUTES> [recovery]
 ```
+**Should be run with crontab** <br/>
 ERROR_FILE: "/tmp/ups-ping.err" <br/>
-Ping <IP_ADDR> with 4 package, if failed write a timestamped COUNT to ERROR_FILE <br/>
-If REPEAT_FOR > 1, next run will check if ERROR_FILE's COUNT > REPEAT_FOR <br/>
-Then run shutdown|reboot if true, write new COUNT value to ERROR_FILE <br/>
-If REPEAT_FOR =< 1, run shutdown|reboot immediately. <br/>
+Ping <IP_ADDR> with 4 package, if failed schedule shutdown after DELAY_MINUTES <br/>
+Set DELAY_MINUTES = 0 to shutdown immediately. <br/>
+If recovery flag is set, if next check falls within DELAY_MINUTES is successful, <br/>
+scheduled shutdown will be cancelled. <br/>
 
 ### Ping
 Ping <IP_ADDR> 4 times

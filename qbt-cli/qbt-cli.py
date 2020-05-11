@@ -25,6 +25,7 @@ def check_result(json_response, **kwargs):
         print ('Invalid JSON response [%s]' % json_response)
         return False
     else:
+        print (json_response)
         try:
             dict_response = json.loads(json_response)
         except Exception as excp:
@@ -48,28 +49,27 @@ def add_file(t_uri, t_file, post_form={}):
     post_data = dict(post_form)
     post_data['torrents'] = None
     file_desc = os.path.basename(t_file)
+    # print (t_uri)
     if os.path.isfile(t_file):
         with open(t_file, 'rb') as rb_file:
             post_data['torrents'] = (file_desc, rb_file, "application/x-bittorrent")
             data_encoded = MultipartEncoder(fields=post_data)
-        data_response = requests.post(
-            t_uri, data = data_encoded, 
-            headers = {'Content-Type': data_encoded.content_type}
-        )
-        # response_json = json.loads(data_response.json())
-        # print ('[#{status}] Content:\n{response}'.format(
-        #     status = data_response.status_code, 
-        #     response = json.dumps(response_json, indent=4, sort_keys=True, ensure_ascii=False)
-        #     )
-        # )
-        if data_response.status_code == 200:
-            return check_result(
-                data_response.json(), 
-                desc=file_desc, 
-                field='PLACEHOLDER', 
-                value='PLACEHOLDER'
+            data_response = requests.post(
+                t_uri, data = data_encoded, 
+                headers = {'Content-Type': data_encoded.content_type}
             )
+        # print (data_response.headers)
+        if data_response.status_code == 200:
+            # return check_result(
+            #     data_response.json(), 
+            #     desc=file_desc, 
+            #     field='PLACEHOLDER', 
+            #     value='PLACEHOLDER'
+            # )
+            print ('[OK__] #%s File "%s" [Succeeded]' % (data_response.status_code, file_desc))
+            return True
         else:
+            print ('[FAIL] #%s File "%s" [Failed]' % (data_response.status_code, file_desc))
             return False
     else:
         print ('[ERR_] File "%s" missing' % a_trnt)
@@ -97,7 +97,7 @@ def add_urls(t_uri, t_urls, post_form={}):
         )
     else:
         return False
-    
+
 def list_torrents(t_uri, t_category, **kwargs):
     query_filter = kwargs.get('filter', 'all')
     query_category = kwargs.get('category', None)
@@ -115,7 +115,7 @@ def list_torrents(t_uri, t_category, **kwargs):
     else:
         return None
     
- def list_print(dict_json, **kwargs):
+def list_print(dict_json, **kwargs):
     return None
 
 # END FUNCTIONS
@@ -153,7 +153,7 @@ if __name__ == '__main__':
         data_post['category'] = console_args.name_tag
     data_post['paused'] = 'true' if not console_args.auto_start else 'false'
 
-    if console_args.query_str is None 
+    if console_args.query_str is None \
     or all(q != console_args.query_str for q in type_query):
         post_url = '{api}/{uri}'.format(
             api = console_args.url_api.strip('/'), 
@@ -169,7 +169,8 @@ if __name__ == '__main__':
             else:
                 result_action = add_file(post_url, a_trnt, data_post)
                 result_error += 1 if not result_action else 0
-                file_cleanup(a_trnt, result_action)
+                # TODO add cleanup fuction
+                # file_cleanup(a_trnt, result_action)
         if len(data_urls) > 0:
             post_url = '{api}/{uri}'.format(
                 api = console_args.url_api.strip('/'), 

@@ -98,7 +98,7 @@ def add_urls(t_uri, t_urls, post_form={}):
     else:
         return False
 
-def list_torrents(t_uri, t_category, **kwargs):
+def list_torrents(t_uri, **kwargs):
     query_filter = kwargs.get('filter', 'all')
     query_category = kwargs.get('category', None)
     query_list = {
@@ -110,7 +110,7 @@ def list_torrents(t_uri, t_category, **kwargs):
     query_url = '{api}?{query}'.format(api=t_uri, query=urlencode(query_list))
     data_response = requests.get(query_url)
     if data_response.status_code == 200 \
-    and data_response.headers['content-length'] > 0:
+    and int(data_response.headers['content-length']) > 0:
         return data_response.json()
     else:
         return None
@@ -146,15 +146,16 @@ if __name__ == '__main__':
     parser.set_defaults(auto_start = False)
     console_args = parser.parse_args()
     
-    data_post = {}
-    if console_args.path_out is not None and len(console_args.path_out) > 0:
-        data_post['savepath'] = console_args.path_out
-    if console_args.name_tag is not None and len(console_args.name_tag) > 0:
-        data_post['category'] = console_args.name_tag
-    data_post['paused'] = 'true' if not console_args.auto_start else 'false'
+    
 
     if console_args.query_str is None \
     or all(q != console_args.query_str for q in type_query):
+        data_post = {}
+        if console_args.path_out is not None and len(console_args.path_out) > 0:
+            data_post['savepath'] = console_args.path_out
+        if console_args.name_tag is not None and len(console_args.name_tag) > 0:
+            data_post['category'] = console_args.name_tag
+        data_post['paused'] = 'true' if not console_args.auto_start else 'false'
         post_url = '{api}/{uri}'.format(
             api = console_args.url_api.strip('/'), 
             uri = qbtapi_upload.strip('/')
@@ -180,6 +181,15 @@ if __name__ == '__main__':
             result_action = add_urls(post_url, data_urls, data_post)
             result_error += 1 if not result_action else 0
     else:
-        pass
+        # pseudo
+        get_url = '{api}/{uri}'.format(
+            api = console_args.url_api.strip('/'), 
+            uri = qbtapi_list.strip('/')
+        )
+        j = list_torrents(get_url, filter='completed', category=console_args.name_tag)
+        print (j)
+        print (json.dumps(j[-1], indent=4, sort_keys=True, ensure_ascii=False))
+        print (len(j))
+        # TODO query switching
 else:
     pass

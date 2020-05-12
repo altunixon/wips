@@ -66,7 +66,7 @@ def add_file(t_uri, t_file, post_form={}):
             #     field='PLACEHOLDER', 
             #     value='PLACEHOLDER'
             # )
-            print ('[OK__] #%s File "%s" [Succeeded]' % (data_response.status_code, file_desc))
+            print ('[_OK_] #%s File "%s" [Succeeded]' % (data_response.status_code, file_desc))
             return True
         else:
             print ('[FAIL] #%s File "%s" [Failed]' % (data_response.status_code, file_desc))

@@ -1,6 +1,6 @@
 [sevens-053: I… I don’t want to study right before it…](./sevens-053-i-i-dont-want-to-study-right-before-it.md) | [sevens-055: Shannon Circry](./sevens-055-shannon-circry.md) <br/>
 <br/>
-That wasn’t nearly as bad as I thought, so have a chapter.<br/>
+TL: That wasn’t nearly as bad as I thought, so have a chapter.<br/>
 Clara’s Adventurer Course<br/>
 In a small room of the library, I watched Clara work as I talked with her.<br/>
 When I said I wanted to ask a few things, she said she had work, and declined. Fitting of a book lover like her, she took a request at the library today.<br/>

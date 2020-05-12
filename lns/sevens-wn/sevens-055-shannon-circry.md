@@ -1,4 +1,4 @@
-[sevens-054: That wasn’t nearly as bad as I thought, so have a chapter.](./sevens-054-that-wasnt-nearly-as-bad-as-i-thought-so-have-a-chapter..md) | [sevens-056: Lyle’s Golem](./sevens-056-lyles-golem.md) <br/>
+[sevens-054: Clara’t Adventurer Course.](./sevens-054-clara-s-adventurer-course.md) | [sevens-056: Lyle’s Golem](./sevens-056-lyles-golem.md) <br/>
 <br/>
 Shannon Circry<br/>
 Morning.<br/>
@@ -211,5 +211,5 @@ At this rate, her sister would continue to close her eyes to him, and it seems t
 She wanted to stop that somehow, but she couldn’t’ think of the means.<br/>
 "Just you watch. I’ll definitely get back at you, Lyle!"<br/>
 Saying that, Shannon thought about Lyle all the way until she fell asleep…<br/>
-[sevens-054: That wasn’t nearly as bad as I thought, so have a chapter.](./sevens-054-that-wasnt-nearly-as-bad-as-i-thought-so-have-a-chapter..md) | [sevens-056: Lyle’s Golem](./sevens-056-lyles-golem.md) <br/>
+[sevens-054: Clara’t Adventurer Course.](./sevens-054-clara-s-adventurer-course.md) | [sevens-056: Lyle’s Golem](./sevens-056-lyles-golem.md) <br/>
 

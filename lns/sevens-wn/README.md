@@ -17,7 +17,7 @@ IFS=$'\r\n'
 
 function name_proc() {
     # md_title=$(grep -i '^[a-z0-9]' "$1" | head -n 1 | sed 's/<br\/>//g')
-    md_title=$(grep -iE '^[[:alnum:]]' "$1" | grep -v 'TL:\|Note:' | head -n 1 | sed 's/<br\/>//g')
+    md_title=$(grep -iE '^[[:alnum:]]' "$1" | grep -v 'TL:\|TLN:\|Note:' | head -n 1 | sed 's/<br\/>//g')
     md_lower=$(echo "$md_title" | awk '{print tolower($0)}' | sed 's/[:'\''"’\?…,]//g' | sed 's/ /-/g; s/é/e/')
     md_name=$(echo "$1" | awk -F '.md' '{print $1}')
     md_out="${md_name%%-}-${md_lower##-}.md"

@@ -1,4 +1,4 @@
-[sevens-052: The Lifeform Known as a Feudal Lord.](./sevens-052-the-lifeform-known-as-a-feudal-lord..md) | [sevens-054: That wasn’t nearly as bad as I thought, so have a chapter.](./sevens-054-that-wasnt-nearly-as-bad-as-i-thought-so-have-a-chapter..md) <br/>
+[sevens-052: The Lifeform Known as a Feudal Lord.](./sevens-052-the-lifeform-known-as-a-feudal-lord..md) | [sevens-054: Clara’t Adventurer Course.](./sevens-054-clara-s-adventurer-course.md) <br/>
 <br/>
 I… I don’t want to study right before it…<br/>
 Get Along<br/>
@@ -236,5 +236,5 @@ Lyra confirmed what sorts of Skills she had. While Aria hesitated for a moment, 
 "Um…?"<br/>
 "If you’ve come this far with a spear, I guess that’s the one most used to your hand… Aria, want to try a short spear?"<br/>
 And so, Aria was also moving to establish her own style…<br/>
-[sevens-052: The Lifeform Known as a Feudal Lord.](./sevens-052-the-lifeform-known-as-a-feudal-lord..md) | [sevens-054: That wasn’t nearly as bad as I thought, so have a chapter.](./sevens-054-that-wasnt-nearly-as-bad-as-i-thought-so-have-a-chapter..md) <br/>
+[sevens-052: The Lifeform Known as a Feudal Lord.](./sevens-052-the-lifeform-known-as-a-feudal-lord..md) | [sevens-054: Clara’t Adventurer Course.](./sevens-054-clara-s-adventurer-course.md) <br/>
 

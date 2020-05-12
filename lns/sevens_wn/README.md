@@ -39,7 +39,7 @@ for n_i in $(seq 0 $n_f); do
     else
         nav_nex="[Table of Contents](./toc.md)"
     fi
-    echo "${nav_pre} | ${nav_nex} <br/>" >> "${chp_lst[$n_i]}"
+    echo -e "${nav_pre} | ${nav_nex} <br/>\n$(cat ${chp_lst[$n_i]})\n${nav_pre} | ${nav_nex} <br/>\n" > "${chp_lst[$n_i]}"
     chp_new=$(echo "$chp_now" | awk -F '|' '{print $1}')
     mv --no-clobber -v "${chp_lst[$n_i]}" "${chp_new%% }"
     nav_pre=$(echo "$chp_now" | awk -F '|' '{print $2}')

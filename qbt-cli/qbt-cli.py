@@ -207,8 +207,7 @@ if __name__ == '__main__':
             data_post.pop('torrents', None)
             data_post['urls'] = '\n'.join(list(data_urls))
             result_action = post_api(
-                post_url, data_post, 
-                headers={'Content-Type': 'multipart/form-data'}
+                post_url, data_post,
             )
             result_error += 1 if not result_action else 0
     else:
@@ -217,7 +216,7 @@ if __name__ == '__main__':
                 api = console_args.url_api.strip('/'), 
                 uri = qbtapi_list.strip('/')
             )
-            list_reply = list_torrents(get_url, filter_type='completed', category=console_args.name_tag)
+            list_reply = list_torrents(get_url, category=console_args.name_tag)
             for t_reply in list_reply:
                 print_reply(t_reply)
             print ('[INFO] Found %s Result' % len(list_reply))
@@ -227,8 +226,7 @@ if __name__ == '__main__':
                 'stop': (gen_uri(qbtapi_stop), {'hash': console_args.list_trnt[0]}), 
                 'rm': (gen_uri(qbtapi_rm), {'hashes': '|'.join(console_args.list_trnt)}), 
             }
-            post_api(*switcher_dict.get(console_args.query_str), 
-                headers={'Content-Type': 'application/x-www-form-urlencoded'})
+            post_api(*switcher_dict.get(console_args.query_str))
             
         # TODO query switching
         # post headers Content-Type: application/x-www-form-urlencoded

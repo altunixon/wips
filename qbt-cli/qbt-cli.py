@@ -11,8 +11,8 @@ qbtapi_download = '/command/download'
 qbtapi_upload = '/command/upload'
 qbtapi_list = '/query/torrents'
 qbtapi_start = '/command/resume'
-qbtapi_pause = '/command/pause'
-qbtapi_delete = '/command/delete'
+qbtapi_stop = '/command/pause'
+qbtapi_rm = '/command/delete'
 type_urls = ('http://', 'https://', 'magnet:', 'bc://')
 type_query = ('start', 'stop', 'ls', 'rm')
 # bit-wise shift use y = 1 for KB, 2 for MB, 3 for GB
@@ -21,14 +21,10 @@ time_human = lambda x: time.strftime("%Z - %Y/%m/%d %H:%M:%S", x)
 
 # FUNCTIONS
 def time_delta(delta_seconds, **kwargs):
-    delta_day = delta_seconds // (24 * 3600)
-    delta_seconds %= (24 * 3600)
-    delta_hour = delta_seconds // 3600
-    delta_seconds %= 3600
-    delta_minutes = delta_seconds // 60
-    delta_seconds %= 60
-    return '%s Days & %s:%s:%s' % (delta_day, delta_hour, delta_minutes, delta_seconds)
-
+    delta_days, delta_seconds = divmod(delta_seconds, 86400)
+    delta_hours, delta_seconds = divmod(delta_seconds, 3600)
+    delta_minutes, delta_seconds = divmod(delta_seconds, 60)
+    return '%s Days & %s:%s:%s' % (delta_days, delta_hours, delta_minutes, delta_seconds)
 
 def check_result(response_data, **kwargs):
     check_len = kwargs.get('check_len', False)
@@ -70,23 +66,18 @@ def add_file(t_uri, t_file, post_form={}):
         print ('[ERRO] File "%s" missing' % a_trnt)
         return False
 
-def add_urls(t_uri, t_urls, post_form={}):
-    post_data = dict(post_form)
-    post_data['urls'] = list(t_urls)
+def add_urls(t_uri, t_urls, post_data):
     # https://stackoverflow.com/questions/48211143/building-multipart-form-data-with-multiline-swift-strings-does-not-work
     # according to qbt document, urls are seperated by LF which is \n, if failed, try using CR(\r) like above exmaple instead
-    # post_data['urls'] = '\n'.join(list(t_urls))
-    # data_encoded = MultipartEncoder(fields=post_data)
+    data_encoded = MultipartEncoder(fields=post_data)
     data_response = requests.post(
-        t_uri, json = post_data, # ??? might not be accepted with current header, maybe will work with 'application/json'
-        headers = {'Content-Type': 'multipart/form-data'}
-        # data = data_encoded, 
-        # headers = {'Content-Type': data_encoded.content_type}
+        t_uri, data = data_encoded, 
+        headers = {'Content-Type': data_encoded.content_type}
     )
     return check_result(data_response, desc='POST Urls (%s)' % len(t_urls), check_len=False)
     
 def list_torrents(t_uri, **kwargs):
-    query_filter = kwargs.get('filter', 'all')
+    query_filter = kwargs.get('filter_type', 'all')
     query_category = kwargs.get('category', None)
     query_list = {
         'filter': query_filter,
@@ -104,7 +95,7 @@ def list_torrents(t_uri, **kwargs):
     else:
         return None
     
-def list_byhash(t_uri, t_hash):
+def list_thash(t_uri, t_hash):
     query_url = '{api}?{query}'.format(api=t_uri, query=t_hash)
     data_response = requests.get(query_url)
     reply_check = check_result(
@@ -114,6 +105,18 @@ def list_byhash(t_uri, t_hash):
         return data_response.json()
     else:
         return None
+
+def post_api(t_uri, post_data, **kwargs):
+    data_header = kwargs.get('headers', None)
+    data_encoded = MultipartEncoder(fields=post_data)
+    print ('[DEBG] POST %s to "%s"' % (data_encoded.content_type, t_uri))
+    data_response = requests.post(
+        t_uri, data=data_encoded, 
+        headers = {'Content-Type': data_encoded.content_type} \
+            if data_header is None \
+            else data_header
+    )
+    return check_result(data_response, desc='POST Uri "%s"' % t_uri, check_len=False)
     
 def print_reply(dict_json, **kwargs):
     dump_json = kwargs.get('dump', None)
@@ -173,8 +176,10 @@ if __name__ == '__main__':
     parser.set_defaults(auto_start = False)
     console_args = parser.parse_args()
     
-    
-
+    gen_uri = lambda x: '{api}/{uri}'.format(
+        api = console_args.url_api.strip('/'), 
+        uri = x.strip('/')
+    )
     if console_args.query_str is None \
     or all(q != console_args.query_str for q in type_query):
         data_post = {}
@@ -183,10 +188,7 @@ if __name__ == '__main__':
         if console_args.name_tag is not None and len(console_args.name_tag) > 0:
             data_post['category'] = console_args.name_tag
         data_post['paused'] = 'true' if not console_args.auto_start else 'false'
-        post_url = '{api}/{uri}'.format(
-            api = console_args.url_api.strip('/'), 
-            uri = qbtapi_upload.strip('/')
-        )
+        post_url = gen_uri(qbtapi_upload)
         data_urls = set([])
         result_error = 0
         for a_trnt in console_args.list_trnt:
@@ -201,22 +203,34 @@ if __name__ == '__main__':
                 # TODO add cleanup fuction
                 # file_cleanup(a_trnt, result_action)
         if len(data_urls) > 0:
-            post_url = '{api}/{uri}'.format(
-                api = console_args.url_api.strip('/'), 
-                uri = qbtapi_download.strip('/')
-            )
+            post_url = gen_uri(qbtapi_download)
             data_post.pop('torrents')
-            result_action = add_urls(post_url, data_urls, data_post)
+            data_post['urls'] = '\n'.join(list(data_urls))
+            result_action = post_api(
+                post_url, data_post, 
+                headers={'Content-Type': 'multipart/form-data'}
+            )
             result_error += 1 if not result_action else 0
     else:
-        # pseudo
-        get_url = '{api}/{uri}'.format(
-            api = console_args.url_api.strip('/'), 
-            uri = qbtapi_list.strip('/')
-        )
-        list_reply = list_torrents(get_url, filter='completed', category=console_args.name_tag)
-        for t_reply in list_reply:
-            print_reply(t_reply)
+        if console_args.query_str == 'ls':
+            get_url = '{api}/{uri}'.format(
+                api = console_args.url_api.strip('/'), 
+                uri = qbtapi_list.strip('/')
+            )
+            list_reply = list_torrents(get_url, filter_type='completed', category=console_args.name_tag)
+            for t_reply in list_reply:
+                print_reply(t_reply)
+            print ('[INFO] Found %s Result' % len(list_reply))
+        else:
+            switcher_dict = {
+                'start': (gen_uri(qbtapi_start), {'hash': console_args.list_trnt[0]}), 
+                'stop': (gen_uri(qbtapi_stop), {'hash': console_args.list_trnt[0]}), 
+                'rm': (gen_uri(qbtapi_rm), {'hashes': '|'.join(console_args.list_trnt)}), 
+            }
+            post_api(*switcher_dict.get(console_args.query_str), 
+                headers={'Content-Type': 'application/x-www-form-urlencoded'})
+            
         # TODO query switching
+        # post headers Content-Type: application/x-www-form-urlencoded
 else:
     pass

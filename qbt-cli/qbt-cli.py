@@ -17,7 +17,7 @@ type_urls = ('http://', 'https://', 'magnet:', 'bc://')
 type_query = ('start', 'stop', 'ls', 'rm')
 # bit-wise shift use y = 1 for KB, 2 for MB, 3 for GB
 byte_convert = lambda x, y: round(x / (1<<(y*10)), 2)
-time_human = lambda x: time.strftime("%Z - %Y/%m/%d %H:%M:%S", x)
+time_human = lambda x: time.strftime("%Z - %Y/%m/%d %H:%M:%S", time.localtime(x))
 
 # FUNCTIONS
 def time_delta(delta_seconds, **kwargs):
@@ -204,7 +204,7 @@ if __name__ == '__main__':
                 # file_cleanup(a_trnt, result_action)
         if len(data_urls) > 0:
             post_url = gen_uri(qbtapi_download)
-            data_post.pop('torrents')
+            data_post.pop('torrents', None)
             data_post['urls'] = '\n'.join(list(data_urls))
             result_action = post_api(
                 post_url, data_post, 

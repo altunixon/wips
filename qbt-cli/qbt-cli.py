@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import requests, os, json
+import requests, os, json, time
 from urllib.parse import urlencode
 from requests_toolbelt import MultipartEncoder
 
@@ -17,8 +17,19 @@ type_urls = ('http://', 'https://', 'magnet:', 'bc://')
 type_query = ('start', 'stop', 'ls', 'rm')
 # bit-wise shift use y = 1 for KB, 2 for MB, 3 for GB
 byte_convert = lambda x, y: round(x / (1<<(y*10)), 2)
+time_human = lambda x: time.strftime("%Z - %Y/%m/%d %H:%M:%S", x)
 
 # FUNCTIONS
+def time_delta(delta_seconds, **kwargs):
+    delta_day = delta_seconds // (24 * 3600)
+    delta_seconds %= (24 * 3600)
+    delta_hour = delta_seconds // 3600
+    delta_seconds %= 3600
+    delta_minutes = delta_seconds // 60
+    delta_seconds %= 60
+    return '%s Days & %s:%s:%s' % (delta_day, delta_hour, delta_minutes, delta_seconds)
+
+
 def check_result(response_data, **kwargs):
     check_len = kwargs.get('check_len', False)
     response_desc = kwargs.get('desc', None)
@@ -104,8 +115,35 @@ def list_byhash(t_uri, t_hash):
     else:
         return None
     
-def list_print(dict_json, **kwargs):
-    return None
+def print_reply(dict_json, **kwargs):
+    dump_json = kwargs.get('dump', None)
+    print (
+'''================================================
+File : {t_name}
+    Hash     : "{t_hash}", [{t_category}], {t_adate}
+    SavePath : "{t_path}"
+    Status   : {t_sizenow}MB / {t_sizetotal}MB [{t_progress}%%]
+    Speed    : [{t_state}] {t_speed} KB/s, ETA {t_eta}, {t_seeder} Seeders
+'''.format(
+            t_name = dict_json.get('name', 'UNKNOWN'), 
+            t_hash = dict_json.get('hash', 'UNKNOWN'), 
+            t_path = dict_json.get('save_path', 'UNKNOWN'), 
+            t_category = dict_json.get('category', 'UNKNOWN'), 
+            t_adate = time_human(dict_json.get('added_on', 0)), # epoch to human readable
+            t_sizenow = byte_convert(dict_json.get('size', 0), 2), # Bytes to MB
+            t_sizetotal = byte_convert(dict_json.get('total_size', 0), 2), # Bytes to MB
+            t_progress = (dict_json.get('progress', 0) * 100), 
+            t_state = dict_json.get('state', 'UNKNOWN'), 
+            t_speed = byte_convert(dict_json.get('dlspeed', 0), 1), # Bytes to KB
+            t_eta = time_delta(dict_json.get('eta', 0)), # timedelta seconds to human readable
+            t_seeder = dict_json.get('num_seeds', 0), 
+        )
+    )
+    if dump_json is not None:
+        with open(dump_json, 'a+') as dja:
+            dja.write(json.dump(dict_json, indent=4, sort_keys=False, ensure_ascii=False))
+    else:
+        pass
 
 # END FUNCTIONS
 
@@ -159,6 +197,7 @@ if __name__ == '__main__':
             else:
                 result_action = add_file(post_url, a_trnt, data_post)
                 result_error += 1 if not result_action else 0
+                time.sleep(1)
                 # TODO add cleanup fuction
                 # file_cleanup(a_trnt, result_action)
         if len(data_urls) > 0:
@@ -175,10 +214,9 @@ if __name__ == '__main__':
             api = console_args.url_api.strip('/'), 
             uri = qbtapi_list.strip('/')
         )
-        j = list_torrents(get_url, filter='completed', category=console_args.name_tag)
-        print (j)
-        print (json.dumps(j[-1], indent=4, sort_keys=True, ensure_ascii=False))
-        print (len(j))
+        list_reply = list_torrents(get_url, filter='completed', category=console_args.name_tag)
+        for t_reply in list_reply:
+            print_reply(t_reply)
         # TODO query switching
 else:
     pass

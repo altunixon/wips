@@ -15,35 +15,28 @@ qbtapi_pause = '/command/pause'
 qbtapi_delete = '/command/delete'
 type_urls = ('http://', 'https://', 'magnet:', 'bc://')
 type_query = ('start', 'stop', 'ls', 'rm')
+# bit-wise shift use y = 1 for KB, 2 for MB, 3 for GB
+byte_convert = lambda x, y: round(x / (1<<(y*10)), 2)
 
 # FUNCTIONS
-def check_result(json_response, **kwargs):
-    json_desc = kwargs.get('desc', 'no-desc')
-    check_field = kwargs.get('field', None)
-    check_value = kwargs.get('value', None)
-    if json_response is None or len(json_response) == 0:
-        print ('Invalid JSON response [%s]' % json_response)
-        return False
-    else:
-        print (json_response)
-        try:
-            dict_response = json.loads(json_response)
-        except Exception as excp:
-            print ('Malformed JSON response\n', excp)
-            return False
-        if check_field is not None and check_value is not None:
-            response_value = json_response.get(check_field, None)
-            if response_value is not None:
-                return True if response_value == check_value else False
-            else:
-                print ('Could not find [%s] in\n%s' % (
-                    check_field, 
-                    json.dumps(dict_response, indent=4, sort_keys=True, ensure_ascii=False)
-                ))
-                return False
+def check_result(response_data, **kwargs):
+    check_len = kwargs.get('check_len', False)
+    response_desc = kwargs.get('desc', None)
+    response_len = int(response_data.headers.get('content-length', 0))
+    if response_data.status_code == 200:
+        if not check_len or response_len > 0:
+            message_type, check_result = ('_OK_', True)
         else:
-            print ('Skip response checking due to un-defined check values: %s' % kwargs)
-            return True
+            message_type, check_result = ('WARN', False)
+    else:
+        message_type, check_result = ('ERRO', False)
+        response_desc = response_data.reason
+    print ('[{msg_type}] #{http_code} {check_desc}, Content-Length: {content_len}'.format(
+        msg_type = message_type, 
+        http_code = response_data.status_code, 
+        check_desc = response_desc
+    ))
+    return check_result
 
 def add_file(t_uri, t_file, post_form={}):
     post_data = dict(post_form)
@@ -60,12 +53,6 @@ def add_file(t_uri, t_file, post_form={}):
             )
         # print (data_response.headers)
         if data_response.status_code == 200:
-            # return check_result(
-            #     data_response.json(), 
-            #     desc=file_desc, 
-            #     field='PLACEHOLDER', 
-            #     value='PLACEHOLDER'
-            # )
             print ('[_OK_] #%s File "%s" [Succeeded]' % (data_response.status_code, file_desc))
             return True
         else:

@@ -31,10 +31,11 @@ def check_result(response_data, **kwargs):
     else:
         message_type, check_result = ('ERRO', False)
         response_desc = response_data.reason
-    print ('[{msg_type}] #{http_code} {check_desc}, Content-Length: {content_len}'.format(
+    print ('[{msg_type}] #{http_code} {check_desc}, Content-Length: {content_len} Bytes'.format(
         msg_type = message_type, 
         http_code = response_data.status_code, 
-        check_desc = response_desc
+        check_desc = response_desc, 
+        content_len = response_len
     ))
     return check_result
 
@@ -52,14 +53,10 @@ def add_file(t_uri, t_file, post_form={}):
                 headers = {'Content-Type': data_encoded.content_type}
             )
         # print (data_response.headers)
-        if data_response.status_code == 200:
-            print ('[_OK_] #%s File "%s" [Succeeded]' % (data_response.status_code, file_desc))
-            return True
-        else:
-            print ('[FAIL] #%s File "%s" [Failed]' % (data_response.status_code, file_desc))
-            return False
+        # will always reply with "HTTP/1.1 200 OK" no matter if the file is actualy added or not
+        return check_result(data_response, desc='POST File "%s"' % file_desc, check_len=False)
     else:
-        print ('[ERR_] File "%s" missing' % a_trnt)
+        print ('[ERRO] File "%s" missing' % a_trnt)
         return False
 
 def add_urls(t_uri, t_urls, post_form={}):
@@ -75,16 +72,8 @@ def add_urls(t_uri, t_urls, post_form={}):
         # data = data_encoded, 
         # headers = {'Content-Type': data_encoded.content_type}
     )
-    if data_response.status_code == 200:
-        return check_result(
-            data_response.json(), 
-            desc='magnet/url', 
-            field='PLACEHOLDER', 
-            value='PLACEHOLDER'
-        )
-    else:
-        return False
-
+    return check_result(data_response, desc='POST Urls (%s)' % len(t_urls), check_len=False)
+    
 def list_torrents(t_uri, **kwargs):
     query_filter = kwargs.get('filter', 'all')
     query_category = kwargs.get('category', None)
@@ -96,8 +85,21 @@ def list_torrents(t_uri, **kwargs):
         query_list['category'] = query_category
     query_url = '{api}?{query}'.format(api=t_uri, query=urlencode(query_list))
     data_response = requests.get(query_url)
-    if data_response.status_code == 200 \
-    and int(data_response.headers['content-length']) > 0:
+    reply_check = check_result(
+        data_response, desc='GET "%s" Category: %s' % (t_uri, query_category), check_len=True)
+    if reply_check:
+        # returns a list of dicts, use .content or .text for json formatted text
+        return data_response.json()
+    else:
+        return None
+    
+def list_byhash(t_uri, t_hash):
+    query_url = '{api}?{query}'.format(api=t_uri, query=t_hash)
+    data_response = requests.get(query_url)
+    reply_check = check_result(
+        data_response, desc='GET "%s" Category: %s' % (t_uri, query_category), check_len=True)
+    if reply_check:
+        # returns a list of dicts, use .content or .text for json formatted text
         return data_response.json()
     else:
         return None

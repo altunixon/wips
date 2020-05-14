@@ -13,6 +13,7 @@ qbtapi_list = '/query/torrents'
 qbtapi_start = '/command/resume'
 qbtapi_stop = '/command/pause'
 qbtapi_rm = '/command/delete'
+qbtapi_lsh = '/query/propertiesGeneral'
 type_urls = ('http://', 'https://', 'magnet:', 'bc://')
 type_query = ('start', 'stop', 'ls', 'rm')
 # bit-wise shift use y = 1 for KB, 2 for MB, 3 for GB
@@ -96,8 +97,7 @@ def list_torrents(t_uri, **kwargs):
         return None
     
 def list_thash(t_uri, t_hash):
-    query_url = '{api}?{query}'.format(api=t_uri, query=t_hash)
-    data_response = requests.get(query_url)
+    data_response = requests.get(t_uri)
     reply_check = check_result(
         data_response, desc='GET "%s" Category: %s' % (t_uri, query_category), check_len=True)
     if reply_check:
@@ -120,7 +120,9 @@ def post_api(t_uri, post_data, **kwargs):
     
 def print_reply(dict_json, **kwargs):
     dump_json = kwargs.get('dump', None)
-    print (
+    print_compact = kwargs.get('compact', False)
+    if not print_compact:
+        print (
 '''================================================
 File : {t_name}
     Hash     : "{t_hash}", [{t_category}], {t_adate}
@@ -140,8 +142,17 @@ File : {t_name}
             t_speed = byte_convert(dict_json.get('dlspeed', 0), 1), # Bytes to KB
             t_eta = time_delta(dict_json.get('eta', 0)), # timedelta seconds to human readable
             t_seeder = dict_json.get('num_seeds', 0), 
-        )
-    )
+        ))
+    else:
+        print ('{t_hash},{t_path},{t_name},{t_sizetotal},{t_progress},{t_state}'.format(
+            t_name = dict_json.get('name', 'UNKNOWN'), 
+            t_hash = dict_json.get('hash', 'UNKNOWN'), 
+            t_path = dict_json.get('save_path', 'UNKNOWN'), 
+            t_sizetotal = byte_convert(dict_json.get('total_size', 0), 2), # Bytes to MB
+            t_progress = (dict_json.get('progress', 0) * 100), 
+            t_state = dict_json.get('state', 'UNKNOWN'), 
+        ))
+        pass
     if dump_json is not None:
         with open(dump_json, 'a+') as dja:
             dja.write(json.dump(dict_json, indent=4, sort_keys=False, ensure_ascii=False))
@@ -231,12 +242,26 @@ if __name__ == '__main__':
             print ('[INFO] Found %s Result' % len(list_reply))
         else:
             switcher_dict = {
-                'start': (gen_uri(qbtapi_start), {'hash': console_args.list_trnt[0]}), 
-                'stop': (gen_uri(qbtapi_stop), {'hash': console_args.list_trnt[0]}), 
-                'rm': (gen_uri(qbtapi_rm), {'hashes': '|'.join(console_args.list_trnt)}), 
+                'start': gen_uri(qbtapi_start), 
+                'stop': gen_uri(qbtapi_stop), 
+                'rm': gen_uri(qbtapi_rm), 
             }
-            post_api(*switcher_dict.get(console_args.query_str))
-            
+            api_url = switcher_dict.get(console_args.query_str)
+            if len(console_args.list_trnt) > 0:
+                if console_args.query_str != 'rm':
+                    for trnt_hash in console_args.list_trnt:
+                        post_api(api_url, {'hash': trnt_hash})
+                        post_check = list_thash('{api}/{t_hash}'.format(api=gen_uri(qbtapi_lsh), t_hash=trnt_hash))
+                        print_reply(post_check)
+                else:
+                    for trnt_hash in console_args.list_trnt:
+                        post_check = list_thash('{api}/{t_hash}'.format(api=gen_uri(qbtapi_lsh), t_hash=trnt_hash))
+                        print_reply(post_check)
+                    post_api(api_url, {'hashes': '|'.join(console_args.list_trnt)})
+                    print ('[INFO] POST Deleted [%s] Torrents' % len(console_args.list_trnt))
+            else:
+                print ('[WARN] Needs torrent hash to run [%s]' % console_args.query_str)
+
         # TODO query switching
         # post headers Content-Type: application/x-www-form-urlencoded
 else:

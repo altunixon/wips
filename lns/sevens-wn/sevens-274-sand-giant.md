@@ -1,4 +1,4 @@
-[sevens-273: The Demon’s Medicine](./sevens-273-the-demons-medicine.md) | [sevens-275: It was the city of merchants and adventurers, and a city that had continued to grow. For that sake, there were remnants where old walls once stood.](./sevens-275-it-was-the-city-of-merchants-and-adventurers-and-a-city-that-had-continued-to-grow.-for-that-sake-there-were-remnants-where-old-walls-once-stood..md) <br/>
+[sevens-273: The Demon’s Medicine](./sevens-273-the-demons-medicine.md) | [sevens-275: The Capital of Dreams.](.sevens-275-the-capital-of-dreams.md) <br/>
 <br/>
 Sand Giant<br/>
 Fighting the elite forces of Bahnseim, Maksim clad his body in "Sand Armor" as he took in the sight before him.<br/>
@@ -130,5 +130,5 @@ On top of the wall, adventurers fought the knights and soldiers of Bahnseim, but
 The Supreme Commander watched it.<br/>
 "… Hmm, how disappointing."<br/>
 He murmured, watching the large gates of Beim open up.<br/>
-[sevens-273: The Demon’s Medicine](./sevens-273-the-demons-medicine.md) | [sevens-275: It was the city of merchants and adventurers, and a city that had continued to grow. For that sake, there were remnants where old walls once stood.](./sevens-275-it-was-the-city-of-merchants-and-adventurers-and-a-city-that-had-continued-to-grow.-for-that-sake-there-were-remnants-where-old-walls-once-stood..md) <br/>
+[sevens-273: The Demon’s Medicine](./sevens-273-the-demons-medicine.md) | [sevens-275: The Capital of Dreams.](.sevens-275-the-capital-of-dreams.md) <br/>
 

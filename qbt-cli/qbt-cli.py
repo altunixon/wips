@@ -217,8 +217,17 @@ if __name__ == '__main__':
                 uri = qbtapi_list.strip('/')
             )
             list_reply = list_torrents(get_url, category=console_args.name_tag)
-            for t_reply in list_reply:
-                print_reply(t_reply)
+            if len(console_args.list_trnt) > 0:
+                for list_data in list_reply:
+                    search_name = list_data.get('name')
+                    if any(x.lower() in search_name.lower() for x in console_args.list_trnt):
+                        print_reply(list_data)
+                    else:
+                        print ('[DEBG] LS %s Not Match "%s"' % (console_args.list_trnt, search_name))
+                        pass
+            else:
+                for t_reply in list_reply:
+                    print_reply(t_reply)
             print ('[INFO] Found %s Result' % len(list_reply))
         else:
             switcher_dict = {

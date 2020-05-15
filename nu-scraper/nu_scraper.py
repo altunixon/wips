@@ -8,6 +8,7 @@ from helpers.misc import countdown
 from helpers.dir_helper import MkDirP
 from browsers.selenium import SeleniumBrowser
 from browsers.scraper_lxml import html_scraper
+from html2md import html2md
 
 nu_prefix = 'https://www.novelupdates.com/series/'
 xpath_nu_navigation = '//a[@class="next_page"]'
@@ -31,16 +32,6 @@ def chapter_zfill(chapter_txt, **zargs):
         return chapter_fill
     else:
         return None
-    
-def html2md(text_html, **kargs):
-    soup_features = kargs.pop('features', 'lxml')
-    soup_html = BeautifulSoup(text_html, features = soup_features)
-    # kill all script and style elements
-    for soup_script in soup_html(["script", "style"]):
-        soup_script.decompose()    # rip it out
-    soup_text = re.sub('^\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
-    # soup_text = soup_html.get_text()
-    return soup_text.replace('\n', '<br/>\n')
 
 def chapter_md(chapter_link, **kargs):
     xpath_article = kargs.pop('article', None)

@@ -28,11 +28,14 @@ def html2md(text_html, **kargs):
     else:
         return soup_text
 
-for line in sys.stdin:
-    fname = line.rsplit('.', 1)[0]
-    with open(line.strip('\n'), 'r') as fread:
-        text_content = html2md(fread.read())
-        with open(fname + '.md', 'w') as mdwn:
-            mdwn.write(text_content)
+if __name__ == '__main__':
+    for line in sys.stdin:
+        fname = line.rsplit('.', 1)[0]
+        with open(line.strip('\n'), 'r') as fread:
+            text_content = html2md(fread.read())
+            with open(fname + '.md', 'w') as mdwn:
+                mdwn.write(text_content)
+else:
+    pass
 
 # sed -i '/^$/d; s/\.$/\.<br\/>/g; s/"$/"<br\/>/g; s/”$/"<br\/>/g; s/“/"/g; s/】$/"<br\/>/g; s/【/"/g; s/』$/"<br\/>/g; s/『/"/g' *.md

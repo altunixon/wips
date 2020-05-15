@@ -8,10 +8,12 @@ def html2md(text_html, **kargs):
     link_ref = kargs.get('refer', None)
     link_desc = kargs.get('desc', 'Link')
     soup_features = kargs.pop('features', 'lxml')
-    soup_html = BeautifulSoup(text_html, features = soup_features)
+    soup_html = BeautifulSoup(text_html, features=soup_features)
     # kill all script and style elements
+    for x in soup_html.find_all("div", {'class': 'sharedaddy'}):
+        x.decompose() # broke merc
     for soup_script in soup_html(["script", "style", "ins"]):
-        soup_script.decompose()    # rip it out
+        soup_script.decompose() # rip it out
     # soup_text = soup_html.get_text()
     # soup_text = re.sub('(\t|\s+)?\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
     soup_text = re.sub('\n\s*\n', '\n', soup_html.get_text())

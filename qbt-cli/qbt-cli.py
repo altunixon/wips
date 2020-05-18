@@ -216,6 +216,12 @@ if __name__ == '__main__':
             data_post['savepath'] = console_args.path_out
         if console_args.name_tag is not None and len(console_args.name_tag) > 0:
             data_post['category'] = console_args.name_tag
+        else:
+            if console_args.path_out is None or len(console_args.path_out) == 0:
+                data_post['category'] = '_misc'
+            else:
+                data_post['category'] = console_args.path_out.strip(os.sep).rsplit(os.sep)[-1]
+
         data_post['paused'] = 'true' if not console_args.auto_start else 'false'
         post_url = gen_uri(qbtapi_upload)
         data_urls = set([])

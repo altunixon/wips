@@ -79,9 +79,9 @@ case $trem_mode in
         if [ ${#trem_maps[@]} -gt 1 ]; then
             trem_li=$((${#trem_maps[@]} - 1))
             echo -e "Multiple [$trem_key] Match:"
-            for map_line in $(seq 0 $trem_li); do
+            for map_ln in $(seq 0 $trem_li); do
                 # ??? might be wrong
-                echo -e "[$map_line]: '${trem_maps[mapline]}'"
+                echo -e "[$map_ln]: '${trem_maps[map_ln]}'"
             done
             read -p "Choose [0-${trem_li}] to continue: " map_choice
             case $map_choice in

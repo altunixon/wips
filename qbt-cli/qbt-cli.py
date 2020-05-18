@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import requests, os, json, time
+import requests, os, shutil, json, time
 from urllib.parse import urlencode
 from requests_toolbelt import MultipartEncoder
 
@@ -71,7 +71,7 @@ def recycle(t_file, t_bin, **kwargs):
     if t_bin is not None:
         t_name = os.path.basename(t_file)
         t_dest = os.path.join(t_bin, t_name)
-        os.rename(t_file, t_dest)
+        shutil.move(t_file, t_dest)
     else:
         if os.path.exists(t_file):
             os.remove(t_file)

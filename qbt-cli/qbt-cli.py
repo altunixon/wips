@@ -3,6 +3,7 @@
 import requests, os, json, time
 from urllib.parse import urlencode
 from requests_toolbelt import MultipartEncoder
+from helpers.dir_helper import MkDirP
 
 # qb v4.0.3 nox
 # https://github.com/qbittorrent/qBittorrent/wiki/WebUI-API-Documentation
@@ -66,6 +67,15 @@ def add_file(t_uri, t_file, post_form={}):
     else:
         print ('[ERRO] File "%s" missing' % a_trnt)
         return False
+    
+def recycle(t_file, t_bin, **kwargs):
+    if t_bin is not None:
+        t_name = os.path.basename(t_file)
+        t_dest = os.path.join(t_bin, t_name)
+        os.rename(t_file, t_dest)
+    else:
+        if os.path.exists(t_file):
+            os.remove(t_file)
 
 def add_urls(t_uri, t_urls, post_data):
     # https://stackoverflow.com/questions/48211143/building-multipart-form-data-with-multiline-swift-strings-does-not-work
@@ -175,6 +185,9 @@ if __name__ == '__main__':
     parser.add_argument('-o', '--output', 
         dest='path_out', type=str, default=None, 
         help='Save path, default unspecified, uses application\'s default save location')
+    parser.add_argument('--recyclebin', 
+        dest='path_recycle', type=str, default=None, 
+        help='Recycle bin path, if not provided, delete file on add success')
     parser.add_argument('-t', '--tag', 
         dest='name_tag', type=str, default=None, 
         help='Tag torrents under "Category", default no tagging')
@@ -186,6 +199,9 @@ if __name__ == '__main__':
         help='Start torrent immediately')
     parser.set_defaults(auto_start = False)
     console_args = parser.parse_args()
+    
+    if console_args.path_recycle is not None:
+        MkDirP(console_args.path_recycle)
     
     gen_uri = lambda x: '{api}/{uri}'.format(
         api = console_args.url_api.strip('/'), 
@@ -208,8 +224,11 @@ if __name__ == '__main__':
             elif ':' in a_trnt:
                 print ('Un-support Link Type: "%s"' % a_trnt)
             else:
-                result_action = add_file(post_url, a_trnt, data_post)
-                result_error += 1 if not result_action else 0
+                result_ok = add_file(post_url, a_trnt, data_post)
+                if result_ok:
+                    recycle(a_trnt, console_args.path_recycle)
+                else:
+                    result_error += 1
                 time.sleep(1)
                 # TODO add cleanup fuction
                 # file_cleanup(a_trnt, result_action)
@@ -217,10 +236,8 @@ if __name__ == '__main__':
             post_url = gen_uri(qbtapi_download)
             data_post.pop('torrents', None)
             data_post['urls'] = '\n'.join(list(data_urls))
-            result_action = post_api(
-                post_url, data_post,
-            )
-            result_error += 1 if not result_action else 0
+            result_ok = post_api(post_url, data_post)
+            result_error += 1 if not result_ok else 0
     else:
         if console_args.query_str == 'ls':
             get_url = '{api}/{uri}'.format(

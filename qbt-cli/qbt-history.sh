@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 
 IFS=$'\r\n'
-path_mapfile="/home/alt/git-repo/txt-lists/trem-maps.txt"
+path_mapfile="$HOME/git-repo/txt-lists/trem-maps.txt"
 qbt_api="http://127.0.0.1:9090"
-qbt_recycle="/tmp/recyclebin/trem"
-qbt_exec=('qbt-cli.py' '--api' "$qbt_api" '--recyclebin' "$qbt_recycle")
+qbt_recycle="/tmp/recyclebin/qbt"
+qbt_cli="$HOME/bin-py/qbt-cli.py"
+qbt_exec=("$qbt_cli" '--api' "$qbt_api" '--recyclebin' "$qbt_recycle")
 msg_help="Usage:\n\t$0 <ls> [keyword]\n\t$0 <add> <dest> <keyword>\n\t$0 <replay|autoplay> <keyword>"
 
 function warning_empty() {

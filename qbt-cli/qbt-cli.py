@@ -3,7 +3,6 @@
 import requests, os, json, time
 from urllib.parse import urlencode
 from requests_toolbelt import MultipartEncoder
-from helpers.dir_helper import MkDirP
 
 # qb v4.0.3 nox
 # https://github.com/qbittorrent/qBittorrent/wiki/WebUI-API-Documentation
@@ -200,8 +199,9 @@ if __name__ == '__main__':
     parser.set_defaults(auto_start = False)
     console_args = parser.parse_args()
     
-    if console_args.path_recycle is not None:
-        MkDirP(console_args.path_recycle)
+    if console_args.path_recycle is not None \
+    and not os.path.isdir(console_args.path_recycle):
+        os.makedirs(console_args.path_recycle)
     
     gen_uri = lambda x: '{api}/{uri}'.format(
         api = console_args.url_api.strip('/'), 

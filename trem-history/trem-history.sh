@@ -70,7 +70,7 @@ case $trem_mode in
         fi
         # Add torrent
         ${trem_alias[@]} "${trem_dst}" ./*"${trem_key}"*
-        [ $? -eq 0 ] && recycle_torrent "${trem_key}"
+        [ $? -eq 0 ] && recycle_torrent "${trem_key}" || echo -e "[ERRO] ADD '$trem_key' to '$trem_dst' Failed"
     ;;
     replay)
         trem_key=${2:-}
@@ -94,7 +94,7 @@ case $trem_mode in
         trem_key=$(echo "$trem_map_chosen" | awk -F '|' '{print $1}')
         trem_dst=$(echo "$trem_map_chosen" | awk -F '|' '{print $2}')
         ${trem_alias[@]} "${trem_dst}" ./*"${trem_key}"*
-        [ $? -eq 0 ] && recycle_torrent "${trem_key}"
+        [ $? -eq 0 ] && recycle_torrent "${trem_key}" || echo -e "[ERRO] REPLAY '$trem_key' Failed"
     ;;
     autoplay)
         trem_src=${2:-'./'}
@@ -102,7 +102,7 @@ case $trem_mode in
             trem_key=$(echo "$map_line" | awk -F '|' '{print $1}')
             trem_dst=$(echo "$map_line" | awk -F '|' '{print $2}')
             ${trem_alias[@]} "${trem_dst}" ./*${trem_key}*
-            [ $? -eq 0 ] && recycle_torrent "${trem_key}"
+            [ $? -eq 0 ] && recycle_torrent "${trem_key}" || echo -e "[ERRO] AUTOPLAY Failed"
         done
     ;;
     *)

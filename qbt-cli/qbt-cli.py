@@ -130,6 +130,7 @@ def post_api(t_uri, post_data, **kwargs):
 def print_reply(dict_json, **kwargs):
     dump_json = kwargs.get('dump', None)
     print_compact = kwargs.get('compact', False)
+    print_ifs = kwargs.get('ifs', '|')
     if not print_compact:
         print (
 '''================================================
@@ -153,13 +154,14 @@ File : {t_name}
             t_seeder = dict_json.get('num_seeds', 0), 
         ))
     else:
-        print ('{t_hash},{t_path},{t_name},{t_sizetotal},{t_progress},{t_state}'.format(
+        print ('{t_hash}{ifs}{t_path}{ifs}{t_name}{ifs}{t_sizetotal}MB{ifs}{t_progress}{ifs}{t_state}'.format(
             t_name = dict_json.get('name', 'UNKNOWN'), 
             t_hash = dict_json.get('hash', 'UNKNOWN'), 
             t_path = dict_json.get('save_path', 'UNKNOWN'), 
             t_sizetotal = byte_convert(dict_json.get('total_size', 0), 2), # Bytes to MB
             t_progress = (dict_json.get('progress', 0) * 100), 
             t_state = dict_json.get('state', 'UNKNOWN'), 
+            ifs = print_ifs, 
         ))
         pass
     if dump_json is not None:
@@ -230,8 +232,6 @@ if __name__ == '__main__':
                 else:
                     result_error += 1
                 time.sleep(1)
-                # TODO add cleanup fuction
-                # file_cleanup(a_trnt, result_action)
         if len(data_urls) > 0:
             post_url = gen_uri(qbtapi_download)
             data_post.pop('torrents', None)
@@ -278,8 +278,5 @@ if __name__ == '__main__':
                     print ('[INFO] POST Deleted [%s] Torrents' % len(console_args.list_trnt))
             else:
                 print ('[WARN] Needs torrent hash to run [%s]' % console_args.query_str)
-
-        # TODO query switching
-        # post headers Content-Type: application/x-www-form-urlencoded
 else:
     pass

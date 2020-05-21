@@ -1,0 +1,10 @@
+https://docs.microsoft.com/en-us/graph/api/resources/resource?view=graph-rest-1.0
+
+https://docs.microsoft.com/en-us/graph/auth/auth-concepts
+https://docs.microsoft.com/en-us/archive/blogs/aaddevsup/how-to-use-the-adal-net-library-to-call-the-microsoft-graph-api-in-a-console-application-using-authorization-code-flow
+https://stackoverflow.com/questions/45253826/azure-adal-library-to-access-microsoft-graph-api
+
+# ActiveDirectory.dll
+https://stackoverflow.com/questions/59118939/how-do-i-install-microsoft-identitymodel-clients-activedirectory-windowsforms
+https://www.nuget.org/packages/Microsoft.IdentityModel.Clients.ActiveDirectory/
+https://docs.microsoft.com/en-us/mem/intune/developer/intune-graph-apis

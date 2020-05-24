@@ -1,6 +1,5 @@
 [sevens-052: The Lifeform Known as a Feudal Lord.](./sevens-052-the-lifeform-known-as-a-feudal-lord..md) | [sevens-054: Clara’t Adventurer Course.](./sevens-054-clara-s-adventurer-course.md) <br/>
 <br/>
-I… I don’t want to study right before it…<br/>
 Get Along<br/>
 Having returned from the labyrinth, I put in a day of break, and gathered everyone in the mansion.<br/>
 Those of my party, Novem and Aria.<br/>

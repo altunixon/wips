@@ -63,7 +63,7 @@ I was told that Leylia-san went to Rena’s temple in Republic Ariadya for relig
 Novis’ worldly desire was evident.<br/>
 Good grief, what the hell are you thinking about, Novis? It’s extremely vexing. Well, I don’t think Novis stands a chance because of Reiji-sama anyway. But there’s one thing I’m worried about. Just what kind of a person is the Maiden of Sword? I wanted to take swordsmanship lessons from her too. I wanted to become stronger, being weak was absolutely miserable.<br/>
 The Maiden of Sword Shirone-sama… I wanted to meet her.<br/>
-「NOVI~S! ! 」<br/>
+「NOVI\~S! ! 」<br/>
 A familiar voice called out to Novis. It was our old acquaintance!<br/>
 「「Justy! ! 」」<br/>
 Novis and I called out her name.<br/>
@@ -92,7 +92,7 @@ Big Sis Keyna suddenly interrupted our quarrel. Upon a closer look, Novis, who w
 「KYAAA――――NOVIIIS!!」<br/>
 Justy immediately released him from her bear hug and shook him by his shoulders in an attempt to wake him up.<br/>
 Justy… You’re too awesome. You almost strangled the hero of fire to death.<br/>
-(~’.’)~You Can Read The Advance Chapter  by Clicking The Picture Below and Become My Patron~(‘.’~)<br/>
+(\~’.’)~You Can Read The Advance Chapter  by Clicking The Picture Below and Become My Patron~(‘.’~)<br/>
 Join Our Discord Channel for latest information about Update and hot discussion about latest chapter<br/>
 Please check out my other new projects too :<br/>
 Former General is Undead Knight<br/>

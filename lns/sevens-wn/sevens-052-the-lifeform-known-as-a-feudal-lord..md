@@ -1,4 +1,4 @@
-[sevens-051: Various Worries](./sevens-051-various-worries.md) | [sevens-053: I… I don’t want to study right before it…](./sevens-053-i-i-dont-want-to-study-right-before-it.md) <br/>
+[sevens-051: Various Worries](./sevens-051-various-worries.md) | [sevens-053: Get Along](./sevens-053-get-along.md) <br/>
 <br/>
 The Lifeform Known as a Feudal Lord.<br/>
 "I was an only child."<br/>
@@ -210,5 +210,5 @@ I had forgotten how adaptable Novem was.<br/>
 "Lyle-san, how about you have a chat between comrades first? What you can do, what you’re insufficient in… it’s important to see those from other peoples’ eyes as well."<br/>
 I get the feeling I had learned something valuable from Clara.<br/>
 Remembering the ancestors from last time, I thought I wanted someone to say something like that.<br/>
-[sevens-051: Various Worries](./sevens-051-various-worries.md) | [sevens-053: I… I don’t want to study right before it…](./sevens-053-i-i-dont-want-to-study-right-before-it.md) <br/>
+[sevens-051: Various Worries](./sevens-051-various-worries.md) | [sevens-053: Get Along](./sevens-053-get-along.md) <br/>
 

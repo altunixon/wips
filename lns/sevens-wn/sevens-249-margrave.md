@@ -1,4 +1,4 @@
-[sevens-248: The original scan:](./sevens-248-the-original-scan.md) | [sevens-250: Varius](./sevens-250-varius.md) <br/>
+[sevens-248: Revenge](./sevens-248-revenge.md) | [sevens-250: Varius](./sevens-250-varius.md) <br/>
 <br/>
 Margrave<br/>
 The Margrave of Resno.<br/>
@@ -133,5 +133,5 @@ Shannon looked at me.<br/>
 "It’s so wrong, they don’t know exactly what part of it to scold you about. Or rather, you’re definitely threatening him, aren’t you? How should I put it… cowardly?"<br/>
 Being called a coward, the words that came up in my head were, ‘Coward is a compliment where I come from!’<br/>
 It seems I’ve been dyed in the ancestor’s colors in various bad ways. Mainly the Third, and the Fifth, and the Seventh… ah, quite a thick lot, and what’s more, only the relatively scheming ones are left.<br/>
-[sevens-248: The original scan:](./sevens-248-the-original-scan.md) | [sevens-250: Varius](./sevens-250-varius.md) <br/>
+[sevens-248: Revenge](./sevens-248-revenge.md) | [sevens-250: Varius](./sevens-250-varius.md) <br/>
 

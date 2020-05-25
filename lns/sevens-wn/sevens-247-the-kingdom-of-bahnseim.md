@@ -1,4 +1,4 @@
-[sevens-246: Jules Parswall](./sevens-246-jules-parswall.md) | [sevens-248: The original scan:](./sevens-248-the-original-scan.md) <br/>
+[sevens-246: Jules Parswall](./sevens-246-jules-parswall.md) | [sevens-248: Revenge](./sevens-248-revenge.md) <br/>
 <br/>
 The Kingdom of Bahnseim<br/>
 The Kingdom of Bahnseim.<br/>
@@ -148,5 +148,5 @@ Grinding a fist against her, and seeing Shannon tell me to stop, I smiled. There
 And she opened the book again, and restarted her studies. Hearing of forced smiles, I tried to respond, but I got the feeling there really were a lot of them these days. Perhaps she was paying mind to me.<br/>
 "Right. Maybe you’re right."<br/>
 I looked at the unending scenery, as I held Shannon to make sure she didn’t fall from my lap.<br/>
-[sevens-246: Jules Parswall](./sevens-246-jules-parswall.md) | [sevens-248: The original scan:](./sevens-248-the-original-scan.md) <br/>
+[sevens-246: Jules Parswall](./sevens-246-jules-parswall.md) | [sevens-248: Revenge](./sevens-248-revenge.md) <br/>
 

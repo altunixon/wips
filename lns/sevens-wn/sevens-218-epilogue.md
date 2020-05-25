@@ -1,4 +1,4 @@
-[sevens-217: Sevens 217: LYLE and mr. lyle](./sevens-217-sevens-217-lyle-and-mr.-lyle.md) | [sevens-219: Prologue](./sevens-219-prologue.md) <br/>
+[sevens-217: LYLE and mr. lyle](./sevens-217-lyle-and-mr.-lyle.md) | [sevens-219: Prologue](./sevens-219-prologue.md) <br/>
 <br/>
 Epilogue<br/>
 "Talking to you in your current state won’t get us anywhere. Sorry, but I’ll be quarantining you a while."<br/>
@@ -131,5 +131,5 @@ There, LYLE started thinking with a blank expression. And hanging his head, and 
 "Yeah, you better wait! Then I have to go persuade them, so I’ll be taking my leave."<br/>
 "… I doubt it’ll work out though."<br/>
 LYLE gave a delightful laugh as he saw me off.<br/>
-[sevens-217: Sevens 217: LYLE and mr. lyle](./sevens-217-sevens-217-lyle-and-mr.-lyle.md) | [sevens-219: Prologue](./sevens-219-prologue.md) <br/>
+[sevens-217: LYLE and mr. lyle](./sevens-217-lyle-and-mr.-lyle.md) | [sevens-219: Prologue](./sevens-219-prologue.md) <br/>
 

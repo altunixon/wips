@@ -1,4 +1,4 @@
-[sevens-053: I… I don’t want to study right before it…](./sevens-053-i-i-dont-want-to-study-right-before-it.md) | [sevens-055: Shannon Circry](./sevens-055-shannon-circry.md) <br/>
+[sevens-053: Get Along](./sevens-053-get-along.md) | [sevens-055: Shannon Circry](./sevens-055-shannon-circry.md) <br/>
 <br/>
 TL: That wasn’t nearly as bad as I thought, so have a chapter.<br/>
 Clara’s Adventurer Course<br/>
@@ -189,5 +189,5 @@ But before that…<br/>
 The ground was died red in a large radius, and a brutal spectacle extended before me.<br/>
 (A hammer that big won’t be of any use in the labyrinth, so she’ll have to carry bags.)<br/>
 I resolved myself, and got to collecting the stones and materials from the tattered remains.<br/>
-[sevens-053: I… I don’t want to study right before it…](./sevens-053-i-i-dont-want-to-study-right-before-it.md) | [sevens-055: Shannon Circry](./sevens-055-shannon-circry.md) <br/>
+[sevens-053: Get Along](./sevens-053-get-along.md) | [sevens-055: Shannon Circry](./sevens-055-shannon-circry.md) <br/>
 

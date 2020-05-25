@@ -1,13 +1,7 @@
 [sevens-247: The Kingdom of Bahnseim](./sevens-247-the-kingdom-of-bahnseim.md) | [sevens-249: Margrave](./sevens-249-margrave.md) <br/>
 <br/>
-(TL: To end the discussion over which ancestor image is which, here<br/>
-The original scan:<br/>
-<br/>
-A badly edited version of it:<br/>
-)<br/>
- <br/>
-<br/>
 Revenge<br/>
+<br/>
 Perhaps it had been revenge.<br/>
 That’s what the Walt House’s Fifth Generation Head said to me.<br/>
 The scenery projected around was a horrid one.<br/>

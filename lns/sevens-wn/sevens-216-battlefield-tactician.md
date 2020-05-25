@@ -1,4 +1,4 @@
-[sevens-215: The Witches](./sevens-215-the-witches.md) | [sevens-217: Sevens 217: LYLE and mr. lyle](./sevens-217-sevens-217-lyle-and-mr.-lyle.md) <br/>
+[sevens-215: The Witches](./sevens-215-the-witches.md) | [sevens-217: LYLE and mr. lyle](./sevens-217-lyle-and-mr.-lyle.md) <br/>
 <br/>
 Battlefield Tactician<br/>
 Riding May to the back lines of Galleria’s camp, I set course for the tent Leold-kun was in.<br/>
@@ -146,5 +146,5 @@ I couldn’t help but notice Monica’s movements were strange, so it must have 
 (Crap. I forgot. Well, it doesn’t change the result, so I guess it’s fine. Even so, it would be dull if I just left them angry.)<br/>
 "Okay, all of you, line up for a bit. It’s time for a reward."<br/>
 I thought up a plan.<br/>
-[sevens-215: The Witches](./sevens-215-the-witches.md) | [sevens-217: Sevens 217: LYLE and mr. lyle](./sevens-217-sevens-217-lyle-and-mr.-lyle.md) <br/>
+[sevens-215: The Witches](./sevens-215-the-witches.md) | [sevens-217: LYLE and mr. lyle](./sevens-217-lyle-and-mr.-lyle.md) <br/>
 

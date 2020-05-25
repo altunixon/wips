@@ -1,6 +1,7 @@
 [sevens-216: Battlefield Tactician](./sevens-216-battlefield-tactician.md) | [sevens-218: Epilogue](./sevens-218-epilogue.md) <br/>
 <br/>
-Sevens 217: LYLE and mr. lyle<br/>
+LYLE and mr. lyle<br/>
+<br/>
 "About how mr. lyle forgot about us, it is my belief we should issue an intense protest. Best Lyle… this will bring about a huge influence to the Best Lyle records! What we’ve lost in this term was definitely a drastic loss!"<br/>
 The Third emphasized it in the Jewel, but the words that returned were lonesome ones.<br/>
 There were few left.<br/>

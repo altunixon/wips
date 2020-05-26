@@ -1,6 +1,7 @@
 [sevens-065: Prologue](./sevens-065-prologue.md) | [sevens-067: Someone to Guard](./sevens-067-someone-to-guard.md) <br/>
 <br/>
-Sevens: The Circry House<br/>
+The Circry House<br/>
+<br/>
 We dropped by the Circry house.<br/>
 Normally, one would be shocked upon seeing such a large mansion, but among us, only Clara and Monica gave such a reaction.<br/>
 I was the heir to inherit the territory of a Feudal Lord.<br/>

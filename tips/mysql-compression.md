@@ -35,3 +35,8 @@ SELECT table_schema
     ```sql
     CREATE TABLE gsum_sum (view VARCHAR(32) PRIMARY KEY, save TEXT) ROW_FORMAT=COMPRESSED KEY_BLOCK_SIZE=8;
     ```
+  - Optional, Enable InnoDB with [**Transparent Page Compression**](https://dev.mysql.com/doc/refman/5.7/en/innodb-page-compression.html)
+    ```sql
+    ALTER TABLE t1 COMPRESSION="zlib";
+    OPTIMIZE TABLE t1;
+    ```

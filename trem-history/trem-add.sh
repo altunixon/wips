@@ -12,6 +12,7 @@ script_name=${0:-trem-add}
 #transm_opts=('http://192.168.11.40:9091/transmission' '--auth' 'alt:efsf')
 transm_opts=('--auth' 'alt:efsf')
 transm_addok=0
+transm_addfa=0
 
 function trem-halp() {
     halp_case=${1:-halp}
@@ -21,16 +22,16 @@ function trem-halp() {
             echo "[ INFO ] Not knowing what todo?"
         ;;
         missing|none|null)
-            echo "[ERROR] Missing Argument(s)"
+            echo "[ERRO] Missing Argument(s)"
         ;;
         dir|path)
-            echo "[WARN ] Path not found"
+            echo "[WARN] Path not found"
         ;;
         error|err)
-            echo "[ERROR] Broken Piece of Shiet"
+            echo "[ERRO] Broken Piece of Shiet"
         ;;
         *)
-            echo "[ERROR] Help me i'm retarded [$halp_case]!"
+            echo "[ERRO] Help me i'm retarded [$halp_case]!"
         ;;
     esac
     echo -e "\t$halp_usage"
@@ -51,14 +52,14 @@ function trem-mkdp() {
             y|Y|yes)
                 mkdir -p "$dir_path"
                 if [ $? -eq 0 ]; then
-                    echo "[OK___] Directory path '$dir_path' Created, continuing..."
+                    echo "[_OK_] Directory path '$dir_path' Created, continuing..."
                 else
-                    echo "[FAILD] '$dir_path' Could not be Created, Abort!"
+                    echo "[FAIL] '$dir_path' Could not be Created, Abort!"
                     exit 1
                 fi
             ;;
             *)
-                echo "[WARN_] Please Create '$dir_path' manually and run this script again."
+                echo "[WARN] Please Create '$dir_path' manually and run this script again."
                 exit 0
             ;;
         esac
@@ -69,26 +70,26 @@ function trem-add-all() {
 torrent_out1=${1:-}
 torrent_path1=${2:-}
 if [ -z $torrent_path1 ] || [ -z $torrent_out1 ]; then
-    echo "[DEBUG] Src: '$torrent_path1' / Dst: '$torrent_out1'"
+    echo "[DBUG] Src: '$torrent_path1' / Dst: '$torrent_out1'"
     trem-halp 'missing'
     exit 1
 else
     if [ -f "$torrent_path1" ]; then
         echo -e "\t[INFO_] Adding '$torrent_path1'"
         /usr/bin/transmission-remote ${transm_opts[@]} --add --start-paused --download-dir "$torrent_out1" "$torrent_path1"
-        transm_addok=$((transm_addok + 1))
+		[ $? -eq 0 ] && transm_addok=$((transm_addok + 1)) || transm_addfa=$((transm_addfa + 1))
         sleep 1
     elif [ -d "$torrent_path1" ]; then
         for t in $(find "$torrent_path1" -maxdepth 1 -type f -iname '*.torrent'); do
             echo -e "\t[INFO_] Adding '$t'"
             /usr/bin/transmission-remote ${transm_opts[@]} --add --start-paused --download-dir "$torrent_out1" "$t"
-            transm_addok=$((transm_addok + 1))
+            [ $? -eq 0 ] && transm_addok=$((transm_addok + 1)) || transm_addfa=$((transm_addfa + 1))
             sleep 1
         done
     elif [[ "$torrent_path1" == *'://'* || "$torrent_path1" == 'magnet:'* ]]; then
         echo -e "\t[INFO_] Adding Link '$torrent_path1'"
         /usr/bin/transmission-remote ${transm_opts[@]} --add --start-paused --download-dir "$torrent_out1" "$torrent_path1"
-        transm_addok=$((transm_addok + 1))
+        [ $? -eq 0 ] && transm_addok=$((transm_addok + 1)) || transm_addfa=$((transm_addfa + 1))
         sleep 1
     else
         ls -lah "$torrent_path1"
@@ -135,12 +136,12 @@ function trem-add() {
 case "${transm_opts[@]}" in
     *http:/*|*https:/*|*:9091*|*/trans*)
         trem_safe=0
-        echo "[DEBUG] Using Remote Server ${transm_opts[@]}"
+        echo "[DBUG] Using Remote Server ${transm_opts[@]}"
     ;;
     *)
         systemctl status transmission-daemon.service &> /dev/null
         trem_safe=$?
-        echo "[DEBUG] Local Server: systemctl status transmission-daemon.service ($trem_safe)"
+        echo "[DBUG] Local Server: systemctl status transmission-daemon.service ($trem_safe)"
     ;;
 esac
 
@@ -160,10 +161,10 @@ if [ $trem_safe -eq 0 ]; then
                 for i in $(seq 3 $torrent_rest); do
                     trem-add-all "$torrent_out0" "${!i}"
                 done
-                echo "[DONE_] Added [$transm_addok] Torrent(s) From [$((torrent_rest - 2))] Source(s)."
+                echo "[DONE] Added [$transm_addok] Torrent(s) From [$((torrent_rest - 2))] Source(s)."
             ;;
             ex*|eh*)
-                echo "[DEBUG] Adding E[X/H] type to '$torrent_out0'."
+                echo "[DBUG] Adding E[X/H] type to '$torrent_out0'."
                 for i in $(seq 3 $torrent_rest); do
                     trem-add-exht "$torrent_out0" "${!i}"
                 done
@@ -185,9 +186,11 @@ if [ $trem_safe -eq 0 ]; then
                 exit 1
             ;;
         esac
+		exit $transm_addfa
     fi
 else
     echo -e "[WARN_] Service 'transmission-daemon' is currently stopped, please follow the steps down below\n\t*1: Check '$STORAGE_DIR' Availability\n\t*2: Then start transmission-daemon.service accordingly"
+	exit 1
 fi
 }
 

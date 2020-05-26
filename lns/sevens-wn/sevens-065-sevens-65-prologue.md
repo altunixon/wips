@@ -1,4 +1,4 @@
-[sevens-064: Epilogue](./sevens-064-epilogue.md) | [sevens-066: Sevens: The Circry House](./sevens-066-sevens-the-circry-house.md) <br/>
+[sevens-064: Epilogue](./sevens-064-epilogue.md) | [sevens-066: The Circry House](./sevens-066-the-circry-house.md) <br/>
 <br/>
 Sevens 65: Prologue<br/>
 Within a coupled carriage on course to Centralle.<br/>
@@ -221,5 +221,5 @@ I get the feeling he isn’t really supportive of my current state as an adventu
 I thought to myself.<br/>
 (Well, we have quite a lot of girls with us, so I don’t think they’ll misunderstand too much.)<br/>
 With bags in hand, I held such a naïve thought in my mind, as I continued to search out an inn.<br/>
-[sevens-064: Epilogue](./sevens-064-epilogue.md) | [sevens-066: Sevens: The Circry House](./sevens-066-sevens-the-circry-house.md) <br/>
+[sevens-064: Epilogue](./sevens-064-epilogue.md) | [sevens-066: The Circry House](./sevens-066-the-circry-house.md) <br/>
 

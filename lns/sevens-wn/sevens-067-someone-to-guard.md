@@ -1,4 +1,4 @@
-[sevens-066: Sevens: The Circry House](./sevens-066-sevens-the-circry-house.md) | [sevens-068: Monetary Support](./sevens-068-monetary-support.md) <br/>
+[sevens-066: The Circry House](./sevens-066-the-circry-house.md) | [sevens-068: Monetary Support](./sevens-068-monetary-support.md) <br/>
 <br/>
 Someone to Guard<br/>
 Walking down the narrow alleyway, I confirmed the contents of the memo again.<br/>
@@ -200,5 +200,5 @@ Monica gave her reply as if it were only natural.<br/>
 "Yes, is there a problem with that?"<br/>
 "… No, it’s nothing."<br/>
 Clara took out a book to read, and Monica continued with her work…<br/>
-[sevens-066: Sevens: The Circry House](./sevens-066-sevens-the-circry-house.md) | [sevens-068: Monetary Support](./sevens-068-monetary-support.md) <br/>
+[sevens-066: The Circry House](./sevens-066-the-circry-house.md) | [sevens-068: Monetary Support](./sevens-068-monetary-support.md) <br/>
 

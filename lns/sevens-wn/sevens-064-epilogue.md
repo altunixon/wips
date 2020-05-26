@@ -1,4 +1,4 @@
-[sevens-063: Automaton](./sevens-063-automaton.md) | [sevens-065: Sevens 65: Prologue](./sevens-065-sevens-65-prologue.md) <br/>
+[sevens-063: Automaton](./sevens-063-automaton.md) | [sevens-065: Prologue](./sevens-065-prologue.md) <br/>
 <br/>
 Epilogue<br/>
 Having safely overcome the thirtieth floor, I dropped by Damien’s lab.<br/>
@@ -250,5 +250,5 @@ The Second spoke.<br/>
 The Third agreed.<br/>
 "Right. Why do we have a need to do something like this… it’s as wondrous as that automaton."<br/>
 And like that, the two continued their conversation within the Jewel.<br/>
-[sevens-063: Automaton](./sevens-063-automaton.md) | [sevens-065: Sevens 65: Prologue](./sevens-065-sevens-65-prologue.md) <br/>
+[sevens-063: Automaton](./sevens-063-automaton.md) | [sevens-065: Prologue](./sevens-065-prologue.md) <br/>
 

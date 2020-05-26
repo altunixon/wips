@@ -1,4 +1,4 @@
-[sevens-065: Sevens 65: Prologue](./sevens-065-sevens-65-prologue.md) | [sevens-067: Someone to Guard](./sevens-067-someone-to-guard.md) <br/>
+[sevens-065: Prologue](./sevens-065-prologue.md) | [sevens-067: Someone to Guard](./sevens-067-someone-to-guard.md) <br/>
 <br/>
 Sevens: The Circry House<br/>
 We dropped by the Circry house.<br/>
@@ -265,5 +265,5 @@ Hearing such a story. Ralph-san’s testing eyes…<br/>
 I spoke.<br/>
 "… I’ll accept it. But Miranda-san and Shannon are both my comrades, and members of my party, so I’m going to be taking them along."<br/>
 I decided to take up the request.<br/>
-[sevens-065: Sevens 65: Prologue](./sevens-065-sevens-65-prologue.md) | [sevens-067: Someone to Guard](./sevens-067-someone-to-guard.md) <br/>
+[sevens-065: Prologue](./sevens-065-prologue.md) | [sevens-067: Someone to Guard](./sevens-067-someone-to-guard.md) <br/>
 

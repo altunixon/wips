@@ -34,7 +34,14 @@ echo $table_lowr
 table_uppr=$(echo "$table_lowr"  | python2 -c "print (raw_input().capitalize().strip())")
 echo -e "INSERT IGNORE INTO ${db_name}.${table_uppr} (view, save) SELECT view, save FROM ${db_name}.${table_lowr};
 DROP TABLE IF EXISTS ${db_name}.${table_lowr};
-RENAME TABLE ${db_name}.${table_uppr} TO booru.${table_lowr};
+RENAME TABLE ${db_name}.${table_uppr} TO ${db_name}.${table_lowr};
 " | tee -a "./${db_name}-purge.sql"
 done
+```
+#### Source file SQL
+```bash
+mysql -uroot -proot -h127.0.0.1
+```
+```sql
+source ./purge.sql
 ```

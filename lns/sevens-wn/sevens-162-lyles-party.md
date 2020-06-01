@@ -1,4 +1,4 @@
-[sevens-161-2: Selva Falls](./sevens-161-2-selva-falls.md) | [sevens-163: Sevens: Money](./sevens-163-sevens-money.md) <br/>
+[sevens-161-2: Selva Falls](./sevens-161-2-selva-falls.md) | [sevens-163: Money](./sevens-163-money.md) <br/>
 <br/>
 Lyle’s Party<br/>
 After passing through Lorphys, and returning to Zayin, it ended up that a party was to be held to commemorate our victory.<br/>
@@ -198,5 +198,5 @@ And muttered that.<br/>
 Adele made a dubious smile.<br/>
 "Y-yes… realistically speaking, we will need money as well."<br/>
 She followed through for me. But Maksim looked fed-up, and Damien quite disappointed. It looks like he really planned to embezzle research funds out of me.<br/>
-[sevens-161-2: Selva Falls](./sevens-161-2-selva-falls.md) | [sevens-163: Sevens: Money](./sevens-163-sevens-money.md) <br/>
+[sevens-161-2: Selva Falls](./sevens-161-2-selva-falls.md) | [sevens-163: Money](./sevens-163-money.md) <br/>
 

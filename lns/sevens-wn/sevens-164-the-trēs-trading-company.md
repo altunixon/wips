@@ -1,4 +1,4 @@
-[sevens-163: Sevens: Money](./sevens-163-sevens-money.md) | [sevens-165: The Vera Trēs](./sevens-165-the-vera-trēs.md) <br/>
+[sevens-163: Money](./sevens-163-money.md) | [sevens-165: The Vera Trēs](./sevens-165-the-vera-trēs.md) <br/>
 <br/>
 The Trēs Trading Company<br/>
 She saw the ocean.<br/>
@@ -155,5 +155,5 @@ And the man…<br/>
 Seeing the man’s change in attitude, Novem smiled.<br/>
 "Could you go into the details?"<br/>
 And said that…<br/>
-[sevens-163: Sevens: Money](./sevens-163-sevens-money.md) | [sevens-165: The Vera Trēs](./sevens-165-the-vera-trēs.md) <br/>
+[sevens-163: Money](./sevens-163-money.md) | [sevens-165: The Vera Trēs](./sevens-165-the-vera-trēs.md) <br/>
 

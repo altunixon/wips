@@ -9,4 +9,9 @@ export QT_QPA_PLATFORMTHEME=qt5ct
 ```
 seems like all it needs is "kio-extra", qt5ct dont actually do anything.</br>
 
+#### Screen auto attach ONLY if login from ssh
+```bash
+echo "if [[ $STY = '' && $SSH_TTY != '' ]] then screen -xR; fi" >> ~/.bashrc
+```
+
 [arch]: https://wiki.archlinux.org/index.php/Qt#Configuration_of_Qt5_apps_under_environments_other_than_KDE

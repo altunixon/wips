@@ -13,9 +13,9 @@ FileLogger\Enabled=true
 FileLogger\Age=6
 FileLogger\DeleteOld=true
 FileLogger\Backup=true
-FileLogger\AgeType=1
-FileLogger\Path=path/to/log/folder/of/your/choice
-FileLogger\MaxSize=10
+FileLogger\AgeType=0
+FileLogger\Path=/tmp/recyclebin
+FileLogger\MaxSize=8
 ```
 - Explanation:
   - FileLogger\Backup= backup the log file when it becomes bigger than 

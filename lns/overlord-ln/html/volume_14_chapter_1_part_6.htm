@@ -1,0 +1,403 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 02/28/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 1 Part 6
+
+	Ainz strode proudly through the streets of E-Rantel.
+
+	Momon walked alongside him.
+
+	Needless to say, it was actually Pandora’s Actor.
+
+	To match Momon’s appearance, he had been equipped with a set of full-plate armor and two greatswords which hung on his back.
+
+	His regal and austere gait had garnered him much praise and prestige. In fact, his version of Momon appeared to be even more heroic than Ainz’s.
+
+	To be honest, Ainz had considered asking him to adopt a worse gait in case the citizens were able to tell the difference between the different versions.
+
+	Of course, this wasn’t something he would actually say out loud, so he figured he could at the very least attempt to secretly copy his gait. To this end, he had been stealing glances at Pandora’s Actor from his side view and fortunately, he hadn’t appeared to have noticed yet.
+
+	The one silently tailing those two to keep an eye out on their rear was Nabe - Narberal Gamma.  Though it appeared that they did not have any bodyguards, in actuality, multiple Hanzos were hidden around them and were on alert; consequently, Nabe, whose level was lower than theirs, was largely redundant.
+
+	However, considering how she had acted in this manner ever since she first debuted as Momon’s companion, Ainz felt it was unnecessary to order her to stop.
+
+	It’s important to note that these three were walking through the streets of this city without any goals in mind at all.
+
+	It was just a familiar exercise for all.
+
+	Through this procession with Momon and Nabe, Ainz was able to demonstrate various different things to the crowd. It was also for this reason that Ainz hadn’t brought the maids along.
+
+	This act served multiple purposes, the most important of all was to validate the fact that Ainz was still working together with Momon, so it wouldn’t be appropriate to exclude Narberal from this operation. After all, Momon was always seen in full-plate armor and his appearance wasn’t known to many. So, had they not brought Narberal along, rumours would begin to circulate that, “Momon was already killed by the Sorcerer King and it’s actually an undead in that armor.” In fact, those rumours had already begun circulating, so it was crucial for them to avoid creating further misunderstandings.
+
+	The pedestrians all kept to the sides of the road as if it was a no man’s land upon spotting the trio’s silhouettes.
+
+	This was of course, mainly due to the Sorcerer King’s presence. If Ainz had walked down these streets as Momon, this wouldn’t have happened. Though much time had passed between the founding of the Sorcerous Kingdom and now, the citizens were still terrified of Ainz.
+
+	It wasn’t just the humans who were reacting to him in that manner, but also some of the demihumans too.
+
+	This was because E-Rantel, which used to be a purely human-inhabited city, was no longer so. Demihumans could be seen sprinkled throughout the crowds.
+
+	If one were to look around where they were, they would see the outlines of a number of demihumans (although not many) in the shops. They were both employees and customers, and sometimes they were even the owners of the store. 
+
+	The part of the city which used to be a slum was renovated into residential zones for demihumans under Ainz’s orders. If they had been in that part of the city, this wouldn’t be such an unusual sight to behold, but Ainz and the others had been walking through one of the main streets of E-Rantel, far away from the slums of yore. 
+
+	It was easy to see from this fact alone how there had been a considerable number of demihumans flowing in and out of E-Rantel.
+
+	Though this wasn’t due to any special policies Ainz had put in place, after all the one who had been putting effort into these matters was Albedo, he still felt proud of this fact. It told him that his plans to unify the races was progressing at a steady pace.
+
+	{If this was the case, I would really like to enact policies that could speed up the process of uniting them all...}
+
+	In fact, he had such a plan in mind already. Ainz had considered holding some sort of an event in E-Rantel with the ulterior motive to draw in more tourists and increase their income from foreign sources. What he hadn’t considered was how unfestive and non-participatory this world was in general, which was the cause of his boredom this entire time.
+
+	Though a gladiatorial arena like the one in the Empire wouldn’t be too bad, Ainz wanted something that hadn’t been done already, something truly special.
+	
+	If he was to hold a large event that involved audience participation or anything that would allow an interracial team to shine, that would surely boost racial unity. If people had something in common to talk about, surely it would be easier for them to get along.
+
+	{How about some kind of ball-based sport like baseball or football? Or should I do something to spice up an existing event...}
+
+	As he mulled over those issues, Ainz was also observing an orc shopkeeper who appeared to be in a serious discussion with their human customers.
+
+	They were probably part of the orcs he had encountered in the Holy Kingdom, the ones who had been devastated by the Evil Lord Wrath and were then unified under Ainz. He couldn’t recall any other time he had brought orcs to E-Rantel.
+
+	Who this orc was exactly, Ainz had no clue. Though he had incorporated a large number of orcs into his dominion, the main reason was because Ainz, as one with human sensibilities, could not tell orcs apart at all.
+
+	In a similar vein, he couldn’t tell members of the other races apart either. For example, female Zerns differentiated themselves by their color. Speaking of zerns, he couldn’t help but wonder, how do they ‘see’ anyways?  In any case, they all looked about the same to Ainz.
+
+	This issue was applicable to most people anyways.
+
+	It was equally as difficult for an orc to differentiate between two humans as it was for a human to differentiate between two orcs.
+
+	For this reason, they had stuck to recognizing humans through features like hair length, pupil colors, et cetera but incidents still arose whereby goods reserved for a specific person were sold to someone who looked similar, even though to someone like Ainz the two persons looked completely different.
+
+	The Sorcerous Kingdom had no issues with public order. Crime rates for misdemeanors were low, nevermind felonies. This however, wasn’t due to the strict enforcement of the law, but rather out of people’s fears that their corpses would be turned undead to serve the country after their deaths.
+
+	It was for this reason that misunderstandings were cleared up quickly and without much fuss, mountains weren’t being made out of molehills. This was why the orc was calmly discussing business with his human customers.
+
+	“The Adventurer’s guild have also started accepting demihumans amongst their ranks. I believe that all of the demihumans will be able to reach their potential in the foreseeable future.”
+
+	Ainz said under his breath without much thought, prompting Pandora’s Actor to reply,
+
+	“Ainz-sama, it is exactly as you have surmised. Those demihumans, upon witnessing the undead Ainz-sama had created, must have thought that the career of a common soldier was no longer feasible. Those with talents in the arts, manufacturing, and research would then be more inclined to utilize said talents to their maximum potential.”
+
+	The Sorcerous Kingdom was still following the system of, “your race is pretty good at this, so you should probably seek employment in this field.” However, as the citizens’ knowledge of the other races and their respective cultures increases, they would probably begin to desire various other professions. Though this change was still in its early phases, the desire for self-determination would surely blossom over time.
+
+	The main drive for this change was the fact that all menial labour was now handled by the undead.
+
+	“Albedo seems to be managing that sector of the country well. After all, it’s imperative for us to halt the development of problematic crafts.”
+
+	Ainz and the rest were already at their level caps, so it was necessary to plan against those who were weaker than them and thus had the potential to become stronger.
+	
+	As part of those plans, they couldn’t allow their own people to achieve superiority in expertise over them. Weaklings should remain weaklings. 
+
+	At the same time, they had to ensure that the supremacy of their country as a whole was well maintained against their neighbouring countries. Perhaps Albedo was the only one who could possibly maintain this delicate balance.
+
+	{To this end, we’re in desperate need of spies capable of obtaining top-secret intel from our neighbours… We’re still too weak on that front.}
+
+	To create a pop monster that Nazarick would not automatically respawn required two ingredients. One was the monster’s data and the other was the corresponding amount of gold coins from Yggdrasil.
+
+	Though the library of Nazarick contained data on various types of monsters, it did not contain the data of every single type of monster from Yggdrasil. Some monster’s data were of limited use too. For example, they had already exhausted their supply of data on Hanzos and the library did not contain any data for the creation of Eight-Edge Assassins.
+
+	The creation of higher-tiered monsters incurred the cost of a large sum of gold.
+
+	If that was the case, shouldn’t weaker monsters suffice? Though he wanted to say so, actually using them would mean that there would be a higher chance of them getting caught whenever they tried to infiltrate someplace.
+
+	Amongst the surrounding nations, it wasn’t inconceivable to think that they were the only ones capable of employing monsters. It would be best for them to use higher tiered monsters who were harder for others to detect while their country was still of modest size. Or maybe-
+	
+	“-human spies?”
+
+	Ainz accidentally spoke his thoughts out loud. Nabe, upon hearing him speak, walked closer behind him to say,
+
+	“Ainz-sama. Speaking of which, how has the training for those spies been going? Shall I make sure those sows know who their rightful master is*?”
+
+	Ainz lowered his voice and responded with,
+
+	“...Nabe. You’re the partner of the folk hero Momon now, do not forget your position.”
+
+	After all, they had made it out to be that Momon and Nabe had been bound to this city out of concern for the safety of its inhabitants, which was why they were working with Ainz Ooal Gown in the first place. 
+
+	Perhaps enough time had passed that it wouldn’t be too bad to have their characters have a change of heart so that they were staying in the city out of reverence for the Sorcerer King instead. That being said, it would be safer to discuss this matter in advance with Albedo and the others to formulate a better script before committing to anything. Until then, it was best to not make suggestions to Ainz directly. It was better to discuss these matters within Nazarick and avoid those topics entirely while outside.
+
+	“-I profusely apologize.”
+
+	“You have been forgiven,” would have been what he would have said, until he took a good look at their surroundings. 
+
+	A lot of people were watching intently with horrified expressions, hopefully they hadn’t heard what Nabe had said. Ultimately it wouldn’t have been feasible for him to kill them all out of the suspicion of what they might have overheard, otherwise the facade he had built up that he was “a unique undead capable of speech who was different from the other members of his kind” would be harder to maintain.
+
+ 	Nonetheless, ignoring Nabe’s question and causing her to put on a dismayed expression caused Ainz to feel pity for her. 
+
+It would be troublesome if she were to stop asking questions of her own entirely. With that in mind, Ainz muttered his answer in a volume that was incomprehensible to those around them,
+
+	“...We’ve lent out the Hanzos. Tira is currently in charge of training them, but if I’m being honest, they are no better than a single Eight-Edge Assassin...hmmm, just consider it an investment for the future.”
+
+	Though it was unlikely that they would receive a return on investment proportional to the gold and time they had invested into this programme, it wasn’t as though it was completely impossible. The same applied to their investments in Runecraft™ and other magical technologies. 
+
+	They were going in completely blind on whether or not those efforts would bear fruit, so it was best to dial back their investments down to a minimum for now.
+
+	Ainz stopped talking.
+
+	And just like that, the trio continued to walk down the street in silence.
+
+	Occasionally they would bump into patrol teams consisting of Death Knights, Death Wizards, Death Warriors, Death Priests, and Death Assassins. Though they were walking on the streets too, they maintained a tight formation with the Death Assassins silently keeping a lookout on the front. This wasn’t due to any perceivable dangers, but rather the fact that they were just following their original orders to patrol in formation.
+
+	Something of note was that though Death Assassins were bad at concealing themselves, they had a high damage output thanks to their high critical strike chance. If an enemy were to let their guard down because they believed that a Death Assassin did not pose a threat to them, then they would be able to deal an alarming amount of damage. This was why Ainz couldn’t make spies out of them.
+
+	{Even though we’re exporting undead, those exports mostly consisted of weak Skeletons…}
+
+	Of course, they were charging vastly different prices for weaker undead compared to the stronger ones, so the most popular product was still those designed for cheap menial labour.
+
+	Consequently, the amount of undead around the level of a Death Knight they had exported was minimal.
+
+	It would be a waste to not use up his daily limit of [Create Undead], so Ainz had been exhausting his daily-use abilities; as a result, the number of undead he had created had already become a nuisance to him.
+
+	{If I were to lower their rental costs and raise them in the future, no one would rent from us again. Plus I don’t want to cut prices directly… Should I create a rewards system? The Empire rented quite a lot of Death Cavaliers from us, so we should probably focus on marketing to nations directly...but...}
+
+	Ainz glanced at Pandora’s Actor, who was beside him.
+
+	{It’s kind of awkward to just walk like this in silence. But, there’s not really much I’d want to talk to him about.}
+
+	If people were to perceive that their relationship wasn’t so great after all, then there wouldn’t be a point to this exercise.
+
+	“Ah- miss Nabe”
+
+	A conversation with Pandora’s Actor would be insufferable, so Ainz chose to speak to Nabe instead.
+
+	“Yes!”
+
+	{Hold up, you don’t have to answer with such vigor, you know?} Ainz thought but did not bother to say out loud. Her actions weren’t so strange in hindsight; when all was said and done, they were essentially subordinates under Ainz.
+
+	“Umm, how should I say this. How’s Yuri’s orphanage? Have you visited yet?”
+
+	“No, I haven’t been there yet.”
+
+	And that was the end of their conversation.
+
+	That couldn’t be because she had a bad relationship with Yuri, but just that she had no interest in that matter, right? Wait a second-
+
+	{-would someone really be so disinterested in the workplace of someone whose existence was their closest analogue to family? But, that response was also to be expected from Narberal.}
+
+	{Would she have reacted in the same way if the question had been about Shizu or Entoma’s workplace?} Ainz shrugged as that thought came up.
+
+	“Shall we visit it then?”
+
+	Because the full responsibility for the orphanage had been given to Yuri, not even Ainz knew of its current status. Of course, he had been given detailed plans about it, but no memory of it remained in Ainz’s vacuous, boney head.
+
+	There should’ve also been some scheduled reports on the finances of the orphanage, but since Ainz had been delegating those responsibilities to Albedo, he had only pretended to have read those reports.
+
+--------
+
+Mini-FAQ:
+Q: Where are we at?
+A: As of this part: 114/568
+Q: Where do I send feedback on errors and whatnot?
+A: Direct them to fanficerrors@protonmail.com (before you send a correction, please google if that phrase/word is actually wrong. I've been using some archaic grammar and diction out of habit but also for characterization purposes)
+
+Hitori's comment corner: Why was this part so short? First, it was to get this message out, second...well if you don't like hearing excuses just ignore this part
+
+See that asterisk in the middle of the part, Nabe's comment about sows? Maruyama botched the idiom "唾をつけつけ" and it took me quite a while to figure it out. The overall dialogue in this part from PA, Ainz, and Nabe was either confusing or archaic as hell.
+
+The CN team also switched to the traditional orientation (Up-&gt;Down, Right-&gt;Left) as a countermeasure to the aggregators and it'll unfortunately take me a while to adjust to that.
+
+I have major deadlines coming up tomorrow, on the 27th and so forth. There will be days where there won't be any updates but that won't mean that I'll stop TLing completely like last time, I just don't like releasing half-baked shit.</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

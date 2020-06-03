@@ -1,0 +1,360 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 04/02/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 3 Part 2
+
+	Zanac rejected that notion immediately, even though his finger had been resting on E-Libera.
+
+	“Do you really believe that to be impossible? Marquis Raeven is one to dote over his son. What if, someone was to kidnap his son and hold him hostage?”
+
+	“...Is that how they coerced Marquis Raeven? Absolutely despicable!”
+
+	“Though, I’m of the opinion that he may have betrayed us simply because he thought that ‘the crown is doomed for’”
+
+	Although he was unwilling to believe in Marquis Raeven's betrayal, there was no other nobleman who was as powerful as him. He would only need to call in a few favours with other nobles close to him before he could completely cut off the flow of intel to and from the city of his choice. The survivors would have also chosen to seek shelter and protection from the larger cities, E-Libera would have been an excellent choice in that regard.
+
+	Was it because of those factors that the Sorcerous Kingdom had set their sights on him?
+
+	“...What kind of person do you believe the Sorcerer King to be?”
+
+	“Abnormally flexible in his ways of thought, someone who possesses an entire nation’s worth of intellect and guile. What is most terrifying about him is the fact that he does not simply rely on his overwhelming power, but meticulously plans his every move out. One could say that he is a monster to whom the concept of arrogance is completely foreign.”
+
+	{Hoh?} Zanac looked at Renner, something felt off about her. Her expression was the same as usual, but her voice carried an unusual emotion, that of awe and reverence.
+
+	“The web of plots unfolding in front of our eyes were perhaps weaved into the Kingdom many years ago. We are but stuck moths.”
+
+	“I would prefer to say butterflies.”
+
+	“In any case, we are at their mercy, it does not matter if onii-sama prefers to use butterflies in that metaphor or not. Even if we slipped through these webs unharmed, there would just be another layer underneath...it is frankly terrifying. I did not believe that someone like him could exist in this world. What if our actions were all well within his calculations?”
+
+	“So you are saying that he is better than you?”
+
+	Renner laughed and did not respond.
+
+	“Let’s go back to our previous topic, onii-sama is probably thinking about searching through Marquis Raeven’s residence, right? I do not think that you could find anything substantial there.”
+
+	“That is true, but surely we cannot just remain idle, right?”
+
+	Given how likely it was that Marquis Raeven had betrayed them, they had to do something about it. He was still hopeful that they could find even the slightest trace of a clue to all of this.
+
+	“Before we do that, I have a question for onii-sama. If the current situation progresses on, the Sorcerous Kingdom would surely initiate the final battle near the capital. Would onii-sama order the soldiers to defend the city or send them out to receive the attack? How will we be raising our forces?”
+
+	“I have already received satisfactory responses from our neighbouring nobles.”
+
+	Those who were more distant had not replied yet. It wasn’t because they had not received his message yet, but because they wished to watch from the sidelines. They probably wished to see the royalty wiped out so that they could bow to the Sorcerer King as his new subjects. Or perhaps it was because they did not want to get on the Sorcerous Kingdom’s bad side by defending the Kingdom.
+
+	Either train of thought was naive to say the least.
+
+	Their belief that they could distance themselves away from this was proof enough on its own of their utter stupidity.
+
+	No, he shouldn’t be mocking their idiocy. If they knew of how ruthless the Sorcerous Kingdom had been, they would not have done so. They were simply all victims to the information lock that was placed on them all.
+
+	Once the capital fell, there was no doubt in his mind that the Sorcerous Kingdom would extend its brutality to the other cities. The nobles who wished to abstain from this battle would end up in defeat anyways.
+
+	“Do you believe that...we could win?”
+
+	Zanac gave a wry smile and responded calmly to this convoluted question.
+
+	“It is not a matter of whether we win or lose, we simply have no option but to face them in battle. The Sorcerous Kingdom will scorch every inch of this country and slaughter all of our citizens. This is our last stake at survival.”
+
+	“...Onii-sama...is already king, eh?”
+
+	“What? What do you mean? Are you saying that I am being too full of myself?”
+
+	“...Umm, if we were to be defeated in this battle, wouldn’t the Kingdom be destroyed? If that is the case then the citizens of the Kingdom would not be safe no matter where they escape to. While I do not believe onii-sama’s choice to stake it all on this battle to be incorrect, Marquis Raeven may have betrayed us for this reason too, to save the citizens.”
+
+	“I see...so that his city could become a sanctuary for the refugees, hmmm,”
+
+	“But I doubt the Sorcerer King would allow that to happen. Perhaps he had also ordered Marquis Raeven to kill the people seeking refuge in his city to test his loyalty.”
+
+	Why would Marquis Raeven betray them? No, has he betrayed them at all? Perhaps this too was another ploy of the Sorcerer King, to sow the seeds of doubt amongst them to bait him and Renner in.
+
+	Zanac recalled the Marquis Raeven who only wanted a better future for the Kingdom.
+
+	Maybe he should write him a letter and have an honest conversation with him, but that could be a dangerous move.
+
+	A traitor who continues to receive their former letters. That would certainly cause the Sorcerer King to cast doubts on him. 
+
+	That could be a ploy that he could use against them, but it was better saved for a situation in which Marquis Raeven would be marching along with the Sorcerer King’s army. This wasn’t the best time to do something like this. If Marquis Raeven really was being coerced by threats against his family’s wellbeing, he could not fault him.
+
+	Zanac recalled the Marquis Raeven who excessively doted over his son.
+
+	He reminisced so hard his eyes almost squinted into a line until he was knocked back to reality by the sight of his sister.
+
+	“Refugees…? Speaking of which, father wanted you to...well, he wanted us to seek refuge in the City-State Alliance as the Kingdom’s representatives. That was way before I placed father under surveillance. If you still want to do so, you better get away from the capital soon.”
+
+	Soon enough he will have to draft everybody he could and face a decisive battle against the Sorcerous Kingdom. If he was being honest, they had no chance at all. Defeat meant that the capital and the other cities would be razed to ashes.
+
+	That meant that nowhere within the Kingdom was safe. Perhaps they should follow their father’s suggestion and abandon the country.
+
+	In normal circumstances, there were two ways a victor would have dealt with a kingdom’s former royalty.
+
+	One was to mix their lineage through political marriages, the other was to wipe out everyone with royal blood to leave no loose ends behind. 
+
+	The Sorcerous Kingdom would definitely choose the latter.
+
+	“That is an excellent idea, would onii-sama come too?”
+
+	“At this point, how could I...If our elder brother was still here I would have chosen to run too. Don’t mind me, what are you going to do? The Sorcerer King is undead so he probably wouldn’t take {that} kind of interest in women, so they would undoubtedly be killed too.”
+
+	“If the Sorcerous Kingdom attacked us, I could be violated by one of our own who’s desperate enough to do so.”
+
+	Zanac showed his disgust on his face upon hearing how calmly his sister had said such words. But, he had to admit that she was also being realistic.
+
+	Renner’s beauty was renowned, it wouldn’t be out of the question for those kinds of people to exist.
+
+	“Then remember to not leave Climb and Unglaus’s side for now.”
+
+	“Mmm, okay, I won’t let Climb leave my side.”
+
+	“There’s no one but the two of us here and I won’t speak of it given the current situation, but you have to answer me with ‘those two’.”
+
+	Why would Brain Unglaus choose to serve under this woman?
+
+	Though he had heard rumours that Brain was interested in Climb, he did not appear to be gay in the slightest. However, after some investigations, it did appear that he had not had a woman at all — it couldn’t possibly be because he’s only interested in children, right?
+
+	He did not give voice to those thoughts given how scary his sister is. If those two were to find out about it, it would be troublesome.
+
+	“Anyways, I do not intend to flee. As a princess, I will face death with grace and dignity.”
+
+	That was unexpected.
+
+	He had thought about this in the past, about how she would be fine with any kind of life as long as she was with Climb. Perhaps she was only putting up a front and had already prepared to escape.
+
+	{She would be the type to do that...}
+
+	“But even a corpse could still be exploited by the Sorcerer King.”
+
+	“Perhaps, will onii-sama be leading the army against the Sorcerer King?”
+
+	“Ah, yeah. Even though my presence would not make a difference at all, the army needs a royal to lead them — I have to take a stand.”
+
+	Zanac looked towards the ceiling.
+
+	“You have said something to the effect that I am the king-to-be in the past, that is why this responsibility falls on me...father will hopefully take care of my funeral arrangements...you can choose to run away at any time.”
+
+	Though he found his sister to be annoying most of the time, they still shared the same blood. To do what a brother should was the least he could do. Perhaps he could receive God’s pity after his death.
+
+	“I understand. I’ll do so when the time comes.”
+
+	As Zanac retracted his gaze on her, he saw that Renner had replied with her usual smile.
+
+
+--------
+Mini-FAQ
+Q: Where are we at?
+A: As of this part: 305/568
+
+Hitori's comment corner: 
+&lt;rant&gt;20 total hours of sleep this week, Mick Gordon's the only thing keeping me awake right now...the nightmare isn't over yet...
+
+You think I like instant ramen? I just don't have time to cook...
+
+My internet has also been shitting itself recently, so that's cool...
+
+And now I've been IP-banned from /a/ for "troll posting"...
+
+FML&lt;/rant&gt;</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,764</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

@@ -1,0 +1,518 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 04/11/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 3 Part 5
+
+        The minister of military affairs was shocked at this answer, his eyes were so wide that they almost formed into circles. Perhaps that was the first time Zanac had seen him make that expression.
+
+        Zanac began recalling his time with the Sorcerer King.
+
+        It was true that on the outside, he appeared to be a terrifying monster, one that exuded an oppressive aura. Zanac could not even fathom how high of a value the clothing he wore had. Yet, even so, his only priority, the reason behind all of his actions, was for the happiness of those he held dear. Isn’t that the most common of desires?
+
+        Honestly, that should not have been the reaction of an undead, the mortal enemy of the living. He was too human.
+
+        He could not understand the exact level of consideration the Sorcerer King had placed on this matter to have arrived at this conclusion, but from that bit of conversation, he could sympathize with him a little.
+
+        “Haha, yes, indeed. Just like a normal — human.”
+
+        Zanac shifted his gaze from the minister to the exterior of the tent.
+
+        If say, before — before things had turned out this way, perhaps he could have thought up a better method to deal with this. But, they were past the point of no return already.
+
+        “...So what is the status of the command hierarchy and battle preparations?”
+
+        “Your Highness’ subordinates — those from the capital are ready to move out immediately, distributing our men between the capital’s residences proved to be effective. The speed of the landed nobles however, leaves much to be desired. They are still debating on who should be vanguard.”
+
+        The minister of military affairs ranted on without hiding his disdain.
+
+        “Hmmm, that cannot be helped. They are not under our command after all. Some of the nobles have not even made the resolve of self-sacrifice. We can only hope that they will not initiate the battle before the rest of us are ready. The lower our expectations are, the less disappointed we would be.”
+
+        It was indeed troubling if they could not even synchronize amongst their own ranks for this battle. That said, without their forces, they would lose out on a quarter of their mobilized soldiers. That scenario would be equally troublesome.
+
+Even if the Sorcerer King’s magic was to only kill 200,000 like last time, assuming that half of their army and their corresponding nobles survive, just how much responsibility would fall onto a quarter of their current forces?
+
+        “So what is our current strategy?”
+
+        “None whatsoever, Your Highness.” The minister of military affairs laughed in a tired and apathetic way. “We do not have a formation in mind, we will just be blindly charging into them. Because of that… If we were to do nothing to prevent the soldiers from losing their morale, that would not be good… Shall I form an anti-retreat force?”
+
+        “You shouldn’t. Rather than that, the royal knights should be stationed at the front, and—”
+
+        “—Your Highness, do forgive me for speaking out of line, but let us be the vanguard.”
+
+        Zanac looked towards him with a gaze that said, {are you sure?}. Putting his own condition aside, it was hard for him to imagine this skinny, jaundiced man swinging a sword around.
+
+        “If someone has to stand at the front, please do allow me to be that man. Your Highness should command from the rear.”
+
+        Zanac and the minister looked at each other for a while and he nodded his head.
+
+        “I am very glad that you could understand...” the minister’s gaze trailed towards the ceiling of the tent. There was neither anything of note there nor could he see the sky, yet he stared at it for a moment while he mumbled to himself.
+
+        “To be honest, I never liked that man Stronoff, yet not a day passes where I did not wish that he could be here...”
+
+        “I can sympathize with you. It’s just that, I was quite fond of him.”
+
+        Just as the minister meekly smiled, a commotion could be heard outside.
+
+        “What’s going on? Did the Sorcerous Kingdom make their move?”
+
+        “No...” Zanac raised his ear and laughed, “not at all.”
+
+        A group of impassioned people stormed the tent.
+
+        Landed nobles whose fiefdoms were around — though a certain distance away from — the capital. Among them were the nobles who had turned pale a while ago and what appeared to be mercenaries wielding blood-stained swords.
+
+        “What do you intend to do with your drawn swords in His Highness’ tent! Fall back!”
+
+        None of the nobles answered the minister of military affairs’ roar. They all looked towards Zanac like cornered rats.
+
+        Zanac wanted to hold his belly in a hearty laugh.
+
+        He more or less felt it when he entered the camp, he completely understood what thoughts their stupidity had wrought.
+
+        He had appointed the knights under him to commanding positions, so for them to have been swayed away from his side was a failure all on its own. This was a mutiny spurred on by his loss of agency, yet he did not expect them to have plotted against him especially under these circumstances. He could not have expected the rationality of humans to have stooped so low.
+
+        No, that was inaccurate.
+
+        Their actions in a sense, were correct. They were simply trying their darndest for a chance at survival.
+
+        Zanac could only have himself to blame. He was not able to empathize with them, he was not able to quench their qualms, he was not able to unite them under the same banner.
+
+        What would his father have done? Zanac almost ruined the serious face he had put on with his best efforts by laughing out loud.
+
+        “Fall back! You imbeciles!”
+
+        “...Please stop! Minister!”
+
+        “But! Your Highness!”
+
+        “I said stop! You should fall back.”
+
+        “I cannot take that order.”
+
+        “Minister—”
+
+        “—end of the line, Your Highness. There’s no use buying time now.”
+
+        “...Hmph. I was planning no such thing”
+
+        Although he was wearing the armour that was a national treasure, Zanac was not well trained for combat. If it were his brother instead, this would have been a different story, but it was impossible for Zanac alone to slay every hostile here.
+
+        If their treachery was not the spur of the moment but instead had been well-planned from the start, he would have no chance at salvation at all.
+
+        He focused his gaze on them and saw that they were terrified.
+
+        How disgraceful. If they truly believed in themselves, they would have held their heads up high. That was why Zanac held his head up high, to convey his grit.
+
+        “So, what was so important that you must come to my tent to talk to me about? Do you not understand what it means to draw your swords here in my presence?” 
+
+        “—of course, Your Highness. This war, please forfeit it.”
+
+        Zanac smiled.
+
+        “It is a waste of time to surrender to His Majesty the Sorcerer King. I have received his message loud and clear, he will never accept our subservience...Although you might not believe me, our only hope lies in His Majesty the Sorcerer King’s defeat.”
+
+        “There’s no way we can win...”
+
+        One of the nobles mumbled and Zanac concurred.
+
+        “Even so, we have no option other than to fight. I suggested vassalage, but it was useless. I will reiterate, our only hope of survival is through battle.” 
+
+        “...Perhaps that is the case for Your Highness, but, maybe if we were to contribute enough merit, they will let us live — please sacrifice yourself so that 
+we may live.”
+
+        The noblemen began joining in agreement.
+
+        “This whole thing began because of the people who stood in the way of the Sorcerous Kingdom’s grain transport. We should not be held accountable for them!” 
+
+        “We will pledge our loyalty to the Sorcerer King.”
+
+        To Zanac, what they were saying was no different than what the noblewomen would say about their ideal knight during tea parties. Still, he understood where they were coming from.
+
+       “Let me say one thing, it is useless for you to take me to him. I, as a member of the royalty, have made up my mind to battle to the end. Those of you who wish to die here, do try!”
+
+        Yareyaredaze.
+
+        Blue-on-blue, what an absolute joke.
+
+        No, he should count himself fortunate that these fools would meet their ends right here. Surely they cannot burden his sister or father after this, right?  
+
+        Well, his sister would be safe from these idiots by virtue of that warrior by her side alone.
+
+        “Those who wish to claim my head, come if you dare!!”
+
+        Zanac pulled his sword out and stood shoulder to shoulder with the minister.
+
+        While he had no confidence in his swordsmanship, his armour will more than make up for it.
+
+        Zanac stared at the noblemen, frozen in their tracks.
+
+        “What!? Weren’t you all out for blood!? Shouldn’t you have at least prepared to dirty your own hands even if you were to force poison down my throat!? Aren’t you supposed to have made your resolve?!”
+
+       The nobles looked at each other.
+
+        They had not even considered that, fucking pathetic. Was his life really about to be terminated by incompetent bastards like them?
+
+        At the end of the day, after having witnessed the military might of the Sorcerer King, it must have been fear that rendered them so short-sighted to be unable to see reason.
+
+        He was not fit to rule after all. He did not have his father’s virtue, his brother’s charisma, or his sister’s intellect. He had nothing at all, but that was fine. He did not want to be king anyways, he merely wanted this Kingdom to be functional.
+
+        That’s right.
+
+        To give unto this country, its people, and his family.
+
+        To give unto them happiness.
+
+        Then, one of the nobles called to people outside of the tent and multiple tough-looking mercenaries entered.
+
+        Zanac swirled his tongue around and recalled the silhouette of his brother swinging a sword. He mimicked his brother’s movements and charged at the noblemen.
+
+----
+
+       In their camp, Cocytus, Aura, and Mare were just discussing the upcoming siege of the capital when Albedo, who was supposed to be conducting the final inspection of the formations, came in with a troubled expression. {What happened?} Albedo responded to his questioning gaze.
+
+        “Ainz-sama, it seems like there was some commotion in the enemy’s camp.”
+
+        “...What? Commotion? What happened?”
+
+        Ainz stood up and walked out of the tent. It did appear as though there was some sort of trouble there, or it was more accurate to say that a fight had broken out amongst themselves.
+
+        In the end, a group of cavalry emerged from the enemy camp. It did not appear as though they were eager vanguards
+
+        As Ainz watched them silently, the group swiftly reached the Sorcerous Kingdom’s front. They were mercenaries equipped with all sorts of equipment, as well as a few noblemen.
+
+        A man in his prime, who had the air of a noble around him, stepped forth from the group. That man began shouting almost hysterically, his voice was carried towards Ainz by the wind.
+
+        “I have matters to discuss with His Majesty the Sorcerer King! Please!”
+
+        Zanac was not among them. The commotion in their camp plus the small amount of nobles in this group told Ainz all he needed to know.
+
+        “...Albedo, bring them over.”
+
+
+        He did not look towards the bowing Albedo, but instead returned to his tent where his body fell heavily upon the temporary throne. The three guardians stood silently beside Ainz.
+
+        After a short while, ten noblemen were brought over by Albedo. The mercenaries who were serving as bodyguards had appeared to have been left behind.        
+
+        They were shocked by the sight of Ainz upon his throne, more shocked by the sight of Cocytus by his side, and confused by Aura and Mare’s presence.
+
+        “Do as you should in front of the one above all.”
+
+        The nobles of the Kingdom took a knee near the entrance of the tent and lowered their heads towards Ainz.
+
+        “Raise your heads.”
+
+        Albedo, who was now standing besides Ainz, said.
+
+        “A pleasure to make your acquaintance, Your Majesty.”
+
+        The eldest of the nobles began to speak. From the others’ expressions, he appeared to be the leader of this posse.
+
+        “We are in awe of Your Majesty’s greatness and wish to serve under your reign. First of all, we have an offering for Your Majesty...”
+
+        One of the nobles took out a sack-like object from his back. Albedo was about to respond before Ainz stopped her. He stood up slowly — as he had practised numerous times — from his throne and moved to the noble’s side.
+
+        He was handed the sack.
+
+        {Does not appear to be a trap huh...}
+
+        A disappointed Ainz looked at the sack.
+
+        The smell of blood gushed from within the sack, he could already guess what was inside.
+
+        Ainz opened it to take a look inside.
+
+        His eyes met Zanac’s.
+
+        Ainz observed it in detail. They had just met, so it was hard for him to tell if this was a body double or not. However, given how they were acting, it was unlikely for this to be the head of a body double.
+
+        Ainz closed the bag, walked back to his throne to hand the sack over to Albedo, and said,
+
+        “Give him a proper burial.”
+
+        He had many other corpses he could use for the creation of the undead, letting go of Zanac’s was fine.
+
+        “So, what happened to the armour he was wearing?”
+
+        The nobles looked towards Ainz with baffled expressions upon hearing Ainz’s question. They probably thought that the head of their general was more than enough for their prize.
+
+        “What? Do you not have an answer to Ainz-sama’s question?”
+
+        “N-No! Yes, that, that armour should still be on the prince’s corpse in his tent.”
+
+        The noble who acted as their representative hurriedly answered Albedo’s unemotive question.
+
+        “Is that so…? I see… You all. Good Job.”
+
+        The nobles all responded with “Yes!” as relief bloomed on their faces and as they lowered their heads.
+
+        “I shall reward you appropriately for your accomplishment. So, what do you wish for?”
+
+        “Please spare me and my family! Your Majesty the Sorcerer King! I swear my absolute fealty to you!”
+
+        Suddenly, the noble behind the representative began yelling, prompting the annoyed representative to bark,
+
+        “This guy! Me too! Your Majesty! Please extend the same mercy to me too!”
+
+        More and more “me too!”s piled on. Ainz waved his hands magnanimously to silence their pleas.
+
+        “—I understand. I understand. I completely understand you all. Everybody here wishes for the same thing, correct?” The noble began nodding their heads furiously, “is that so? Well, I will not kill you then. Albedo — send them to Neuronist.”
+
+        “—Understood.”
+
+        “Your Majesty, what about our family…?”
+
+        Ainz did not overlook one of the nobles attempting to whisper to him.
+
+        “Your family too?” Ainz smiled. Of course, they had no way of perceiving that. “What will I do about you all. Albedo, inquire where their families are and send them over too.”
+
+        “Yes, Ainz-sama. —you all, come over here.”
+
+        The nobles were led away from the tent by Albedo. After they were gone, Ainz motioned for Aura to come forth and gave the following order,
+
+        “Those who do not wish to die, do not grant it to them. That is an order.”
+
+        “Yes, Ainz-sama!”
+
+        Ainz caught Aura’s hand as she was about to leave. He continued to the confused Aura,
+
+        “Even if they desire death, do not grant it to them for now.”
+
+        “Understood!”
+
+        After he had let go of her hand and after she had confirmed that he had no other orders, Aura ran after Albedo.
+
+        Ainz’s gaze remained fixated on her back as he gave his orders to the two remaining guardians.
+
+        “I’ve lost interest. With Cocytus as commander and Mare as second-in-command, I permit the two of you to use the full extent of your abilities. Do not leave a single citizen of the Kingdom unscathed.”
+
+        The two responded affirmative.
+
+        An hour later — the army that was the Kingdom of Re-Estize’s last hope disappeared completely from the face of this world.
+
+--------
+Mini-FAQs
+Q: Is that a fucking Jojo reference?
+A: No idea if it was meant to be one, that line wasn't in a thought bubble. It caught me off guard so much that I'll just leave it as is for the rough draft.
+Q: What's with the odd comma placements at the end of some sentences?
+A: First time TLing an LN so I don't know if this is the norm, but a lot of sentences that would be conjoined in English are separated in Japanese.
+
+For example:
+"yada yada," he said.
+
+Is often:
+"yada yada"
+
+He said.
+
+I'll decide how I'll deal with these when it's time for the final draft. In the meantime, do send your suggestions.
+Q: Where are we at?
+A: As of this part: 357/568
+
+Hitori's comment corner: Took Sunday off to sleep for 16 hours straight. The most therapeutic thing I've done all year.
+
+Wanted to pair splat 2.0 with Meathook but Maruyama decided to off screen it...this part was TL'd with smooth jazz instead.
+
+I've got up to page 374 but can't be assed to proofread it right now. I'll release that plus more tomorrow.</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,765</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

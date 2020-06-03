@@ -1,0 +1,388 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 03/12/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 2 Part 4:
+
+	Why were those who were well-spoken also smart? How were they able to spew out the words and phrases they had learnt nonstop? Usually, even if someone were to forget what they were about to say, they wouldn’t stop {there}, would they?
+
+	There was only one probable conclusion, their brains were built differently.
+
+	“...Haaah...No matter if we were to destroy the Kingdom’s cities or massacre its citizens, it is not too much of a hassle given the Great Underground Tomb of Nazarick’s power. But, our focus should be on cumulating experience. If we were to face a much more difficult situation, the lessons you have learnt from this war could be of help.”
+
+	Ainz had experience launching attacks on enemy bases and sieging cities during past guild wars and other similar events. However, that was back in Yggdrasil. The knowledge that he had gained from the game must be implemented in reality properly.
+
+	In that context, the experience they had gained from the different methods they had employed to destroy different types of cities will undoubtedly be of use in the future.
+
+	The Great Underground Tomb of Nazarick had to strengthen itself. The belief that Ainz Ooal Gown and the Great Underground Tomb of Nazarick were the only guild and guild base in this world was a naive one. Ainz exists in this world, therefore there must be other players and guilds in this world too, perhaps due to arrive in the future.
+
+	To prepare for that future, it was a necessity for this organization to bolster its own strength.
+
+	Indeed, it was imperative for all of them to have personal experiences in these matters.
+
+	Ainz continued on to the guardians who were intently listening to him,
+
+	“Speaking of our current situation, I could feel that the burden of responsibility has been growing ever so heavier on every Floor Guardian. At the same time, the number of people like you who I could entrust these jobs to are far and few between.”
+
+	The Floor Guardians — excluding Victim — were all strong level 100 beings that could give Ainz a run for his money. The Area Guardians were weaker than the Floor Guardians so Ainz felt uneasy at the suggestion of bringing them outside, where there could be strong enemies. This was why the number of tasks given to the Floor Guardians had been increasing.
+
+	“However, if we were to keep up the status quo, multiple issues will begin to surface. When the Sorcerous Kingdom of Ainz Ooal Gown has come to subjugate a vast enough territory, the Area Guardians will take up responsibility for a wide range of tasks. Perhaps a day will come when even the management of warfare will have to be delegated to someone.”
+
+	“—that is to say that our master wishes those who are without experience to have a personal history of their own, correct?”
+
+	Demiurge started spouting unintelligible things again. But, what he said about forming a history of their own more or less hit the mark. It sounded pretty cool too.
+
+	“—That’s correct. It is just as you have surmised, Demiurge.”
+
+	Though he did not feel as though it could be conveyed properly, Ainz still smiled while using his practised ‘What a No-Nonsense Ruler Would Sound Like!’ voice.
+
+	Speaking of which, normally if he were to hear himself using that voice through a recording he would not be able to stand the amount of cringe he felt, but he didn't really think too much about it now. After all, he felt that his emotions would get suppressed quickly if he had imagined the voice that he was using. 
+
+	Anyways, Demiurge’s ‘history’ idea was a good one.
+
+	They had gained the knowledge of various types of methods to siege cities during this invasion against the Kingdom, and they should record all of it down in a book or something. With the Area Guardians as their focus, the denizens of the Great Underground Tomb of Nazarick should be able to gain some knowledge through these shared experiences, right?
+
+	Of course, as the saying goes, ‘a picture is worth a thousand words’, those who had experienced something first hand could learn more from it than those who had only heard about it afterwards. However, he felt that they would not be able to have many more opportunities like this one.
+
+	“Now then Floor Guardians, from this day onwards, try to come up with as many unique strategies to siege cities. Demiurge and Albedo, both of you are far too brilliant for this, so just listen and note down the others’ proposals. From my perspective, up till now Shalltear has been the most creative in her strategies.”
+
+	“I-is Ainz-sama talking about how I used the frost dragons to drop soldiers in from the sky-arinsu?”
+
+	“That is correct. I believe that it was because I had entrusted Shalltear with all the transportation-related tasks that she was able to come up with that idea. With this tactic as the basis, we could organize - what was it called again? Paratroop? To be able to organize something like that isn’t bad at all.”
+
+	She had not just used dragon breaths for hit-and-run tactics, but to drop soul eaters from 500 meters above into the city. The soul eaters would heal themselves, then rampage through the city killing masses with their aura.
+
+	Even if it was soul eaters, to drop them from 500 meters up would inevitably incur some damage. In this world, acceleration due to gravity did not seem to be affected by air resistance so one’s free-fall velocity could increase infinitely. That may or may not have been the case, but Ainz did not want to spend the time and effort on that kind of experiment, so he did not have detailed information.
+
+	Soul eaters were able to activate an aura that consumed souls to convert them to HP, which meant that this strategy included a way to negate the fall damage taken by the units almost immediately.
+
+	“Though that plan was a failure in some aspects — but it was a good lesson to learn from for the future. Long story short, they were smashing through rooftops.”
+
+	Aura laughed as she read through the report and Ainz did the same in his mind. Of course, they were not laughing at Shalltear’s strategy, it was just something that they had not expected, but was so obvious in hindsight.
+
+	Of the soul eaters who were dropped from above, an individual bounced off some pointed rooftops, flew off at an odd angle, and took more damage than they had expected. That was still better compared to the one who smashed through the roof, tried to ram down the doors, and ended up getting stuck.
+
+	Of the four that were dropped, only one of them wound up immobilized. The sample size was small, but the rate of failure ended up quite high nonetheless.
+	
+	“It would be best to conduct this experiment a few more times, we may be able to gain valuable data from these dropped troops.”
+
+	“Yes!”
+
+	“I will leave it to you then, choose a few cities to experiment on.”
+
+	“As Ainz-sama wills it, I will draw up and execute those plans immediately.”
+
+	The other details that caught Ainz’s eye included how 300 elder liches were used to carpet bomb a city by synchronizing their [Fireball] spells and how assassins were sent to assassinate the head of a city, whereupon the invasion would commence whilst the city was plunged into chaos. 
+
+	These records on the methods they had used to destroy the cities were not just useful to educate the Area Guardians, but they were also useful as a study of what strategies an enemy could employ to invade Nazarick.
+
+	Ainz sighed internally.
+
+	Perhaps the guardians thought that he was being too paranoid.
+
+	If Nazarick was truly invincible, there would be no need to do these things, but that could not be possible.
+
+	Absolutely impossible.
+
+	“—This is to prepare for our inevitable fight against a guild that is as strong if not stronger than us.”
+
+	After Ainz had finished speaking, the guardians responded that they would obey in unison.
+
+	“Now then — it is about time that we begin our next siege.”
+
+	Ainz glanced at Albedo — because Ainz did not have eyeballs, most people could not notice that his gaze was on them. He had had to turn his head to face them most of the time but Albedo was perceptive enough to notice without him doing so — Albedo nodded in a manner that seemed to convey the message, “It is just as Ainz-sama has said.”
+
+	“Speaking. Of. Which, Ainz. Sama. 
+	The. Amount. Of. Troops. We. Have. Deployed. For. This. War. Seemed. To. Be. Scant, What. Was. The. Reason. For. That?”
+
+	Ainz immediately froze up.
+
+	He could not think up an answer to such a logical question. To be honest, he thought he would be able to hold the stage much better than he was right now. Demiurge and Albedo had not been raising any questions, he had hoped that Cocytus and the rest would do the same too—
+
+	{—so that’s why. Because Cocytus had experienced defeat during the battle with the lizardmen, I had instructed him back then to think for himself.}
+
+	No matter how you look at it, the source of his misery was always what he had said in the past. Why? No, what he had said back then was correct. From the perspective of him wanting to strengthen Nazarick, his statements were fine. It was because of what he had said back then that Cocytus could have the growth that he had today.
+
+	Why did Ainz arrange for an amount of troops that could not guarantee them victory? The explanation was not that complicated, but it wasn’t one that he could just tell the Floor Guardians about.
+
+	Why was that? It was because the explanation could bring about Nazarick’s downfall.
+
+	Ainz gulped down his (nonexistent) saliva.
+
+	He had remained silent for too long. He had to say something, something that would seem to make sense.
+
+	“Speaking of which, it was the same when we were storming the neighbouring towns and cities. A small portion of the people were allowed to escape, right? What was the reason for that?”
+
+	“Cocytus and Aura’s questions were to be expected, perhaps there are others amongst you who have had the same questions in mind.” Ainz surveyed those in front of him to be met with every Floor Guardian nodding their heads. “...I see. Well, let us observe how our first battle will unfold. Afterwards, I will tell you the reason why.”
+
+	Ainz was just dragging things out, leaving these bothersome problems for his future self.
+
+----
+
+	Situated at the North end of the Kingdom facing the Rhynd sea was the city of E-Naüru.
+
+	It was the largest city within Earl Naüa’s demesne, a city that was blessed by the sea.
+
+	Even though it was the largest city within the domain, if you were to head east across the demesne’s border, you would not be too far off from the city famous for its naval port, Re-Urovua. That city had more landmass and ships docked within its ports, the only advantage E-Naüru had over that city was probably that it had better fish hauls. That is to say, E-Naüru was of no strategic purposes whatsoever.
+
+	It was safe to say that gourmets were the ones who accentuated the true value of E-Naüru. Earl Naüa’s lineage had been researching seafood for generations in order to secure the bragging rights that they had the best seafood in the entire Kingdom. Said research produced a sauce, made by mixing soy sauce and honey, used to glaze over other ingredients. Heat had to be controlled precisely during the grilling process to prevent the sauce from burning. All of this cumulated into the creation of E-Naüru style grilled fish, a story that was quite widespread.
+
+	The atmosphere of such a city remained the same regardless of the declaration of war up till a few days ago. Fishermen still sailed out to fish and the markets were still packed with people shopping for fresh fish and shellfish. Other than the decrease in the number of travelling merchants on the streets, life went on as usual in the city.
+
+	It was inevitable that no one took any special actions.
+
+	They had received the news of the Sorcerous Kingdom declaring war on the Kingdom from a messenger sent from the capital around a month ago, but they did not believe that the Sorcerous Kingdom would attack the northernmost reaches of the Kingdom. By conventional logic, before that happened, the capital would have fallen and ended the war.
+	
+	There were also other major cities neighbouring them that belonged to other demesnes, nevermind the numerous villages within their own demesne. The Sorcerous Kingdom would have to go through them before they got to this city.
+
+	If and when the war reached them, they should receive requests for aid from those towns first. That was why they did not attempt to bolster defences, the most they did was make preparations to send their levies.
+
+	However — things did not turn out the way they had expected.
+
+	The neighbouring Baron, a few of his subordinates, and the rest of his family had hurriedly escaped to E-Naüru.
+
+	The Baron’s explanation was simple, “some undead suddenly showed up and slaughtered every single civilian in my domain.”
+
+	The undead could spawn naturally and ones that could destroy entire villages were not unheard of.
+
+	But, for such a strong undead to naturally spawn took time. Excluding the Katze plains, numerous weaker undead would have to occupy a place before there was even a chance for stronger undead to show up.
+
+	If his domain was well managed, it would be easy to have the undead stifled in their cradle before they could even contend, so to speak.
+
+	Which was why strong undead normally did not appear close to human civilization. There were only two exceptions to this rule.
+
+	Either there was an evil magic caster who could control the undead close by, or that undead had travelled there from some faraway land.
+
+	If that was the case, there was only one person that came to mind.
+
+	Ainz Ooal Gown, the Sorcerer King.
+
+	They must have also received the intel that the war was declared. If they were to treat that undead as part of the Sorcerous Kingdom’s army, everything made sense. Except, questions kept arising one after another.
+
+	What about the other neighbouring cities?
+
+	How numerous are the enemy’s forces? What kind of an undead army is it?
+
+	What happened to the capital?
+
+	Questions other than those kept on surfacing, but there were more important matters to tend to before they could deduce the answers to those questions.
+
+	After they had listened to the Baron’s retelling in detail and analyzed the intel they had on hand, they predicted that E-Naüru was on the path that the undead would march through to invade the Kingdom.
+
+	They immediately send messengers on fast horses to every village and town within their demesne, ordering them to evacuate.
+
+	With the information they had, they could not tell for what purpose was the Sorcerous Kingdom’s army marching towards such a remote port. Perhaps it was because the Sorcerous Kingdom was a landlocked nation and wanted to get their hands on a port city immediately so they chose to attack such an unfortified place. Perhaps they were hoping to use E-Naüru as a staging ground for their future war efforts.
+
+	Though it was still dangerous for people to evacuate to the city, there weren’t many who could outrun the ever-encroaching army of the Sorcerous Kingdom and make it to the other demesnes.
+
+	In the end, the vast majority of people chose to stay within the somewhat defended walls of E-Naüru.
+
+	Five days after the evacuation of the citizens within the demesne had ended, they sighted the silhouette of the undead from atop the watchtowers of E-Naüru.
+
+
+--------
+Mini-FAQ:
+Q: Where are we at?
+A: As of this part: 205/568</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

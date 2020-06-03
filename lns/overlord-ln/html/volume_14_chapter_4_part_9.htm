@@ -1,0 +1,519 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 05/05/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 4 Part 9
+
+        “Hello~, don’t get in my way~”
+
+        Aura called out to the cowering soldiers on top of the city walls. She made use of the imperfections along the wall to make her way up in a single breath.
+
+        While the soldiers at the top wanted to use their spears to attack, what they witnessed next were inhuman movements — she jumped over the soldiers, spun around midair—
+
+        “Hyup”
+
+        —and landed perfectly on the other side of the battlements.
+
+        “V!”
+
+        Her hands formed into a V-shaped gesture for the lined-up soldiers to see.
+
+        The eyes pointed towards Aura, whose appearance was that of a child’s, were all filled with fear. Having seen her unusually light body in action, surely none of them still believed her to be a normal child. Plus, there was also the matter of the magical beast down below, waiting for her.
+
+        Aura ignored the humans and pulled out a piece of paper from the pocket by her waist casually.
+
+        The soldiers advanced towards Aura step-by-step to surround her, their spears were pointed towards her yet she continued to ignore them.
+
+        “Okay, everybody. I’ll say this again~ — Do not get in my waaay~ —”
+
+        Aura unrolled the paper to compare the capital in front of her with what was drawn on the map.
+
+        If all of the landmarks matched up, it would be much easier to read.
+
+        She easily found the Magician’s Guild, her first intended destination.
+
+        Aura, now satisfied, turned around to see the soldiers surrounding her. The tips of a few spears were positioned right in front of her eyes at a distance where a slight movement would cause her to touch them.
+
+        “Say, even if I was the only one to have climbed up here, was it really a smart idea to focus your attention on me? You know they’ll come up here as well, right?”
+
+        The soldiers looked at each other and sprung like springs to the outer edge of the walls, but it was already too late. Aura’s magical beasts climbed up the wall one after the other.
+
+        Their surroundings echoed with the pitiful wails of other soldiers.
+
+        Aura had greater combat prowess than them and while it was true that appearances could be deceiving, this was still too much to bear for them.
+
+        The soldiers who had completely lost their will to fight, began to stampede over each other to get out of her vicinity first.
+
+        There still were soldiers who held the idea that this position had to be defended, but with so many of their compatriots scurrying away, it was hard for them to maintain their morale.
+
+        The city walls were thick so the battlements were quite wide, but the fear-driven soldiers still pushed and shoved each other in their attempts to run away. If there was any semblance of order to their rout, they would have probably made it out faster. Those pushing each other at the front made for an absolutely chaotic getaway.
+
+        Although it would be trivial for the magical beasts to chase after them and exterminate them all, they were not interested in doing that at all. They had not received orders from their master yet, which was why they were letting them go. That was true for all of the magical beasts except one.
+
+        A level 71 magical beast, the largest one she had brought along for the occasion, an Iris Tyrannus Basileus. Its posture matches that of the Tyrannosaurus Rex, but it also has dorsal fins at the back. As its name suggested, it shined with vibrant light. Aura wasn’t too sure on the specifics, but she did remember that her master had said, “its original design had to be based off of the King of the Monsters™.”
+
+(TL’s note: yes, Godzilla)
+
+        The Iris Tyrannus Basileus roared.
+
+        A roar loud enough to make the ground clatter.
+
+        That wasn’t to assert dominance or an expression of its own emotions.
+
+        It was a type of special ability — Petrifying Bellow.
+
+        If one had a similar level to it or had resistances against mental effects, it would just be an annoying roar. The routing soldiers were about to demonstrate what would happen if you satisfied neither of said conditions.
+
+        Fear twisted their expressions to the extreme as soldiers began to fall.
+
+        Fear-induced instant death.
+
+        It did not do this because the death of the scurrying humans brought it joy, but simply because it had found the inconvenience of having to constantly shift its sightline around to be annoying. The soldiers died for that kind of a reason.
+
+        But it wasn’t as though the Iris Tyrannus Basileus came out of this unscathed, the cost of such a power was great.
+
+        Surrounding the Iris Tyrannus Basileus were five of the six remaining beasts — the level 78 Fenrir, the level 77 Hound of the Wild Hunt, the level 76 Kirin, the level 76 Amphisbaena, and the level 74 Basilisk.
+
+        The Kirin started off by bucking it, followed by the Hound of the WIld Hunt trampling on it. The other magical beasts joined in one after the other to kick the Iris Tyrannus Basileus.
+
+        “You’re too damn loud,” was probably what they were trying to convey.
+
+        While combat prowess had nothing to do with this, it was still getting bullied by magical beasts with higher levels than itself. The Iris Tyrannus Basileus tried to seek sympathy from Aura by whimpering, which only caused the other magical beasts to intensify their attacks.
+
+        If their previous attacks were comparable to that of the seniors of a club disciplining their junior, what was happening now was more like a beating brought on by its own faults.
+
+        As a side note, the only monster that did not participate in the beatings was the level 58 Avaricious Frog named Gagarpur.
+
+        It was a magical beast that looked like something straight out of somebody’s nightmare, like a giant frog but...wrong. In its mouth were rows upon rows of dirty yellow teeth and its eyes looked like that of a lecherous middle-aged man.
+
+        “That’s — it! Guys, I’m not angry, stop bullying Iris-chan right now.”
+
+        Aura crossed her arms and looked at the magical beasts with half an eye open. The magical beasts began to cry.
+
+        “Alright, alright, I’m not angry at you either.”
+
+        After she said that, the magical beasts — other than the Iris Tyrannus Basileus — gathered around Aura and used their giant bodies to nuzzle against hers.
+
+        “Myuu~”
+
+        Aura let out an adorable cry. While her physical strength was no less than any of theirs, getting pushed around by their giant bodies still made her let out that sound.    
+
+        “Hey hey! Gimme some — space!”
+
+        In front of Aura, who was clapping her hands together, the magical beasts began to line up — that said, their bodies were huge, so lining up single-file was quite difficult. Each of them found a spot to stand in and switched to uptight expressions. The playful attitudes they had when they rubbed against Aura was nowhere to be seen.
+
+        “Now, we’ll begin invading into the capital to take over a few of those buildings. It’s just sad that a few of you children might not be able to shine is all.”
+
+        The largest of the bunch, the Iris Tyrannus Basileus, began to look indifferent.
+
+        “Then I’ll give you a special mission! Walk along the city walls and squish any humans you see.”
+
+        “Bwooooo...”
+
+        The Iris Tyrannus Basileus’ roar shook the air around them, its voice gradually trailing. It lowered its head and cautiously looked towards the other magical beasts and Aura.
+
+        “...Mmm, great. Now then, everyone, the operation has begun! Quick!”
+
+        Aura jumped down from the city walls and successfully entered the capital’s perimeter. She landed on top of some random roof and ran along the rooftops.
+
+        The magical beasts followed along and jumped. Each of them moved in a weightless manner as they trailed behind Aura.
+
+        While turning around to check on the magical beasts, Aura noticed that the Iris Tyrannus Basileus was swinging its thick and girthy tail around. Aura waved to it, causing it to wave its tail around with even more fervour, incidentally destroying a part of the battlements.
+
+        {—you need to get moving too!}
+
+        The Iris Tyrannus Basileus jumped up for a second after she gave her orders telepathically and began to ponderously walk along the walls.
+
+        Aura’s first destination was the Magician’s Guild. Because it was home to numerous magic items, it should be on high alert. It was widely considered to be the place that would put up the greatest amount of resistance in the capital.
+
+        Although the enemy’s combat strength was not an issue, to gather every piece of magic item in that place would probably take a considerable amount of time. Perhaps she would have to call in reinforcements.
+
+        Aura cut across the capital through its rooftops as she pondered these things.
+
+        The capital spanned a vast amount of land, but to Aura’s speed when she was serious, it wasn’t a problem at all.
+
+        Not long after she had jumped from the city walls, she arrived at her destination.
+
+        None of the magical beasts had slowed her down. Well no, Gagarpur would have slowed her down, so it was carried along by the Basilisk.
+
+        Along the long perimeter walls were three five-story towers. The Magician’s Guild, what was essentially multiple two-story tall structures that were taller than they were wide, had shut their grid-shaped gates. To the sides of the gate were two two-story tall gatehouses.
+
+        She had not detected the presence of people outside, but human activity could be seen inside. Humans were on the watch.
+
+        Aura jumped into the guild’s land and looked at the map in her hands, comparing the buildings’ appearances.
+
+        “Mmm—Hmm. That’s there, so this is here, right?”
+
+        Utilizing the intel they had received from their corroborators within the capital, they had a rough sketch of the guild’s appearance. Magic items could be somewhere within here.
+
+        However, because there were multiple probable spots for them, they weren’t exactly sure where the magic items were kept. They were not able to capture any high-tier magic casters to question, so Aura had to make her own judgment.
+
+        While it was tiresome, the land area held by the Magician’s Guild meant that this was much more efficient than a human wave attack.
+
+        “Let’s go then.”
+
+        At the same time Aura began marching towards the gates, people emerged from it. There were five men and a woman. An elderly figure stood in front of them.
+
+        Aura suddenly thought, {oh.}
+
+        If they held significant ranks within the Magician’s Guild, it would save her a lot of time, but Aura couldn’t help but feel disappointed after taking a look at the elder.  
+
+        The elder had to be a warrior from his appearance.
+
+        He wore typical dojo attire, black from the waist down and #48929B from the waist up. Two swords hung by his waist side and a breastplate covered his torso.
+
+        He had a full head of white, not a single strand of hair was black. His arms were slender, as expected of his age, yet they did not sag. They were thin yet hard like steel. 
+
+        Beast-like perceptive eyes sized Aura up from top to bottom multiple times.
+
+        “Probably, let us confirm it first. Boy. You are a subordinate of the Sorcerer King, are you not?”
+
+        Aura surveyed the humans behind the elder. While they wore similar clothing to him, none of them was with swords. This elder was probably the master of a dojo then, with the others being his disciples.
+
+        While she couldn’t figure out what connections the Magician’s Guild had to a dojo, there had to be a connection for them to be protecting this place.
+
+        Although she felt like they might be able to provide more intel to her than the average magic caster, it would probably be non-essential intel anyways.
+
+        “—Why are you not answering? I will have you know that I will not go easy on you, even if you are just a brat.”
+
+        To have put up such a front in spite of Aura’s magical beast was probably because they had not shown any malicious intent or bloodlust. Or perhaps their opponents were brave, had made their resolves, and were confident in themselves.
+
+        “Mmm—Hmm. Umm, if you’re willing to become my guide, I won’t kill you, you know? Ah, these children won’t attack you either.”
+
+        Aura planned to keep that promise, since Mare would kill them all later anyway.
+
+        “You dare babble your mouth, brat. You may not pass beyond this point. I cannot allow that demon-summoning item to fall into the hands of people like you.”
+
+        Aura lost her composure and laughed.
+
+        Finding out that the thing was still here was enough for her. She had to secure it and give it back to Demiurge.
+
+        “Ah — is that so. So what’s your answer to my question?”
+
+        “I refuse. In any case, I, Ves—”
+
+        The elder fell down with a thud.
+
+        Aura had let loose an arrow.
+
+        The elder’s head, pierced by Aura’s lightning-fast arrow, split open like a pomegranate. Its contents spilt all over the place.
+
+        “I don’t have time for chitchat — well then, next — looks like everybody’s feeling the same way, huh? If that’s the case, how about you run in and grab a powerful looking magic caster to help me out?”
+
+        The humans lined up behind the elder were stunned expressionless. Aura felt like it would be too troublesome to wait till their brains had rebooted so she gave an order to her beasts.
+
+        “Kill them all.”
+
+        Aura spoke as she walked towards the gate. The magical beasts zoomed past her like a whirlwind and pounced on the remaining humans. Only blood and guts remained on the ground afterwards.
+
+----
+
+        Mare sat by himself on top of the second-highest tower in the castle, overlooking the capital.
+
+        In the battle that commenced three days before they had arrived at this city, Mare had killed a significant number of humans. Most of them were men however, he had not seen women or children among their ranks. In that case, what was left behind were probably all of the weaklings.
+
+        Mare’s expression was filled with sorrow.
+
+        He could no longer keep count of how many times he had run those numbers in his head.
+
+        —he couldn’t figure it out.
+
+        “What should I do...”
+
+        If someone was around, Mare would have consulted them, but no one else was there. Well no, the Hanzos should be there, but they wouldn’t appear in front of Mare. Plus, it was useless to ask them this question.
+
+        {Umm. W-what should I do...to destroy a city this vast more efficiently and kill every human within it…?}
+
+        Before Mare came to the capital, he had destroyed multiple cities with his master and gained relevant experience for it. That was why he had a clear understanding of how difficult it was to destroy a city — of how difficult of a task it was to kill every single inhabitant in it.
+
+        Repeated and continuous use of magic could destroy every structure in the city and render it into a mountain of rubble, but to guarantee that everything within the city died along with that was a difficult thing to do.
+
+        For example, if he used magic to induce an earthquake, it would destroy all above-ground structures as well as underground facilities. People within said structures would largely be crushed to death or buried alive.
+
+        A magically-induced earthquake could not affect things outside of the spell’s range, so people hiding in houses in other areas would not notice. The sound of collapsing buildings and the wails of people dying was another matter entirely.
+
+        If people heard those noises, there might be a lot of people who would come out of hiding to investigate, look out of windows, or something.
+
+        People who cover their eyes and ears in fear were the best, because if they coiled up into balls inside their own homes believing that things would soon pass over, he could just cast another spell and be done with them.
+
+        What the problem was, were people who believe that they would be the next to be crushed or the inherently brave bunch. What was even more troublesome were the weaklings who would become suicidal under stress, causing them to run in unpredictable directions.
+
+        Their moods were infectious.
+
+        Once an inhabitant noticed those who were running away, they would abandon their homes to run away too.
+
+        If they chose to run to still-standing structures, things would still be easy. However, terrified people tend to make irrational decisions such as choosing paths through collapsed areas or even try to save others trapped under the debris. They made the situation much more difficult to handle.
+
+        {I really wish they wouldn’t run away...}
+
+        If it turned into that kind of a situation, he would have to use another AOE spell to kill them, effectively doing twice the work for the same result.
+
+        If not for the time constraints, doing things twice over wouldn’t be such a big deal, but this was an operation carried out alongside his master. There was no way he could allow such a thing to happen.
+
+        Reason being that he would be wasting his master’s precious time, but also because he would feel ashamed from having to admit that he wasn’t good enough to end it in one go.
+
+        If it was an earthquake-related solution, he could not guarantee that it would kill everybody. There would be more survivors than he would have expected. While he could start a fire just in case to kill those who remain, a fire would be highly visible to people far away. It could also trigger primal flight responses, causing even more people to run away.
+
+        What a dilemma.
+
+        {I have to practice more and become more natural at this!}
+
+        Bukubukuchagama had gifted Mare the ability to destroy large quantities of enemies. In terms of how wide of an area he could affect, Mare was confident that no other Floor Guardian could rival his abilities.
+
+        That was why if he could not successfully destroy the city and kill all of its inhabitants, it would make him question his own worth and existence.
+
+        Perhaps Bukubukuchagama would be angry to see Mare like this.
+
+        “Nnnnng, nnnnng...”
+
+        Mare couldn’t help but imagine Bukubukuchagama disciplining him, causing his eyes to water. Before the tears could fall, Mare wiped them away.
+
+        “I have to try my best...Ainz-sama said that too.”
+
+        Mare was deeply respectful and grateful towards Ainz.
+
+        If Ainz had not let Mare to practice demolishing cities and to accrue experience over multiple tries, he would not have been able to grow as much as he did now.
+
+        Now that he thought about it, back when the war first started, Mare was asked to destroy a small town. The results of that event were honestly terrible.
+
+        Those were results that would bring shame upon Bukubukuchagama.
+
+        But while Mare took a gigantic hit to his ego, Ainz’s gentle words made him so happy that he could cry.
+
+        Ainz had told Mare that as long as he understood that he lacked experience in something, all he had to do was study hard to better himself.
+
+        If one of the guardians had told him that, it would not have moved Mare as much as it did. However, the one who said it was a being of equal status to Bukubukuchagama, one of the Supreme Beings.
+
+        Mare made his resolve.
+
+        He will destroy more towns and cities and kill more people to become the person Bukubukuchagama wanted him to be.
+
+        “Okay!”
+
+        While his voice was still that of a cute child’s, his tone was filled with an unusually strong spirit, not expected of Mare. If the other guardians were to see him now and compare him to the Mare they knew, they would probably be shocked speechless.
+
+        “I’ll do it right!”
+
+        Mare’s hands clenched into fists as he held them in front of himself.
+
+        In any case, he had to make practical use of what he had learned so far—
+
+        “To destroy the capital and kill all of its inhabitants — hey hey, ho —”
+
+        Mare threw his tightly clenched fists upward.
+
+        The Hanzos hiding behind him raised their fists as well.
+
+--------
+Mini-FAQs
+Q: What's with the hex code?
+A: Asagi-Iro is a hard colour to describe, it'll be the words "light-blue" shaded to that colour for the final PDF
+Q: Where are we at?
+A: As of this part: 507/568
+
+Hitori's comment corner: 
+Alright, I spent way too much time looking into this with nothing to show for it but I'll search harder till I find it.
+
+The Avaricious Frog, Gagarpur. I can't figure out if Gagarpur is the name of that specific frog, a reference to something IRL, or a reference to some obscure JTTRPG. The closest thing I've found is this sculpture by Janice Tchalenko titled Avarice, everything else led to dead ends. Might just be some dumb shit Maruyama made up like BBZ and Honyopenyoko</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,765</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

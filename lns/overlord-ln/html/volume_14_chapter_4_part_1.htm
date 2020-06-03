@@ -1,0 +1,760 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 04/12/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 4 Part 1
+
+        The sound of footsteps rang as Hilma led three of her associates from the Eight Fingers along the corridor of a mansion. They were making their way towards the giant room one of the Sorcerer King’s subordinates had chosen.
+
+        The rest of them were there already, awaiting the arrival of the Sorcerer King’s envoy.
+
+        They did so because although the subordinate of the Sorcerer King had specified the day they had to gather at this mansion, they had not specified the specific time they had to do so. For that reason, Hilma and the rest of the Eight Fingers were on rotation in the hall to prevent a scenario in which the envoy would arrive to find it empty.
+
+        If they made the envoy wait, that would be incredibly disrespectful. There was a possibility that they would get another whiff of hell for it too. No matter how minuscule that probability was, they had to avoid it at all costs.
+
+        The four had been walking in silence for a minute now.
+
+        Although that was partially due to the sheer size of the mansion, it was also because they had furnished a room far away from the main hall to be their lounge. While it might have been better to have furnished a room closer to the hall to be a lounge, after they had deliberated on this matter, they ultimately decided to use the rooms close to the hall as luggage storage.
+
+        The silence wasn’t exactly unbearable, but one of them — Perianne Porson — began speaking.
+
+        “Isn’t it a little, noisy?”
+
+        Hilma concentrated.
+
+        She could indeed hear the sound of children frolicking. That said, it sounded like something that was far too distant from the mansion. It was quiet enough that you couldn’t really hear it unless you tried. This was because the hall was far removed from the hustle-and-bustle of life, that was also the reason why they had chosen to use the rooms close to the hall for storage.
+
+        Still, even if Hilma and company had not found it to be annoying, if the Sorcerer King’s envoy were to be annoyed by this, they could not even imagine the consequences that would arise.
+
+        “...Maybe a little. Should we tell them to keep quiet?”
+
+        Everybody agreed with Olin. If they were to warn the people next on the rotation, the others should have warned the children by the time it was their turn to rest.
+
+        Was a weight lifted off of Olin’s shoulders because he had spoken up? He proceeded to say what everybody had in mind but would have never given voice to.   
+
+        “...But...Will he truly come to rescue us?”
+
+        He probably did not mean to blurt that out, but the stress from having to wait for the envoy from the Sorcerous Kingdom had probably gotten to him.
+
+        It had been seven days since the 400,000 men strong army of the Kingdom had begun their march. Not long after that had happened, they heard rumours that the Sorcerous Kingdom’s army had begun encamping close to the capital. Though that was only a day ago, the mental stress they were experiencing far outweighed the physical fatigue they were experiencing too.
+
+        They had received their orders from one of the Sorcerer King’s subordinates about a month ago, back when the war had just begun.
+
+        They were told, back when the Sorcerous Kingdom had begun their march towards the capital, to choose about a thousand people from the Kingdom who were loyal to them to spare so that they could serve them in the future. The chosen would then be taken to a safe location.
+
+        For that reason, a thousand people related to the Eight Fingers were gathered at this place.
+
+        No doubt was the Eight Fingers a giant organization if you counted the grunts too. From their ranks, Hilma and the rest picked out the outstanding and loyal bunch, as well as their family members too. That was why there were children present.
+
+        What they were uncertain of, was if they would really come to save them or not.
+
+        The capos of the syndicate of the Eight Fingers were all people who had promised others that they would be spared yet would toss them away once they were no longer of use. Was it their turn this time? These thoughts lingered in their minds, doubts unshaken.
+
+        Hilma did not look towards her associates, but said,
+
+        “I believe in His Majesty the Sorcerer King’s words.”
+
+        Olin panicked and began saying— No, he was mortified. To Hilma, what Olin had been spouting was his distrust of the Sorcerer King’s sincerity.
+
+        “I-I think so too! What I just said was not meant to discredit His Majesty the Sorcerer King.”
+
+        The sound of Olin’s voice covered up any sounds the children could have made as it echoed through the corridor. Olin realized what he had just done and immediately shut his mouth and lowered his head.
+
+        No one else spoke the entire way to the hall.
+
+        As the door opened, what greeted them was what they had expected: the tired smiles of their other associates.
+
+        The envoy of the Sorcerous Kingdom had not come yet.
+
+        The mixed emotion of relief and impatience arose within Hilma’s heart. Surely her companions were feeling the same thing.
+
+        “You’re here. Now then, we’ll go rest up. If the envoy comes—”
+
+        A magic item in the form of a handbell rested where Noah Zweden was gazing at.
+
+        If one of the two was rung, the other would also ring.
+
+        However, if the distance between them were too great, it would not have an effect at all. In addition, that was the only way that both could affect each other so it wasn’t exactly the best tool for communication. This task was easy enough that they could use it for this purpose.
+
+        “Ahhh, leave it to me.”
+
+        As their representative, Perianne answered him.
+
+        “—say. Do I still have to wait around here? We’ve wasted enough time, the Sorcerer King...His Majesty. I get it I get it. No need to look at me like that with those scary eyes.”
+
+        A short and tall man said.
+
+        That was the head of the slave trade division, Cocco Doll.
+
+        The frontline of the Kingdom’s army had been bolstered by the prisoners who had been kept captive in the capital. When they were being released, during the chaos and confusion of those few days, Cocco Doll had been rescued and brought to this mansion.
+
+        At first, they had two ways they could have dealt with Cocco Doll.
+
+        If he was sent to fight the Sorcerous Kingdom, they had no doubt in their mind that he would have died, so of course his rescue was non-controversial. What was controversial was how they should introduce him to the Sorcerer King.
+
+        Some thought that because he was a regular head, it would not matter if they did not introduce him at all. Others thought that if the Sorcerer King knew of him already and they were to not introduce him to him, it would end in tragedy.
+
+        They wanted to avoid endangering themselves no matter how unlikely it was, and so they went with the latter.
+
+        Their opportunity to introduce him — to place him on the chopping block — was about to come.
+
+        They were all in agreement that he was the first one they had to introduce, to remove any doubts that they were attempting to hide him.
+
+        “You have to wait here so that His Majesty the Sorcerer King’s envoy can get a good look at you.”
+
+        For that reason, he had to wait in this room. They did not know when the envoy was going to come after all. He ate and slept in this room, and was absolutely disgusted by it.
+
+        “I mean, I have been thanking you all constantly, thanking you for bribing the guards so they wouldn’t treat me so harshly in prison, and thanking you for saving me from the draft — to have saved poor, old me.”
+
+        “What are you trying to say, Cocco Doll?”
+
+        To Noah’s question, Cocco Doll responded with a piercing gaze.
+
+        “To go out of your way to save someone who has lost all of his power, connections, and lackeys, isn’t that a bit too suspicious? What is your goal? Why have you gathered everybody related to the Eight Fingers here? Are you planning to kill me?”
+
+        “—hah?”
+
+        Hilma was frozen solid. No, it wasn’t just Hilma, everybody else in the room other than Cocco Doll was the same.
+
+        If they were equally guilty, none of them could wash their hands clean of his blood, was probably what he meant—
+
+        “W-What? Your expressions. That was bullseye...wasn’t it?”
+
+        Hilma surveyed her surroundings. Everybody had the same expression, one that said, ‘this guy is going to be trouble soon’. She spoke up as their representative.
+
+        “What are you talking about, Cocco Doll? No, Apéritif. Aren’t we partners?”
+
+        “—Hah?”
+
+        This time it was Cocco Doll’s turn to be shocked. His expression was whack, almost hilarious.
+
+        “You, what is your goal!? Ah, I get it, you are all monsters wearing their skins! That’s why every other word out of your mouths is praise for the Sorcerer King!”
+
+        Cocco Doll yelled with an expression that was a cross between panic and fear. The monster he spoke of was a folk’s tale that mothers usually used to scare their children when they were being restless at night. Most adventurers agree that no such monster actually existed.
+
+        “I thought that something was off from the start! The fact that you guys went on a diet at the same time was suspicious enough. Even if I concede that point, Hilma’s figure is so inelegant! She’s too skinny to be healthy. This could all be explained if you guys were just monsters wearing their skins!”
+
+        Hilma looked towards Cocco Doll with warmth in her eyes. Such bliss, to have not experienced that hell.
+
+        “Wh-what? Your expression...”
+
+        “No, don’t mind me, Apéritif. Indeed. I am flattered by your observation.”
+
+        “—Huh?”
+
+        “What?”
+
+        “No, no, nothing...nothing at all… I’m being serious, I am unsarcastically asking you. Are you really Hilma? Hilma Cygnaeus? Not a twin sister or something like that? Were you brainwashed?”
+
+        “Have I really changed that much?”
+
+        He wasn’t talking about how skinny she had gotten. He was probably talking about her personality, she had mellowed out a lot from before. Normally, that would be a positive change, so his suspicion of her was surprising to say the least.
+
+        “...Of course, it’s like you’re a completely different person. No, that applies to you all. Did monsters truly steal your skins?”
+
+        “I could only say that we experienced certain things that made us this way.”
+
+        Everybody agreed with what Noah had said. Cocco Doll was terrified.
+
+        “What, happened… Though I don’t want to hear it, I still want to know. You—”
+
+        A thin, endless, and circular darkness suddenly appeared in the room. A semi-oval object began emerging from the ground.
+
+        Hilma recognised this as the [Gate] spell that had whisked her away so many times. It was a high tier spell, high enough that there were no magic casters within the Kingdom who were capable of it. Only a subordinate of the Sorcerer King would be capable. The fact that this spell was cast meant that—
+
+        Hilma hurriedly took a knee. After a while, she felt Cocco Doll do the same.
+
+        Hilma buried her head and clenched her fist.
+
+        There were two possible outcomes.
+
+        They were either getting disposed of, or saved.
+
+        A person’s footsteps could be heard.
+
+        “You can raise your heads now.”
+
+        In front of the [Gate] was a maiden whose bust size was mismatched with her apparent age. Though she had not heard her speak of her name directly, Hilma knew her name was Shalltear. Noone here was brave enough to refer to her by name, even someone as clueless as Cocco Doll could tell from the atmosphere of the room alone.
+
+        “I am here to retrieve you all. Although I heard there would be a thousand or so of you-arinsu, could you bring them over immediately-arinsu?”
+
+        “Understood! Please wait a moment!”
+
+        Olin ran out of the room in a full sprint. He had the best stamina of them all after all.
+
+        “—Shadow Demon.”
+
+        Shalltear called and a demon soon materialized from the shadows. When had it entered the room? Perhaps it had been monitoring them for a long time. This was not surprising to them at all. Instead, they all thought, {thought so}.
+
+        That Shadow Demon began whispering into Shalltear’s ear. They then heard her respond with murmurs. After their conversation ended, Noah began speaking with a trembling voice,
+
+        “...U-Umm...Olin will need some time to bring everyone over. Before that happens, there is someone we wish to introduce to you. Do you find that to be agreeable?”
+
+        “Unnecessary-arinsu. Rather than doing that, I heard you had luggage to bring along-arinsu, move those first. I heard there were quite a lot of it, perhaps it would be faster if my servants did it for you. How about that-arinsu?”
+
+        “C-Could we trouble you then?”
+
+        Shalltear responded with a curt, “of course” before casting her spell. That was probably summoning magic. A few strong undead began appearing around them. Following their orders, they exited the room and returned with a sizable quantity of luggage, which they moved through the [Gate].
+
+        The luggage was moved at an unbelievable speed. Just as they were done moving, they could hear the sound of many footsteps.
+
+        While this might be the largest room in the mansion, it could not contain a thousand people.
+
+        “Now then, enter that door in your predetermined orders. Inside is a village within a forest-arinsu. You will exit what looks like a town square. Wait there.”
+
+        They followed her orders and entered the door in order.
+
+        Though it was unlikely that none of them were hesitant to enter the portal, everyone there had already been warned to follow their exact orders; as a result, there was less confusion than they had expected.
+
+        In comparison, the boys around {that} age stalling and blushing were a bigger problem. The girls becoming frustrated at the boys’ reactions were an issue too.
+
+        Shalltear was a world-class beauty.
+
+        So, them falling in love at first sight wasn’t such an unusual phenomenon, so was the women’s jealousy.
+
+        However — Hilma had engraved a fact in her heart.
+
+        If those kids were to do something stupid, she would be the one responsible. To prevent that from happening, she had to keep a close watch on them. Her attention was especially focused on the girl whose hands were on her flat chest, attempting to compare sizes with Shalltear.
+
+        Those children’s hands were taken by their guardians and led through the [Gate]. Fortunately, nothing had gone awry.
+
+        Hilma and her associates were the last to enter the [Gate]. Just as she had described, in front of them were wooden houses and their surroundings felt like a forest.
+
+        In the plaza where the undead had piled up their luggage, there was some commotion. Or was it excitement instead? Given the amount of youths there, the latter was more likely.
+
+        Was this their reaction to their first time passing through a [Gate]?
+
+        “Attention!”
+
+        Noah yelled. Gradually — faster than she had expected — the noise died down.
+
+        Was it to let them all see Shalltear? She slowly ascended into the sky and said,
+
+        “Currently the village is still under development. You will be brought over there in around a week. Before that happens, you will be living here. Just so you could effectively manage the village, we will be lending you four Golems. If you need anything heavy moved elsewhere, let them do it. Undead currently surround the village, if you are to exit the perimeter and attempt to re-enter, they will attack you. For that reason, please do not cross the perimeter formed by the undead.”
+
+        Shalltear looked around to check if they all understood her, and continued,
+
+        “Other than that, you will decide among yourselves how you will be spending this week. We have prepared two weeks worth of food-arinsu, so you should be set on that front. I will return in three days, if you have any issues, I will listen to them then.”
+
+        Shalltear descended to the ground and looked around, her gaze fell upon Cocco Doll.
+
+        “You are one of the capo, correct-arinsu?”
+
+        “Eh? Eeeh? W-, no, yes, what can I do for you?”
+
+        Cocco Doll had experienced the difference in status between him and her, so he tried his best to be cordial.
+
+        “You should take a trip to Kyuokukou’s room too-arinsu.”
+
+        “Eh?”
+
+        Shalltear closed the old [Gate] and opened a new one.
+
+        Was it his instinct? Something told Cocco Doll that something bad was about to happen to him, causing him to look around with a helpless expression.        
+
+        After her gaze met his, Hilma shifted her own away. She could not go against Shalltear’s decision. The other heads were the same, no one dared to make a sound.
+
+        “Wa-Wait, Wait! No! Why are you guys reacting like this!? Save me!”
+
+        “Yeah, yeah. Let’s go-arinsu!”
+
+        Shalltear dragged a screaming Cocco Doll away. Faced with that kind of strength, he had lost all urges to resist.
+
+        “Ahh! No! Save me!”
+
+        “Sorry, Cocco Doll.”
+
+        Hilma whispered to Cocco Doll, who disappeared through the [Gate]. After that, the [Gate] disappeared.
+
+        Yet, the tense atmosphere never dispersed. They were all grasped by that suffocating silence.
+
+        A thousand people, blissfully unaware of that hell, occupied this plaza. Still, they could instinctually tell what fate awaited the Cocco Doll who had just been taken away from them. That was why none dared to move.
+
+        They understood that they had been brought to this place not out of someone’s generosity, and were beginning to understand exactly how terrifying this place was.
+
+        “...We couldn’t save Cocco Doll.”
+
+        Hilma said to Noah, who was walking over to her.
+
+        She did not want anyone else to experience that hell. That was what she had in mind, but that was impossible. An intense guilt washed over her.
+
+        “There’s nothing we can do about it. Still, it does not mean death...it would be more appropriate to call it a baptism. Afterwards, he could...come to understand why we would cherish each other so much.”
+
+        “Baptism...true...if I thought of it like that, it would alleviate a lot of the guilt I’m feeling.”
+
+        “You two, while I can understand how worried you are for Cocco Doll, we have to discuss our future right now.”
+
+        They had to relieve the people there of their worries.
+
+        Hilma took the lead.
+
+        If their goal was to kill them all, they would have done so already and not bring them all the way over here...or take Cocco Doll away.
+
+        That meant that the Sorcerer King was holding up his side of the deal, given Shalltear’s actions.
+
+        “Thank you so much, Your Majesty the Sorcerer King.”
+
+        Hilma lowered her head. Of course, she had no idea where she was or where the Sorcerer King was, but this was the only thing she could think of that could properly express her gratitude given her situation.
+
+        Something along the lines of a prayer.
+
+----
+
+        Three Floor Guardians set off from the front they had established in front of the capital.
+
+        The one in charge of the capital’s siege, Cocytus. The one in charge of crucial facilities, Aura. And finally, the one in charge of casting offensive AOE spells to render the entire capital into a mountain of ash, Mare.
+
+        The three each had their subordinates.
+
+        Mare had Hanzos under him, Cocytus had Frost Virgins, and Aura had her magic beasts.
+
+        The place they were looking towards, the capital, was awfully silent. Were they mourning? Or perhaps were they cowering in fear from the sight of the Sorcerous Kingdom’s forces?
+
+        Only a few days had passed since their previous battle, yet the capital’s forces were already cracking at the seams. From the vantage point of the encampment Ainz had set up near the capital, not many soldiers could be seen manning the outer walls of the city, nor did they appear to intend to put up a fight.
+
+        While it was true that they were few in numbers, Ainz’s camp was equally unmanned. High-tier mercenaries were nowhere to be found, not even Nazarick’s Master Guarders could be seen. The camp was occupied by Ainz, Albedo, and around ten of Ainz’s Death Knights.
+
+        Albedo wore her full-body armour and held a halberd in her hands. Her World Class Item should also be on her person just as a precaution.
+
+        “...Is it about time?”
+
+Ainz asked Albedo after the guardians had left the camp. They were spread out to surround the capital.
+
+        “It should be. The guardians have moved quite a bit of distance away. If they really wanted to take action, this would be their last chance to. Given the lack of movement from their side, while it is unfortunate, it appears that there were none here this time too.”
+
+        “Is that so,” Ainz replied and shifted his gaze towards the capital.
+
+        He saw a silhouette flying towards them from the capital. After he took a look around, it appeared that this was the only entity coming towards them. Someone who had the courage to challenge the Sorcerer King, the one who dismantled an army of 200,000 with a single spell. From the intel they had collected, only one person matched that description.
+
+        The Powered Suit — probably Red Drop.
+
+        Ainz squinted his eyes to focus on the rapidly approaching entity and muttered, “now then.”
+
+        If that was the case, they could move on to the second stage of the plan. However, Ainz was a bit uneasy.
+
+        This was an important plan after all. It had to be handled carefully, like a thin sheet of ice. Was he truly capable of pulling off such a plan? Sigh, he could not have handed something this important to someone else either.
+
+        The silhouette got ever so closer. Honestly, has he not considered the possibility that they had an airforce too? Or did he think that the Floor Guardians would not notice him if he was high enough? Or was it some equally stupid line of thought? Ainz was stunned by his opponent's faulty strategy. No, perhaps he knew that was the case but had no other choice.
+
+        So did he know that this was a trap, but had the balls and resolve to break through it? Or maybe—
+
+        “—Is he clueless or prideful? Or perhaps… Whatever, that does not matter. We will find out once he reaches here.”
+
+        “Indeed,” Albedo replied.
+
+        “...I will leave it all to you then?”
+
+        “Yes, please leave it all to me.”
+
+        Her replies were short and straight to the point. Ainz could not tell what her current mental state was. However, He knew enough to tell that she was not too happy about this. 
+
+        Ainz looked back towards the silhouette. It would take him quite a while to reach where they were, they could afford to let him get closer before setting off the ambush. The moment that thought crossed Ainz’s mind, he realised that he had made a mistake.
+
+        It was highly likely that he was a disposable pawn.
+
+        “Does he know what he is? Or does he have no clue at all?”
+
+        “Who knows? It does not matter if he does, the plan has entered its third stage. Are we good to go?”
+
+        “...We are all set. I will accomplish my duties to the best of my abilities, you should do the same.”
+
+        “Yes — ah, no. Please leave it all to me, Ainz-sama.” Albedo replied just as that silhouette reached the Sorcerous Kingdom’s front, hovering a hundred meters up in the air and about a hundred meters away from them.
+
+        He could clearly make out his opponent’s appearance now. That said, it was unnecessary at this point to confirm his appearance.
+
+        The bright-red Powered Suit came to a sudden halt mid-air and remained there. Though he could not see his face, Ainz could tell that he was being observed. 
+
+        Albedo raised her arm and the Death Knights around her began moving to form a shield wall in front of her.
+
+        The hovering Powered Suit’s right shoulder began to draw light into a box-shaped object. The light was converted into lightning and subsequently released.  
+
+        “—[Chain Dragon Lightning].”
+
+        Just as Ainz mumbled the name of the spell, the lightning had already formed into the shape of a dragon and struck one of the Death Knights. The lightning dealt significant elemental damage to the Death Knight before leaping onto the Death Knights next to it.
+
+        After the blinding light of the lightning subsided, the undead were nowhere to be seen. They were all taken out in a single attack, which did not reach Ainz and Albedo. That was probably a coincidence rather than a calculated move from their opponent.
+
+        “Insolent fool! Identify yourself!”
+
+        Albedo roared with an infuriated tone. The volume of her voice was high enough that Ainz wanted to cover up his ears. Given how far away their opponent was, he should still be able to hear it, but he did not respond at all. Well no, he did respond, that just depended on one’s definition of a response.
+
+        The next thing they knew, the weapon rack on his left shoulder activated. Light was drawn in again as another spell was cast.
+
+        A whirlwind of fire encompassed Ainz and Albedo, the turbulent wind sounded like a wolf’s howl.
+
+        This was the divine AOE attack spell, [Firestorm].
+
+        Fire was a weakness of Ainz’s, but because the spell had not been enhanced through any special abilities, nor was the caster on the same level as Ainz, it did not do too much damage. Still, he could not just tank hits like that all day long.
+
+        Ainz gave out his order.
+
+        “Go! Albedo. Do not let him escape!”
+
+        “Yes!”
+
+----
+
+        Albedo took flight as she gripped tightly onto her halberd.
+
+        Her wings of pure black flapped once and it was more than enough for her to close the gap between them.
+
+        She was not sure if it was because the gap between them had been closed so fast, but the Powered Suit turned around in a stiff motion.
+
+        Albedo almost sunk her halberd into his unprotected back before the Powered Suit flew away. He did not fly towards the capital, but moved northwards instead.
+
+        Albedo recalled the geography of their surroundings.
+
+        She could not remember anything special about the direction he was heading towards, there weren’t any features that could facilitate an ambush.
+
+        Under her helmet, Albedo was fuming.
+
+        {Seriously, do you think that we’re blind? You really thought that we couldn’t see through what you’re trying to do? Or perhaps...If he’s this confident knowing that his plans have been revealed...I have to be on alert for this...}
+
+        Albedo turned her head around, shifting her gaze over her shoulder towards the Sorcerous Kingdom’s encampment, where she had just been at. She could see a lone silhouette, it was Ainz by himself. Even if she was following her orders, she should have been the one to guard him, especially given that he was her last remaining master. Yet she had left her protectee behind, that deeply unsettled her.
+
+        What was more displeasing was the fact that she was not allowed to make their enemy pay for his insolence with his life.
+
+        “Tock,” Albedo clicked her tongue and stared at the retreating Powered Suit.
+
+        There was an object that resembled a backpack on the back of the Powered Suit. It had six nozzles, each ejecting white light that formed into a trail, like a shooting star.
+
+        Those who are not familiar with Powered Suits would probably assume that if those nozzles were destroyed, their opponent would lose their ability to fly and thus fall to the ground.
+
+        However, Albedo’s master had already told her, “That’s just a cosmetic effect.”
+
+        That was because a Powered Suit’s flight capabilities worked in a similar fashion to the spell [Fly]. According to her master, though it was correct to say that it would not lose its ability to fly once its nozzles have been destroyed, that was not a given. Her master had added, “at least that was the case back then,” implying that he had not tested out this theory himself.
+
+        {Still, how long will he be flying for? We’re already so far away from — the encampment? Was I his true target then?}
+
+        Gradually, the gap between them was being drawn out.
+
+        If this continued on, her opponent would escape successfully.
+
+        Albedo did not have any abilities that could boost her own flight speed. Normally, when she was engaged in a chase, she would be riding her War Bicorn but that was no longer an option. That was why she was flying with her own wings, which were only capable of these speeds.
+
+        Still, Albedo had prepared for this. She had borrowed items from her master that could boost her flight speed. As long as she equipped those, she could easily close the gap between them. So why hasn’t she done so already? The answer was because she was waiting to see what her opponent’s next move would be.
+
+        If he was just trying to escape, Albedo could deal with that easily.
+
+        Just as she was calmly analyzing his silhouette, her opponent turned around.
+
+        He began to set up a weapon that was similar to Shizu’s Arcane Rifle.
+
+        “Hmph.”
+
+        Albedo prepared herself for an attack while mocking her opponent.
+
+        Compared to Shizu’s assault rifle type Arcane Rifle, this enemy’s Arcane Rifle was more of a heavy machine gun type according to Cocytus. Its destructive capabilities were a tier above Shizu’s weapon.
+
+        A row rumbling sound accompanied the large amount of bullets being fired from the weapon.
+
+        Those bullets were larger than an acorn and were shot out at blazing speeds, it was difficult for her to dodge them all.
+
+        However, Albedo could at the very least, redirect a few of the bullets back at him. Not only would this damage the opponent’s weapon, the damage of Albedo’s halberd was added on to it as well. Combined with the damage she could deal with her skills, this should deal a considerable amount of damage to the enemy.        
+
+        Yet — Albedo did not activate any special abilities. She tightened her grip on her halberd and closed the distance between her and the enemy, nothing more. 
+
+        She intended to take the full brunt of the attack with her own body.
+
+        The bullets fired by the enemy was about to connect with Albedo’s armour—
+
+        {oops...that was a big miscalculation...}
+
+        —She had thought that her armour would mitigate most of the damage, but there wasn’t even a need for that.
+
+        None of the bullets landed on her, they all curved away.
+
+        It seemed likely that none of the bullets were enchanted.
+
+        At the Floor Guardians’ level, one would have complete immunity to unenchanted projectiles. If his weapon had not been enchanted, he should not have equipped it at all.
+
+        {I wanted to test the destructive capabilities of his weapon...but ended up exposing one of my abilities. Given that, he would surely use an enchanted attack next...}
+
+        From his body language, Albedo’s keen sight could tell that he was quite shaken. Still, things progressed the way she had expected it to. Her opponent let go of his Arcane Rifle and extended something forwards.
+
+        His next attack appeared to be magic-based.
+
+        “Good, now what?” As she pondered. Albedo did not use any special ability of hers as she shortened the distance between them. If she had, even give the current distance between them, he would still be in her strike range. However, Albedo did not wish to expose her hand yet.
+
+        From the enemy’s right hand, a brilliant green light shot out, flew towards Albedo, and struck her.
+
+        Suddenly, Albedo’s body — and armour — began glowing with the same light. However, the light did not have any effects and soon disappeared.
+
+        She was not hurt. In fact, she did not feel anything at all.
+
+        This was not because she was actively defending against that spell, but because that spell could not even get through Albedo’s passive magic resistance.    
+
+        It was likely that this was one of her master’s specialties, necromancy, specifically an instant-death spell.
+
+        Those types of spells were not only affected by ability scores, passive skills, special skills, and equipment abilities, but were also affected by resistances gained through levels, penalties, and so on. If they were cast on an opponent of similar level, it would be hard for those spells to have any effects at all if they were not enhanced through any means.
+
+        Not only was Albedo created as a level 100 NPC, she had equipped multiple items that strengthened herself. Spells of that Powered Suit’s level could not affect her at all.
+
+        Perhaps he was trying to gauge the difference in strength between them, and that was why he took the gambit of an instant-death spell. But, the fact that her opponent had even thought that this lowly spell could serve as an equalizer between them pissed Albedo off.
+
+        She had to show him what she was made of.
+
+        As she rapidly approached her enemy, Albedo raised her fist for a punch.
+
+        She intended to make a mockery of her opponent by not using the halberd in her hand. Another reason for the punch was that she could not accurately gauge the amount of damage he took if she was to use the halberd.
+
+        Her opponent attempted to block it with the Arcane Rifle, but Albedo’s strike was much faster.
+
+        Even though she held back a little, a hit from the level 100 Albedo was still devastating.
+
+        Gooong. A metallic noise rang out as her opponent was sent flying.
+
+        The suit, taller than 3 meters, was sent flying by Albedo’s punch despite her being an entire meter shorter than it. Not only was it sent flying, it also began shaking uncontrollably. It was a hilarious sight to behold.
+
+        {...looks like I dealt more damage to it than expected. He’s more delicate than tofu...}
+
+        He was certainly, unexpectedly—
+
+        {Weak...}
+
+        —Albedo felt frustrated as she laughed.
+
+        “—Ahahaha, now you will understand how foolish you were to attack Ainz-sama. I will dismember all four of your limbs, break every tooth in your mouth so you cannot even end yourself by biting off your tongue...but perhaps I will allow you to get another hit in. In any case, I will bring you to Ainz-sama to apologize for your crimes.”
+
+        “—tock.”
+
+        Albedo heard a click from that man’s mouth.
+
+        “Did you just click your tongue at me…? How rude. Nevermind, you were such an indignant bastard that you chose to attack us without declaring your own name, I expected this much insolence from you.”
+
+        “What are you talking about? Slayer? There is no indignity in vanquishing evil pieces of shit like you.”
+
+        “Tsk. I thought you were an illiterate barbarian to have attacked us without saying anything at all. I did not expect...no wait, the citizens of the Kingdom are no different from barbarians anyway, right?”
+
+        “That’s rich coming from you, Prime Minister of the Sorcerous Kingdom, Albedo.”
+
+        Albedo calculated the pros and cons of dragging this conversation on and concluded that this was an exploitable situation.
+
+        {If it were Ainz-sama or Demiurge here, they could probably engage him in a better conversation...}
+
+        Albedo was confident in dealing with matters of interior affairs, but she was not too confident in her skills to plot or deal with matters of foreign affairs. Still, she was alone with no help at all so she had to rely on her own head.
+
+        “Nonsense, whatever of Red Drop? Sorry, I do not commit mere adventurers’ names to memory.”
+
+        “Hmph, how is someone like you fit to be the Prime Minister of a state.”
+
+        Was he truly one of Red Drop? Or was he trying to confuse Albedo?
+
+        In any case, Albedo had to continue the conversation. From her strike back there, she had already grasped the full extent of her opponent’s capabilities. Even if their fight was to resume, she would not have issues dealing with him at all.
+
+        Albedo mentally prepared herself to trap him in this conversation.
+
+        {What a tiresome way to buy more time...}
+
+        After all, to not rouse her opponent’s suspicion, Albedo had to perfectly emulate the character of an arrogant strongman.
+
+--------
+Mini-FAQ
+Q: What was Ainz's command to Aura?
+A: Yeah, sorry, made that part more vague than it had to be. The "it" in "Do not grant it to them" in both cases refers to death, so he's telling her to let them suffer either way.
+Q: Where are we at?
+A: As of this part: 386/568
+
+Hitori's comment corner: need more drawanon memes</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,765</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

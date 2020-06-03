@@ -1,0 +1,625 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 03/18/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 2 Part 6
+
+
+	From the vantage point of the city walls, it appeared as though the enemies did not have a formation at all but were just gathering zombies into one spot. This would have been easy for a Mythril-ranked adventurer like Skama to clear them out, if only those monsters were not there.
+
+	“No movement, hmmm? So — does anyone recognise those undead?”
+
+	Two undead creatures stood where Skama was pointing to.
+
+	One held a huge shield in one hand and a huge sword in another while the other one was dual-wielding swords.
+
+	The magic casters around her shook their heads after she had asked her question. Skama shifted her gaze towards Lilynette.
+
+	Priestesses were usually knowledgeable in matters concerning the undead, whether they’re well known or esoteric. 
+
+	With her response of a shrug, there could only be two possibilities.
+
+	One was that this was an extremely rare type of undead or a new species — ignore the nomenclature for now — of undead.
+
+	Either possibility was worrisome. Normally, it would not have been unusual for an adventurer to consider running away at this point.
+
+	The other situations in which they would consider retreat were if it had any special abilities that could one-hit KO or could unleash fatal attacks.
+
+	This was a scenario in which they had no intel to operate on at all.
+
+	For example, Ghouls had a claw attack that could paralyze their opponents via poison when they inflict damage with it.
+
+	If one were not to know about its paralytic effect and did not prepare against it, they could get chain-paralyzed or even TPK. What would happen to a party that did not know about Wraiths’ ability to life-steal? Or what about a party that did not know about werewolves and other similar monsters’ resistances to any attacks not made with a specific metal? Or what about monsters who could regenerate if you did not hit it with fire or acid attacks?
+
+	Intel was both an offensive and defensive tool. If one were to fight without any intel to back them up, the amount of danger they would be putting themselves in should be obvious.
+
+	“...This isn’t good at all. We should try to hit it with all kinds of attacks to see what would be effective, any objections?”
+
+	Not a peep.
+
+	“Then, that’s what we’ll do — the specifics on who’s casting and what they’re casting, I’ll leave to you professionals to discuss. Just make a judgment based on what you think it’s capable of based off of its appearance. First of all, both of them appear to be close-quarters combatants.”
+
+	They did appear to be that way, so they shouldn’t veer too far from their expectations, right? It wasn’t as though monsters that could disguise their appearance did not exist, it was just that Skama had not seen one in person yet.
+
+	“They do appear to have high defensive capabilities so it would be dangerous to engage them in close-quarters combat. We’ll attack them from afar if that’s the case, as is the convention, but physical arrows might not have that great of an effect. We might still have to engage them in close-quarters, so the amount of damage we could unleash onto that thing before it reaches the walls will dictate whether we win or lose this fight. But since we also have to prepare for the eventuality of the enemies breaching the walls and the prospect of urban warfare, we’ll have to reserve some casters to provide buffs to the vanguard and offensive magic too.”
+
+	That said, she had already warned them to not be too stingy with their mana usage than was necessary.
+
+	“If nobody has any better ideas, we’ll run with this one. Alright, let’s start.”
+
+	The magic casters began exchanging their opinions according to Skama’s orders.
+
+	Skama moved somewhere that was quite a ways from where she was to reunite with her companions — albeit with a single absence. 
+
+	“So, leader, what do we do now?”
+
+	Skama replied, “what do you mean?” to the rogue’s question.
+
+	He already knew about the battle plans which had been explained to him, so he must have been asking about something other than that.
+
+	The question of “what do we do?” was just too vague for her.
+
+	“‘How hard should we try for this city’ is what I mean. Because the enemy are mostly zombies and the city won’t be surrounded on all sides, if we wanted to run, with our skills we should be able to escape easily, right? Stealing one of the boats and escaping with it isn’t a bad idea at all y’know? Food has been prepared as ordered, y’know?”
+
+	“Dumbass,” Lilynette replied with a fed-up tone, “our opponents are undead y’know? It wouldn’t shock me if they were to march up from the sea~”
+
+	Because the north end of this city faced the sea and was covered with piers, there were no walls covering that side of the city. If their enemies were at all intelligent, they would have chosen to attack from that side. It was still possible that their main army was waiting to come out of the sea.
+
+	“Ah — is that so? That’s-a, quite disturbing. Have you told the Earl about this?”
+
+	“Nope, wouldn’t have helped if I did. Even if we were to only install roadblocks, the perimeter is too wide for that to happen...it would create unnecessary panic in the city first of all. Perhaps there was a reason as to why they are not surrounding us completely. Like what if they were to leave us a small hole in their perimeter and if we were to try to escape through there, it would turn out to be a trap?”
+
+	“Then what should we do?”
+
+	“If you want to run, do it through there,” Skama said as she pointed towards the cluster of enemies, “It’s easy to break their formations if it’s zombies, worst case scenario we’ll just have to scout ahead with [Fly] to make sure the enemy’s main forces aren’t lurking further beyond.”
+
+	“I see, you thought this through, eh?” the rogue said, unaware of his two female companions’ glares, as if they’re trying to say ‘that’s because you’re the only one who haven’t thought about this at all.’ The rogue continued, “So if we were to run, where do we run to? The neighbouring city or somewhere near the capital?”
+
+	“We’d just give up on this country.”
+
+	“Are you serious!?”
+
+	“You’re too loud,” Skama confirmed that their surroundings were clear before continuing on to say, “...yes.”
+
+	To stay and be ruled by the Sorcerous Kingdom, the country that would turn so many people into undead (even though they were citizens of a hostile state), would surely ensure an unhappy end for them all.
+
+	The question now was: where should they escape to?
+
+	Though it might be easy for them as an adventuring party to escape, the leader of the party would still have to consider various scenarios.
+
+	Three countries neighboured the Kingdom other than the Sorcerous Kingdom: the Council State, the Holy Kingdom, and the Empire.
+
+	By the process of elimination, all that was left was the Council State since the Holy Kingdom appeared to be friendly to the Sorcerous Kingdom and the Empire was its vassal. An advantage of choosing the Council State was that it was relatively close to where they were, but other than that, their options were probably the City State Alliance or the Theocracy. The Draconic Kingdom wasn’t doing so great the last she heard and the other countries have humans in the minorities. Then again, humans were the minority in the Council State and the City State Alliance too.
+
+	If they had to take into account the percentage that humans held in a country’s population, they would have to remove the Council State from their list of countries to fallback on. She had heard that humans made up less than 10% of the country’s population.
+
+	If distance was no issue, the City State Alliance appeared to be their best option. Apparently half of some of the cities’ populations within the Alliance were human. 
+
+	“Sigh—, are we really running away? Skama, you should try harder for my own pursuit of happiness~”
+
+	“...So you weren’t acting when you were talking just then about that child?”
+
+	The desire to help and the desire to run away, those conflicting emotions grew in Skama. It was around that time when Skama noticed that the casters had concluded their debate.
+
+	“Leader! We’re done here~”
+
+	“Understood! — Now then, shall we? Act according to the plan, if worse comes to worst — jump down and try to break through the cluster of zombies.”
+
+	To jump down from such a height would inflict some pain even on someone armoured like Skama. This issue was solved by their magic caster, who would cast [Falling Control] on her to let her fall safely.
+
+	Skama and the others moved to their post and awaited the enemies’ action.
+
+	Should they consider themselves lucky that the enemies chose not to wait until nighttime to make their move?
+
+	There was no special signal to signify the start of the battle.
+
+	No statements were made by the exchange of arrows, neither side declared their justifications, just a great amount of zombies stumbling towards the city walls. It looked nothing like how a normal battle was initiated.
+
+	Corpses grumbling while rapidly approaching them must have been a terrifying sight for some, but to someone like Skama this was a laughable display. If those were zombies of races other than humans such as giants, dragons, or other giant monsters, this would be a different situation entirely. Not even fledgeling adventurers would be scared of mere human zombies. After all, this city’s walls weren’t something zombies of this calibre could breach.
+
+	Zombies, though they had more strength, durability, and stamina than the average Joe, they were still worse than an adventurer with even a modicum of experience. This was without considering the fact that zombies were not sapient.
+
+	While archers readied their bows, the adventurers’ gazes were affixed onto those two undead beings.
+
+	They were not moving at all. Why? Were they not planning to move at all?
+
+	Eventually, when they confirmed that the zombies were barely within their range, the archers loosened their arrows at Skama’s signal.
+
+	Normally, they would have waited until the distance between them was shorter than what it was now to start shooting to ensure they could hit their targets, but since these were zombies, quantity mattered more than accuracy.
+
+	As expected of the soldiers who were confident in their archery skills, they were fairly accurate even from this range. Perhaps only two of ten arrows missed their mark, which was an insignificant loss.
+
+	However, it was not as though a zombie would fall to a single arrow. Still, they could shave off some of the false life their opponents had as long as they landed their shots.
+
+	The second and third volleys started picking off a good number of the enemies.
+
+	The adventurers and soldiers did not rejoice at the sight and sound of the zombies hitting the ground, nothing had occurred that was out of their expectations yet.
+
+	Their main issue remained to be those two undead beings.
+
+	Strong monsters could change the tide of battle single-handedly.
+
+	“—they’re moving.”
+
+	The shield-bearing undead began moving. With speeds that were considerably greater than that of the zombies as it rushed towards the city gate. The shield-carrying undead sent zombies flying without much consideration as it charged through them with its shield at its front.
+
+	Skama, shocked by the extraordinary speeds their opponents were moving at, gave out her order,
+
+	“Initiate attack!”
+
+	The magic casters’ spells flew out at the same time.
+
+	Amongst them, the most destructive was Skama’s companion’s [Fireball], as she had expected.
+
+	The [Fireball] flew through the air and exploded with the unknown undead at its center, a huge ball of fire emerged from the explosion and enveloped the zombies around that undead. Even if it was behind a shield that would reduce the amount of upfront damage, the ensuing raging flames of the fire should be able to swallow it up.
+
+	Various spells were shot towards the “Shield-Bearer”.
+
+	Yet it pressed on as before as though it had taken no damage at all. That caused some noise within the ranks of the soldiers.
+
+	“Don’t panic!” an adventurer yelled.
+
+	To the adventurers, this was the logical outcome. The undeads’ movements were not impeded by the amount of damage they took. No matter how much damage they took — even if it was enough to bring a living creature to the brink of death — they could move around as usual as long as their false life was not zero.
+
+	Even the well-known spell [Fireball] was not unparalleled in its damage output. Some of the stronger adventurers could tank a hit and live, stronger ones could even take numerous hits.
+
+	Magic of this calibre was not enough to bring down the Shield-Bearer, adventurers who had not considered this possibility should have been fired a long time ago.
+
+	But, a question still remained.
+
+	Did it take damage at all or not? There was no way they could find out.
+
+	That was why Skama focused her attention towards it.
+
+	Normally speaking, spell damage could not be evaded, guarded, or reduced by physical armour. Purely energy-based spell attacks like those should be effective against enemies with pieces of armour or study exoskeletons. Still, it wasn’t as though monsters with magic or elemental resistances did not exist.
+
+	If she had to think of an example among the undead.
+
+	There was the well-known, super dangerous being known as a Skeletal Dragon which had complete immunity to all magic. There were also monsters that could reduce the amount of fire damage they took or even heal from attacks.
+
+	It was not impossible for that undead being to have those kinds of abilities.
+
+	If magical attacks don’t work, they would have to drastically alter their battle plans.
+
+	“It’s fine! Our attacks are effective!”
+
+	Her companion, the one who cast the [Fireball] yelled.
+
+	The casters one-by-one felt the amount of damage they were dealing through their intuition and began to chime in with “it works”, “we’re dealing damage”, and other similar phrases.
+
+	“Skama! Every type of magical attack appears to be effective on that thing!”
+
+	Skama sighed in relief at the best news she had received all day. Perhaps they had a shot at victory after all.
+
+	“Understood! Now then — continue attacking!”
+
+	The opponent was still running towards them at a breakneck speed. She prayed that they could bring it down before it reached the gate. If they were to consider that this being had no resistances, then the amount of damage that it had already tanked should be proof that it was no common foe at all.
+
+	{I don’t want to fight something like that in close-quarters!}
+
+	As though to concur with Skama’s thoughts, another wave of spells were sent out.
+
+	Many zombies had already fallen at this point yet the Shield-Bearer pressed on.
+
+	Most undead would have been vanquished after a few dozen spells.
+
+	Skama felt a chill down her spine.
+
+	{It’s stronger than expected...no, it’s too strong...this thing, can we, really defeat it?}
+
+	The Shield-Bearer wasn’t the only enemy they had to be wary of, there was also the other one who was still waiting in-place. Why it wasn’t moving, they had no idea—
+
+	{Is that the Sorcerous Kingdom’s trump card? That’s why there’s only two…? Or was it to say that this city with us included is weak enough that only two of them were required?}
+
+	Another chill was sent down her spine.
+
+	What if the Sorcerous Kingdom had received intel on every adventurer in the city, including Skama’s Four Armaments and had sent the exact amount of troops to guarantee victory? And the ‘troops’ in question were not the zombies but rather the Shield-Bearer?
+
+	As if to disprove her worries as paranoia, Skama bit down on her lips and resisted the urge to yell, “kill it faster.”
+
+	Everybody was already focused on that and were trying their best. What kind of an effect would take hold on their minds if she, the most powerful adventurer here, was to yell that?
+
+	Nevermind a neutral impact, it would probably drive down their morale.
+
+	She had to resist her urges for now.
+
+	Skama offered up a prayer to her God, the God of Fire, yet it could not bring a smile to her face.
+
+	The Shield-Bearer was at the gate.
+
+	It was now in the casters’ blindspot, where they couldn’t aim at it properly.
+
+	Skama considered if she should jump off of the city walls and run.
+
+	One look at the other, unmoving undead killed that idea.
+
+	If that other undead being was as fast as the Shield-Bearer, it could easily catch up to her.
+
+	It wasn’t impossible for her to make it out alive, she had already used [Fly] to scout out beyond the zombie army and found nothing other than those two undead beings.
+
+	So if they were to combine [Fly] with [Floating Board] or draw the enemies into the city and slip out in the chaos, it could work. As long as there weren’t any other undead troops on stand-by, nothing could stop her escape.
+
+	If they were to go with the latter plan and lure the enemy into the city, it would surely burden them all with a guilt that was much stronger than if they were to simply abandon the city. Perhaps a guilt that could cause a lifetime’s worth of regrets.
+
+	As Skama gnashed her teeth she heard the loud ‘Boom!’ from the city gate, as if a battering ram had just impacted with the gate.
+
+	They were out of time.
+
+	Skama made her choice.
+
+	“...It’s our turn! You guys keep your attention towards that unmoving undead and what’s below the walls! I’ll bait it into your line of sight. Once you could see it, cast your spells immediately!”
+
+	After a brief order to her teammates and detailed orders to the soldiers and the casters, Skama ran towards the stairs that led to the bottom of the city walls. Her companion, who still had his [Fly] spell active, followed closely behind her.
+
+	“That thing has an unbelievable level of durability, but it should have taken quite a bit of damage already!”
+
+	{But is that true…? This isn’t too optimistic of a deduction, is it? But...}
+
+	Skama’s expression was that of a bitter smile.
+
+	{An undead who had already taken so many spell attacks. I wouldn’t want to buy time for a spell to finish it off by taking its attacks.}
+
+	But, she had to do so to even have a chance at surviving this ordeal.
+
+	The city gate was a simple, single giant door made out of logs. It would have been a point of pride for a fishing village, but not so given the current situation.
+
+	A hit from a battering ram would have probably blown out the hinges. Because they could not replace it with something that was sturdier given the amount of time they had, they could only reinforce it with wooden planks and seal the frame. The thickness of the gate was about twice what it used to be. 
+
+	From the other end of such a door, the booms of repeated impacts reverberated.
+
+	“What kind of power is this...”
+
+	With a “Crack!”, a part of the wood plank reinforcements began to break down.
+
+	There was a gap between the impacts, perhaps the Shield-Bearer was backing up to get a running start before bashing into the gate again.
+
+	“What should we do? [Lightning] could hit it through the gate, should we do that?”
+
+	Doors like this were resistant to lightning-based attacks but that did not mean that it would not take damage from such spells at all.
+
+	The potential damage such a spell could do to the door had to be compared to what it could do to the undead being. The benefits of casting [Lightning] now or to save the mana for other spells after the Shield-Bearer had broken through the gate had to be considered too.
+
+	No, consideration wasn’t necessary.
+
+	They shouldn’t be trying to face the enemy head-on but to deal as much damage to it right now as they could.
+
+	Skama nodded her head and her companion immediately initiated his cast.
+
+	“[Lightning]”
+
+	An arc of lightning shot out and went through the door, surely dealing some damage to the Shield-Bearer.
+
+	“Owoahwoahwoahwoah!”
+
+	Whether it was becoming irritated or not, the undead began roaring loud enough for its sounds to pierce through the gate. The roar had enough determination behind it to make one forget to breathe.
+
+	A streak of sweat flowed down Skama’s face.
+
+	No shout-based ability was used, but the roar could still make one’s body tremble all over, so this must be from the difference in their power alone — her subconscious had understood the difference in power between them.
+
+	{Not good, this, this is not good at all...it’s no longer a question of whether we could win or not. If the Sorcerous King could dominate this kind of undead...ahhh, it makes sense. After all, he’s a monster who could kill over a hundred thousand people at once.}
+
+	It was hard to imagine how one could control multiple undead of this level. Perhaps this undead was the Sorcerous Kingdom’s trump card.
+
+	Was this city worth that kind of investment?
+
+	Why was she in such a terrible city in the first place. Skama lamented over her poor luck.
+
+	“Boom!” another loud noise rang through, multiple reinforced logs had snapped already.
+
+	“[Lightning]”
+
+	Another streak of lightning shone, leaving behind a white afterimage, yet the sound of the repeated impacts failed to cease.
+
+	The only thing that changed was the door. The logs had been snapped in half, the reinforcing planks were blown away, and only the twisted nails of the hinges remained on the frame. 
+
+	“That’s enough with the spell attacks. Could you buff me instead?”
+
+	“...Ahhh”
+
+	Skama dodged the wooden splinters as best as she could while also moving backwards. She was receiving Divine and Arcane buffs from both of her companions. 
+
+		They used the first tier [Anti-Evil Protection] spell, the second tier [Lesser Strength] and [Lesser Dexterity] spells, the third tier [Haste] spell, and more. Compared to spells for countering special abilities, more spells were cast on her to heighten her body’s capabilities.
+
+	The gate finally gave way after they had finished buffing and crashed onto the ground with a loud noise.
+
+	In the slowly settling dust cloud that was just kicked up, a pair of bright red eyes appeared. Unbearable fear spread through her entire body upon receiving the gaze of those ferocious eyes.
+
+	Her teeth clattered and her hands quivered. To hide this fact from the others, she had to suppress it to the point of almost fainting.
+
+	This level of terror could not be felt on top of the city walls, it was something you had to face this monster to experience. 
+
+	“What am I looking at…? Just a single one of them managed to knock down the reinforced wall...The Sorcerer King dominates this kind of undead...”
+
+	“I say this from the bottom of my heart, we should avoid becoming enemies with the Sorcerer King the next time around.”
+
+	Skama replied to her companions after swallowing a load of saliva.
+
+	Though she had already heard of how the Sorcerer King had destroyed an army of over a hundred thousand men, she didn’t feel real, tangible fear. What happened before her eyes, however, influenced her fear of the Sorcerer King who had control over this undead being.
+
+	She did not want to fight this undead at all. Honestly, she wanted to just run as far away as possible.
+
+	But, there was no way this life-despising undead in front of them would ever let them do that.
+
+	In any case, their only hope of survival laid in doing something against this undead.
+
+	The horrifying embodiment of death swept the dust away from them using its shield, stepped over the broken threshold, and moved towards them.
+
+	They had finally breached the walls.
+
+	Were the zombies too distracted by the people on the walls or had their encirclement not extended to this part of the walls yet?
+
+	The fact that the undead in front of them had scattered the zombies near the gate on its way here was lucky for them, but there was no doubt in their minds that their luck would run out soon.
+	
+	Skama held up her tomahawk. Judging from that undead’s speed, she should consider herself to be within its strike range.
+
+	After activating the ability of the axe, an ethereal copy of it appeared next to her. This was her weapon’s ability, Doppel, which created a copy of itself to float at a distance that wasn’t too close nor too far away from the wielder. It could automatically strike an enemy with the same level of accuracy and speed as the wielder.
+
+ This ethereal weapon could not be destroyed with brute force, to break it would require special weapon destruction abilities; as a result, it could even outlast Skama in a fight.
+
+	Though this ability was without any real weaknesses, it could only deal half the damage the real weapon could.
+
+	“Owoahwoahwoahwoah!!”
+
+	The undead let out another roar that sent them trembling in fear.
+
+	Was it cheering the fact that it was about to slaughter people? It raised its shield high above its own head and smashed it down at the remains of the gate.
+
+	The wooden shrapnels flew towards them with tremendous momentum but Skama waved her weapon around to effortlessly deflect them.
+
+	Her actions appeared to have drawn the aggression of the Shield-Bearer, who moved to engage her.
+
+	It readied its wave-bladed sword as it charged towards her with its shield.
+
+	{This is, bad...Speaking of which, why is it still alive after taking so many spell attacks? Isn’t this too unfair?}
+
+	It was a flat-out lie that she deflected those shrapnels effortlessly. She barely managed to do so with magical buffs.
+
+	“Everybody, slowly—”
+
+	The Shield-Bearer charged towards them. The gap between them was closed in an instant, as though a wall had come barreling towards them, as though it was planning to use its shield to crush her to death.
+
+	But—
+
+	Skama wasn’t good enough to use [Impenetrable Fortress] so she chose to just use [Fortress] instead to halt the shield with her tomahawk. The Shield-Bearer cleverly deflected the tomahawk with its shield, intending to break Skama’s stance. This was a difficult manoeuvre that made Skama feel as though her axe was being sucked onto its shield. Skama gave up resisting its force, rolled to the side, and used the counter-acting force of that action to stand back up. 
+
+	The ethereal axe swung from top to bottom but was deflected by the wave-bladed sword. At the same time, the undead charged towards Skama.
+
+	She did not even have the time to breathe. Forced to take the defensive again, Skama deflected attacks with her tomahawk and charged into her opponent.
+
+	If her opponent was this big, sometimes it would be better to charge through it rather than standing still.
+
+	“[Sunlight]!”
+
+	As if to push her forwards in her decision, a blinding flash of light was emitted from behind her. 
+
+	This was a third-tier divine spell.
+
+	That brilliant light not only blinded the enemy, but also dealt damage to the undead. Although there was a spell of the same tier called [Holy Light] that would have dealt full damage to evil creatures, it wouldn’t have blinded them. [Sunlight] was probably chosen to support her rather than going for pure damage.
+
+	The flying caster sent out three bolts of light towards the undead with [Magic Arrow].
+
+	Though she was receiving support, the shield still blocked everything like it was a wall and left no openings for her to exploit. Skama hacked at it with her tomahawk but it was easily deflected.
+
+	{Damn it! Its movements are too clean. It wasn’t this strong when it used its sword — its proficiency with its shield is too high! So its primary feature is its defences? Hah? But, what about that heavy strike? No, impossible...} 
+
+	Terrified by her own revelation, Skama slowly backed off. Needless to say, this was so that the casters on the wall could have a clear shot at it. She couldn’t move too far away lest it ignores her and runs into the city. That was a scenario that must be avoided at all costs given how fast that thing ran, neither Skama nor the others would be able to catch up to it if that happened.
+
+	If that happened, the defenceless city would see an enormous amount of casualties.
+
+	It was better to veer on the safe side. The rogue on Skama’s team was waiting at the sideline rather than helping out with the fight specifically to catch up to the monster should it choose to run into the city. That was the plan to stop an opponent from leaving, but its physical abilities made failure quite likely.
+
+	She slowly kited it while paying attention to its every move. It did not appear to have noticed and followed at a distance.
+
+	Just as they were about to bring it into the line of fire, wails could be heard from above them.
+
+	“No! The other one is coming at us! The people up there are attacking it!”
+
+	The implications of those words slowly sunk into her head. {Ah...checkmate}, Skama thought.
+
+--------
+Mini-FAQ:
+Q: Where are we at?
+A: As of this part: 240/568</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

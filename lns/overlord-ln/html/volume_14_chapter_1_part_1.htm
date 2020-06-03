@@ -1,0 +1,589 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 02/20/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 1 Part 1:
+
+	A big swig of pale ale was taken from a mug that was almost overflowing.
+
+	This used to be a beverage he had no chance of obtaining back in his demesne, but nowadays the taste of first-class booze flowing down his throat felt all too familiar.
+
+	He noisily belched out the sweet fragrance of the ale as he set down the large mug, with half of its contents still remaining, back onto the table. If this was one of those wooden mugs he was so used to, he would’ve slammed it on the table without a thought, but he wouldn’t dare do so with the porcelain stuff.
+
+	However, even if he did break the mug he wouldn’t have to pay for it, after all, this bar was specially prepared by his secret supporter, Hilma Cygnaeus. Everything was free of charge for any of the nobles he would send to this place, this even extended to their guests.
+
+	This kind of investment was to be expected for someone who’s destined to become a powerful noble like him, Baron Philip Dayton L'Eyre Montserrat. 
+
+	All he had to do was to show his gratitude and repay her for this favour later on, for now everything is kept on tabs.
+
+	As things stood, even Hilma, whose wealth was beyond comparison to Philip’s, was still a commoner and had to bow before authority. Perhaps that was the reason why she was trying so hard to become acquainted to a noble like Philip by supporting his faction on all fronts.
+
+	This is what separates the strong from the weak in this world - the difference in status.
+
+	Still, he owed her a big favour for all of her efforts.
+
+	As a gentleman who held himself accountable for his debts, Philips hoped to improve his social standing as soon as possible. Hilma should also be expecting him to obtain authority above the rank of baron at the very least.
+
+	Then he’d have to repay his dues.
+
+	If those favours were not repaid as soon as possible, he would be stuck making concessions, having to obtain permission even for things he personally wanted to do.
+
+	To have the freedom to do whatever he wanted and the right to use his powers as he sees fit, those were Philip’s dreams.
+
+	But-
+
+	“Why is nothing going my way!”
+
+	He could longer hold in his true feelings. Philip surveyed his surroundings. This bar was not a regular peasants’ bar. Hilma had converted one of her mansions into a bar so crude noise had no place in it. So although his voice wasn’t too loud to begin with, if there were someone around they probably would’ve heard him.
+
+	After confirming that no one was looking towards him, Philip calmed down.
+
+	To allow others to find out that he had failed would be disgraceful.
+
+	That’s right - he had failed.
+ 
+	{Die, you’re all trash!}
+
+	Philip gulped down ale as if it could literally put out the fiery emotions in his heart. This only agitated him further as in his hurry, drops of ale had leaked from the corners of his lips, causing his skin and clothes to feel sticky as a result.
+
+	Philip’s expression twisted in his anger.
+
+	If all had gone according to his plans, the output of his demesne would have been multiplied and he should have been surrounded by people grateful that he’s their new lord. His name should’ve been known to all after his neighboring nobles caught wind of his accomplishments.
+	
+	So, how did it end up like this?
+
+	Not only had the grain productivity of his lands started to fall, he also felt as though the villagers he had visited were all staring at him with contempt.
+
+	{Insolent scumbags!}
+
+	He was finally the head of the house of Montserrat, a family with a long and dated history, those villagers should’ve known full well how they should pay their respects. Could it be possible that the villagers were all slacking off in an attempt to weaken his position?
+
+	It was certainly possible.
+
+	The world was filled with dumbasses who would be envious of others’ talents after all. They couldn’t even understand his talents and only scoffed at and got envious of those with talents. In that way they could create an illusion of megalomania.
+
+	No, it was not as though that was the only type of people in the world. There were so many villagers back there, there had to be some other reason for it. For example, a neighboring lord may have paid them to sabotage Philip’s political ambitions.
+
+	It was certainly not impossible.
+
+	In general, if you focused production on more valuable goods, revenue would naturally rise by huge proportions. This should’ve been common sense. Wouldn’t it make sense to dedicate all the available farmland to the more valuable crops and buy grain from traders?
+
+	It was so obvious yet the number of people who’d disagree with him were countless.
+
+	{Absolute trash! How about I ask Hilma about how I should punish these fools? If I do that they’ll certainly start working hard for me again! I’ll still need to investigate if they’re conspiring against me, their lord! ...no wait. If it’s something as simple as dishing out punishments, it’d be fine if I approve of it on my own right?}
+
+	In theory, it’d be the same as whipping cows and horses to get them to obey you.
+
+	{Yeah, there’s no need to tell Hilma about this at all. If I end up owing her another favour from this… Umu, Hilma’s been good to me for quite a while, it’s about time that I repay her generosity…}
+
+	To a soon-to-be great noble, debt owed to a commoner like Hilma could be bilked, it was an easily exploitable situation. But alas, doing so would make him no different than a common thief. As a noble of nobles, such an act was utterly despicable, so it’s best to pay her back as much as possible soon.
+
+	It would be a big problem if he let Hilma have something to threaten him on due to his generosity. If that ever happens, Hilma could always have things her way and shut Philip up.
+
+	{The question is, what would be the best form of repayment in this case…?}
+
+	If he’s going by their previous agreement, he would have to repay her in gold collected from the increased revenue of his land, but that’s obviously not possible - neigh, it would be difficult to do so at the moment. 
+
+	So what was something that he could do that will both demonstrate his brilliance and also leverage the newly formed faction’s power to benefit Hilma?
+
+	{I say that but I still don’t have total control over this faction yet……}
+
+	As a member of the faction, Philip had had the opportunity to connect with all kinds of people.
+
+	Though the number of members supporting the idea that Philip should be the faction’s leader was steadily rising, he hadn’t gained the support from the entire aristocracy.
+
+	Hilma had aided him in that pursuit, but considering his age, social standing, et cetera, there were still some major hurdles he had to overcome. If Philip was to be in their position, he would be inclined to agree with their decisions too.  
+
+	The same speech by a senior earl and a junior baron would not be convincing to the same degree. {But doesn’t that sound like they’ll just be conforming to the traditions of the more established factions?} Philip thought.
+
+	Being members of a new faction, they could not act like some aging organization but rather introduce radical changes into the system. As a man with the courage to experiment and innovate, Philip was the perfect fit for the role of leader in this faction.
+
+	{All the other guys are just so inflexible.}
+
+	Blinded by his feelings of irritation, Philip did not notice his mug had somehow become empty.
+
+	“Oy! More booze!”
+
+	“Yes, my lord”
+
+	Some maid that looked like she’s employed at the establishment was just passing by, so he barked his orders at her.
+
+	After taking a deep bow, she walked away in an odd manner, as if striking a pose, and Philip was unable to take his eyes off of her. Was it because her uniform was too thin? One could make out the shape of her buttocks.
+
+	“Ooof.”
+
+	An attractive derriere is obviously a desirable quality to flaunt with, but this maid had demonstrated a clear understanding of what constitutes an acceptable interaction between a superior and their inferior through her work ethic. This pleased Philip a lot.
+
+	Philip had already borrowed two maids from Hilma who were not so dissimilar to the one he’s staring at.
+
+	These ladies would do anything you ask of them, you could even stiff their salaries. Every one of Philip’s household matters had been handled by them. Hilma also recommended people like butlers and exclusive merchants.
+
+	Though Philip wanted to fire those who had been under his family’s employ for a long time and just keep his subordinates at hand, his father’s fervent rejection of that proposal made him give up. Well, if he was the one paying for those servants then he would have definitely fired them to save expenses.
+
+	As Philip vaguely thought about these matters, someone spoke to him suddenly.
+
+	“Oh hey, Baron Montserrat. What’s going on? You seem troubled.”
+
+	He turned his head towards the source of the voice to see two nobles in front of him.
+
+	They had inherited their baronies at the same time, friends who belonged to the same faction. One of them carried a large mug topped with ale while the other held a plateful of nuts.
+
+“Oh! Baron Delvin and Baron Rokerson!”
+
+	Baron Delvin was a man who lacked the status and prestige expected of a noble of his rank due to his short stature and delicate constitution. The only aspect of him that matched with his status would be his raiments, so if he was to wear common clothes, no one would be able to tell that he was one with the aristocracy. As it stands, you could convince a large group of people into believing that he was just an actor pretending to be a nobleman for a comedic play.
+	
+	In contrast, Baron Rokerson cuts an imposing and sturdy figure. The man was thick in every dimension. Though he was a physically menacing man, he couldn’t hold his own opinions without getting swayed by others. In Philip’s eyes, Rokerson was more likely to be ordered around than order someone else around. 
+
+	Their demesnes neighboured each other and it was a common sight for them to be working together. Philip remembered them due to a mental note he made to himself when they first met, that being {why not just work solo like me?}
+
+	“Are these seats taken?”
+
+	“Oh, please, do take a seat”
+
+	Rokerson gave a gentle nod and sat down alongside Delvin. The maid seemed to have timed her entrance perfectly as she walked in with ale in tow.
+
+	“Here, cheers!”
+
+	“It’s our pleasure!”
+
+	According to legend, the act of clinking glasses together during a toast originated as a way to mix the contents of two cups together, proving that neither were poisoned. Philip knew of this fact and so used more force than was necessary.
+
+	Alcohol was spilled onto the table.
+
+	“Oh!”
+
+	Some of it had landed onto Baron Delvin’s clothing.
+
+	It would be rude to say that his clothes had finally matched his appearance, but his garments, while noble-looking, were not fresh and clean. No, it would be more accurate to say that it was reminiscent of a more traditional style, something that Philip would wear in the past, like a hand-me-down from his elders.
+
+	Philip felt pity.
+
+	What he currently wore was top tier fabrics he had instructed Hilma to prepare for him. In other words, those two were not valuable enough to warrant such a level of investment from Hilma.
+
+	Philip contemplated the tragedy of the apparent difference in their future prospects compared to him as he asked, “So were the two of you here for drinks too?”
+
+	“-umu, that’s right, that’s right. We were just here for drinks and were pleasantly surprised to find that Baron Monserrat was here too, so we came over to pay our respects! Right?!”
+
+	“It’s just as you say, Baron Rokerson”
+
+	“No no no, what’s this nonsense about paying respects? Aren’t we equals? Comrades who are supporting each other?”
+
+	“Oh! I never knew that someone as great as Baron Montserrat viewed people like us as equals! That does bring joy to our hearts! Right?!”
+
+	“It’s just as you say. Now, if you will, please try some of these.”
+
+	The man on the opposite end hastily presented the hors d'oeuvres.
+
+	“Thank you very much, Baron Rokerson.”
+
+	“Oh my! We’re no strangers, Baron Montserrat. Feel free to call me Wayne and him Igthorn. ” 
+
+	“Understandable. Then I’d request that both of you refer to me as Philip!”
+
+	The three shared in a hearty laugh as they downed their pale ales.
+
+	“But anyways - Philip-sama, what has been bothering you? You seem quite troubled just then”
+
+	“Just then?” At this point the alcohol had slightly - yes, only ever so slightly dulled his mind, his anger flared back up.
+
+	“Ahhhh, those useless idiots keep giving me headaches. Oh, I’m talking about the pariahs living on my land.”
+
+	“So that’s why, I completely understand! It’s completely understandable for someone as sagacious as Philip-kakka to be angry over those who could never hope to grasp your thoughts. Common people like us aren’t on the same level as you, right?”
+
+	“Exactly, it’s completely understandable for someone as smart as Philip-kakka to be angry over such matters.”
+
+	Philip was touched by their agreeing with him.
+
+	They were nobles like him, so was it natural that they could understand his troubles? They too must also be perturbed by their own subjects’ stupidity.
+
+	“The two of you get what I’m going through?!”
+
+	“Umu, we do, we do. Though I’m not as outstanding as Philip-kakka, I’ve also had my fair share of experience with the issues you’re faced with.”
+
+	“Exactly - looks like we’re out of ale - oy! What are you doing not pouring ale for Philip-kakka!”
+
+	The maid that was summoned immediately brought over some ale straight to Philip. He raised his mug, now filled to the brim with ale.
+
+	“Here, let us toast each other once more”
+
+	The mugs were smacked together.
+
+	Philip downed his ale.
+
+	Delicious.
+
+	He felt as though the ale had never tasted better than in this moment, perhaps it’s because he’s sharing a drink with his sympathizers.
+
+	Most members of the new faction chose to distance themselves away from Philip, one reason being that Philip was at the helm of the faction; consequently, he hadn’t been able to make any friends. That was why Philip was in such a good mood, these two who had approached him gave him solace. He was overjoyed to the point of wanting to rub shoulders with them. 
+
+	“Ah, Philip-kakka! I’m honored that you’d rub shoulders with me, but your ale might spill. How about you down some of it first and then……oh”
+
+	He spilled some ale again. Though it was free of charge, being so wasteful would be an insult against Hilma.
+
+	Philip removed his arm from the other noble and drank in a rambunctious manner.
+
+	“Woah! That’s what I expected of you, you can certainly hold your alcohol, am I right?”
+
+	“That’s right, as expected of Philip-sama”
+
+	“Psssht! No no, that’s not true. It’s just that this ale tastes better than usual when enjoyed with outstanding nobles like you.”
+
+	“Unbelievable! Absolutely unbelievable! Kakka would speak such words that fill my heart with joy. As the two of us have a lower tolerance for alcohol, we can’t help but be in awe of your capacity.”
+
+	“Eh? The two of you can’t drink much?”
+
+	They were both still on their first cup and the level of ale hadn’t gone down much.
+
+	“It’s embarrassing to admit, but to tell the truth, neither of us can find any appeal in alcohol, right?”
+
+	“That’s right, but since we’re in this type of establishment it would be awkward not to drink at all, so we’re only taking tiny sips.”
+
+	“Because we can’t hold our alcohol, we’re quite envious of men who could, like Philip-kakka. Please, please, do take our portion as well.”
+
+	Philip followed along with their suggestions and drank cup after cup. The more he consumed, the lighter his head felt. It was around this time when his face started turning red.
+
+	“Now that’s the way to do it. I remember Philip-kakka mentioning the idiots in your land, so what happened exactly?”
+
+		“Huh? Ah, what was it, did I talk about that?”
+
+	“Yeah, you mentioned something along those lines……it appears to me that you might’ve had a little too much to drink, should I bring some non-alcoholic beverages over? Does that sound agreeable?”
+
+	“That’s right. Philip-kakka, would you like some water? The water they serve here does not stink of moss.”
+
+	“Ehhh-, that wouldn’t be necessary. I’m fine, I’m fine.” Heat pulsed across his face, he does not need a mirror to know that his face had turned completely red. “......ahhh, I was talking about my woes. I’m broke, broke.”
+
+	“We’re in a similar situation, am I right?”
+
+	“That’s right, our demesnes aren’t exactly prospering either”
+
+	“No, no. It’s not what you think it is. If those worthless pariahs had done what I ordered them to, there should’ve been large sums of gold flooding into my pockets. But they don’t work hard enough and won’t listen. It’s all their fault. Every single one of them is worthless.”
+
+	“Oooooh! Philip-kakka is absolutely correct. This world is filled with worthless trash. I can understand your pain! By the way, what is the special product of your lands, Philip-kakka?”
+
+	“Nothing apart from agricultural produce at the moment. Damn it.”
+
+	A lot of trials were being run on various aspects of production, but none had bore fruit yet.
+
+	“Agricultural produce, huh… It would be nice to have some kind of unique product, otherwise...”
+
+	“Typical agricultural products don’t sell for much, but that’s to be expected.”
+
+	The two noblemen spoke of a lot of their own opinions.
+
+	They were correct, that was why there was a need to cultivate crops of higher value. It would be risky as it was probable that they would not be able to harvest the crop in the short-run, the fact of whether a crop could be cultivated at all or not had to be investigated too. Even so, it was a necessary investment for the future, yet those lowly peasants would always use “our hands are full” as their excuse even in the face of a direct order.
+
+	“Considering that current situation, if nothing changes then I could only wait for a bad harvest so the price of grain would go up!”
+
+	“What about your own terri-”
+
+	Wayne jabbed Igthorn with his elbow mid-sentence and then he moved closer to Philip to whisper. 
+
+	“You’re right, but even if a bad harvest occurs, the price won’t necessarily rise. Did you know that there is a huge amount of cheap grain being transported from the Sorcerous Kingdom to the Kingdom? So the price for regular produce is unlikely to fluctuate much and it would be equally unlikely for any non-value-added product to fetch a high price.”
+
+	“What!?”
+
+	“Ah, Philip-kakka, you’re being too loud.”
+
+	Philip surveyed his surroundings in a frenzy, lowered his voice, and then said to Wayne, “is that true?”
+
+	“Mhm, the intel was obtained from trustworthy sources, it was being spread amongst a few of the merchants in the capital. Apparently the Sorcerous Kingdom had stored large quantities of grain in warehouses owned by the merchants in the capital. It was said that they were even allowed to sell them, but the Sorcerous Kingdom obviously had the priority input on how they were being used.”
+
+	“Hm? So it wasn’t merchants importing goods from the Sorcerous Kingdom to sell here, but rather, the Sorcerous Kingdom was storing food in the Kingdom?”
+
+	“That’s right. I don’t know much about the exact details other than the fact that it’s there for storage only and the Sorcerous Kingdom had already paid for the storage fee… or was it rent for the warehouses? In any case, the merchants made money from that deal. It wasn’t much, but it was still something.”
+
+	“... Do people just rent out their warehouses so easily?”
+
+	“Normally it would be difficult to secure storage space. But wasn’t that warehouse district attacked by that Fiend? I heard a lot of the warehouses were empty and so the owners happily leased them out. Therefore, as long as the grain remains there, the merchants are not likely to raise the price of food. It’s easy to imagine people saying things like ‘if it gets more expensive, I’d rather buy from the Sorcerous Kingdom’ should the price go up. Oh right, did you know about E-Rantel’s huge grain storehouse?”
+
+	“No, no. What about them?”
+
+	“Within this huge warehouse enchanted with the spell [Preserve], there are places where food will never rot, courtesy of a magical item. Until recently, military rations for over a hundred thousand soldiers were painstakingly collected from neighbouring lands in preparation for a war with the Empire annually. Food collection takes time so it could rot during the process, not to mention that obtaining food was harder during some time periods. That huge storehouse was built to counter these problems. Apparently that the magical item wasn’t something that could be transported elsewhere, so it was formally gifted to the Sorcerous Kingdom. That means the Sorcerous Kingdom’s surplus grain could be stored there for years.”
+
+	“Even if the food could last for many years, the Sorcerous Kingdom is a country with a single city, E-Rantel. How’s it possible for them to produce that much food?”
+
+	Even if the rumour spreads throughout the Kingdom, grain prices should only drop by a tiny bit at most considering the Kingdom’s large population.
+
+	“Oh, about that. According to some credible rumours, the Sorcerous Kingdom is using undead creatures to work large swathes of farmland; as a result, they saw a tremendous boost in their grain productivity. That way even such a small territory could match the entire Kingdom’s output. If you think about it, we’re talking about undead creatures that do not know of fatigue. But. Well, if you think of that food being made by the undead it’s hard not to feel disgusted by it.”
+
+	“What? That’s just cheating!”
+
+	Philip couldn’t help but yell. The Sorcerer King could easily accomplish what he couldn’t get his subjects to do no matter how hard he tried. All the pain that he had to suffer through, the Sorcerer King deserved as well.
+
+	Or, perhaps he should also be using the undead for farming?
+
+	“That being said, it’s not like there’s nothing suspicious about it. After all, even if the undead worked tirelessly around the clock, for them to match the entire Kingdom’s output is… Still, their agricultural output is quite high, there’s no doubt about it. Right now, the Sorcerous Kingdom is sending food aid to the Holy Kingdom.”
+
+	"Food aid?”
+
+	“Mhm. Jaldabaoth, the Archfiend who had brought chaos to our royal capital, appeared in the Holy Kingdom. It seems like his rampage had caused some food scarcity issues and the Sorcerous Kingdom responded by sending the food bought from the Kingdom merchants as aid. A caravan with carriages full of grain passed through my territory the other day, so it has to be true.”
+
+	“How much can remain in the merchants’ warehouses if the food was used as aid to the Holy Kingdom?”
+
+	“That’s true. Still, it’s a necessity to stockpile food in order to prepare for bad harvests. Plus, I don’t think the Sorcerous Kingdom used up all the grain they had bought as aid.”
+
+	That made sense. If Philip were the Sorcerer King, he would have also used the surplus food, which had been sitting in storage for quite a long time, as aid.
+
+	“Exactly. Well, bad harvests don’t happen that easily, right-”
+
+	“-That’s why it’s risky to wait for the climate to influence the situation. A better solution is required. For example, if the Sorcerous Kingdom’s grain supply suddenly disappeared, then the food produced in Philip-kakka’s demesne should sell for a high price. That being said, you can’t just do things like instigating a war with the sole objective of forcing the enemy to burn through their grain supply”
+
+	It was at this moment when an idea was formed spontaneously in Philip’s head.
+
+	If the fact that grain does not sell for much even during bad harvests depended on the continued existence of the Sorcerous Kingdom’s grain supply, what would happen if that were to disappear?
+
+	There was only one answer.
+
+	Grain prices would go up.
+
+	Next question: how could one make the Sorcerous Kingdom’s stockpile of grain suddenly disappear?
+
+	The hint was in Wayne’s words. The Sorcerous Kingdom’s grain production must fall. But, this was not an easy task. After all, Philip couldn’t just sneak into the Sorcerous Kingdom and burn all their fields, right?
+
+	What about stealing the grain?
+
+	The moment Philip thought of this solution, he felt as though a lightning bolt had just struck his body.
+
+	To take a foreign country’s property by force was, by common sense, an extremely dangerous action. Even without taking the consequences into account, Philip simply did not have the military strength to take on an entire country at this current moment. But, the Kingdom should see the Sorcerous Kingdom as its enemy. After all, a significant portion of its own citizens was killed in the war. It would be strange to not view them as enemies. If that’s the case, wouldn’t it be a brilliant move to steal from an enemy?
+
+	That way, Philip would be able to earn the support of the Kingdom’s ruling class and perhaps there was even a chance he would be promoted to a higher position in light of his contributions.
+
+	{...Not bad. Isn’t this a great idea?}
+
+	As the cherry on top, he could also sell the grain that was taken from the Sorcerous Kingdom.
+
+	{This is like killing three birds with one stone. A plan that was so perfect it could not be improved upon. But, how will I rob them of the grain? Should I discuss it with Hilma and hire mercenaries? No, that’s no good. Mercenaries don’t have a sense of honour. Only idiots would leave a trail behind that could be traced back to them and be used as blackmail material.}
+
+	Following that logic, only his own soldiers could work. He’d call them soldiers but in actuality, they would just be a few armed villagers. He had considered forming a corp with trained soldiers instead of villagers who could only do farm work. Paying said soldiers with the grain that they would seize would be an excellent option.
+
+	{But still, marching straight into the Sorcerous Kingdom’s territories would still be dangerous.}
+
+	Philip’s demesne was some distance away from the Sorcerous Kingdom so the cost of a marching army wasn’t something that he could just shrug off.
+
+	{No, wait, didn’t he talk about some of the Sorcerous Kingdom’s caravans passing through his lands? What if I attack those?}
+
+	Was Philip alone enough to take on such large caravans? There was a limit to the number of villagers he could mobilize, but an overwhelming numerical superiority, enough to make the enemy surrender without any resistance, was absolutely necessary.
+
+	“Are you two free to chat? I have a thing that I want to discuss with you all.”
+
+	“We are, what’s this ‘thing’?”
+
+	“Mhm, it’s something good.”
+
+	Philip moved towards the pair and proudly began to explain his impeccable plan.
+
+--------
+
+Hitori's comment corner: 
+
+This is the most I could do with the time I have on hand, this part may be rougher than usual.
+
+Looks like the CN team is taking a 2-3 day break to figure out a plan to stop some retarded aggregators from stealing their shit, claiming the credit for themselves, and monetizing the work they've put out for free. If you think they're being whiny, the last time something like this happened (during V12/V13) those spineless fucks redirected all of their legal issues right back at the forum.
+
+If you can read CN there's a link to a high-effort shitpost by one of the TLers explaining everything at the usual place. 
+
+Looks like we have a backlog to go through for the next few days. But I will warn you all in advance, my schedule is becoming more packed as the month drags on, there will definitely be a few days next week where there will be no parts released.
+
+ Anyways, as usual, direct errors and whatnot to fanficerrors@protonmail.com</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

@@ -1,0 +1,418 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 04/27/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 4 Part 6
+
+        “We rarely get to drink this...You guys are seriously being ungrateful.”
+
+        Could you really consider the offering of tea to be an act of good grace? Something just didn’t sit right with that definition.
+
+        After pouring five servings of tea, Tia swung the Warm Bottle around as if to emphasize the fact that it was empty.
+
+        “Ah — it’s empty — what a shame — we don’t have nearly enough, especially with this 10-liter drinking gal around—” Tia flashed a glance at Tina, “wouldn’t rumours spread that the third princess doesn't even have enough tea to adequately serve her guests?—”
+
+        Lakyus rubbed her glabella as Renner laughed, “ufufu.”
+
+        “Now that is troubling. Although, in times like these, it is probably unwise to maintain the image of a lavish lifestyle. But I do think there is a need to demonstrate that the royal family still has a future. So, should I steep more tea?”
+
+        “Give it a rest, Renner.”
+
+        “Lakyus. There’s a limit to how much you could remain beholden to everyone’s goodwill you know?”
+
+        “Eh?”
+
+        Lakyus was incredulous as Renner gave a wry smile.
+
+        “Should I spell it out for her? Miss Evileye.”
+
+        “Mmmm. Looks like she’s starting to understand… please do educate our hardheaded leader.”
+
+        “Very well then… The final moments will be upon us soon after all. Everybody is just trying to buy as much time for the both of us as possible.”
+
+        “...Ahhh, so that’s why.”
+
+        Climb finally understood now that she had put it that way.
+
+        Normally, adventurers could not participate in wars, this was a measure put in place to prevent higher casualty counts than normal.
+
+        However, since the enemy this time around was the undead and had committed massacres on a massive scale, the Adventurer’s Guild of the Kingdom had accepted the royal request to classify this war as an acceptable quest. Just as the case was during Jaldabaoth’s demonic disturbance, the guild had approved the mobilization of its members.
+
+        The exact details of how they would operate was entirely left up to the adventurers’ discretion.
+
+        Some had even chosen to join the ranks of the army that was sent out nearly a week ago, from which none had returned. A few of the other teams had chosen to make their last stand inside of the capital.
+
+        There were some high-tier teams that had gone missing in the midst of this, perhaps they had accepted the invitation of the Theocracy or had snuck out and fled from the capital of their own volition.
+
+        Lakyus and her team, Blue Rose, were one of the teams that had decided to make their last stand at the capital.
+
+        They had just received intel that the Sorcerer King’s army had set up camp near the capital, Lakyus and the rest of them should not be squandering away what precious time they had left.
+
+        Yet still, Lakyus consciously found time to meet with her friend, Renner. Considering that it was extremely likely— no, they were 100% certain that this was the last time she could meet with Renner.
+
+        The truth was, she had already prepared tea for five. Servings for Evileye, Gagaran, Tia, Tina, and of course, the one being handed to Climb. Yet, it seemed that none of them was planning to drink it.
+
+        If they had told Lakyus outright that she should allocate time to bid her farewells with her friend, she would have definitely rejected that notion based on her personality alone. If they phrased it as her having a cup of tea with her buddies however, she would probably be much more receptive to the idea. Her companions were just being considerate.    
+
+        “...So, Brain Unglaus. I want to make tea for the remaining few, who must be terribly parched at this point. Show me the way to where the water is boiled.”
+
+        “Oh. It’s this way.”
+
+        {That was probably why.} Tina and Tia managed to get the better bodyguard of the two out of the room.
+
+        “Should I leave too?”
+
+        “Hmmm? Oh, don’t mind it. That wasn’t why they led him away.”
+
+        Climb asked Evileye only to receive an answer in the negative.
+
+        {Eh?} Climb was a bit confused. So they weren’t trying to grant Renner and Lakyus more privacy by getting everyone else out of the room?
+
+        Gagaran and Evileye did not seem to want to leave at all. Did she really only want him to lead her to where the water was boiled then?
+
+        “Since everybody has insisted, let us chat a little before the tea is ready. Ah! Before that, I have a question. Where were you just then? If you were busy preparing for what is to come, then I will just leave.”
+
+        “Do you know of the orphanage that I established? I had just returned from cooking there.”
+
+        “Huh? Cooking? At times like these?”
+
+        Lakyus vocally expressed her shock. Climb was surprised too when Renner had asked him to prepare the carriage so that she could go cook for those children.
+
+        However, upon arriving at the location and seeing the state of the place, Climb knew that she had made the right decision.
+
+        “Yes. The Sorcerer King’s army had surrounded the capital for a few days now, plus the army that was sent out a few days back had also used up a sizable amount of food. Our rations have only been dwindling down day by day. That was why I took some of the food stored here to cook a meal for them.”
+
+        The orphanage did not have much food left. Moreover, the price of food has risen due to the worsening situation in the capital, so the orphanage could no longer sustain its own operations. It had no choice but to decrease the amount of meals per day as well as the amount of food the children received per meal. That was why she chose to cook for them, since she was already there to secretly supply them with food anyways and plus it was a rare opportunity for her too.
+
+        Renner’s mutters began to flash through Climb’s mind.
+
+        Renner, as she cooked for the children with her well-learned culinary skills, had said, “I wanted to distribute grain to everybody, but we don’t have much left. I’m such a hypocrite.”
+
+        Faced with the Sorcerous Kingdom’s army which had already defeated the Kingdom’s 400,000 men strong army, they had no hope to stand against them. The capital was fated to fall and so was the royalty.
+
+        Yet, no matter how hard he tried to convince the gentle Renner to run away, she would not budge at all.
+
+        Stuck between his loyalty and his own feelings, Climb felt a suffocating pain in his heart. However, he could not allow the two in front of him to sense that under any circumstances.
+
+        Climb forcefully suppressed the pain that felt like it could tear him apart.
+
+        “You might be the only royal in history to know how to cook.”
+
+        “I do not think so. There must have been others, just not recorded in the history books was all… Those children must be enjoying their meals right now, it was worth it.”    
+
+        Originally, Renner’s cooking was meant to be everybody’s lunch but in order to prevent the children from fighting over the food or the employees choosing to go without for them, she had even cooked side dishes to go along with the entree. Everybody there must be satiating themselves right now.
+
+        She had cooked so much that dinner should have also been taken care of for them.
+
+        Speaking of which, Renner, who couldn’t even peel a potato before, had seamlessly improved her cooking abilities by quite a margin. The thinness of peelings she could achieve nowadays was honestly amazing.
+
+        This woman, who glistened in radiant light in his eyes, appeared to be naturally talented for the culinary arts.
+
+        Renner seemed to have noticed Climb’s revenant gaze, and smiled in response.
+
+        It was such a warm and welcoming smile.
+
+        Those two’s conversation was filled with optimistic topics, perhaps they were subconsciously avoiding the discussion of their inevitable fate. Or rather, was it precisely because they knew what fate awaited them that they avoided talking about it?
+
+        Not long later, Tia returned alone with the Warm Bottle.
+
+        “Where’s Mr. Unglaus and Tina?”
+
+        “Hmmm? Those two went looking for desserts to pair with the tea, so I came back first.”
+
+        “Desserts?” Lakyus half-squinted at Tia, “That would have been appropriate if we were the one to bring some along—”
+
+        “—I do not mind so it is fine. I should have baked plenty of pastries back then to serve as backup food. Since I added a lot of sugar in them, they could be used as desserts.”
+
+        “...See? Even the princess agrees. Oni...crOni boss is just being extra. Also, this is the first time I have tried steeping tea.”
+
+        (TL’s note: Original was 鬼 vs 恶鬼. TLing it into a pun to preserve the nuance.)
+
+        The tea that flowed out of the Warm Bottle was excessively thick.
+
+        “Hey. Oni boss. It feels nice to down it in one gulp. It’s got a clean texture.”
+
+        “Thank you.”
+
+        “The taste is honestly excellent, I suppose Your Highness the princess would not need my recommendation. Please have my share too, it cooled down already.”
+
+        Tia placed her filled cup of tea in front of Renner.
+
+        Such a breach of etiquette angered Lakyus somewhat, but Tina kept silent anyways. Climb felt that he should also keep his mouth shut.
+
+        Lakyus picked up her cup and breathed in the fragran— smell. Her expression became twisted.
+
+        “The taste was too strong...”
+
+        “Don’t mind it.”
+
+        “...of course I would mind. This is the first time I’ve drank such a strong tea. How many leaves did you add…?”
+
+        “Hey hey. I know you said this was your first time, but there’s no need to quiver with such excitement~”
+
+        “So that was why they were looking for desserts, to balance the flavour. Understandable… Renner, you were right to not drink it.”
+
+        “How rude. Not even the term ‘oni’ could do you justice, oni boss.”
+
+        “Haaaah, just try to make something more edible next time.”
+
+        Lakyus picked up her cup and slipped from the corner of her lips. Her expression twisted into something resembling the character . Just how thick was the tea?
+
+        Tia, who stood next to Lakyus stole glances at her and asked in a matter-of-fact tone, “is it tasty?”
+
+        “Hah? If I am being honest, it is too bitter. I would not call it good—hugh!”
+
+        Lakyus’ expression began to contort.
+
+        She pushed Tia aside and held on to her stomach. The items on the table shook as she wobbled.
+
+        In the midst of the chaos, Climb finally noticed that Lakyus’ gown had been stained red. A thin, stick-like object had been thrust through her.
+
+        He could not comprehend what had happened. His brain could not accept what he was seeing right now.
+
+        Who would have thought that Lakyus would be penetrated by Tia.
+
+        Lakyus was also in a confused state, not even casting healing magic on herself. It was as though she was trying her best to understand what was happening.
+
+        Gagaran ran to Lakyus’ side.
+
+        Climb thought that she was rushing over to help, but things turned out for the worse as Gagaran struck Lakyus’ stomach with a heavy punch.
+
+        Lakyus remained defenseless against that attack, thinking that her companion was rushing over to help her. Gagaran struck her in the stomach with the force of a battering ram.
+
+        “Ooooof.”
+
+        “Let me do it.”
+
+        Tia impaled Lakyus with a new spike as the air was knocked out of her, rendering her unable to breathe.
+
+        His eyes did not deceive him, there was some sort of liquid at the tip of the spike. It must have been some sort of poison.
+
+        “Your Highness.”
+
+        Climb tugged Renner’s hand, hid her behind his frame, and moved towards one of the corners. Tia and Gagaran ignored him entirely, choosing to repeatedly attack Lakyus instead.
+
+        Lakyus tried her best to dodge their attacks, but faced with the duo’s combos she could not even properly defend herself, nevermind dodging. The gearless Lakyus could not put up an effective resistance against the fully geared Tia and Gagaran.
+
+        Climb angrily yelled towards the silent spectator, Evileye.
+
+        “What in the world is going on!!”
+
+        “Don’t move. Otherwise I would not only target you with my magic, but the princess as well.”
+
+        Climb was about to draw his sword but stopped himself when he saw that Evileye had raised a hand in his and Renner’s direction. He naturally should be assisting Lakyus, but Renner was more important to him. Protecting Renner took absolute priority.
+
+        Climb wanted to lead Renner out of the room, but the moment he moved a crystal shortsword was embedded by his foot.
+
+        “Don’t move. Do not leave this room. If you disobey me, I’ll...hack off one of the princess’ legs…? As long as you listen to me, I will not harm you.”
+
+--------
+Mini-FAQs
+Q: Where are we at?
+A: As of this part: 462/568
+
+Hitori's comment corner: 
+
+Yeah, not doing any better. It's not like I'm still bedridden or anything, but I really can't TL effectively with my current state of mind. Took me minutes to find a word in my head rather than seconds...god dammit</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,765</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

@@ -1,0 +1,706 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 04/20/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 4 Part 4:
+
+        The armoured man who went by the name of Riku Agneía used [World Teleportation] to get to their predetermined meeting spot. He showed up in front of his collaborator, who had already been waiting for him there.
+
+        “Sorry I’m late.”
+
+        “Nah, don’t sweat it. I just arrived too,” the respondent was none other than the leader of the Adamantite-ranked adventurer group Red Drop, Azuth. Because he was wearing his familiar Powered Suit, Riku had to look upwards when speaking to him. 
+
+        He wasn’t being honest however, Azuth had been waiting there for five minutes already.
+
+        And as to the reason why Riku knew this, he had been observing this place from afar for a while now.
+
+        The reason for which should be obvious, he was worried that Azuth was serving as bait.
+
+        If the Sorcerer King’s subordinates were indeed surveilling Azuth, Riku would abandon him immediately to return to his own country. That was why before he had even started checking if they were being watched, he had been keeping an eye out for his surroundings.
+
+        That said, therein laid a different kind of danger, one that would require conversing with Azuth to confirm. Which was why Riku had appeared before Azuth.
+
+        “Sorry, Tsa. She got away. I think she was headed towards where you were...did you finish the Sorcerer King off?”
+
+        “Unfortunately, no. Even though you lent me your power, I truly am sorry.”
+
+        The one who had called himself Riku Agneía in front of the Sorcerer King, Tsaindorcus Vaision, lowered his head.
+
+        Perhaps the other dragon lords would say that this was beneath the dignity expected of a long-lived dragon lord, one who stood at the top of the world, but Tsa did not care much for that. If him bowing allowed him to curry favour with another party, he would bow any number of times.
+
+        “There’s no need to apologize. It was my fault that that woman was not delayed for longer. You couldn’t defeat him because you didn’t have enough time, right?”
+
+        Tsa thought long and hard about what kind of response would paint him in the best light and ended up just gently saying to Azuth, “Not at all.”
+
+        “No, Azuth. While it was unfortunate that the Prime Minister of the Sorcerous Kingdom, Albedo, wasn’t someone that you could handle, you were still able to hold her up for such a long time. That was honestly a great help. I couldn’t vanquish the Sorcerer King simply because he was much stronger than I had anticipated.”
+
+        In truth, that was indeed the case.
+
+        During their previous meetings, Azuth had been assigned the mission to draw Albedo away from the barrier. If he was being honest, he thought that it wouldn’t be too surprising if Azuth was slain by Albedo, but had he said this out loud, it was easy for him to imagine that Azuth would no longer offer his help. For that reason, he had not explained the full details of the plan to him.
+
+        Given the above, it was truly impressive how Azuth managed to survive a scuffle with Albedo.
+
+        To Tsa, his most important duty was to stay vigilant of players who held malicious intent towards this world, which was why he did not want to just blindly expend his strength.
+
+        Still, he had a question in mind, or rather something he couldn’t figure out.
+
+        That was of course, why Azuth had survived. The Powered Suit he wore could indeed raise the wearer’s offensive and defensive capabilities while also providing the user with a variety of abilities. It did not, however, raise the wearer’s HP or MP at all. It was like a sturdy chitin exoskeleton covering an insect’s soft innards.
+
+        While his combat interactions with Albedo were short, he still understood one thing — she was much stronger than the Sorcerer King.
+
+        That was probably because the Sorcerer King was more adept at handling large armies, so he might not have been able to fight at his full potential in a one-on-one.
+
+        In any case, Azuth was definitely not strong enough to survive a fight with Albedo with any ease.
+
+        So, how exactly did Azuth survive?
+
+        “That demon, Albedo, is there any way we could take her out?”
+
+        “No, it’s near impossible. I had to use the full arsenal of the suit and created as much distance between us as possible to barely even hang on to dear life.”
+
+        So that was how it was.
+
+        Indeed, Albedo did not use any ranged attacks, nor did she appear to have any ranged weapons.
+
+        Everything made sense then. His previous speculations seemed a bit malicious in hindsight.
+
+        Tsa felt ashamed for his own thoughts. He had suspected that Azuth had made a deal with Albedo, or perhaps with the Sorcerer King himself, to betray him. With that said, all was fair play in terms of hypotheticals. At the end of the day, Azuth was just a collaborator and not a companion. Moreover, he had no concrete evidence to support the notion that Azuth had not betrayed him.
+
+        “Ah, right. I told the Sorcerer King that my name was Riku Agneía, do keep a note of that. If the Sorcerer King were to ask, tell him that it was a fake name.”
+
+        “Riku Agneía? does that name signify anything?”
+
+        “None at all, just a random name I came up with. But, if someone in the world did have that name, it would probably cause them a lot of trouble.”
+
+        That was only a half-truth.
+
+        Indeed, he had not heard of Agneía being used as a surname before, but the name Riku was a real one.
+
+        “It would rouse the Sorcerer King’s anger towards them, which wouldn’t be a minor issue.”
+
+        “Indeed. Don’t forget about the anger of the Prime Minister of the Sorcerous Kingdom, Albedo too.”
+
+        The two laughed softly.
+
+        Of course, if someone named Riku Agneía really existed in this world, this wouldn’t be something to scoff at, for that guy at least.
+
+        Tsa laughed as he recalled.
+
+        The demon named Albedo.
+
+        The Sorcerer King was not able to break through the barrier, so he wasn’t that much of a threat. That demon however, was able to pass through the wild magic spell, [World-Isolating Barrier].
+
+        This mid-tier wild magic spell could create a space that was separate from reality. It prevented entry through all conventional means as well as any attempts to teleport out of it. To be able to enter the barrier meant that Albedo was either a wild magic user, or possessed a World Item.
+
+        While he had not confirmed if that demon was a player or NPC, from the master-servant relation between the two, it was most likely the latter. But if that was the case, why would Ainz not equip the World Item himself, but give it to Albedo instead? That was a mystery.
+
+        {Unless Albedo is the player and the Sorcerer King is the NPC?}
+
+        This wouldn't be too ridiculous of an idea. To rank second in this world’s hierarchy was probably a safer choice.
+
+        {Perhaps the Sorcerer King had a World Item too? But since he couldn’t break out of the barrier, the likelihood would be low, right? Or maybe he left his World Item behind?}
+
+        That was certainly possible. He had heard from Riku that there were guilds that possessed two WCIs, so it was possible that {they} had two too.
+
+        “Tsa, how strong was the Sorcerer King? If he was someone that not even you could defeat, I feel like he would be really strong. If it were me, no, if it were {this}, could it win?”
+
+        “Azuth, no offense, but no. He’s an opponent that not even I could defeat easily.”
+
+        “Is that so...”
+
+        “But thanks to your assistance, I have a general idea of his baseline capabilities now. Of course, if I were to face the Sorcerer King one-on-one again, I should be able to triumph.”
+
+        He had said that much, but if he relied on this armour, victory would be hard-fought. Perhaps he should make preparations on where they would fight.
+
+        {But…} Tsaindorcus sighed.
+
+        If he was of a similar level to the vampire from last time, this armour would probably struggle in serious combat. However, if he were to not use the armour but face the Sorcerer King in person, he could not lose. That would be true even if he was as strong as the vampire. As long as he fought using his real body, there would be no issues at all.      
+
+        Still, if he gave them too much time to expand their influence, things would get out of hand.
+
+        “As expected of you, the strongest Dragon Lord in the world.”
+
+        “I don’t think so myself. There are many out there who are stronger than I am. Hmmm...I can win against the Sorcerer King because I happen to counter him.”
+
+        Tsa’s abilities were more effective against the undead. He had also confirmed in the battle just then that his abilities did work on the Sorcerer King. That was why Tsa had judged the Sorcerer King to be an opponent that did not warrant too much caution.
+
+        Compared to the Sorcerer King, the demon named Albedo was much more dangerous.
+
+        “Pardon me, Azuth, should another situation like this arise, would you still be willing to assist me?”
+
+        “Next time…? Hmm.”
+
+        Azuth solemnly muttered a single phrase. Tsa understood the meaning behind his words, and did not question him any further.
+
+        After some time had passed, Azuth finally spoke.
+
+        “Will the Kingdom perish?”
+
+        “...It probably will. There is not much I could do to help even if I want to.”
+
+        “Is that so… So next time I’ll also have to buy time with that demoness? I could, but you do know that there’s a chance that I won’t be able to buy any time at all the next time around, right?”
+
+        “Indeed, they might not split up next time. That is why, if that demoness left the Sorcerer King’s side for any reason at all, would you be willing to fight the Sorcerer King alongside me?”
+
+        If Azuth handled the summons, Tsa could definitely defeat the Sorcerer King.
+
+        He had not been assaulted by the Sorcerer King’s subordinates during their little conversation here. There was nothing left for him to do here. Tsa shifted his gaze towards the capital far, far away.
+
+        Tsa had already witnessed the fall of many nations. This one will soon be facing its own destruction. Tsa felt somewhat lonesome, but compared to that, he was more anxious of the fact that these lands will soon fall under the Sorcerous Kingdom’s rule.
+
+        Although he had not received any grace from this Kingdom, he will still miss it dearly.
+
+        While he had already notified his companions, perhaps there was also a need to call upon the other Dragon Lords too.
+
+        “...Almost forgot, I met with the people from the Theocracy and mentioned the name you told me.”
+
+        “Really? Now they’ll know that you have someone backing you up.”
+
+        If that was the case, Azuth’s safely was more or less guaranteed.
+
+        Azuth himself held no value at all, but the Powered Suit in his possession was an item of great importance, important enough that the Theocracy might plot against him for it. For that reason, he had to make them think that Azuth had protection to fall back on so that they wouldn’t make any moves against him. This also strengthened the relationship he had with Azuth. It was a move that had nothing but upsides.
+
+        “I have a question, why not tell them that I heard it from you directly?”
+
+        “Simple, if they had no clue on where the information source was, they would try to investigate it. There is a chance that it could cause some friction among the upper echelons of the Theocracy.”
+
+        Other than that, there was another reason.
+
+        Should an emergency arise, he could kill off Azuth without leaving any loose ends.
+
+        “This is no place to talk, let’s go back. Your companions must be waiting for you, right?”
+
+        “Yes, they’re waiting for me. I’ll leave it to you then, Tsa.”
+
+        Just as Tsa was about to cast [World Teleportation], he thought about Azuth.
+
+        It was only for a single reason, the question of whether it was still beneficial to assist him or not.
+
+        Sure, Azuth’s Powered Suit was highly valuable, but without it he was nothing. To put it bluntly, if the Powered Suit were in more capable hands, they would surely be able to utilize it to its full potential.
+
+        Plus, Tsa had no confidence that he could reign him in.
+
+        Azuth as he stood, was more of an aid to Tsa than a companion.
+
+        If he were to go off script like last time, it would most likely lead to catastrophic losses.
+
+        Indeed, Tsa was in the wrong that time too.
+
+        To give unto Azuth the appropriate level of alertness against the Sorcerer King’s invasion, he had discussed the likely outcomes of the invasion with him in detail.
+
+        Azuth had requested Tsa’s aid in defeating the Sorcerer King to save the Kingdom. He should have predicted back then that he would use the Powered Suit to rescue that city. 
+
+        If he had not taken independent action back then, surely Tsa would have been able to defeat the Sorcerer King during his siege of the capital.
+
+        —Should he just kill Azuth and take the Powered Suit?
+
+        This wasn’t too bad of an idea to Tsa. If he gave the Powered Suit to someone who was powerful enough to bend it to their will, it would definitely be more useful than letting Azuth keep it. He could also gain a stronger card for his hand then.
+
+        Personally, Tsa felt no disdain for Azuth, nor did he want to kill him himself, but of what worth were emotions in this world.
+
+        {...Riku}
+
+        {What was I reminiscing for now that things have turned out that way?} Tsa laughed at himself internally. These two hands of his were already besmirched with filth. It was better to do it now than later.
+
+        Plus, he could blame it on the Sorcerer King if he did it now.
+
+        Azuth fought until he lost consciousness with Albedo and later handed the Powered Suit to Tsa. That would be a good cover story.
+
+        But — should he really allow history to repeat itself again?
+
+        “Oy, what’s wrong, Tsa?”
+
+        “Huh?”
+
+        Tsa finally noticed that he had been deep in his own thoughts.
+
+        “What’s wrong? Did you notice something suspicious?”
+
+        “...Nothing. Azuth, let’s go back.”
+
+        He should put those thoughts aside. Resurrection magic was a thing, death could not guarantee one’s silence. If he returned with just the Powered Suit but not Azuth’s body, it would rouse suspicion. If one were to act purely on utilitarian principles, it would lead to negative consequences more often than not.
+
+        Just so he would have no regrets, it was best for him to return and give it greater consideration before making his judgment on whether or not he should give up on Red Drop.
+
+        Tsa prayed that his actions on this day would not lead to fatal errors in the future as he cast [World Teleportation].
+
+        The night winds blew through unoccupied space.
+
+----
+
+        Ainz returned to Nazarick with [Gate] and took the ring from the usual place. He used its power to advance towards the ninth floor with Albedo.
+
+        After some time travelling by foot, they reached the room that was their destination.
+
+        “Albedo, do you want to head inside first?”
+
+        “No, it is fine. You contributed more this time around so you should be the one to enter first.”
+
+        Ainz thanked her and opened the giant doors.
+
+        He walked to the center of the room, in front of the throne, and took a knee as he bowed. He could feel that Albedo, who was behind him, was making the same movements.      
+
+        “Good work, Pandora’s Actor and Albedo.”
+
+        “We are not worthy of your praise.”
+
+        Upon raising his head, he saw his master nodding regally. On his sides were Shalltear and Demiurge, who was holding a Mirror of Remote Viewing.
+
+        He must have observed the entirety of his battle with Riku through that item.
+
+        Pandora’s Actor undid his transformation.
+
+        “While we wanted to return the magic items that we had borrowed from Ainz-sama, we found it to be disrespectful to make Ainz-sama wait any longer. Do forgive us for still wearing Ainz-sama’s equipment.”
+
+        He meant the equipment that he was currently wearing, lower-tier backup items that they had been lent from their master. He was intensely apologetic for still still having those items equipped.
+
+        “Haha. Pandora’s Actor, pay it no mind. It would have been fine for you to do as you wished. This was not such a big deal after all. What was important was your opponent — now then, while we have seen the battle, I still wish to hear from the combatant himself. How was it?”
+
+        “Yes. I believe that he is a tank whose level was around 90. That was because magic was generally ineffective against him, which was why I had judged him to be of that level.”
+
+        “I see. A strong foe. Hmmm...huh? What’s wrong, Albedo? Do you have another opinion?”
+
+        “Yes, my opinion differs from Pandora’s Actor’s. I do not believe him to be that strong. Of course, I only landed two strikes on him, so I could not make as accurate of a judgment, but he felt like a tank of around… level 80 or so.”
+
+        Given that they were sure that he was a tank, then Albedo’s opinion as a tank should be much more accurate than his own.
+
+        “I see. Although I was of the opinion that Pandora’s Actor, who was locked in combat with him for longer, would be able to make the more accurate judgment, Shalltear who had been observing the battle alongside me had estimated a similar range to Albedo’s. Around level 85 or so. Given that, it appears that there is a need to call Cocytus and Sebas over.”
+
+        While Shalltear’s combat prowess was high, her build was not focused on pure physical damage output. It was unfortunate that Sebas was on standby in E-Rantel and Cocytus was overseeing the siege of the capital so they could not be summoned over at the current moment.
+
+        “If the two, no, if we combined all three of your estimates… So, are the three of you in agreement that the opponent was a tank that specialized in magic resistance?”       
+
+        The three fell into deep contemplation.
+
+        “...Shalltear, why do you seem troubled? If something is wrong, do speak your mind.”
+
+        “I may have just gotten the wrong impression-arinsu...”
+
+        “That is fine too. After all, this entire operation was to expose this foe’s abilities and thus have been meticulously planned from the outset. As long as we could gain some sort of insight on our opponent, do feel free to speak your mind.”
+
+        “If that is the case. Ainz-sama, because I can also summon Doom Lords, perhaps Ainz-sama had already noticed-arinsu. It felt like its combat abilities were weakened significantly, was it because Pandora’s Actor was the summoner-arinsu?”
+
+        “That would not be the case. While Pandora’s Actor’s transformations are weaker than the original, his summons would not be any weaker. In addition, he had been instructed to not use any special abilities of mine to strengthen the summons… In any case, shall we both summon Doom Lords for you all to observe after this? Perhaps you could figure out what had been bothering you.”
+
+        “Understood!”
+
+        “Now then, Pandora’s Actor, you spoke with him, correct? What did you talk about, what attitude did he adopt, and what emotions could you feel from him? Do tell us in detail. After all, this mirror cannot transmit sound.”
+
+        “Understood!”
+
+        Pandora’s Actor began reenacting his conversations with Riku. Their conversations weren’t long, so it was pretty easy to act out. He even injected some of his own interpretations mid-dialogue: the emotions he felt through Riku’s tone and the respective explanations.
+
+        Midway through, Pandora’s Actor sensed from behind him, an unpleasant aura emitted by Albedo. She spoke with an annoyed tone.
+
+        “Even if you wanted our opponent to lower his guard, to kneel as the Sorcerer King, and by extension as the Absolute Overlord of the Great Underground Tomb of Nazarick, Ainz-sama, is just out of line.”
+
+        Indeed, he had felt that he had gone overboard. If his master was there instead, he would have never done that. {I have to pay for my transgression,} he thought as he raised his head to see that his master was nodding along in a gratified manner.
+
+        He must be agreeing with Albedo’s opinion.
+
+        But just as Pandora’s Actor was about to lower his head, his master’s voice reached his ears.
+
+        “No, that was executed beautifully.”
+
+        While he sounded somewhat sarcastic, his master did appear to be in a good mood. Pandora’s Actor could not tell which side he was on and thus missed his opportunity to bow. 
+
+        “That kneel was great. If merely kneeling could cause an opponent to falter, I would kneel any number of times. We lost nothing through that kneel yet it made the opponent think that we were nothing to be on guard for. Hehe… He should not have noticed that he had been duped yet.”
+
+        —How awe-inspiring.
+
+        Though he already had an idea of the extent of his creator’s drive for victory, chills were still sent down Pandora’s Actor’s back.
+
+        Even against an opponent that could be easily defeated should he be serious, he would still not deign himself too mighty to do such a thing in order to invoke a false sense of security in them.
+
+        Could any king, nay — could any Overlord™ really care not for their own reputation to scheme at this level?
+
+        Could any being who was only served upon but had never served, resolutely kneel in front of their enemy?
+
+        No such being existed, other than his master, the one seated in front of him.
+
+        They must have had the same thought, the other guardians in the chamber had expressions that told of the awe invoked within them.
+
+        Among them, Demiurge was the one to ask.
+
+        “Would it not rouse more suspicion in our opponent if one as great as Ainz-sama knelt down in those circumstances? He must have judged that Ainz-sama was someone who was capable of deducing the best move for every situation.”
+
+        “No, surely no one’s thought process would lead them to that conclusion normally, correct? ‘He’s not so impressive after all’ or ‘so that’s what you were really like’ was probably what was going through his mind, correct? If the situation were flipped… If I were in his shoes, I would probably be as careless as he was, right? No, I would probably kill him right away. What would you do, Albedo?”
+
+        “If they were just a regular civilian, I would kill them immediately, but if they were a king I might capture them for intel. Would I get careless...maybe.”
+
+        “Is that so…? Shalltear, what about you?”
+
+        “I would mull it over-arinsu.”
+
+        “...Mmm. Perhap it would not have an effect at all… It would be best if kneeling was not necessary. It would not be the best situation if you could not dodge the enemy’s attacks. Now then — let’s change the topic. About that barrier.”
+
+        Pandora’s Actor could not figure out what that barrier was at all. He had thought that it blocked physical and magical access in and out of it, but Albedo could enter unhindered. So, was the mystery solved?
+
+        “The two of you might have figured it out already, but I do believe that it was because of World Items. Pandora’s Actor, from what you have said, you were not too sure were you?”
+
+        Pandora’s Actor’s eyes widened.
+
+        Indeed, if that was the case, everything made sense. Albedo had a WCI on her person back then and he did not. But—
+
+        “How did Ainz-sama figure it out?”
+
+        “A logical line of questioning… I was using the mirror to observe Pandora’s Actor and Riku’s battle. Even after that barrier was erected, the mirror was not affected at all. At first I thought that it was just something cosmetic to scare us…” Ainz’s gaze fell on Pandora’s Actor, “but it did have effects. I switched my train of thought and began investigating the differences between us — more accurately, the differences between me, the user of the mirror, and Pandora’s Actor.
+
+        Ainz touched the WCI in his abdomen.
+
+        “After I took this off, I could no longer see anything through the mirror. Equipping it allowed me to see the scene again. It is highly likely that Riku has an ability that is similar to Aura’s World Item.”
+
+        “...Please wait, Ainz-sama. Riku did mutter the phrase [World-Isolating Barrier] and it did expend his HP. So was it not a special skill that only higher level beings like Ainz-sama could obtain? Like Ainz-sama’s trump card?”
+
+        “It would be impossible to accomplish what he did through the same system our powers came from. Rather, is it not more likely that he used that term as a bluff? The expenditure of HP could be an activation condition for a World Item. Problem is, I have never heard of such a World Item. While many do have activation costs, merely reducing one’s HP would almost be...cute.”
+
+        “Was his HP constantly drained?”
+
+        Pandora’s Actor shook his head at Albedo’s question.
+
+        “It fell only after he activated it. The barrier did not appear to be continuously draining him to maintain itself.”
+
+        “Exactly. Did you not say that his other abilities also drained his health? Indeed, there are World Items with multiple abilities, for example, this one.” His master touched his orb, “but, the rules his abilities were playing by were just too different from ours.”
+
+        The abilities he used were probably weapon enhancement, armour enhancement, teleportation, and barrier.
+
+        “...I talked about ability systems before because if his powers were unique to this world, then everything would be explained. Assuming the worst case scenario, it is some unusual ability that could rival World Items. If that is the case, we cannot even be sure if what brainwashed Shalltear was a World Item or not. We would have to reevaluate that. How annoying!”
+
+        “Ainz-sama, as it stands, we do not have enough information.”
+
+        “Exactly, Demiurge...perhaps there is a need to lose to Riku again.”
+
+        The two guardians next to the throne had displeased expressions on their faces, it was easy to imagine that the Albedo behind him must have been the same.
+
+        Even if it was intentional, nobody present would feel happy that their master was to lose.
+
+        “Wipe those expressions off of your faces. I am not losing because I desire to lose, but because it is a necessity to understand our opponent’s deck. That is how we guarantee victory, it cannot be helped. If this was a simple training exercise, losing would not mean death, neither would we have to put up such an act. However, this is actual combat.”   
+
+        Everybody, including Pandora’s Actor, were quietly listening to their master’s every word.
+
+        “We have already confirmed that you all and the inhabitants of this world could be resurrected — but what about me? While we do not have solid proof of this, the Six Great Gods and Eight Greed Kings of yore were probably beings similar to what I am. Their legends concluded with their deaths, so it’s likely that they could not be resurrected. We have no choice but to assume that to be the truth when carrying out these operations. To put it simply, in order to avoid my death, the worst form of defeat, we have no option but to accept other forms of defeat.”
+
+        “—Ainz-sama.”
+
+        “What’s wrong, Albedo?”
+
+        “Ainz-sama, what you have just said made a lot of sense. So would it not be better for you to stay within the Great Underground Tomb of Nazarick, rather than leave for excursions?”
+
+        A perfectly logical conclusion. If there was a possibility that their master could not be revived, then having him stay where it was safest for him and not step out of that place would be best.
+
+        “...Indeed. I have thought of that too, but surely you could understand it too. Especially you all?”
+
+        His brain went into overdrive in an attempt to understand what his master was talking about, but nothing came to mind.
+
+        What a deplorable thing.
+
+        As one of the foremost intellectuals in Nazarick, he still could not immediately grasp his master’s thoughts.
+
+        Pandora’s Actor racked his brains until strange liquid almost began to seep out of it. It was the same for Demiurge and Albedo, one could see it on their faces. Shalltear on the other hand, looked like she wasn’t thinking at all.
+
+        {Don’t think about the others.} Pandora’s Actor forced his attention away from them.
+
+        Silence fell upon the group for quite a while, only to be broken by their master’s disappointed sigh.
+
+        Pandora’s Actor felt unbearable shame and so did Demiurge. While he could not see Albedo, who was behind him, she was surely the same.
+
+        “What’s wrong? Raise your heads.”
+
+        He spoke with such a harsh tone, yet Pandora’s Actor could not allow himself to disobey a direct order from his master.
+
+        He raised his head.
+
+        “...Mmmm, let us move onto the next topic. Who is that person? What connections to platinum could you think of?”
+
+        Albedo spoke first.
+
+        “...One of the possibilities is just as Pandora’s Actor had said, that our opponent was one of the Thirteen Heroes.”
+
+        His master nodded in agreement.
+
+        “The other possibility is that he is one of the councilors of the Council-State, Platinum Dragon Lord. Those are the only beings I could think of with a connection to platinum.”
+
+        “Given that, let me ask a question. Was he trying to fool us into believing that he was the Platinum Dragon Lord or one of the Thirteen Heroes so that we would go against them or not? The answer might also lie in between those two extremes. So, what do you believe is the correct answer?”
+
+        “I am terribly sorry, Ainz-sama. As we do not have enough information to work off of, it is difficult to conclusively judge which is the correct answer.”
+
+        Demiurge answered so.
+
+        Pandora’s Actor concurred, but since his master had asked, “what do you believe was the correct answer?” the correct response should have been one of the options. That was probably why he had prefaced his answer with an apology.
+
+        “Are there any other opinions…? There appears to be none. I too, agree with Demiurge’s opinion that we do not have enough intel. After we are done with the Kingdom, do gather the opinions of the other Floor Guardians on this matter. Perhaps one of them could notice a detail that we had missed. In any case, we are still proceeding with our plan to send envoys to the Council-State. While they greet the heads of state, have them sarcastically scoff at this Platinum Dragon Lord fellow a few times — That should be fine, right? Albedo.”
+
+        “Understood. How shall I deal with the contents of the missive?”
+
+        “I will leave that up to you.”
+
+        “Understood.”
+
+        “That should about conclude this meeting, correct? I should return to the capital soon. Pandora’s Actor, though it might be embarrassing, I must ask you to stri—”
+
+        An “—ahh” sound could be heard. His master turned his head around to the guardian who had made that sound.
+
+        “What’s wrong, Shalltear? Did you forget something?”
+
+        “Yes, Ainz-sama. I do have a question-arinsu. Were you really planning to recruit that Riku person as a subordinate-arinsu?”
+
+	“Ahhh, about that. Of course not. If he really came under my wing, I would gather all the information I need — the organization he served, its purpose, et cetera — and he would be killed afterwards.”
+
+	“Would it not be a waste to kill him?”
+
+	He could sense that his master had a wry smile on him upon hearing Albedo’s question.
+
+	“I am not confident in my abilities to reign him in. If you are asking if we could exploit those unusual abilities of his or his World Item, whichever was the case...Albedo, would you be confident enough to do that? If you are, I will leave it all up to you...”
+
+	“It would be difficult to do so before we have collected enough detailed intel. But if it turned out that it was indeed possible for us to do so, there are many places where he could be of use to us.”
+
+	“Mmmm.”
+
+	His master’s gaze lingered on Albedo.
+
+	He was probably contemplating about Albedo's abilities and Riku. If his creator was one to even include what could happen a millennium down the line into his grand scheme, he was probably analysing how Riku could factor into his plans.
+
+	The destruction of the Kingdom must be part of those plans as well.
+
+	He must have had ulterior motives beyond demonstrating to the world the difference in treatment received by the Kingdom and the Empire due to their actions, that had to be why he would go back on his words in order to invade the Kingdom. This was a common opinion shared by Pandora’s Actor, Albedo, and Demiurge.
+
+	One would not have to think too hard to connect the undead creation experiments to this.
+
+	After all, he was his creator. This was undoubtedly a premonition of something greater to come, something not even he could fathom.
+
+	His creator, a Supreme Being whose intellect held such depths, how awesome was he? To be honest, Pandora’s Actor felt sorry for the others. It pained him how he had to restrain himself from boasting of his dear creator.
+
+	“I see. Indeed, he would be of no use to us dead. I will hear Demiurge’s opinion on this too and depending on the situation, Albedo will be placed in charge of this. Of course, that is assuming that Riku would be willing to serve under me. If he is not willing, killing him is permissible.”
+
+	It was impossible for anyone to object to that. If their master willed it so, it must be correct.
+
+	“Good. Now...other opinions...appears to be none. It is about time for me to return to the capital. I still have to close the curtains on that show.”
+
+	“...such petty theatrics would not require Ainz-sama to personally participate, correct? I believe that I can handle it on my own...”
+
+	“No, Albedo. Pay it no mind, I will go. Hehe, though I may not be on the same level as Ulbert-san and the rest, I still have my own standards to enforce against forms of resistance.”
+
+	“...I see, was that why?”
+	
+	Albedo replied in a manner that implied that she had seen through the hidden meaning behind his words, prompting his master to glance at her. He must have been checking how much of his words she understood.
+
+	After some time had passed, his master seemed satisfied as he declared in a manner expected of an esteemed ruler.
+
+	“...Exactly, Albedo. It is exactly as you have surmised.”
+
+--------
+Mini-FAQs
+Q: Where are we at?
+A: As of this part: 449/568
+
+Hitori's comment corner: 
+
+PDL's getting less and less likeable by the minute.
+
+Also yes, it has been confirmed the whole 世界絶対障壁 thing was a typo. God damn it Maruyama. I'm going with [World-Isolating Barrier] instead of [World-Separating Wall] because it sounds more natural, but whatever.
+
+PA strip show~ ( ͡° ͜ʖ ͡°)
+
+The weather and quarantine got me feeling like: https://www.youtube.com/watch?v=SNDUvwnj41A</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,765</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

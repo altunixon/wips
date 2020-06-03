@@ -1,0 +1,543 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 03/25/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 2 Part 9
+
+	Though this was completely unexpected, it was true that the vast majority of the city’s population had survived. As long as he allowed them to escape, he would have fulfilled his promise to those two. That said, it wouldn’t count as the survivors escaping through great tribulations.
+
+	Should he send stronger undead to try again?
+
+	No, there was something he had to confirm before then.
+
+	“Ahem! Now then, Albedo. Though you have said that this was Red Drop, how trustworthy is our intel source on this one?”
+
+	“I am terribly sorry, Ainz-sama. Indeed, we do not have concrete proof of that claim. This was only a surface-level deduction based on the Adamantite plate on the armour as well as its colour.”
+
+	Albedo stood up and bowed deeply.
+
+	“At ease. I just wanted to check if you had access to intel that I did not. I am not too bothered by it.”
+
+	While he was happy that she was this loyal, being treated like that usually made him quite uncomfortable. To Ainz, the manifestation of the concept of failure, this wasn’t that big of a deal. However, it wasn’t as though what she had just described could be categorized as a failure anyways.
+
+	“You have my eternal gratitude, Ainz-sama.”
+
+	“Umu...So was that Red Drop, or a plot by someone who wants us to believe that they are Red Drop? Floor Guardians, speak your mind.”
+
+	From their brief opinions, most of them supported the former. Ainz thought it was the former too.
+
+	“Now, then — I must ask something of everyone once again. Does anyone know of the specs of a Powered Suit? If you are all not too sure of it, I will explain.”
+
+	Ainz confirmed that the guardians knew not of the Powered Suit and began to exposit what he remembered of the Powered Suit’s abilities.
+
+	Back in the game of Yggdrasil, the Powered Suit did not exist initially but was added in later on as an item for newly registered players to power-level with.
+
+	Also, mecha fighting games were popular back then, so it must have also been an attempt to draw in players from that player-base as well.
+
+	Though he couldn’t tell whether that contributed to this fact or not, the Powered Suit’s capabilities were quite high.
+
+	First of all, just as they had seen, the suit had the ability to fly through the air at a greater speed than [Fly]. It could maintain operations for over an hour underwater without any detriments and was essentially immune to almost all environmental damage.
+
+	It could even apply and activate with its shoulders, torso — and depending on the type, even the wrists and feet — different kinds of offensive spells.
+
+	Though this might seem obvious, it does have human finger-like appendages that could — if the hand had not been transformed into a weapon itself — hold weapons.
+
+	The magical armaments could be freely customized within the Powered Suit’s settings, but half were microtransaction exclusives while the other half required grinding.
+
+	Though those customizations could be performed pretty much anywhere outside of combat, there were still some restrictions on them.
+
+	The highest tier of spells that could be stored on the armour was tenth tier and the use of said spell was subjected to a limit of an hour per use. Stronger spells had even more limited uses. Though the number of times a spell could be used recovered over time, it appeared to have a restriction by which the spell stored on it could not be swapped out for a duration even if it was only expended by a little.
+
+	The armour’s physical and magic damage were high-tier, independent of the user’s abilities. The same was true for its defensive and evasive capabilities.
+
+	You could call it an armour that instantly closed the gap between the weak and the strong.
+
+	Speaking of weakness, it did have two minor ones.
+
+	One of which was the fact that because it counted as Full-Body Armour, it could not be combined with other pieces of armour. Still, necklaces and other decorative equipment could still be worn with it.
+
+	Another was the fact that the magic stored in the armour could not have metamagic applied to it. But, since those spells could still be enhanced through equipment, this couldn’t really be considered a weakness at all.
+
+	However, if a weakling was to use it, it did have a major weakness.
+
+	HP and MP
+
+	Though the damage output of the suit could compensate for the wearer’s low stats, the HP and MP values of the wearer remained unaltered by the armour.
+
+	That is to say, a weakling in the armour would have high defensive capabilities but also a frail health pool. Of course, if their opponent could not break through the armour’s relatively high defences, it’s not a weakness at all.
+
+	In Nazarick’s terms, a Floor Guardian shouldn’t have an issue fighting it at all.
+
+	The threat it posed was to NPCs like the Pleiades, who weren’t that strong. If they crossed paths with the suit, they should choose to retreat.
+
+	Ainz concluded his explanation and started taking questions.
+
+	The first to ask a question was Albedo.
+
+	“So as long as we are the ones handling it, it should be fine, correct?”
+
+	“Correct. Even the strongest Powered Suits could only have the offensive capabilities equivalent to level eighty characters. However, that hinges on my knowledge on the Powered Suits being perfect. Hypothetically, if there were rarer or Artifact grade Powered Suits, it would be a completely different situation. If that was the case, there could be Powered Suits much more powerful than the ones I have described.”
+
+	“Can you not tell from its appearance alone?”
+
+	“Umu, I apologize, Aura. Because I am not too familiar with Powered Suits in the first place, I cannot tell its capabilities just from appearances alone. Also, though one would not be allowed to alter its appearances by too much, there were still slight alterations the wearer could make to it.”
+
+	While the Powered Suit might be useful to weaker players, it was completely useless to a stronger player.
+
+	Nevermind Divine grade gear, even Legendary grade equipment matching a player’s strengths could outperform the Powered Suit. That was why when Powered Suit was introduced to Yggdrasil, Ainz and his friends, who were already at max level, were not interested.
+
+	The greater issue to Ainz back then was that he could barely cast spells with it equipped.
+
+	“Were there two or three? There should be a few sets of Powered Suits in Nazarick, I will head to the Treasury later for them. Maybe everyone should get a feel of what it is like to wear one.”
+
+	He remembered that the thing should still be there, something that Amanomahitotsu had procured after learning that even those with manufacturing-based job levels could enter combat with them. Apparently he was secretly quite confident because he also played aerial combat games, but then he got easily wrecked by Peroroncino in a mock battle. The thing was never seen again after that.
+
+	He also remembered how Nishikienrai had said, “Just play Aberage instead lmao.”
+
+	Ainz was journeying through his memories when he realised.
+
+	If Red Drop had a Powered Suit from Yggdrasil — the black sword of the leader of the other Adamantite-ranked team, Blue Roses, could be of a similar power level.
+
+	According to the intel they had gathered from their aides in the capital, the weapon she wielded was said to be powerful enough to level an entire city. Though that aide found the intel to be preposterous, it did originate from a member of the team itself.
+
+	Ainz always thought that she was either lying to her teammates, or just making things up.
+
+	But given what he knew now — perhaps, that intel was true.
+
+	He had heard that the leaders of Blue Roses and Red Drop were relatives.
+
+	If they were related, then having the same level of equipment shouldn’t be weird at all.
+
+	Of course, Ainz wasn’t paranoid enough to believe that the Floor Guardians could be one-shotted by anything, but he also had no proof that that was a complete impossibility. Perhaps the guardians’ defences could be easily breached by some strong weapon from this world.
+
+	Ainz did not want to suffer any severe consequences for forcing his opponent to the stage where she would be suicidal enough to use that sword’s power.
+	
+	If it came down to a battle with Blue Roses, he should probably use summoned monsters to bait out that ability and then defeat them.
+
+	However, that would be the last resort.
+
+	He remembers a saying about how ‘The better part of valour, is discretion’, he should follow that advice.
+
+	After all, the primary purpose of the Kingdom’s destruction wasn’t for the termination of Blue Roses, but if they were to get in his way he wouldn’t mind killing them off. That said, it was best not to make any rash movements before they knew the full capabilities of that woman’s sword. {I should say sorry to Entoma and hope she understands.}
+
+	Ainz mentally sighed to himself as he shook his head in an attempt to get his train of thought back on track.
+
+	This wasn’t the time to be thinking about these sorts of things.
+
+	“Any other questions?”
+
+	Ainz looked around, it appeared that none of the guardians had any other questions.
+
+	“If that is the case, we will pause the discussion on the Powered Suit for now. Now then, Demiurge, how shall we deal with this city? In my opinion, to have baited that thing out was more than satisfactory.”
+
+	“It would be bad for them to mistake that they had defeated the Sorcerous Kingdom. We should send a stronger entity and unto dust they shall return.”
+
+	“Hmmm, that is fine too…”
+
+	No, that wasn’t fine at all.
+
+	If they did that, he would have to try extra hard to save some other city to keep the promise he had made to those two. Though he made it through this time, to accomplish it again would be extremely difficult.
+
+	For Pestonia’s sake, who had been standing behind him and listening in, he had to save the people of this city to fulfill their promise.
+
+	“No, Demiurge. Let us not do that for now. This will prepare us for similar situations should they occur again. In any case, it is about time that we siege the capital. Let us close the curtains on this battle. We will be fine as long as we systematically scorched-earth the rest of the cities. What do you think?”
+
+	He was giving this city’s inhabitants the chance and time to run away. If they get killed afterwards because they didn’t escape, those two shouldn’t have a problem with it, right?
+
+	“If Ainz-sama deems it so, so be it.”
+
+	Though it might seem as though Demiurge was being sarcastic, he wasn’t one to do such a thing to Ainz.
+
+	Some people could always hear all sorts of undertones in other people’s words, those who usually have something to hide themselves, Ainz being one of them.
+
+ 	“Don’t say that, Demiurge. If you have a better idea then that should be the one that we should implement.”
+
+	“As expected of Ainz-sama. I am truly in awe of how humble you are.”
+
+	Ainz’s opinions of the bowing Demiurge became muddled.
+
+	First of all, what he had said was common sense, it was nothing worth praising.
+
+	Though he was flattered, he felt as though he was being treated more like a child if even the most trivial of the things he had said and done was cheered.
+
+	Perhaps that was just out of his low self-esteem.
+
+	“...Do any of the other guardians have different opinions?” Ainz turned to Shalltear upon confirming that there were no objections, “Bring back the undead we had sent using [Gate]. Then, gather our forces in E-Rantel and initiate the siege on the capital.”
+
+	“Yes, my lord. I will get on with that immediately-arinsu.”
+
+	“Will the main army include people from Nazarick?”
+
+	“Send out the Master Guarders of Nazarick and the other elite guards. They are not too strong individually but are quite a sight to behold as a unit.”
+
+	“Roger.”
+
+	“Excellent. We will conquer the cities one by one and stage the final battle at the capital as planned. Afterwards, though it might be out of order now, we will finish massacring the inhabitants of all the useless cities. Through this show of force, the world will come to understand the consequences of not bowing to the rule of Nazarick.”
+
+	The Floor Guardians all responded with confidence. Ainz nodded deeply.
+
+	“Very well then, Floor Guardians—” Ainz thought about the future for a while and opened his mouth again to say, “no, a portion of the guardians should stay behind. Everybody else, demonstrate to me your true power.”
+Intermission
+
+----
+
+Intermission
+
+----
+
+	In the city that was formed a part of the Karnassus City-State Alliance, Bebad.
+
+	The city’s female mayor’s residence was lit up as usual.
+
+	The owner of the residence, Ri Kista Kaberia, took the accumulated documents and started reading.
+
+	The City State Alliance was comprised of—
+
+	Karnassus.
+
+	Beppo Allo.
+
+	East Gaith.
+
+	West Gaith.
+
+	Veneria.
+
+	Greater Listaran.
+
+	Orcneas.
+
+	New Orcneas.
+
+	Grand Wythes.
+
+	Ris.
+
+	Franklin.
+
+	And finally, Bebad.
+
+	This city was part of the twelve mentioned that had formed an alliance. Each city — including the other territories they own — held on average, a population of 400,000. The largest city was home to 600,000.
+
+	Amongst these cities, Bebad was an exception in that the other cities never had a single race hold majority over 40% of the population. The City-State Alliance was a union of multiple races and cities. If one were to rewind time back a few centuries, they would find the huge nation that was the origin of the City-State Alliance.
+
+	Due to that enormous county’s collapse, fourteen city-states popped up with each metropolis at its center. After that happened, there was much bloodshed between the city-states — or rather, small countries. This situation continued on with the states uniting and splitting ad nauseam until the event they called the Great Debate, at which the current alliance between the twelve city-states were formed.
+
+	Even so, it was still difficult for everybody to abandon their predispositions towards each other. Though a century ago was the past for the races with shorter lifespans, to some of the longer-lived races it was still a recent memory.
+
+	For this reason, a quinquennial tournament was held as an outlet for those who still held a grudge from the past and it was about to begin soon.
+
+	The city on the roster to host the next tourney was Bebad.
+
+	While it was true that there were four years’ worth of time to prepare for it, they only had four years’ worth of time left.
+
+	The tournament had sixteen events, one of which garnered more attention than the rest.
+
+	The Connelier — or mock combat. It was also known colloquially as the Mutual Wallop.
+
+	Every city-state sent ten of its strongest fighters who would then fight the other combatants under the protection of the magic item known as the Standard of Peace. 
+
+	This was the most entertaining and flashy of the events and was quite popular among the populace. It had come to the point where the majority of the people felt that it was fine to miss out on all of the events except for this one. That was why they could not allow even the slightest of errors to occur during this event.
+
+	That wasn’t a metaphor, a riot with massive casualties had been incited in the past when the city-state of Orcneas had not been fully prepared for the event. Even though forty years had passed from then to now, the phrase “The Organizer of Orcneas” remained a derogatory title for an incompetent person.
+
+	Though a screw-up on any of the events could incite anger, the Connelier was the single event where not even half a mistake was permitted.
+
+	However, the top-level government of each city knew that the Orcneas’ organizer wasn’t too bad, their problem laid in their lax of alertness against Vanquished Spectres.
+
+	There wasn't any direct evidence to support the existence of Vanquished Spectres. Even if that was the first time they had appeared, the mistake they caused was fatal.
+
+	Kista rubbed her eye ridges after she had finished reading the documents.
+
+	The last time Bebad had hosted the tournament was, about fifty years ago. The members of the core team in charge of organizing the affair had long since passed away.
+
+	Though she had steeled herself to learn the ropes from scratch, she still felt as though she could collapse from the stress and pressure of this entire ordeal.
+
+	She had lost sleep every time the thought that the tournament could end in failure came to mind.
+
+	Kista couldn’t help but titter.
+
+	She still had four years to go yet was already in this state. What would she be like when it was close to the opening ceremony?
+
+	She was already annoyed by it.
+
+	But, as she read through the documents left behind by her predecessors and wrote down all of her thoughts and ideas, there was a brief moment of solace.
+
+ Just as Kista was about to grab another handful of documents, someone knocked on her door.
+
+	She stood up from her chair and walked towards the door. On the other side of it was the familiar face she was expecting. It was her grandfather, the former mayor of the city, Ri Berun Kaberia. 
+
+	Not only was he the great-person responsible for Bebad’s lasting peace, he was also the mayor when the tournament was last held in Bebad.
+
+	“Grandfather-sama,” Kista greeted him with a smile, “Did you come here on purpose or were you just around? I would have gone straight to you if you told me to.”
+
+	“It’s fine, it’s fine, I’m just exercising for my spine’s sake. Even if my legs don’t work like they used to, if I was to be cooped up in the house forever, it would atrophy even faster. That aside, Kista, sorry for interrupting your work but are you alright?”
+
+	“Mmmm, of course I’m fine, grandfather-sama. Please, come in.”
+
+	Kista led her grandfather towards the sofa, where they sat opposite of each other.
+
+	Berun poured hot tea into the two teacups Kista had prepared for them. The pale green liquid gave off a mild and refreshing aroma that permeated the entire room.
+
+	“So, Kista. I heard from one of the maids that you haven’t been sleeping well these past few days?”
+
+	Though she did not want her grandfather to worry, she couldn’t hide it any longer.
+
+	“Yes, grandfather-sama. It’s hard for me to fall asleep every time I’m reminded of what could happen in another four years...”
+
+	Most people would laugh at the notion that someone would be worried over what would happen four years down the line, perhaps they would even say that she was being too anxious. Berun however, wasn’t laughing. The weight of the burdens shouldered by a mayor was a feeling he naturally knew all too well from his long years serving as this city’s mayor.
+
+	“Kista. If you’re already in this state, you’ll ruin yourself. This is an herbal tea that will help calm you down. Drink it and go to sleep early. An exceptional leader isn’t one who could accomplish the most in the shortest amount of time, but one who understands how to properly delegate their responsibilities to the appropriate subordinates. Nevermind you or me, how much can we truly achieve all by ourselves, right?”
+
+	“Thank you so much. But...I still have some work that needs to be completed soon.”
+
+	“Is it something to do with the neighbouring cities? But I don’t remember hearing about the Equestrian King making any movements?”
+
+	The enemy of the City-State Alliance would be the one who occupied the vast plains of the east, the Equestrian King. Since Bebad was nowhere near the plains, whenever the country was under attack, they just had to send their levies. 
+
+	“...The news of the Empire recently becoming a vassal state, surely you have heard of that already. The issue of exactly how much we should be on our guards against the Sorcerous Kingdom is something that must be resolved as soon as possible.”
+
+	“Ah, the Sorcerous Kingdom...”
+
+	Berun’s expression turned apprehensive.
+
+	The country that vassalized the Empire yet only had a single city of its own. There were also rumours floating around that they had assimilated that assassin organization into their own ranks.
+
+	There were all kinds of rumours and gossip floating around, whether they were true or false was hard to tell.
+
+	Kista was reminded of someone.
+
+	The Emperor of the Empire, Jircniv Rune Farlord El Nix.
+
+	The young emperor who had been given the title of the Bloody Emperor, she had met him once as part of a diplomatic mission — as a top-level official of the envoy to the Empire. They had conversed with each other at the reception gala that was held afterwards.
+
+	He was one who was rich in intelligence, wealth, and charm as expected of a country’s leader. How did someone like him become the vassal of another state?
+
+	There had to be a reason why — he must be coveting something.
+
+	“In regards to the intelligence-gathering process on the Sorcerous Kingdom, could I trouble grandfather-sama to pull some strings?”
+
+	Berun, as a long-reigning mayor of the city, had quite a lot of connections, far beyond what Kista had. Of course, she had met with most of his connections when she had inherited his post, but if Berun was the one to ask for that kind of information instead of her, it would be much more effective.
+
+	“Of course, Kista. Although this isn’t exactly through my connections, I have heard of some brilliant adventurers who had just immigrated from the Empire to here, should I ask them about it?”
+
+	“Yes please, sorry to trouble you — grandfather-sama, thank you so much.”
+
+	Kista deeply lowered her head. Even if they were of kin, he was someone who was nearly eighty years of age yet could still assume the role of mayor with no issues at all. He was even reverently referred to as the ‘Eagle of Bebad’ in the surrounding area. This was something that she had kept in mind since youth.
+
+	“Thanking me would be too — nevermind, I accept your gratitude, Kista. Starting from today, even just temporarily, go to sleep early. Am I understood?”
+
+	“—Yes, grandfather-sama. Thank you for all the care you have provided me thus far.”
+
+--------
+Mini-FAQ:
+Q: Where are we at?
+A: As of this part: 287/568
+
+Hitori's comment corner: The weeks ahead look like they will be the worst for me in a while, don't think I'll even get any shut-eye on the 28th and 29th. Expect a lower frequency of updates or shorter parts, probably the former. After that things should be a lot better, fingers crossed.
+
+Nazarick is referred to by its full name most of the time and it's getting annoying to type it out every time. They'll all be shortened to 'Nazarick' unless the full title is appropriate.
+
+P.S. Maruyama, what the fuck are these names.</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,764</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

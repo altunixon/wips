@@ -1,0 +1,607 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 04/17/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 4 Part 3
+
+        The rate at which the black smog spewed out of it increased, spreading to its surroundings.
+
+        Its HP was falling faster than ever, the cost for a short term boost to every one of its combat related stats.
+
+        Not only that, an opponent’s passive ability to reduce the amount of damage the Doom Lord dealt to it due to level difference would be completely nullified. Undead that stood in the black smog — including the Doom Lord itself — would take less damage from Light and Holy Elemental attacks. The same applied for bonus damage due to the difference in karma. Another strength of this ability was the fact that it could be triggered simultaneously on top of other buffs.
+
+        Ainz wanted to receive that buff too, but the black smog only reached so far.
+
+        To make sure that he would not be targeted by Riku, Ainz pulled away from the two combatants.
+
+        He had made preparations to be a spectator.
+
+        It was time for him to understand the true extent of Riku’s power.
+
+        The Doom Lord’s scythe clashed with the floating greatsword, an ear-piercing noise echoed around
+
+        Neither backed off a single step, nor were they knocked back.
+
+        They must have had similar levels of strength for that to happen.
+
+        After that, the scythe continued to clash against the katana at high speeds, their metallic rings droned on.
+
+        The greatsword’s hack was rendered inert by the scythe and the scythe’s pierce was blocked by the shield-like hammer. The darting spear was deflected by the scythe’s handle as the Doom Lord gracefully dodged the greatsword’s cleave.
+
+        Soon enough — to take advantage of the distance created by the dodge — Riku leapt forward.
+
+        Both were on equal footing in terms of offensive and defensive capabilities, but Riku had more tricks up his sleeve.
+
+        [Negative Burst]
+
+        Black ‘rays of light’ began pulsing from Ainz as it swallowed up its surroundings.
+
+        The Doom Lord healed upon receiving the negative energy, but it wasn’t the most mana-efficient way to heal. On the other hand, Riku did not take damage from the spell at all.
+
+        For him to have taken zero damage, was it because he had immunity to negative energy? Was it a racial trait? Or was it a job trait? Or perhaps, the most likely explanation, was that it had something to do with his equipment.
+
+        To have planned to fight against the undead Ainz meant that by common sense, he must have prepared against negative energy attacks, a staple of the undead. Even Ainz would equip items that bestowed fire resistance if he were to fight against a fire-breathing dragon.
+
+        While the sounds of their weapons colliding with each other rang out non-stop, Ainz cast his next spell.
+
+        [Perfect Unknowable]
+
+        Ainz, now an unknown, came out of the shadow of his tank, the Doom Lord, to circle around them. Suddenly, the katana flew towards him at a speed he could not dodge. It pierced through his robe at the abdomen region.
+
+        He did not take any damage due to his immunity to piercing damage, but Ainz still scuttled behind the Doom Lord’s figure. The katana, suspended midair, then began to slash towards the Doom Lord instead.
+
+        “...He could see through unknowability huh?”
+
+        This was not surprising, one would not need to reach Ainz’s level to gain a couple of countermeasures against that strategy. The problem laid in what method he had used to detect him. Ainz had no answers. There were just too many countermeasures, too many for him to narrow it down with the intel he had.
+
+        So, what should his next move be? Riku seemed to want to target Ainz directly given how the levitating weapons were all pointed at him, but with the Doom Lord’s presence, they could not reach him at all.
+
+        After rough calculations of his available options given the current status of the battle, he arrived at the conclusion that he should be spamming offensive spells. If the Doom Lord fell, he could just summon another. The likelihood of this strategy to win was quite high.
+
+        However, this was not the way Ainz wanted to end this.
+
+        Riku was a powerful foe, something of a rarity in this world, and with myriad abilities foreign to Ainz. Given that was the case, it was better for him to witness the full extent of Riku’s power over the course of this battle so that he would be better prepared should a similar foe show up in the future.
+
+        Ainz cancelled the cast of an attack spell.
+
+        While he knew that his priority right now should be on his own defence, he had a specific reason to not do so. It was dangerous, sure, but he had to resist the urge.        
+
+        Ainz observed the two’s attacks and defences. The Doom Lord was being suppressed ever so slightly, but neither were taking significant damage.
+
+One could call the blows that they were exchanging a back-and-forth, but the simplicity in Riku’s fighting style was quite worrying. Ainz knew exactly why the Doom Lord could not gain the upperhand. None of its skills, negative energy attacks, or spiritual attacks had any effects against Riku.
+
+        At this point, it was all but confirmed that Riku was of a race that had similar properties as Golems or other Constructs. Perhaps it was some item ability or skill that gave him said properties, or perhaps he was just a plain Construct.
+
+        In terms of which option was most likely, it had to be the first one given that Riku was able to talk. Half-Golems or similar races had the same resistances as other Constructs, so he might be of one of those races.
+
+        Although, why would someone of those races be helping out the Kingdom? What mattered the most in the moment were Riku’s abilities and not his motivations. Why was he using such simple attacks? He appeared to have neither used skills nor martial arts the entire time.
+
+        One of the Supreme Beings was a Golem user. Riku’s movements were nearly identical to the Golems controlled by that person.
+
+        Riku would be easy to deal with if he was a Half-Golem, but if he was a pure golem with speakers attached or made through secret techniques, things would be much more difficult.    
+
+        As far as Ainz knew, a Golem’s strength scaled with the value of metal used to construct them, the creator’s abilities, and the data crystals added.
+
+        High-tier Golems were relatively costly to manufacture.
+
+        If Riku was a Golem, one constructed out of a metal as cheap as platinum yet was this strong, there might be more than a few or even dozens of him laying around.
+
+        He had to collect more intel.
+
+        Ainz gave the Doom Lord an order.
+
+        The Doom Lord began releasing more black smog upon receiving his command.
+
+        Its speed and offensive capabilities were raised even further, to the point where Riku’s armour began to take damage. However, the rapid loss of HP on the Doom Lord’s part caused it to disappear not long after.
+
+        Ainz had timed for this, as he cast another [10th Tier Summon Undead].
+
+        It was a level 68 undead, an Elemental Skull.
+
+        Its appearance was of a floating skull, surrounding it was a magical haze of light that constantly switched between four colours: red, blue, green, and yellow.
+
+        Ainz made it fall back and took its place at the front.
+
+        The Elemental Skull was a caster type undead capable of using magic of the four major elements.
+
+        Its HP was about equal to a magic caster of its level, way below that of the Doom Lord. Its offensive capabilities were pretty impressive, that was because every single spell it cast had the [Maximize Magic] metamagic tagged onto it.
+
+        In terms of defence, it had immunity to most spell attacks, including Fire, Lightning, Acid, Ice, and other types of elemental attacks. In contrast, it was extremely vulnerable against physical attacks, especially bludgeoning damage.
+
+        That was why Ainz had to stand in front of it.
+
+        Riku did not raise his guard any further even though a magic caster was now at the frontline. He just kept silent, closed the distance between him and Ainz, and began attacking.
+
+        {Why are you not the least bit worried about this?} Ainz grumbled in his heart as he used the experience he had gained through his training with Albedo to block Riku’s slashes.
+
+        That said, he could only block one slash out of five, it was basically a one-sided pummel. As Ainz’s staff was ignored, the greatsword, spear, and katana began their attacks. Though the hammer was used once too, it was nullified by [Body of Effulgent Beryl]. After three nullifications, Riku appeared to have finally taken the hint. He never used the hammer afterwards.
+
+        While Ainz had already known about this, Riku was indeed insanely fast.
+
+        Although he wasn’t as fast as the Floor Guardians, he was still relatively fast. Ainz was quite fortunate that Riku had stopped using the hammer. If it was still in use, Ainz would not be able to win at all.
+
+        Having bore witness to the Doom Lord’s battle, Ainz knew he could not serve as an adequate vanguard.
+
+        Of course, Ainz had the option of using [Perfect Warrior], but the lack of equipment on his person would guarantee him a loss if he did so.
+
+        Still, Ainz’s struggles at being a vanguard began to see some returns as spells began soaring through the air from his back.
+
+        At the same time, Ainz cast the ninth tier spell, [Vermillion Nova].
+
+        The strongest single-target, fire-based spell attack began to scorch Riku, yet his opponent showed no signs of slowing down as the greatsword cleaved towards Ainz again.    
+
+        Even though his body was bathed in fire, his swordsmanship remained calm and steady. If he had made his resolve as a warrior, this would not be too surprising, but the complete lack of response from him was suspicious to say the least.
+
+        The Elemental Skull cast a ninth tier spell, [Polar Claw].
+
+        A claw that emitted air as chilled as the poles clawed at Riku. This was a spell that Ainz had not learnt. It had no secondary effects but dealt a lot of damage, the highest DPS of any ice-based spell in fact.
+
+        Ainz memorised the amount of damage Riku took from the two spells.
+
+        This was while he was receiving a simultaneous strike from the spear and the katana.
+
+        He cast another ninth tier spell, [Call Greater Thunder].
+
+        The Elemental Skull on the other hand, cast a tenth tier spell, [Mist of Super Acid]. This was also a spell that Ainz had not learnt, that was the reason why he had summoned the Elemental Skull.
+
+        Riku was instantly surrounded by a mist of strong acid and so were his weapons.
+
+        [Mist of Super Acid] not only damaged an opponent, but also their equipment and weapons, albeit only a small amount of damage to those. Surely the floating armaments around Riku counted as his equipment, right?
+
+        Even the weapons around Riku were damaged yet Ainz, who was well within the AOE, was unscathed. This was because of a special condition applied to the spell.
+
+        Riku’s HP loss from the acid was notable. Of the four elements, he took the most amount of damage from acid.
+
+        That said, the actual percentage of HP loss was still low.
+
+        Through the analysis of every bit of intel he had, Riku must have had defence-focused job classes. He was probably around level 90.
+
+        {In any case, the best strategy is to use acid attac— Ahhh! It hurts so much!}
+
+        “Nuisance!”
+
+        His anger flared up as his thoughts were interrupted, but then a miracle occured.
+
+        He managed to perfectly bat the katana flying towards him away with his staff, causing Ainz’s nonexistent eyes to widen.
+
+        The spear was blown away as if the knockback effect had activated.
+
+        {Why!?}
+
+        This staff’s knockback effect had all kinds of activation conditions placed upon it.
+
+        First of all, blocking a warrior’s strike with the staff would not trigger the effect. The effect would not trigger at all if the staff was not used offensively.
+
+        If an opponent blocked the attacker’s blow with a sword or shield, its effect would not trigger. It would only trigger if one were to land a blow on their opponents’ body with it. A sword or shield would obviously not count as an opponent’s body. That was why the effect would still trigger if one were to strike an opponent’s gauntlet.
+
+        So what happened to Riku’s katana?
+
+        Given the conditions mentioned, that meant that the floating weapons counted as a part of the wielder’s body.
+
+        But that wouldn’t make sense.
+
+        Sebas had brought back weapons from the capital in the past.
+
+        Floating weapons used by a dancer.
+
+        The weapons were analyzed in detail when they were sent to the Treasury and judged to be simple floating weaponry that obeyed commands to attack in a semi-autonomous way. It should only count as equipment, which meant that if this staff were to strike the dancer’s weapon, the knockback effect should not trigger.
+
+        If the knockback were to be applied on equipment, only weapons like Female Sensei's Iron Fist of Wrath would be able to pull it off. That was a weapon that had the sole purpose of creating shockwaves when the wielder punched the air. As a weapon that applied knockback to everything, it could also apply knockback on equipment.
+
+        But this staff was nowhere near as powerful as that weapon, so why was it able to do such a thing?
+
+        From these series of tautologies, he deduced the answer: Riku’s weapons counted as a part of his body.
+
+        {I see...}
+
+        Ainz had two hypotheses around the mechanics behind this.
+
+        First was that Riku’s weapons were creatures like Entoma’s Blade-Bugs. If he was like that Sword Saint Golem, it would make sense why the knockback effect was triggered.    
+
+        The other hypothesis, the more likely one, was that the weapons were not equipment at all, but were actual parts of Riku’s body. This would be a similar situation to how the knockback effect would still apply if the staff’s strike was to be met with a dragon’s claw attack.
+
+        He had felt that the weapons had HP too, but thought that it was because they counted as Riku’s equipment. It was a mistaken assumption based on the fact that they took damage when Riku took damage. It appeared as though those were separate health bars, so—
+
+        That moment felt like forever to Ainz in his infinite confusion.
+
+        What if he used those methods—
+
+        But— would that be the correct decision?
+
+        No— wrong, that would be a mistake.
+
+        Ainz felt the Elemental Skull cast the tenth tier divine spell, [Seven Trumpeter] and immediately canceled the cast.
+
+        He had to reaffirm his role in all of this.
+
+        Ainz silently cast a [Message] as Riku retreated as if he was chasing after the knocked back katana. The katana then returned to its original position.
+
+        So if the weapons were to be separated from Riku by a certain distance, they could no longer move? Or was his opponent trying to make him think that? Or was he just shocked that it was knocked back?
+
+        “...We more or less understand each other’s powers. That’s good enou—”
+
+        Riku slashed towards Ainz as he glided along the ground. He did not intend to speak.
+
+        Ainz grumbled deep down at that fact.
+
+        It made sense for his opponent to wish to make the most of his time, to answer one’s opponent in battle would be a foolish action. So while he respected Riku’s commitment to his strategy, he was still annoyed that his opponent was ignoring him.
+
+        “Wait! Wait! I haven’t finishe—”
+
+        Ainz, in the midst of Riku’s attacks, threw his staff behind himself. He could see that Riku was slightly confused.
+
+        Ainz kneeled down immediately.
+
+        “Wait! Please wait! Listen to me!”
+
+        The greatsword in Riku’s hand stopped on its way to Ainz’s head.
+
+        Because he was immune to critical strikes, he wasn’t too scared to lower his defenceless head. He gave an order to the Elemental Skull at the same time.
+
+        “I did not mean to clash with Your Excellency. This whole thing started because the Kingdom stole the grain that was meant as food aid to the Holy Kingdom. Between them and us, the greater evil should be obvious. What does Your Excellency think? That we were the greater evil!?”
+
+        “...You went too far. There had to be better ways to deal with that.”
+
+        Ainz raised his head.
+
+        Riku’s greatsword remained suspended, it seemed like he had no intention to strike him at the moment.
+
+        “That is because Your Excellency was not the victim! How would Your Excellency have dealt with this!? When the grain that your countrymen toiled to produce was stolen away!?”
+
+        “If you did not have the power that you have, things would not have turned out this way. People with power have to be careful about how they use their power and take responsibility for their actions — I, for example, protect the world. Indeed. This world is under my protection.”
+
+        Upon hearing his opponent’s rhetoric, Ainz thought, {this dumbass is finally talking}. He was being a silent listener. Some people preferred audience response during their speeches while others did not. From his self-righteous tone Ainz could tell it was best that he kept quiet.
+
+        Ainz took mental notes of everything he said.
+
+        "The deeds of those who gathered around my loving mother were wrong. They were wrong in the same way that father was. In the end, absolute power corrupts absolutely. It is the source of all faults."
+
+        Ainz observed Riku in silence, calming his breath as much as he could.
+
+        Riku was being impassioned, Ainz should not be as rude to interrupt him.
+
+        To be honest, Ainz could not understand what Riku was talking about at all, but at the same time he did not sound like he was just rambling nonsense. He should’ve at least spoken in a way that a layman like Ainz could understand.
+
+        “Although the root of every wrong could be traced back to us, I will not seek forgiveness for that, nor can I allow you to continue on your current path of destruction. That is why — Perish.”
+
+        “Woosh,” the greatsword swung down.
+
+        Perhaps he felt guilty for executing the defenceless Ainz, the sword was swung at a much slower speed than before.
+
+        {Hold up, hold up, please reveal some more intel while you’re in a good mood}, Ainz almost said out loud. His opponent did not intend to speak any more, so there was no need to keep up the act.
+
+        —the battle continued.
+
+        The Elemental Skull, which he had commanded to be on standby, rushed into the greatsword’s trajectory and took the hit.
+
+        This was an effective use of a summon, because the Elemental Skull was no longer of use to him. That was why this was the right choice. If say, this was against Shalltear’s Spuit Lance, he would not have done that. However, since Riku’s weapon did not have lifesteal abilities, he could freely use summons as sacrifices.
+
+        “Hiiiiiiii!? So this was all your fault!? Are you not in the wrong then!?”
+
+        Ainz let out a pitiful cry. Who was ‘them’? ‘What’ did they do wrong? Ainz could not understand at all, but if he phrased his response this way, perhaps Riku would expose some more intel. It was worth a try.
+
+        Perhaps he really was feeling guilty, his movements were much tardier than before. Ainz capitalized on this opportunity to roll backwards.
+
+        The Elemental Skull rushed in between them.
+
+        “—Block him!”
+
+        The Elemental Skull cast its spell while Ainz yelled. Riku ignored the skull and charged for Ainz. The Elemental Skull attempted to stop him, but due to its size and a lack of skills to do so, it failed.
+
+        “[Wall of Skeleton]!”
+
+        Ainz cast his spell to erect a wall to keep both Riku and the Elemental Skull on the other side.
+
+        “How pathetic, Sorcerer King!”
+
+        Riku bellowed with anger. Perhaps his fury was because Ainz had left his summon on the other side of the wall so he could escape, but it did not matter to Ainz. If a magic caster was not behind someone but stood alone, it would be no different from suicide. It would be worse than—
+
+        He could’ve easily flown over the wall, but Ainz felt that Riku was attacking both the Elemental Skull and the wall.
+
+        Compared to the Elemental Skull, the [Wall of Skeleton] wasn’t too durable. It crumbled immediately at Riku’s strike.
+
+        The Elemental Skull had cast multiple [Vermillion Nova]s to reduce Riku’s HP, but to defeat him would be a tall order. It could be because of his job classes, but his magic resistance was abnormally high.
+
+        Given that was the case, Ainz cast a spell on Riku.
+
+        “[Temporal Stasis]”
+
+        This was a ninth-tier single-target spell. Although the spell could prevent the opponent from moving, it also prevented them from taking any damage while the spell lasted. That was why it was usually used when there were multiple hostiles.
+
+        However, Ainz found that his spell was not just resisted, but nullified completely. It appeared that Riku had time-stop countermeasures. Of course, that wasn’t too unusual given how strong he was.
+
+        At the same time the greatsword was swung towards Ainz, the hammer was also swung towards the Elemental Skull.
+
+        Ainz tanked the greatsword’s damage and as a precaution, cast [Greater Break Item] on the other weapons flying towards him. It was not just resisted, but nullified again.   
+
+        So it was true that the weapons counted as Riku’s body.
+
+        As the Elemental Skull took a massive amount of damage, Riku looked into the air in panic.
+
+        A figure was rapidly descending.
+
+        It was Albedo.
+
+        “—!”
+
+        Ainz heard Riku let out a sound that couldn’t even be defined as a sound. He was absolutely stunned.
+
+        As Riku shook, Albedo approached him, her speed was on par with one of Aura’s arrows. And then—
+
+        “Your bastard, aaaaaaaaaaaaaaaaaaaaah!!!!”
+
+        While that terrifying roar was heard, the halberd named 3F was swung down with the intention to split Riku’s head open. Riku raised his greatsword and spear in a cross to block her attack.
+
+        The impact created by 3F was sizable, as both of Riku’s feet were sunk into the ground.
+
+        In the next moment, Riku was blown away to the side.
+
+        Albedo had stomped her foot onto Riku’s chest. The armour let out a pitiful clang.
+
+        “You insect! How dare you disrespect Ainz-sama! Unforgivable!!”
+
+        Albedo’s declaration caused the air around them to quake. She began attacking afterwards.
+
+        The distance between the two was closed in an instant as Riku received an attack with enough force to send him into orbit.
+
+        The sound of metal clashing together rang out at an ear-piercing volume.
+
+        Riku used two of the floating weapons to block this attack.
+
+        He flew backwards with all of his strength. Not with a jump, he flew back without his feet touching the ground.
+
+        “Albedo, stop! That is enough!”
+
+        Ainz halted Albedo, who was about to follow up on her attack.
+
+        That was enough, he should not allow Albedo to fight any longer.
+
+        “—Understood.”
+
+        While her glance told him that she was unhappy, Albedo still stopped moving.
+
+        It was probably correct to assume that he no longer wished to fight, Riku began ascending to pull some distance between them.
+
+        Albedo stood silently by Ainz’s side, using her own body as a shield against Riku. She was probably on alert for long-range attacks by the enemy.
+
+        “Agneía-danna. I will say it again. Become my subordinate! How about it!? I will give you everything you have ever wanted for!”
+
+        His proposal received no reply, yet Ainz continued on.
+
+        “How unfortunate! Still, the Sorcerous Kingdom’s doors are always open to you. You may come to visit anytime you want!” After he said that, Ainz lowered his voice to say to Albedo, “do you think he still wants to fight?”
+
+        “No — I do not think he wants to anymore. But, if he is not retreating, it might be best for us to defeat him right here. If we both attacked at the same time, it should not be too difficult, right?”
+
+        While he should not have heard their conversation, Riku disappeared nonetheless. The barrier he had erected also melted away.
+
+        Ainz was not sure if he had teleported before taking down the barrier or vice versa, nor could he tell where he ran off to.
+
+        Although there were still things that had to be investigated, Ainz felt as though they had successfully completed their mission.
+
+        “...Good grief, that takes care of that. Good work.
+
+
+        “I am not worthy of such praise. There still might be people surveilling us. It is best for us to return to Nazarick first.”
+
+        “Ah, let us do that then.”
+
+        After recalling the Elemental Skull, Ainz cast [Greater Teleportation] to retreat with Albedo.
+
+--------
+Mini-FAQs:
+Q: What's your gender?
+A: Y'all are a bunch of weirdos
+Q: What if the real Hitori was the friends we made along the way
+A: False, the real Hitori was a bad joke I made that only a few of you understood
+Q: Do you ever reply to emails?
+A: 9
+Q: Where are we at?
+A: As of this part: 425/568
+
+Hitori's comment corner: Drawanon memes soothe my soul.
+
+PDL's a momma's boy, who would've thought.
+
+If you missed my notes on the last part, here's the key: DnSwI4aTA7c0GIbh#SJ2vH9G0c+ZradZa8pUCl6QwouDkUuwG15ROM7Do3wq</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,765</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

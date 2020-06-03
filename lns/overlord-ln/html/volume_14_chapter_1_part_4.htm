@@ -1,0 +1,355 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 02/22/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 1 Part 4:
+
+	A vast criminal syndicate known as the Eight Fingers lurked in the shadows of the Kingdom.
+
+	There existed eight divisions within the syndicate, one of them being the smuggling division. Christopher Olsen, a member of said division, sported the face of an honest merchant. His words carried quite a bit of weight on the major trade route connecting the royal capital to the west side of the Kingdom. As such, he had had the first-hand experience in having his warehouses be looted clean of various types of goods during Jaldabaoth’s rampage.
+
+	They had substantial losses but it did not spell the end for his company. Still, a considerable amount of time was now necessary to recover those losses, so he found it to be a necessity to borrow a portion of the funds from the Eight Fingers.
+
+	You’ve got to spend money to make money, that was how businesses operated. Of course, it could also lead to greater losses, but as long as he kept his head down and avoided unnecessary risks, there was not much to worry about.
+
+	Borrowing money from Eight Fingers, however, would start one down the gradual path towards losing oneself. The Eight Fingers would force merchants who had made losses into criminal activities such as smuggling, selling or transporting narcotics.
+
+	Merchants fell into this trap quite often.
+
+	So what about Christopher, who had already been ensnared?
+
+	In order to borrow money, he had had a meeting with the leaders of the divisions, which shocked him, to say the least. Christopher belonged to the smuggling division, so the management of loans should have been by his superiors in the same division. Meetings with the executives of the other divisions should have been an impossibility.
+
+	Despite all of this, he got to meet with the top brass. Was it because his accomplishments had earned him a high recommendation? Or was it some other reason unbeknownst to him? He couldn’t figure out why even after the meeting had concluded. The only thing that he was certain of was his suspicions towards the divisions’ leaders’ unusually friendly attitude towards him, knowing full well how they were feared even by the dark side of society.
+
+	Of course, goodwill from mafia heads could just as easily be faked as anything else.
+
+	Another thing that caught his attention was the fact that they, befitting their status at the highest echelon of the organization, apparently took their own health quite seriously. Though he wondered if they were perhaps a bit too skinny, they were definitely healthier compared to his overweight body.
+
+	Such people of importance had given him a job on the spot.
+
+	The kind of job to be given out depended on various factors, such as the amount of money borrowed, the value of the person as a human being, and whether that person could be of use to Eight Fingers in the future. Those with better ratings were given safer jobs and vice versa.
+
+	The job given to him was-
+
+	“-Transportation of Sorcerous Kingdom’s grain, huh. Whether if it’s safe or not is still unclear, hm.”
+
+	“Hm, what’s the matter? Did you say something, sir?”
+
+	“Oh, don’t mind me. I’m just mumbling to myself.”
+
+	The one to respond to his question was the leader of the mercenary division.
+
+	He was a robust man.
+
+	Very much different from Christopher, who was in his forties and saved up a thick layer of fat around his waist. The man was young, sharp, and apparently only in his twenties.
+
+	He wore a steel chestplate with chainmail underneath. A helmet that could cover his entire face sat next to him, together with a well-worn sword.
+
+	The man was the leader in charge of protecting the Sorcerous Kingdom’s grain caravan, which consisted of seven carriages.
+
+	The security detail consisted of 24 people in total, all of which were employed by Eight Fingers and like Christopher himself, belonged to the smuggling division.
+
+	Though they were members of the same department, they still charged for their service and at a rate higher than that of mercenaries of a similar level nonetheless. On the other hand, they no longer had to worry about information leakage for secret missions as they were more loyal to the mission at hand.
+
+	In the face of threats that couldn’t be taken care of, regular mercenaries would probably just abandon the mission, but these men would fight as rearguards to their death. This was understandable, as abandoning the mission would cost the higher-ups their dignity; as a result, they would have been hunted down and murdered even if they were to make it out alive.
+
+	Therefore, for someone like Christopher who did not know of any trustworthy mercenaries, these men from the Eight Fingers were probably his best choice. But then again, for this mission, they were his only choice.
+
+	It was a direct order from the higher-ups to use these men.
+
+	To make up for the lack of options, they were to provide their services for free and so he had surplus funds to hire even more mercenaries. However, hiring extra mercenaries would be seen as a sign of distrust towards the men. Nevermind the fact that their employment was specified by the top brass, so hiring other mercenaries could be seen as him disobeying their orders.
+
+	After giving it some thought, Christopher decided against hiring extra mercenaries.
+
+	Moreover, all of the guards appeared to be quite capable, but of course, Christopher, who was no warrior, could not properly grasp their strength. That was not a problem however, as the higher-ups have vouched for them by claiming that they were outstanding. Going against orders would be dangerous regardless of the reason.
+
+	That being said, if he were to be asked whether if he felt it was safe to depart with such a small detail, he would have wished for more capable men.
+
+	It would have been great if he could borrow a boss from the security department, a member of the Six Arms, the enforcement group of the Eight Fingers. Needless to say, that wish would never come true.
+
+	It was said that the Six Arms, including its leader Zero, who was said to be the strongest warrior in all of the Eight Fingers, was exterminated in a conflict with the royal family, just before the calamity caused by Jaldabaoth.
+
+	Credible intel attributed their defeat to Brain Unglaus, a warrior serving under the Golden Princess.
+
+	It would be outrageous to assume that all six of them were defeated by a single person, but apparently the Blue Roses, an Adamantite ranked adventurer group, had joined the fight as well. Christopher deduced from this that it was most likely a six-vs-six battle.
+
+	The security department was said to have lost most of its members in the battle. At the moment, every department was building up a force of its own to compensate for the loss, to the point where even members of the assassination division began to operate out in the light.
+
+	Nevertheless, this managed to improve the mood of those within the Eight Fingers to the point where it was now better than it was before the appearance of Jaldabaoth.
+
+	Internal conflicts were rife in the past and it wasn’t unlikely for one to fall victim to dirty tricks being played behind their backs. Some merchants were even reported to the authorities by people from the other departments during the most crucial stages of a smuggling mission.
+
+	At the moment, however, the higher-ups were being so cooperative with each other that it was almost disgusting to think of.
+
+	Business had expanded as a result and illegal profits from each endeavour grew too.
+
+	“Puhuuu-ahhh.”
+
+	The mercenary leader farted audibly while yawning. It was an unavoidable physiological phenomenon, but he had no intention to apologize.
+
+	A disgraceful action.
+
+	Christopher frowned. That was the worst sound to wake up to from a daydream.
+
+	He honestly wanted to complain, but this man was to be his companion during the trip to and from Re-Lovell, a large port city on the west side of the Kingdom. His desire to maintain a friendly relationship with him suppressed his desire to complain.
+
+	Ships would be used to transport the cargo from Re-Lovell to the Holy Kingdom, so that would be the job of a certain maritime merchant. He was a great man and Christopher knew him well. It came as a surprise to him that the man was also a member of Eight Fingers, but he claimed they were collaborating solely for the mutual benefits.
+
+	Still, he couldn’t help but worry.
+
+	“You seem relaxed. You don’t think anyone’s going to attack?”
+
+	“Hm? Oh, I haven’t gotten that stinging feeling, so no prob- Oh, you probably wanted to say that feelings can’t be trusted, eh? Well, I understand where you’re coming from but you surely have had moments when you thought ‘this will work out fine’, right? There are also times where you have had a bad feeling about something so you try to plan for it, and it ended up being true, or something.”
+
+	“...Yeah, I’ve had those experiences.”
+
+	“See? Our past experiences can function as our intuition.”
+
+	The mercenary leader spoke in a tone that did not match his appearances at all.
+
+	“See. Well, we’re also flying the Sorcerous Kingdom’s flag. Only ignorant villagers-turned-bandits would dare attack such a caravan, in which case, we can easily take care of even a hundred of them.”
+
+	“What if it isn’t villagers?”
+
+	“Are you worrying about down and out mercenaries? Would they not be able to recognize the flag of the Sorcerous Kingdom, the hottest of all topics?” he shrugged, “experienced mercenaries are surprisingly well-informed. Those who don’t even know of the flags of the countries around don’t scare me at all. ...Looks like you’re not buying it. Think about it, wouldn’t it be worrying to not know which noble you’re picking a fight with? You wouldn’t want to get into trouble that way, would you?”
+
+	“That makes sense… I’m curious, which nobles are the riskiest to pick a fight with?”
+
+	“About that- for example the famous ones like Raeven and Boullope. The likes of them have strong armies stationed within their own territories and it’d be dangerous to bump into them. Well, they both suffered great losses in that war, so maybe they’re not as dangerous as before… Don’t be careless. Blumrush pays well so I don’t wanna get on his bad side… Well, I simply just don’t want enmity from any of the noble lords.”
+
+	“But you’re being backed by a criminal syndicate. Are you being serious?”
+
+	“So are you, right? If I get into trouble with them, the big shots will just abandon me without a second thought. Same goes for you, yeah?”
+
+	“Yeah.”
+
+	They fell silent and the mood began to feel a bit gloomy.
+
+	They were reminded of the ruthlessness of the top brass, but there was nothing they could do about it as people who were part of such an organization purely for the profits. Perhaps there was a way of life for him that did not require any connections to the organization, but that wouldn’t have led to him becoming the great merchant that he is today. Perhaps he would still have had to stick to smaller business deals to this day.
+
+	The word “if” carried the connotation of an infinite amount of possibilities, but without the means to travel back in time, one must be satisfied by the present.
+
+	“...Anyways, just don’t worry, right? I get it. So what’s the worst threat that we could face as of now?”
+
+	“If the enemy were to use flaming arrows to try and burn down the caravan - burn, not rob - that would mean that we're getting involved in some greater conspiracy - a national problem. Or a rival organization’s ploy.”
+
+	“An organization that could rival the Eight Fingers… Is that even possible?”
+
+	“Don’t know. Even a rival group would probably not want to burn Sorcerous Kingdom’s goods, unless they’re confident that no clues would be left behind. Personally, I think national conspiracies or ploys from the Kingdom or other neighbouring countries are more concerning. We’re probably under a higher threat to receive an attack from those sources...”
+
+	“If that’s the case then there’s no point in worrying about it, huh.”
+
+	“Right? Anyways, it looks safe for now. Don’t worry, just sit tight.”
+
+
+--------
+Mini-FAQ:
+Q: Where are we at?
+A: As of this part: 86/568
+Q: Where do I send feedback on errors and whatnot?
+A: Direct them to fanficerrors@protonmail.com
+
+Hitori's comment corner: This is a small extra part to compensate for the fact I will not be updating for a couple of days. I have to tend to some RL responsibilities that I have been neglecting for the past few days. Expect a Rokerson sized part when I'm back. This is an apology in advance.</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

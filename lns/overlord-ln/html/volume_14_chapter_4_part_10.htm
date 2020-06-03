@@ -1,0 +1,845 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 05/09/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 4 Part 10
+
+        Climb stood in the hallway, observing the scenery outside through the overly-thick glass windows.
+
+        Renner had told him that she would be busy putting on makeup now so that she would not embarrass herself in case the Sorcerer Kingdom’s army arrived before she could meet with her father, which was why he was shooed out of the room.  She also informed Climb that she might even change out of the outfit she had on, naturally it was going to take quite a while.
+
+        He looked back down the corridor, the empty, lifeless, and silent corridor.
+
+        The knights who stayed in the palace till the end were all preparing to face the Sorcerous Kingdom’s army head-on. They had left their posts and gathered together to block off the entrance 
+to the palace.
+
+        Some might scoff at them for what seemed like meaningless resistance. 
+
+        Unlike the band of warriors led by Gazef Stronoff, most of these knights were merely a smidge stronger than the average soldier. If they were to fight the monsters of the Sorcerous Kingdom, they would probably be destroyed as easily as it would be for someone to break the branches of a dead tree. Yet, as men who had been knighted by royalty, they wished to display their loyalty till the very end. They had deployed themselves without complaint. The truly pathetic ones would be those who would dare mock them.
+
+        If he was being honest, due to past experiences, Climb did not have much goodwill for the vast majority of knights. He had always thought that should a life-or-death situation arise, they would run away like chickens. Climb could not help but mock his own closed-mindedness.
+
+        It was precisely because their loyalty to the royalty was true and without fault that they could not accept a street rat serving this close to a royal.
+
+        Climb had made a severe misjudgment of their loyalty to the throne.
+
+        He looked towards the direction of the entrance.
+
+        Should he not be fighting side-by-side with the knights? Climb mulled it over and concluded that he should not.
+
+        Back then, he was not saved by the royalty. The one who saved him, was Renner herself.
+
+        If Renner ordered him to do so, he would join the knights without hesitation. However, since she had given no such order, he should stay by her side. If he could buy even a single second to die before Renner, it would be his duty, his all.
+
+        His life and soul have long been Renner’s, ever since she had saved him.
+
+        In this silent, empty hallway, Climb pondered about all sorts of things.
+
+        He thought about his life up till this point, about Renner, about their hypothetical future, and—
+
+        Climb looked around him. Of course, no one was there. The one who had served next to him, Brain Unglaus, had long since left the palace.
+
+        He did not know where Brain had gone.
+
+        If the Sorcerous Kingdom’s army had made its way to the castle, he was probably already dead.
+
+        Climb mourned deep down.
+
+        Brain was like a mentor, a friend, and a brother to him. He had taught Climb a lot of things and had guided him for quite a while.
+
+        Compared to Gazef, Climb had gotten much closer to Brain. To Climb, who held Renner as the most important person in his heart, Brain was someone who came a close second.
+
+        “Why did things end up this way...”
+
+        Climb’s whisper dissipated in this lifeless corridor.
+
+        But how did things actually turn out this way?
+
+        Climb had thought that their peace would have lasted, that things would be the same tomorrow as it would the day after tomorrow. However, looking at it now— suddenly, the doors to the room were slammed open. A loud {bang} rang out.
+
+        Because the sound was more brutal than he would have ever imagined, Climb hurriedly looked towards the door to see Renner by the door side. She did not change her outfit, only a slight hint of red was on her face, light enough that he could not tell if she put on makeup at all.
+
+        She had spent so much time in there but her appearance was no different compared to the usual.
+
+        In her hands was Razor Edge, still in its sheath.
+
+        Did something happen? Just as Climb was about to ask, Renner spoke.
+
+        “Climb, let’s hurry now.”
+
+        “Yes!”
+
+        Renner said that phrase and ran along the corridor.
+
+        Climb followed and asked.
+
+        “Did something happen?”
+
+        Renner stole a glance at him and looked back towards the front.
+
+        “Yes. I remembered something that had to be done. A mini-revenge against the Sorcerous Kingdom if you will. That is why we must hurry to where my dear father is. We have to check if he is still in his room first!”
+
+        Along the way, Renner passed over Razor Edge to him. He followed her orders and moved towards the king’s room.
+
+        Of course, there were no knights there too.
+
+        Renner did not intend to dampen her momentum, as she slammed open the doors to this room too.
+
+        Inside was Rampossa III, shocked.
+
+        “Renner. What in the...”
+
+        After so much noise, it turned out that it was his own daughter. He must have thought that someone else had broken in. Rampossa III stopped talking halfway through his sentence.
+
+        Climb felt that the king’s gaze had shifted from Renner to him, so he took a massive bow as an apology.
+
+        “Ah, father, you are still here! I just remembered something really important.”
+
+        Renner immediately spoke.
+
+        She had run her way here, yet her breath remained calm and steady. Climb was the same, but he was still curious as to how Renner, who he had rarely seen running, had the same level of stamina as him. Still, she hadn’t run that fast, so it was probably nothing to worry about. Climb quickly killed that thought.
+
+        “Renner, what happened? Also, why did you open the door like that?”
+
+        “I feel like these things do not really matter as much right now.”
+
+        Renner spoke a bit faster than she normally would, causing Rampossa III to smile wryly.
+
+        “...Well, you do have a fair point. So, Renner, what is wrong? You mentioned that there was something important just now?”
+
+        “Yes! So basically—” Renner tilted her head in an adorable manner before she continued, “Father, why are you here?”
+
+        “I was locked in here by that child, did you not know about this?”
+
+        “Yes, it was onii-sama.”
+
+        “Haaaaah, Zanac was an idiot to say that the two of you will go before I do. That child...”
+
+        Rampossa III’s expression was full of sorrow. Everyone knew at this point that of the army they sent from the capital a week ago, none had returned. Though none of them knew of their fate, it was not too difficult to imagine the reason why they had not returned.
+
+        “...and then yesterday, when I was finally released, I thought that we must make preparations before the Sorcerer King arrived. That is why I am still preparing here in my lonesome. The knights offered to help but I sent them all away. I wonder where they have escaped to...”
+
+        Climb could not bring himself to tell him that the knights were at the entrance, preparing for a last stand. Renner appeared to be the same.
+
+        “Speaking of preparations, you meant those?”
+
+        “Indeed, those.”
+
+        In the direction those two looked towards, were treasures such as the crown and many books.
+
+        “...So, why Renner, why are you still here? Did that child...not let you escape?”
+
+        “That— Is it not the same for father?”
+
+        “I will not run. That child was just a prince. I was meant to be the one to shoulder that responsibility. Yet, that child...hmmm? Is that sword not...”
+
+        Rampossa III noticed the sword by Climb’s waist. He looked towards Climb’s back and then back towards Renner.
+
+        “The one who served you...the warrior who could rival Gazef, what happened to him?”
+
+        “Brain-san had left this place to do battle with His Majesty the Sorcerer King.”
+
+        “...while I do not believe that he could defeat the Sorcerer King, he should have brought it along even more so than ever. Why, why did he not take that sword with him? Perhaps, with that sword, he could...”
+
+        “I do not feel like...it would be possible. After all, that is an opponent not even the Warrior Captain could defeat. Things have evolved into the way they are already, so even if the Sorcerer King was to be defeated, nothing would fundamentally change.”
+
+        “Is that so...indeed. That is true. If we could not push the Sorcerous Kingdom’s army back, everything else would just be meaningless.”
+
+        Rampossa III suddenly looked out the window and continued.
+
+        “As to why I am still here. I believe that I have the duty to pass on the history of our royal lineage to our conqueror. I must, as the last king, demonstrate to them our dignity.”
+
+        Rampossa III laughed as if he was tired. Well no, he was probably tired in actuality.
+
+        “—Climb. Such is the duty of a king. Take Renner and run. Although it might already be too late, the palace does have hidden passageways out of the capital. The moment the Sorcerous Kingdom’s army makes its way into the palace, make use of those passageways.”
+
+        “—there is no need for that, Climb.”
+
+        Until now, the King’s order and Renner’s had never conflicted with one another. This time was different.
+
+        Climb thought about it for a moment, and did nothing. He just clenched his fists tightly together.
+
+        Indeed, Climb did not wish to leave Renner to die, but following Renner’s orders was more important to him. In any case, if he really wanted to obey this order, he would have let Evileye take her back then.
+
+        “—Climb”
+
+        “—Climb”
+
+        After seeing that Climb had not moved, both of them called out his name. The emotions imbued within their voices however, were completely different.
+
+        “Father, Climb is mine. He will not listen to your orders.”
+
+        “Indeed...it appears to be so...but, Climb...if you truly are loyal, I believe that you should escape with this child. Do it, even if it only allows for the Vaiself bloodline to be passed on for longer. If you escape with this child, as your reward, you may have her hand in marriage.”
+
+        Climb’s eyes widened.
+
+        This suggestion was really alluring to him, causing his heart to falter. To say that he had not fantasized about doing this would be a lie. He had even frequently thought about Renner to {comfort} himself.
+
+        But, he decided that his fate would be to die as Renner’s shield.
+
+        “While the reward is certainly tantalizing...but it is far too valuable for me to accept...so do allow me to refuse your offer...”
+
+        As Climb spoke, he felt like he was throwing up blood.
+
+        He stole a glance at Renner, to see an incredible smile on her face. Surely it was out of praise for his loyalty.
+
+        “...Now then, it is my turn to say why I had rushed here...Father. Please leave the crown to me.”
+
+        “Why?”
+
+        “I believe that we should not just hand over the crown, a treasure that carries with it our family’s history, to His Majesty the Sorcerer King directly.”
+
+        “...He is the man who destroyed this country, so the symbolic gesture of passing on the crown must be done. Also, if things such as the crown continue to be passed down, the history of our family will be preserved. That was my line of thought, which was why I had retrieved these from the treasury.”
+
+        “I think these items should all be hidden in the city. Then, we could say to the Sorcerer King, ’the items that signify kingship were all hidden inside the city, so if you destroy the capital, you risk losing them all.’”
+
+        “...I see. Perhaps this would...be a good plan. Perhaps the acquisition of the crown and the destruction of the capital will become a dilemma for him. Although my life will not be spared, if this could help the people, even if by a little, it shall be done.”
+
+        Rampossa III took the crown off his head.
+
+        “Father, not only that one, but the other one too. I believe that the crown used for the coronation ceremony warrants priority in hiding.”
+
+        “Ah, indeed. That is true.”
+
+        “Also the other items father had brought over. The staff, the jewels used for coronation, and the national seal. Could you leave everything that is symbolic of the throne and the Kingdom to me? After all, the more cards we could play from our hand, the better.”
+
+        “...Mmm. Of course, that is fine.”
+
+        “Then, Climb. Could I trouble you to hide these items?”
+
+        “Of course, Renner-sama. But, where should I hide them?”
+
+        “Yes. I had discussed this with onii-sama way back then.”
+
+        “What? With Zanac?”
+
+        “Yes, father. I actually got this idea from onii-sama. The procedure for hiding these items had been planned out already. However, because he might have gotten the idea from Marquis Raeven, I felt uneasy about it...”
+
+        “Really? That child had thought this far ahead?” Rampossa III's voice trailed as he muttered to himself. His eyes appeared to have moistened a little.
+
+        “So, Climb. There was this warehouse district that had been abandoned because of Jaldabaoth’s attack. There is a small warehouse there.”
+
+        While Renner had explained in detail, her instructions were complicated enough that Climb did not trust himself to find it.
+
+        Renner walked around Rampossa III to use the table to draw an easy to understand map on a piece of paper. It was a simple one, but now he would not have to worry about getting lost.
+
+        “Here is a hidden basement here. Please hide the items inside there.”
+
+        “Yes! I will abide by your order!”
+
+        “After you are done with this—”
+
+        Climb stared intently at Renner’s face, hoping that she would not say something like, “do not come back.” {Please let me stay by your side till the very end.} Had his thoughts reached her? Renner spoke after a prolonged moment of hesitation.
+
+        “Please do — return safely.”
+
+        While they were not certain where the Sorcerous Kingdom’s army had reached, it was highly likely that they had already broken into the capital and were crawling all over the place. In that case, to leave this place was extremely risky. However, Climb would not hesitate. Since his master had ordered it, he must do as he was told.
+
+        “Yes!”
+
+        “You must return unharmed. Do not try to fight. If you see an enemy, run with all your might. Do you understand?”
+
+        It felt like she understood his resolve, but could not place much faith in his capabilities. Renner repeated herself again.
+
+        “Yes!”
+
+        Climb nodded his head heavily. At that point, it looked like Renner was finally relieved.
+
+        “—Good. Now then, father. Given the current situation, it would be hard for him to make it out of the palace...so could you tell Climb?”
+
+        “You wish for me to reveal the hidden passageways from the palace to the capital, correct?”
+
+        “Yes.”
+
+        “I understand. Let me tell him.”
+
+        After hearing the king’s explanation, Climb was truly shocked. He had walked through that tunnel multiple times yet had never detected the presence of those hidden pathways.
+
+        “Climb, It is fine even if you return a bit late. Could you remain cautious and not let these items fall into enemy hands?”
+
+        “Of course, Renner-sama! I will complete my mission even if it is the last thing I do!”
+
+        “After you have hidden the items, even if something worrying came up, do return here as fast as possible no matter the cost. Given the current situation, we do not know when the Sorcerous Kingdom’s army would arrive.”
+
+        While that sentence’s structure was a bit different, she was probably just repeating herself to drill that idea into him. That showed how much she cared for him.
+
+        So Climb, one to do anything to even ease her mind a little bit, straightened himself and positively responded.
+
+        “Of course! I will run back with all my might.”
+
+        “—Good, I will leave that to you then.”
+
+        Renner smiled just as she normally would. Before Climb stepped out of the room, he noticed that Rampossa III had passed a few potions to Renner.
+
+        One could imagine what those were.
+
+        Climb lowered his head and exited the room. He ran towards the hidden passageways.
+
+        Afterwards, he used those passageways to enter the capital.
+
+        It felt surreal. It was as though every inhabitant of the capital had disappeared. That was how silent it was.
+
+        It was then when he heard the roar of some giant beast, but from his current position he could not figure out what that was. The capital was vast, if he did not have the vantage point of the castle or the city walls, it would be difficult for him to figure out what was going on.
+
+        However, to the current Climb, that was not necessary. All he had to do was run full speed towards the warehouse.
+
+        He did not run into anybody before he reached his destination.
+
+        This was an urgent manner, but this place was quite far away. In addition to how cautious he had been on his way here, he had spent quite a bit of time on the road.
+
+        The warehouse was not as big as he had imagined. Climb got near the door and noticed that it was not locked.
+
+        He returned the bell he had prepared back into his bag and snuck in.
+
+        Nothing was stored in this warehouse, it was empty.
+
+        The smell of dust carpeted his face. There were no light fixtures and the windows were shut, so it was terribly dark inside. There were however, rays of light that fell through some cracks, so it was not entirely dark.
+
+        Climb walked through the entrance and held his breath. He concentrated on the sounds that came from the outside.
+
+        He confirmed that there weren’t any sounds coming towards the warehouse and walked towards the wall opposite to him as he had been instructed to.
+
+        There were many empty shelves there. He found the third shelf from the right and forcefully pushed it. At first, nothing happened, but after he applied more force gradually, a click could be heard. The shelf no longer resisted his push and swung open like a door.
+
+        It was totally dark inside, a room without windows.
+
+        Climb put on his helmet.
+
+        With its power, he could make out his surroundings. In the empty room, on the floor, was a handle-like protrusion. Upon raising that handle, a spiral staircase downwards was revealed.      
+
+        At the bottom of the short staircase was a small room with a single shelf.
+
+        It was equally empty as the rest, nothing of substance was on it. The dust that had built up in the room formed a thick layer that covered everything. He placed the royal treasures there.  
+
+        After that, his mission was complete.
+
+        Climb returned to the surface and exited the warehouse.
+
+        He had to run back at full speed now.
+
+        He looked back towards the castle and could not help but mutter, “heh?”
+
+        The castle was snow white. Thick walls surrounded the castle, but they were painted white too. Light shone on it reflected off brilliantly.
+
+        To a third-party, it must have been a beautiful sight, but as one of its residents, this was an urgent situation—
+
+        “Ah! G-great, you weren’t squished...umm...it would be dangerous for you to stay here you know?”
+
+        He heard a child’s voice next to him.
+
+        He looked towards where the voice came from. Atop the warehouse was a girl who was looking down at him. In her hands was a black staff. Her skin tone was dark, she was probably of the race known as Dark Elves.
+
+        “You are…?”
+
+        “...eh, um, umm, ummm. This place is scheduled for demolition...so, umm, because you might get caught up in it, it would be better for you to leave here quickly okay?”
+
+        Now that she had said that, he understood.
+
+        This girl was undoubtedly from the Sorcerous Kingdom.
+
+        His hands, reaching to unsheathe his sword, stopped itself.
+
+        While she did not appear to be strong, it would not be possible for her to have made her way here alone. It would be dangerous to treat her as a simple girl.
+
+        Although he might win this fight, if he was to cause a disturbance here and cause the Sorcerous Kingdom’s undead to gather around, he would not be able to return to Renner’s side. His duty was not to defeat the enemy, but to serve by her side.
+
+        Plus, had Renner not repeatedly warned him about this?
+
+        He wanted to look back at the warehouse, but managed to quell that urge. Since he could not kill her to silence her, he should try his best not to rouse her suspicion.
+
+        Climb turned his back on the girl and ran. Compared to his fear of receiving an attack from the rear, his desire to return to Renner as soon as possible was much stronger.
+
+        Climb began to run. The moment he turned a corner, he heard the sound of buildings collapsing. He had to kill the urge to check what was going on.
+
+        The attack he was watching out for never happened. Climb arrived safely at the entrance to the passageways. While he checked if he was being followed, Climb noticed the plums of smoke rising up to the skies.
+
+        “...The capital is on fire?”
+
+        Because of the houses blocking his light of sight, he could not confirm where the smoke was coming from, but he was certain that it was from more than a couple of sources.
+
+        So that girl was not part of the vanguard, but a sizable contingent of the Sorcerous Kingdom’s army had already made their way in and were pillaging the city.
+
+        So why could he not hear any screams—
+
+        Climb ignored the questions that arose in him.
+
+        He did not have time to waste on these questions. He had to return to Renner’s side and report that he had completed his mission. After that, he could remain by her side until the end.      
+
+        Climb ran through the passageway and returned to the palace.
+
+        Inside the palace, it was quiet and calm. He could not understand why.
+
+        Previously, the castle appeared to have frozen over. That was undeniably the result of some form of attack by the Sorcerous Kingdom. If that was the case, while there might not be many left, there should still be a few knights remaining to defend the place.
+
+        Even though this place was far away from the knights’ defensive lines, he should still be able to hear some sort of noise, even if it was just the sound of a sword clashing against something. Speaking of which—
+
+        {It’s even quieter than before.}
+
+        Compared to before, the silence became even more uncomfortable. Nevermind the palace, the loneliness he felt right now was like if he was the last man in this world.
+
+        Climb intentionally ran with heavier steps to make more noise as he made his way to the king’s room. Perhaps he should have followed protocol in how he opened the door, but Climb did not care anymore. He opened the door with all his might.
+
+        No one was there.
+
+        He looked around. He could neither find Renner nor Rampossa III.
+
+        The king’s room was connected to another room, perhaps they were there. Just as Climb was about to cross the threshold, he noticed that there was a piece of paper on the table.
+
+        It was the same type of paper Renner had used to draw the map.
+
+        He picked it up and looked at it.
+
+        It was Renner’s familiar handwriting, instructions for him to go to the throne room.
+
+        The next moment, Climb had run out of the room.
+
+        As Climb got close to the throne room, he slowed down. The corridor to the throne room was filled with multiple figures on both sides. None of which he had seen before in the palace.       
+
+        Their faces were pale white — women who could not have been human.
+
+        They had to be the Sorcerer King’s subordinates. They did not seem to be antagonizing Climb, who had run at them. Well no, it was more like they were not interested in him at all.
+
+        Should he unsheathe, or should he not.
+
+        Climb could not make up his mind. One of the women spoke.
+
+        “Please enter, last human of this court.”
+
+        After she said that, she shut her mouth in a disinterested manner.
+
+        He had a bad feeling about what she had said, a chill was sent down Climb’s spine.
+
+        Climb ran between the women towards the throne room.
+
+        In the subsequent moment, so much information flooded his brain that he had a sensory overload.
+
+        Sat upon the throne was not Rampossa III, but a skeletal monster that radiated overwhelming pressure — the Sorcerer King Ainz Ooal Gown. To his left and right was a man with a long tail, the Prime Minister of the Sorcerous Kingdom, Albedo, and an insectoid monster that looked like it was made out of ice.
+
+        Not far from them, lifeless and on the floor, was Rampossa III. His clothes were stained dark red and next to him sat Renner, her clothes soaked in blood. On the ground, close by, was Razor Edge.
+
+        The blade of the sword was coated with blood. There was no mistaking it, this was the weapon used to kill Rampossa III.
+
+        “Princess”
+
+        “Climb”
+
+        “Hon,” someone else laughed. A mocking laugh, probably.
+
+        Climb stood between Renner and them and readied his sword. Both of them will probably die right here. To protect Renner till the end in spite of that fact was Climb’s ultimate demonstration of loyalty.
+
+        “In front of Ainz-sama, your head is raised too high up.「Kneel」.”
+
+        Climb immediately kneeled. He could not resist at all. It was more accurate to say that before he had noticed, his body had already adopted this posture. He noticed the one behind him had done the same.
+
+        Renner.
+
+        The image of Renner being mind-controlled flashed through his mind and everything began to click together.
+
+        “You controlled — controlled Renner-sama like this?”
+
+        The tragedy in front of the throne: Renner was controlled and forced to kill her own father. His anger boiled over yet he still could not move. It was as though this body was no longer his.
+
+        “Ahhh, I remember. I have met with him during my duel with Gazef Stronoff. Undo the command mantra.”
+
+        “Yes!「You are free」.”
+
+        With the mental restraints removed, Climb jumped sideways to pick up Razor Edge, which was on the ground. He stood up rapidly, adjusted his breath, and adopted a stance. His opponent, was the Sorcerer King.
+
+        Of course, this was meaningless against the opponent who was able to kill the Warrior Captain at such a speed that he could not follow his movements with his eyes at all. Still, he was Renner’s meat-shield. What good would he be if he did not stand between them.
+
+        The Sorcerer King got up from the throne and walked leisurely towards Climb.
+
+        “You should be grateful that a king, such as I, would be willing to personally duel with you. Ah yes...if I win, I shall be taking that sword.”
+
+        The Sorcerer King walked towards him without a care, he was not on guard for him at all.
+
+        Anger occupied Climb’s body and mind.
+
+        This was all his fault.
+
+        If he did not exist, peace would be the status quo, no one would have died—
+
+        “—the princess would not have had to experience this sorrow!”
+
+        The Sorcerer King looked like he was sneering at him.
+
+        A slash would not be able to reach him. He thought about how the Warrior Captain was slain. What was his best move?
+
+        He held on tight to Razor Edge—
+
+        The Sorcerer King took a step and at that moment, Climb threw Razor Edge with all of his strength.
+
+        It looked like not even the Sorcerer King had expected this.
+
+        As he threw the sword, he lost his balance.
+
+        Climb closed the distance between them, clenched his fist, and punched him.
+
+        His fist was aimed at the Sorcerer King’s face.
+
+        “Climb!”
+
+        He heard Renner mournfully call out his name.
+
+        Skeleton-type monsters being weak to bludgeoning damage was a well-known fact, yet he felt intense pain once his fist connected.
+
+        The Sorcerer King on the other hand, did not appear to be affected by it at all.
+
+        “If this was a fairy tale—”
+
+        The Sorcerer King extended his hand at an unbelievable speed to grab on to Climb’s breastplate. He tried to escape, but he couldn’t even pry his hand open.
+
+        “—passion would awake dormant power, to grant you the ability to defeat me.”
+
+        The Sorcerer King picked Climb up. His resistance did not have any effect, as if he was struggling against a sturdy wall.
+
+        “But — this is reality. Nothing so perfect would happen.”
+
+        He was thrown. Climb’s body flew through the air for quite a while before falling to the ground.
+
+        The impact of his back hitting the floor knocked the air out of him.
+
+        Climb stood up in panic and looked at the Sorcerer King. After tossing Climb, he did not take another step. He did not seem to have considered making a follow-up attack.
+
+        This was exuberance afforded to him by his overwhelming strength.
+
+        “You will die here...you are not worth saving. You, who are without talent nor ability, do not deserve salvation. However, do not despair.”
+
+        The Sorcerer King appeared to be looking at Climb, but also not at the same time. His eyes appeared to be looking somewhere far away.
+
+        “This world is unequal. The inequality you experienced started the moment you were born. The birth of those with talent meant that of course, there are those born without talent. Furthermore, the environment one was born into differs. A rich family versus a poor family, even the personality of your fellow brothers and sisters matter. Those who were lucky will go on to have fulfilling lives, but those who were not, do not. However, I must reiterate, do not despair at such inequalities. The reason for this — is because death is the equalizer gifted to all. That is to say — me. Only the mercy bestowed by the ruler of death to all could be regarded as absolute equality in a world riddled with inequalities.”
+
+        Climb could not understand what he was talking about at all, he was probably telling him to rest in peace the long way round.
+
+        He could not help but be overwhelmed by his presence.
+
+        He is death, a being no living thing could oppose. It was as though Climb was about to be swallowed up by the Sorcerer King’s pride alone.
+
+        The difference between them, on a biological level, was too great.
+
+        Of course, the Sorcerer King, head of a state and one who wielded magic that could easily destroy an army, was entirely different compared to the talentless warrior that was Climb. However, the difference between them was not just so.
+
+        It was like that of an ant, yearning for the skies. That, was the difference between their domains.
+
+        Even so — even though he knew full well that he could not win, he had made his resolve to give his all, to be Renner’s meat-shield till the end of the very end.
+
+        Courage surged through him.
+
+        His languished heart burned once more.
+
+        Yes
+
+        All of this was for Renner.
+
+        For the woman who had saved him on that rainy day.
+
+        For her, who saw him as human—
+
+        “...I see. Those eyes.”
+
+        The Sorcerer King said something strange.
+
+        He must have sensed Climb’s intent to battle. The Sorcerer King exposed his defenceless back towards Climb, picked up Razor Edge which laid on the ground, and tossed it towards him.        
+
+        “Rise up.”
+
+        The Sorcerer King extended one hand and in an instant, a black sword appeared. The length of the blade was around that of a longsword.
+
+        Climb stared at the Sorcerer King without raising his guard while he picked up Razor Edge. To have left openings in this moment could not have been helped. He thought about Gazef’s duel. Right before the fight began, the Sorcerer King had said himself that weapons without adequate enchantments could not damage him, but also that this sword could kill him.
+
+        Even this set — this set of armour granted to him by Renner, which had multiple enchantments imbued on it, could not break his defence. This was a depressing fact, one he had confirmed in that strike.
+
+        “Climb...”
+
+        To Renner, who leaned towards him with worry in her eyes, Climb smiled and whispered.
+
+        “Princess, I will buy you some time. If...you wish, please do it sooner than later.”
+
+        His thoughts were conveyed as Renner nodded her head.
+
+        Climb created some distance between him and Renner before he raised Razor Edge.
+
+        “Have you bid you farewell?”
+
+        “I wish to ask. After you kill me, will you kill the princess too?”
+
+        The Sorcerer King remained silent.
+
+        Climb couldn’t help but find that odd.
+
+        This wasn’t an occasion to be silent. What answered his question was a ”hehe” from the Sorcerer King, a soft laughter.
+
+        “How shall I torment you…? The best way would be to not answer your question.”
+
+        “Sorcerer King!”
+
+        He swung Razor Edge, which was easily caught by the Sorcerer King’s sword. After multiple strikes, the Sorcerer King remained standing where he stood.
+
+        The Sorcerer King did not attack him, he was playing with him instead, like someone would do to entertain a child.
+
+        However, this was fine by him.
+
+        He raised Razor Edge up high and bet everything in this single strike.
+
+        As before, the Sorcerer King parried his attack with that sword of pure black.
+
+        Now was the time.
+
+        To bet everything he had.
+
+        Climb activated his martial arts. Not only that, but he had also activated the ring’s ability too. At that moment, Climb’s combat prowess surged significantly.
+
+        In that case — because the Sorcerer King had gotten used to his usual moments, this strike was more like an ambush.
+
+        He pretended to use all of his strength to swing the sword down, relaxed his muscles, and pulled the sword back with all his might the moment it was blocked. In a single stroke, he thrust it towards the red orb in the Sorcerer King’s stomach.
+
+        He had been thinking since a long time back.
+
+        That was probably the Sorcerer King’s weak spot.
+
+        Even if it was not, if he managed to break it, would that not also count as a form of revenge?
+
+        “—oooof.”
+
+        “—I see, an impressive attack.”
+
+        The attack he had put all of his strength into, was caught dead in its tracks by the Sorcerer King with a single hand.
+
+        Climb felt his shoulder burn, a moist sensation began expanding from it, and in the next moment, the heat turned into intense pain.
+
+        He jumped back immediately, knowing that his shoulder had been slashed.
+
+        The armour given to him by Renner was cleaved through this easily by the Sorcerer King’s blade. That said, it did not appear to have weapon destruction abilities, because the armour itself did not break.
+
+        He could still move his arm, but the problem was that he could no longer do the same attack he just did.
+
+        The thought that he could avenge those who had fallen was but a mere dream.
+
+        “Could Razor Edge break a World-Class Item? I am very interested in the result of such an experiment. If it could damage one, that sword’s value would skyrocket. That said—” the Sorcerer King threw his sword and it disappeared midair, “—I can afford to wait till after I kill you to run those experiments.”
+
+        It looked like the Sorcerer King was about to cast magic.
+
+        Climb laughed. The Sorcerer King chose to use magic against someone like him, so he could not allow his opponent enough time to cast.
+
+        Climb leapt. As he heard the words “[Grasp Heart]”, he felt intense pain, as if his body was being ripped apart from the inside.
+
+        “Outstanding.”
+
+        And then—
+
+        His vision—
+
+        Really—
+
+        Meant—
+
+--------
+Mini-FAQs
+Q: Where are we at?
+A: As of this part: 533/568
+
+Hitori's comment corner: Couldn't find a logical spot to stop yesterday so here's a longer part
+
+Gagarpur might just be a Japanese mispronunciation of the Korean word for frog and with the amount of time I have sunk into this, I don't care anymore.</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,767</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

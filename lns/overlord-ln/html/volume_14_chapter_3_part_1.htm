@@ -1,0 +1,379 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 03/26/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 3 Part 1
+
+	A large number of documents were gathered in this office along with several officials of internal affairs. Their expressions were hard to look at, the reason being their increased workload had taken its toll. Another reason for this would be the stress they felt from their knowledge of the Kingdom’s perilous status.
+
+	Zanac shook his right hand which had been signing so many documents that it started to ache and moved his shoulders around in circles. He could hear his body creak as he did so.
+
+	It seemed that his body, just like the others, desperately yearned for some rest.
+
+	Though he wanted to take a break right now, the amount of work that was being transferred to this office was unfortunately ever increasing.
+
+	Given that was the case, he should either fetch more hands to deal with this or distribute his work to the others. Unfortunately, there wasn’t anyone there that Zanac could delegate his work to. If anyone was to take over Zanac’s workload, it would have to be another member of the royal family.
+
+	Zanac had his own reasons for not requesting help from his father or Renner.
+
+	The truth was, he had access to aid but just couldn’t call upon it.
+
+	Zanac lifted up his pen again, scanned through the document that was placed in front of him, and signed and stamped it.
+
+	After repeating the same routine for the eighth time, a knock on the door was heard.
+
+	Sighs could be heard from multiple officials. Perhaps this was another delivery of even more documents.
+
+	One of the officials, whose heavy breathing sounded unnaturally like a sow screeching, stood up and walked towards the door at a snail’s pace. His movements were so sluggish that it was as though he believed that the slower he moved, the less he would have to work.
+
+	A knight stood outside the door.
+
+	“I’m terribly sorry for bothering you in these busy times, but Renner-sama wishes to speak with Your Highness.”
+
+	It wasn’t what he had expected, but it was still an equally troublesome matter.
+
+	“I am busy, so no. Tell her to talk to me during dinner if she has something to say.”
+
+	Ever since his brother went missing, Zanac and his family had tried to dine together as much as possible. These past few days were the exception, Renner had probably been dining alone for a while. 
+
+	She couldn’t possibly be feeling lonely though. In these times when there was a shortage of maids, she would have dined with Climb and Brain instead. She was probably happier now than ever, perhaps happier than either Zanac or their father.
+
+	“Yes, Your Highness.”
+
+	The knight shut the doors and left, but Zanac knew that Renner would not accept that excuse at all.
+
+	Zanac stopped writing and ordered the official who was about to walk back to his post to stay in place.
+
+	After about a minute had passed, the door was knocked on again and the same knight was behind it with the exact same message as before.
+
+	“I’m very sorry, Your Highness. The princess, she said…If you don’t want her to spread some rumours which may or may not be true, go meet with her at once.”
+
+	Is she seriously resorting to threat? Zanac gave a wry smile. Though he did not believe that his sister would actually do as she claimed, if she was willing to threaten him, he should probably listen to what she had to say. If rumours were actually spread around, no doubt his workload would increase even further.
+
+	He just had to act as though he was being forced against his will.
+
+	“Got it, let her in but no one other than Renner. Those two, just let them wait in the adjacent room.”
+
+	“Yes, Your Highness.”
+
+	From the knight’s immediate response Zanac could tell that his predictions were correct, those two had tagged along.
+
+	Brain was the Kingdom’s best warrior, unparalleled in his strength. Climb was also much stronger than a regular warrior. To have those two stay inside the palace all day and be Renner’s bodyguards felt like a waste of talent.
+
+	Those two were not under the palace’s direct employ but were instead paid through Renner’s privy purse and thus were her direct subordinates. Zanac had no say about their assignment.
+
+	After the knight had closed the doors, Zanac turned to the officials still toiling away in the room and said,
+
+	“You all, my sister is due to arrive soon, what will I ever do with her? Rejoice, for a break is upon you all. Three hours starting from now. Rest up and return rejuvenated.”
+
+	The officials gave their tired smiles and shambled out with heavy steps as if they were zombies.
+
+	Princess Renner entered soon after. Unlike the officials who had just left, she had on her a radiant smile.
+
+	“Onii-sama, forgive me for speaking out of turn, but those officials of internal affairs could be much more efficient if you let them rest well. People tend to make more mistakes when they are tired. Speaking of which, is onii-sama alright?”
+
+	Zanac rubbed his stubble-covered chin. He had worked an equal amount of time as those officials so he naturally appeared as tired as they were. He did want to take a rest, but as a superior, way too many things depended on him.
+
+	“I honestly think we should hire someone who could forge my signature.”
+
+	“There was a person who could forge father’s signature, should I fetch him?”
+
+	Renner stared silently at Zanac. He knew what her question meant, but it was better to check to be sure.
+
+	“—what do you mean?”
+
+	“Is our father still well?”
+
+	Zanac had a wry smile.
+
+	“Oy oy...you think I would plot to kill our father? In this current situation…? Father was not feeling too well, he’s resting in his room. I doubt he could rest well if he was reminded of his duties as king. Which is why you, as the princess, should not meet him for now. Sorry~”
+	
+	Renner’s smile matched his. Upon seeing that, he knew she understood it all.
+
+	“Onii-sama, between us, there is no need to lie. Onii-sama, without Marquis Raeven’s soldiers, has enough manpower to place our father under surveillance. The ministers of the interior and military affairs must have already joined onii-sama’s side...What does father plan to do?”
+
+	“He still wants to talk it out with the Sorcerous Kingdom.”
+
+	Because of that, Zanac had to step in as the King’s regent and take care of everything else the best he could.
+
+	Since he had locked his father up, he had to take all of these matters into his own hands. If he still requested help from his father given these circumstances, he would truly be the most pathetic man ever.
+
+	“Mmmm...Still, I understand father’s line of thought. After all, he had witnessed 200,000 men being instantly wiped out on the battlefield...”
+
+	Plus he had lost Gazef Stronoff and his own son. Zanac did not give voice to those thoughts but just grumbled in his heart.
+
+	“It is not that I cannot relate to his desire to settle this through diplomacy, to reduce the number of casualties to the lowest possible, but things have already progressed to a stage where a resolution through diplomacy is no longer possible.”
+
+	Zanac took out a huge sheet of paper and spread it on the table.
+
+	It wasn’t regular scrap paper, but a lavish piece of thin and white paper. On it was the full map of the Kingdom made through [Copy]. 
+
+	“Look. These are the cities in the Kingdom that had already fallen to the Sorcerer King’s conquest.”
+
+	Numerous ‘X’ marks dotted the northern and eastern sides of the Kingdom, more than half of the cities were marked. Someone well versed in cartography would know from the size of those cities alone, they were home to a large number of people. Those who were intelligent enough should have already realised that if this map had included villages, the number of ‘X’s would be multitudes higher.
+
+	Zanac traced a path on the map with his fingers.
+
+	“Though the Sorcerous Kingdom appeared to have not been making any moves since the war had begun, they had actually been invading the north.”
+
+	Renner looked at the country Zanac’s finger stopped at.
+
+	“To put pressure on our neighbours like the Council State, to prevent any reinforcement from being sent here, right?”
+
+	“That’s correct. We had thought that they had not been moving at all and that the declaration of war was just an empty threat. While our naive father was attempting to negotiate with them, things have already developed to this stage. Cities were destroyed and our people were massacred en masse.”
+
+	Zanac gnashed his teeth and made an audible sound.
+
+	“...Such barbarity. Absolutely unforgivable.”
+
+	Those who could tolerate this kind of treatment were not fit to be called royalty.
+
+	“So the Sorcerous Kingdom has no intention of communicating with us. Surely they’re planning something unprecedented? Right?”
+
+	“You’re right, what will happen next — perhaps a more open act of aggression.”
+
+	Zanac nodded his head.
+
+	That was why he had been busy formulating a call to arms to send to every noble within the country.
+
+	“Tell me, o sister of mine, please use that brilliant mind of yours. Why did we not notice the Sorcerous Kingdom’s invasion? Why did we not receive any intel of the invasion before the northern city of E-Naüru had repelled the enemy’s attack?”
+
+	When the Sorcerous Kingdom besieged a city, it was said that not a single soul was spared from the resulting massacre. However, to have made sure that no leaks had occurred was a feat that was pretty much impossible. After all, merchants and travellers still strutted around even during wartimes.
+
+	What had they done to seal everybody’s mouths?
+
+	Was it some sort of spell by the Sorcerer King?
+
+	“Onii-sama could smell a whiff of it too right? The Sorcerous Kingdom had placed all of our sources of intel on lockdown.”
+
+	“Ah...so you think so too. So if that was the case, these ‘X’ marks might not be true either.”
+
+	“If this wasn’t something the Sorcerous Kingdom had done, things would be much easier to explain. We may have a traitor amongst us.”
+
+	The primary possibility was that some official of internal affairs had betrayed them and were reporting false intel. The other possibility was that some of the Kingdom’s nobles had swung over to the Sorcerous Kingdom’s side and were submitting false reports.
+
+	Zanac’s finger continued to trace lines upon the map. He pondered, which noble could be corrupted to manipulate such a massive amount of intel.
+
+	Zanac’s finger stopped on a city and he moved it aside to not block it.
+
+	“...Oh sister of mine, surely you have figured it out already, which noble had betrayed us?”
+
+	“Can’t it be that other possibility?”
+
+	She could see through him completely. Though in the past he had found his sister’s intelligence to be annoying, she felt more reliable now than anything else.
+
+	“...I could count on one hand the number of people who would have this much control over the intel that flows into the capital. The minister of military affairs for example, but not even he could control the flow of merchants and travellers in and out of the capital. It is impossible for anyone within the capital to have the ability to lock down our intel like that.”
+
+	“If you understood this much, surely onii-sama already has the answer in mind...It’s Marquis Raeven.”
+
+	“—How? Impossible.”
+
+--------
+Mini-FAQ
+Q: Where are we at?
+A: As of this part: 299/568
+
+Hitori's comment corner: 
+This small part has been brought to you by: my dumbass managing to cut two fingers trying to open a pack of instant ramen.</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,764</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

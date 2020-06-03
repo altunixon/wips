@@ -1,0 +1,352 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 03/11/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 2 Part 3
+
+	In a room on the ninth floor of Nazarick, approximately a month after the war was declared.
+
+	In one of the rooms that was reserved for potential new guild members were Ainz and the Floor Guardians. They sat around a C-shaped desk, reading through the documents prepared for this meeting.
+
+	As a side note, it wasn’t just the Floor Guardians who were there, behind each of them stood an equal number of Ordinary Maids and behind Ainz stood Pestonia. They were there to take care of the occasional odd job and thus stood silently behind them all.
+
+	Ainz could not grasp the reasoning behind why they were silent, apparently it was to symbolize that they were tools, ready to be used. For that reason, Ainz paid them no attention at all to satisfy their wishes.  
+
+	“Umu…”
+
+	Ainz read the documents in earnest but felt as though his focus was being sapped away by Pestonia’s presence behind him. Still, he tried to focus his attention on the task as best as he could.
+
+	Since they had to exchange their opinions on the subject matter later on, it was natural for Ainz to have anxious thoughts such as, {how embarrassing it would be if I were to say something crazy later on.}
+
+	In any case, this was different from the documents that Albedo usually sent from Nazarick regarding topics such as politics, economics, and law; this was something that even someone like Ainz could understand.
+
+	Even with the utmost amount of kindness, Ainz’s intelligence could only be judged as average at best. To ask someone to find the qualities within him that would qualify him to rule over a country would be to impose unto them the impossible. That was not to say that he was lazy, in fact he was the diligent type to try his best at everything that was thrown at him. This was further exacerbated by the misunderstandings held by the NPCs of Nazarick, whose intelligence was incomparably higher than his. In order to meet their expectations, Ainz could not afford to be lazy.
+
+	At first, he was doing so out of his desire to keep the NPCs loyal, but now it was more out of his desire as a father figure to not disappoint his children.
+
+	It had come to a point where he was reading books on self-development and business. He had also been trying his best to improve himself in combat tactics, one of the only subjects he could claim expertise in.
+
+	Though it was safe to leave everything up to Albedo and the rest, there were still a lot of things that they found to be necessary to consult with Ainz. If he were to say anything stupid when that time comes and they were to respond with, “As Ainz-sama wills, it shall be done,” and take immediate action, it could cause serious collateral damage. To avoid that outcome, Ainz’s personal growth was imperative.
+
+	Because of this, Ainz had taken a particular interest in this document and was even more focused on it than he would have usually been.
+
+	Ainz, upon finishing most of it and confirming that the appointed time had come, said,
+
+	“Now then. Has everybody finished reading?”
+
+	“Yes, Ainz-sama.”
+
+	As their representative, Albedo took a glance at everybody and replied.
+
+	“Excellent. Now — wait, before that. Though it has been a month since we declared war against the Kingdom, they have not noticed our invasion at all. They must still think that our forces are still holed up in E-Rantel. Demiurge, good job. Your ability to deftly manage everything so that not a single piece of intel was leaked was seriously impressive.”
+
+	“I’m grateful to receive my master’s compliments.”
+
+	“On the same note, to have threatened a portion of the Kingdom’s nobility into rebelling was also a splendid accomplishment, Albedo.”
+
+	“Thank you very much, Ainz-sama.”
+
+	Albedo, like Demiurge, lowered her head.
+
+	“—Umu. This current matter is of greater importance, so report to me in detail about what you have done after this.”
+
+	Ainz knocked on one of the pages in the document with the back of his finger and confirmed that the both of them had understood what he had meant. He nodded in a fashion that suited his status as overlord and scanned the guardians before him. Though the maids who were within his sightline were looking towards him with serious eyes, he resisted the urge to pay attention to them.
+
+	“Very well then, let us exchange our opinions on this matter. First of all, the fact that we were able to conquer cities even when this tactic was employed pleases me greatly. Cocytus, you’ve done well.”
+
+	“I. Am. Grateful. For. My. Master’s. Praise. But. This. Was. Only. Possible. Because. Of. The. Undead. Army. Ainz. Sama. Had. Lent. Me.
+	That. Is. To. Say. That. This. Was. Ainz. Sama’s. Accomplishment.
+	It. Would. Not. Be. Incorrect. To. Say. That. I. Did. Nothing.”
+
+	“It is just as Cocytus has said—”
+
+	Ainz extended out his hand to stop Albedo before she could finish her sentence.
+
+	“—there is no need to flatter me. Cocytus, just candidly accept my appreciation. I have said as much, you’ve done a great job this time.”
+
+	“Yes! Thank. You. Very. Much!”
+
+	“Excellent. Now then, we have been able to subjugate the Kingdom’s cities without any trouble at all.”
+
+	At the onset of the war between the Sorcerous Kingdom of Ainz Ooal Gown and the Kingdom, they had adopted the tactic to attack the eastern part first and then march towards the north. The western side of the Kingdom — where the capital resides — was not marched upon at all.
+
+	The main purpose of this tactic was to prevent reinforcements from other nations from interfering with the war, and to encircle the Kingdom by gaining control over the border with the Council State and others.
+
+	This was Cocytus’ strategy, a move that Ainz himself also considered to be exceptional.
+
+	“I have found this result to be more than satisfactory — Now then, Demiurge and Albedo, regarding the information lockdown, the report indicates that it is highly likely that that plan will succeed. My question is, under what condition will it fail? Demiurge, answer me as their representative.”
+
+	“Yes! We have fully established surveillance on every street, we have also sent shadow demons to scout out the neighbouring cities. But, if there are hermits or druids, people who live outside of civilization, we would not be able to keep an eye out for them. If information were to leak, it would be from them.”
+
+	“Then discuss the matter with Albedo, strengthen the surveillance net until those you have mentioned can also be found.”
+
+	“Yes!”
+
+	“Now then, next is—” Ainz switched documents and continued flipping, “umu...a few cities have perished already, huh?”
+
+	Within these pages were exhaustive documentations on who used what strategy to completely destroy which city. The most recent entry was about a city that was destroyed by Cocytus.
+
+	“...To fearlessly attack a city with a small force, flawlessly destroy the city, and butcher all of its inhabitants. Just like Cocytus had done, the rest of you have also thought up various kinds of ways to conquer city after city and village after village. I am truly impressed.”
+
+	The Sorcerous Kingdom had initiated a brutal war in which their policy was to completely destroy every city and village in their way and massacre all of its inhabitants. All that was left behind after the Sorcerous Kingdom army’s unanticipated attack was lifeless piles of ash and rubble.
+
+	Speaking of which, Ainz had suddenly become more conscious of someone’s gaze, which should have been fixated on him.
+
+	He wasn’t doing these horrendous and ruthless acts because he wanted to, there was a purpose behind them. {Hopefully she could come to understand it,} Ainz thought to himself.
+
+	“Thank you very much, Ainz-sama.” Albedo lowered her head, prompting the other Floor Guardians to follow suit. “To meet Ainz-sama’s expectations from this day forward, we will devote ourselves wholeheartedly to making improvements.”
+
+	“—Ah, umu. I gratefully accept every Floor Guardians’ determination and loyalty. Next is—”
+
+	{That’s about it, right?}
+
+	Ainz faked a cough and continued,
+
+	“—but, I am concerned that none of you have failed.”
+
+	Before the guardians could react with their baffled expressions, Ainz added,
+
+	“Cocytus, you tasted defeat during the battle with the lizardmen. I assume that you learnt a lot from that experience?”
+
+	“It. Is. Just. As. Ainz. Sama. Has. Surmised.
+	I. Learnt. A. Lot. From. That. Experience.”
+
+	“That was what I was talking about, you learn more from your failures. No, I’d argue that there are some lessons that could only be learnt from failures.”
+
+	This was true back in Yggdrasil, one would only think of how they could improve if they were to lose.
+
+	Job resets, different equipment, and new tactics. If one were to always win, they would become complacent, numb and careless. They would have lost their drive to self-improve.
+
+	{Though there were exceptions to this rule like Touch Me-san.}
+
+	He had not experienced defeat all that often yet continually strived to become stronger. A man who sought out the best job synergies to min-max his performance to the point of obsession, should be considered an outlier when thinking of the average player. 
+
+	Putting those exceptions aside, Ainz believed that there existed some things that you could only learn through defeat.
+
+	That was why he was hoping for some failures in their city-conquering efforts.
+
+	This was a part of the plan where failures would not have mattered much, they could retry as many times as they wanted. They had to be prepared for a future battle that was bound to happen, one in which if they were to lose, it would amount to a complete defeat. They had to fail now to build up enough experience in order to avoid failing when that time comes.
+
+	Since they were incurring a massive loss of life, it had to result in Nazarick gaining some form of a benefit. That’s right, the lives lost should be used in the most beneficial way possible.
+
+	There was one other thing — Ainz decided that he should make preparations for this after he had heard the wishes of those two.
+
+	{Let’s go, this next thing will determine whether I’ve won or lost.}
+
+	“Those who are wise—” He couldn’t think of what to say after that, he had forgotten the script he had prepared. “Forget about that. Those who are stupid, learn through their experiences. Now I’m not saying that you all are stupid, but I am pointing out the fact that even idiots could understand the necessity of collecting experiences.”
+
+	Ainz was disappointed in himself.
+
+	Why did he forget what he wanted to say during this crucial moment? Why was he this useless?
+
+
+--------
+Mini-FAQ:
+Q: Where are we at?
+A: As of this part: 196/568
+
+Hitori's comment corner: I made a mistake in the last part but since it was a single phrase I didn't really feel like re-doing the paste. Brain's interpretation of what the silent swordsman mumbled should be "I'll be under your care" instead of "please take good care of him".
+
+Burnt out from the amount of work I had this week, next week should be a bit better. Tomorrow's update will be usual length</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

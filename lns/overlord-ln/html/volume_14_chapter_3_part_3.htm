@@ -1,0 +1,550 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 04/07/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 3 Part 3 (Revision)
+
+Changes:
+-Semantics (minor)
+-One missed paragraph near the center (major)
+
+2
+
+	The Sorcerous Kingdom had finally begun their westward invasion. City after city and village after village fell in their wake. They were beelining towards the capital, albeit at a painfully slow rate.
+
+	The larger an army was, the slower it would march. However, according to her companion, Evileye, this should not apply to the Sorcerous Kingdom’s army, which was completely comprised of the undead. She believed that this was done to stress out the Kingdom’s inhabitants.
+
+	The stress of an invading army had already caused chaos to break out within the capital and many had died as a result. After that had happened, the people of the capital had two options.
+
+	The first was to flee the capital and move towards the opposite direction of E-Rantel — the west.
+
+	The other option was to remain in the capital, shut their doors, and never come out of hiding.
+
+	As to which option was more popular, the overwhelming majority of people chose the latter. Those who chose the former were all people with the capital, connections, or skills to guarantee their survival even in faraway lands.
+
+	That was why more than 95% of the capital’s population chose to stay.
+
+	But, that was only true till yesterday.
+
+	The royalty had put up a decree.
+
+	The decree was that due to the ever-encroaching army of the Sorcerous Kingdom, the city required more manpower to defend it. All able-bodied men had to join the battle. It was essentially a draft.
+
+	Of course, there were those who feared the battlefield and so still chose to hole themselves up, but the amount of people who believed that if they were to not contribute to the war effort, their loved ones would die, held the majority.
+
+	The fiery passion of the people began to spread within the capital, those affected by it started to descend into madness. The streets bustled with men preparing for war. Fathers and their sons alike were soldiers. Those who wished for better rations while they were away made the culinary industry boom. This was all exacerbated by the people’s knowledge that the royalty had ordered every merchant within the city to keep food prices low.
+
+	The members of Blue Roses shuffled through the crowd.
+
+	Lakyus had a suggestion for her companions behind her.
+
+	“I said, guys, I can handle it on my own. The request did not specify who should go, but that doesn’t mean that all of us have to move out at once. I bet everybody is busy, right? How about we go our separate ways here?”
+
+	“...What is up with you, Lakyus? Is there a reason why you don’t want us to tag along?”
+
+	Lakyus forcefully adopted a smile upon hearing what Evileye had said. Though in her mind she had thought, “how keen of you!” she did not give voice to that thought. Evileye was fine in that regard, Tina and Tia were much keener than she was. Thank God she wasn’t facing them instead.
+
+        “I understand what Lakyus is feeling right now. I heard that Azuth-danna was coming too, right?”
+
+        Lakyus’ felt her heart drop for a moment.
+
+        That was correct. Lakyus’ uncle, the leader of the Adamantite-ranked adventurer group Red Drop, Azuth Aindra was invited alongside them.
+
+        “Oh, you’re family. There must be a lot you two want to discuss in private, right? We understand.”
+
+        Nice, their confusion led them away from the real reason. Lakyus concurred with what Gagaran had said,
+
+        “That’s right. Could you guys just do this for me? He didn’t even look for me after he came to the capital. So—”
+
+        “How perplexing.”
+
+        “Unbelievable.”
+
+        “Eh?”
+
+        Lakyus looked towards the twins.
+
+        “You two are related and both are leaders of Adamantite-ranked adventurer groups. Given the current situation he still did not tell you about his return to the capital, so how did our requestor find out about it?”
+
+        “If he was related to Red Drop, he should have said so. But, that requestor said nothing at all.”
+
+        Last night, a man of insignificant stature showed up at the inn the Blue Roses were staying at, told them that they had a job request, and to head to this location. To have directly approached them rather than go through the Adventurer’s Guild was an act suspicious enough that it made Lakyus want to reject his offer. However, upon learning that Azuth of Red Drop would be there too, she had to show up as well.
+
+        “That’s right. This is beyond suspicious, this could be called a conspiracy even. It could be a lie to bait us in or something.”
+
+        “Yeah. Given the possibility that this could be a trap — even though you are strong, there are still some things you can’t handle alone. If this other party is trying to harm us, we should try not to get picked off one-by-one.”
+
+        “Guys...”
+
+        Lakyus was happy that everybody was so worried over her. But—
+
+        “Also, we also want to meet with that hero-senpai.”
+
+        “I’ve only heard of his name but have never met with him in the past. If you’re related to him, it should be easy for us to meet with him, right?”
+
+        Lakyus felt her stomach collapse in on itself.
+
+        While her uncle wasn’t exactly a bad guy, he couldn’t be called a good person either. Overall, what she was certain of was the fact that he was someone who could only be a bad influence on children.
+
+        When Lakyus had met with him back when she was still a child, he appeared to be normal but that might have been him just hiding his true nature. Perhaps his screw came loose during his adventures?
+
+        She only had one solution to things that she could not understand — though this wasn’t exactly something God would bother with — and that was to pray. Other than that, there was nothing she could do about it.
+
+        Her uncle was the type to act all honest and upstanding when meeting someone for the first time. He was also the type to spout corny lines like, “if you long for a hero, then it is that hero’s duty to grant your wish.”
+
+        She could only hope that he would do the same this time.
+
+        Lakyus and company arrived at the inn they were told to go to.
+
+        The business around here seemed to be quite run down and the place was just dirty in general.
+
+        The doors to the inn were built well and surprisingly heavy.
+
+        Right after Lakyus had pushed open the door, Tia and Tina tapped her twice on her waist.
+
+        It was a signal for her to be on alert. They must have noticed something.
+
+        Opposite the door was the counter yet they could not see any evidence of tavern-like business was being conducted here.
+
+        That meant that this place was remote enough that this establishment could not operate as a tavern, but only as an inn.
+
+        Lakyus felt that everybody had switched modes due to the eeriness of this place. They were prepared for combat to break out at any second.
+
+        Lakyus spoke to the aloof man behind the counter.
+
+        “...We are the Blue Roses, here to meet with our client.”
+
+        “Go to room 301. Mister Azuth of Red Drop is already there.”
+
+        Was he really here? It was time to find out.
+
+        Lakyus thanked him and immediately ascended the stairs to the side.
+
+        The inn was incredibly silent. They did not cross paths with another person the whole way there, nor did they hear any sounds at all. Was it because the walls had great sound-isolation properties or was it because the inn was actually empty?
+
+        The group reached the third floor and found the amount of rooms on the floor to be surprisingly low. The rooms on this floor were probably huge.
+
+        Lakyus knocked on the door that had a sign marked with the number 301.
+
+        “Uncle, I’m Lakyus!”
+
+        After focusing her ears, she faintly heard a man’s voice on the other side of the door saying, “come in.” The volume of the voice was so low that she could not tell if it was her uncle’s or not.
+
+        After blocking Tia and Tina, Lakyus pushed open the doors herself.
+
+        The interior of the room was vastly different from its exterior.
+
+        The room was filled with exquisite and heavy furniture, much more luxurious than Lakyus’ inn. To be honest, that creeped her out. This inn was terribly suspicious after all.
+
+        They had not even finished surveying the entire room when a voice was directed towards Lakyus.
+
+        “Aw, Lakyu! Long time no see!”
+
+        “Unc…”
+
+        That was indeed her uncle’s voice.
+
+        Lakyus forcefully slammed the doors shut towards the direction her uncle’s voice had come from.
+
+        “W-what’s going on, Lakyus?”
+
+        Gagaran was the first to speak.
+
+        Everybody must have heard her uncle’s voice already. It was hard for her to say that nothing was wrong after that display.
+
+        “Guys, I feel like I should meet with my uncle alone after all.”
+
+        “This girl...Are you seriously saying such things even after we came all the way here.”
+
+        Evileye’s dumbfounded voice was to be expected.
+
+        Lakyus looked at everybody’s expressions. Evileye had spoken as their representative, she could tell that the rest of them had the same thought from their expressions alone.
+
+        Then—
+
+        “Sigh, guys. Let me make it clear. My uncle is an odd individual.”
+
+        “...The leader of Red Drop?”
+
+        Lakyus put on the stern expression as expected of a leader and nodded upon hearing what Tina had said, she then looked towards the others. They were confused, but having known Lakyus for a long time, they knew her to be honest. After she had parsed that from their expressions, Lakyus opened the door again.
+
+        There was a shiny velvet chaise longue in the room.
+
+        On it sat a man, a man she knew well — it was Azuth Aindra in the flesh.
+
+        His upper torso was completely exposed, one could clearly make out his well-defined abs and puffed-up pecs. This wasn’t exactly how one should present themselves in front of their client yet it was not the reason why Lakyus stopped her companions from advancing forward.
+
+        On top of Azuth’s body, to his left and right, were two half-naked women snuggling up to him.
+
+        No, they could not be called half-naked. Their voluptuous chests were fully exposed and though they were wearing undergarments, they were just strings that barely covered up anything at all.
+
+        From their appearances, they appeared to be high-class escorts.
+
+        Erotic outfits that were likely taken off recently were strewn across the ground. Azuth held both women in each of his arms, his hands were latched on their breasts, rubbing them.
+
+        “Uncle...your niece was summoned here by the same client. Can’t you welcome me in a more appropriate manner?” Lakyus said.
+
+        However, Azuth’s hands did not leave the breasts of those women as he continued to knead them without giving it much thought. The women did not seem to mind Lakyus’ group at all but just uncaringly continued on with their soft moans.
+
+        This attitude honestly enraged Lakyus a little. If these women had been procured by their client, Lakyus would like to have a word with them.
+
+        “Naaah, I thought that you guys would come a bit later. Uhh, I'm not actually doing it on the bed anyway, so why should it matter?”
+
+        “Of course it should!” Lakyus did not bother to turn around to check her companions’ expressions.
+
+        “...Really?” Azuth’s had a confused expression, yet he did not stop rubbing the women. “You’re just too inflexible in your ways of thought! It is in every man's nature to want to fuck beautiful women. My children would probably be born with the same gift too. Don’t you know that it’s important to ensure that our bloodline continues on?
+
+        “Hmmm, even though you’re high-born, this kind of mentality is still so deeply ingrained in your heart?”
+
+        Upon hearing what Evileye had said, Azuth put on a displeased expression and stared at her. Though they could feel a sense of pressure from his gaze alone, none of Blue Roses backed down. To Evileye especially, it felt just like a soft breeze. She continued,
+
+        “...Sigh. From your expression alone I can tell that was bullseye. They call your hero but you’re no different than a child. Actually, could it be that the reason why you abandoned your status as a noble and chose the life of an adventurer was precisely because of you being the type of person that you are…? Anyways, this is no attitude to receive your clients. Ladies, begone.”
+
+        “—What’s with this child?”
+
+        The woman laying on the right glared at Evileye.
+
+        “Sigh, what a bother. Hey, Aindra...Is the room on that side still vacant?”
+
+        Evileye pointed towards a door that wasn’t the one to the corridor.
+
+        “Ahhh. That’s a bedroom, I’ve checked it already.”
+
+        “Is that so? Then send them there.”
+
+        “What’s with this child? What is she trying to do?” The woman to the left glared at Evileye with an angry expression. “Don't you act all high and mighty now, you’re just a brat who won’t even dare to show their face.”
+
+        “...sigh. [Charm Person]. Go.”
+
+        “Ah, yes. Understood.”
+
+        The woman on the left stood up immediately, prompting the woman on the right to take on a shocked expression with her mouth wide-open—
+
+        “You too. Don’t forget the clothes on the floor.”
+
+        Before the woman could respond, her [Charm Person] had already been cast. The women obediently walked into the adjacent room.
+
+        Azuth pouted and raised his shoulders. From an adventurer’s perspective, what Evileye had done was no different than someone drawing their blade, yet he did not appear to fault her for it. Though she did not want to admit it, Evileye saw him as pretty lenient in that regard.
+
+        “Evileye...Good Job!” Tina raised a thumb to Evileye, “to be brave enough to let women who could have been assassins get this close to you, as expected of an Adamantite-ranked adventurer.”
+
+        “Were they?”
+
+        “We were trained to do those things back then as well. Women who were not gifted in raw power or arcane talents could only resort to weaponizing their femininity. Though Gagaran cannot relate at all, I’ll still explain their methods. First—”
+
+        Evileye tuned out of Tia’s explanation and spoke to Lakyus instead.
+
+        “It would be troublesome if that wasn’t done. Well, I won’t interrupt you with this topic anymore. Speak of whatever you want I guess.”
+
+        “Thank you, Evileye. Now then...haaaah...” she was already exhausted before she had spoken a single word, “Now then, uncle, our client this time around is extremely suspicious. Who are they?”
+
+        “Hmm? Oy oy, you came here without knowing about them? Hmm, they’re someone with a massive organization behind them, probably.”
+
+        “Probably? Speaking of which, are they someone you are familiar with?”
+
+        “I haven’t met them in person. If they knew their manners, they would have given me their name. Hmmm, if they intend to hide their identity, then—” Azuth smiled, “they must be someone shady. So, what are you planning to do?”
+
+        “What do you mean what do I plan to do?”
+
+        “If you guys want to fle— leave this place, you can use the path I planned out.”
+
+        “We do not intend to leave.”
+
+        Lakyus felt everybody’s gaze on her.
+
+        “...Pfff. Think over it. The Sorcerer King’s army has killed every civilian along its way towards here and razed the cities too. To think that the capital would be any different, aren’t you being a little too naive?”
+
+        “Then, uncle, let us fight side by side!”
+
+	“It’s impossible. Because I did not confirm his power directly, I could not say for sure. But if the rumours are all real, I— we can’t win against that guy. Only a monster could fight that monster, it would be unwise for humans to intervene.”
+
+        Azuth sighed tiredly. Lakyus had never seen her uncle like this.
+
+        “...I knew this was a waste of time, that was why I did not bring the rest of the team along. I also told my brother to run away.”
+
+        “But...none of them did, right?”
+
+        “Haaah. What a bunch of...idiots. But, he did put his child under my care. They were taken by my companions to the Council-State and are probably there already.”
+
+        Just as complicated emotions arose in Lakyus’ heart, Tia nervously said, “boss”. At the same time, a man’s voice came from the corridor, “You’re all on-time!”
+
+        The three who had been standing by the door, Tia, Tina, and Gagaran, appeared to be pushed along by an unseen power into the room. A man and a woman followed after them.
+
+        The one who walked in front was a young man.
+
+        All ten of his fingers had rings adorning them. A gentle smile shone from his face.
+
+        Behind him was a tired woman. Her clothes were loose and she walked in a way that said she did not want to walk at all. An unusually giant hat sat on her dome, covering most of her face.
+
+        Lakyus raised her guard.
+
+        Her companions were being suppressed on a biological level — that is to say, from raw power alone. Both of the visitors were capable of giving the world-famous Adamantite-ranked adventurer Lakyus a fright she could not put into words.
+
+        Yet, once the person behind them showed up, the atmosphere changed more so than ever.
+
+        That man’s giant body slowly inched its way into the room. His appearance was that of an axe-wielding barbarian. An intense, overwhelming pressure emanated from him that made them feel as though the space around them was being distorted.
+
+        The two in front of them were indeed strong.
+
+        But, that man is far more powerful than them both.
+
+        Lakyus could not move, as if she was being suffocated.
+
+        As an Adamantite-ranked adventurer, she had defeated numerous powerful monsters and demi-humans yet they all paled in comparison to this man. He might even be stronger than the skull-wearing demon that appeared during Jaldabaoth’s disturbance.
+
+        That man was probably the bodyguard of those two.
+
+        People as strong as them, if they did not belong to any organization, would inevitably cause rumours about them to spread. If that was the case, what was behind them must be an enormous, national-level organization to be capable of hiding information about them completely.
+
+        “...We were right to bring our equipment along.”
+
+        “...every single one of them is stronger than us.”
+
+        “Haaah. I don’t remember hearing about people like them within the Kingdom.”
+
+        “Oy oy oy, you’re late already so don’t go around spreading that dangerous aura. Did management mandate that you do? Do something this boring?”
+
+        The woman Azuth was mocking objected,
+
+        “To bring whores along, how impressive, old man. This is not a love hotel though~”
+
+        Azuth responded in kind to her,
+
+        “Hmph, this place was the exact reason why I called them over, I wanted you all to be as disgusted as I was.”
+
+        “Tsk-” The woman snapped her mouth shut as she adopted an expression that was hard to look at.
+
+        She did not object to what Azuth had said, meaning that this inn was indeed connected to them. There were only two countries that had the capability to set up national-level organizations. One was the Council-State, the other was the Theocracy.
+
+        The latter was far more likely.
+
+        “Well well, if you all will just end this right now, I would be very happy.”
+
+        “Quie-chan...sigh, Quie-chan is the lead this time so I’ll just listen to you.”
+
+(TL’s Note: Quiesce, Clementine’s brother)
+
+        After being scolded by the gentleman, the woman forced herself to shrug and nod along.
+
+        “Azuth-sama is absolutely correct. You took time out of your busy schedule to meet with us yet we were the last to arrive. I do apologize to your esteemed person.”
+
+        “Hmph.”
+
+--------
+Mini-FAQs
+Q: Do you mind if I use your work to TL it into [insert language]?
+A: Not at all, send a link to it to the email too.
+Q: Why aren't you skipping the parts that have already been translated?
+A: First of all, I didn't do those parts, @Splitz9842 did (on a side note: god damn you guys managed to annoy that guy with your requests in record time. Thank god I'm staying anon). Secondly, I'm a TLer, not a sniper, I want to take my time with these. Lastly, from what I've read, Splitz's TL suffers from an issue I've had for a while too, explanation down below.
+Q: When's the next update?
+A: Day after tomorrow, don't feel like staying up late to proof what I have on hand rn.
+Q: Where are we at?
+A: As of this part: 320/568
+
+Hitori's comment corner: Missed the line from Tina during the copy-paste, thanks PDF guy :)
+
+&lt;explanation&gt; So, basically, it's harder to keep track of where you left off while reading text in the traditional orientation. I tend to miss segments of a sentence or entire sentences while moving my gaze between the TL and the text, this leads to some missing parts (though this specific one was caused by a pasting issue) which hopefully, were picked up during the proofreading process. If you do spot a missing part somewhere, just post about it and I'll have a revision up when I see it.&lt;/explanation&gt; 
+
+btw, Booru anon, your revision links still go to the original pastes.</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,764</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

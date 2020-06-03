@@ -1,0 +1,317 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 04/23/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 4 Part 5
+
+2
+
+        Climb, Renner, and Brain were informed by the few remaining knights that there were guests expecting them after they had returned to the palace.
+
+        “Blue Rose” had requested an audience.
+
+        Under normal circumstances, they would have been brought to this room immediately, but the trio’s current outfits were hardly appropriate. Especially Renner, whose clothes said handmaiden more than princess. They were absolutely soaked with sweat. The knights were instructed to bring them in after an hour to give the three enough time to fix their appearances.
+
+        The Sorcerous Kingdom’s army was in formation outside of the capital and could attack at any time. For the capital and the castle’s defence, knights were being moved back and forth. That was why they had to take care of the menial tasks, because none of the maids were there.
+
+        Most of the maids who attended to the palace were the daughters of noblemen. They had ran away from the palace to their family’s mansion. Whether that was the safer option remained to be seen.
+
+        He had heard from his master, Renner, that the atrocities the Sorcerous Kingdom’s army had committed along their way towards the capital will most likely be committed here too. That was a logical deduction. Nowhere within the capital was safe now.
+
+        So what could one do to guarantee their safety? Renner had responded to this question with the gambit of leaving the capital.
+
+        Because of that, Climb and Brain had discussed in secret about arranging a carriage outside of the palace. If Renner decided to run away, it could prove useful.
+
+        Of course, he knew that Renner did not intend to run at all, yet he could not definitely say that she would not change her mind. This was just a plan in case she does.      
+
+        Climb prepared water and a towel for Renner to wipe away her sweat. Normally he would have prepared a bath for her, but they only had an hour so that was off the table.     
+
+        Since the maids weren’t there, Climb had no choice but to help groom Renner. The duty to prepare tea then fell on Brain. The scene of the swordsman flipping through cabinets trying to find tea was honestly hilarious even though he felt sorry for him.
+
+        After Renner had wiped off her sweat and applied perfume to herself, while she picked out her gown, the two men took a shower.
+
+        Unlike women — unlike the princess — the two men readied themselves through much simpler processes.
+
+        They undressed, let water take its course down from the top of their heads, and wiped themselves off. A secondary rinse later and they were all done. Sure, they had to change into clean clothing too, but the entire process took no longer than ten minutes for the two.
+
+        An hour that felt shorter than it should passed by and the three were ready. Renner seemed to have picked up on some unpleasant smells as she sniffed her hair and wrist. Climb could not smell the scent of sweat, but he could faintly smell the scent of the oil and smoke that had been infused into her hair when she cooked. It should not have been as noticeable after it mixed with the scent of her perfume.
+
+        The knights not only led Lakyus in.
+
+        The entirety of Blue Rose was present. Lakyus was the only one in a gown, the rest of them were in combat gear. It looked like they were the bodyguards of a noblewoman.     
+
+        Climb was a little shocked.
+
+        Indeed, Lakyus did not come over by herself normally, but it was rare to see all of them together. This might have been the first time they came all together.
+
+        “You have taken time out of what little you had, yet I still made you wait. I am terribly sorry for that.”
+
+        “No, it is fine. I did not inform you of my arrival earlier so this was an impromptu visit. I should be the one to thank you for taking the time to meet us— ah, there is no need for tea. We do not have that much time after all.”
+
+        Just as Renner was about to steep the tea that Brain had procured, Lakyus stopped her.
+
+        “Oy, Lakyus. I feel like we should have enough time to drink a cup of tea, right?”
+
+        The one who spoke was Evileye. The rest of Blue Rose nodded along in agreement, causing a shocked expression to surface on Lakyus’ face.
+
+        “Everybody...wants to drink tea?”
+
+        Evileye sighed heavily on purpose.
+
+        “The princess has been so gracious to welcome guests who had barged in without warning with tea, would our leader be so cruel as to refuse her offer? What an indifferent fellow. Oy, musclehead.”
+
+        She received no response from Gagaran. Although the gazes of everybody in the room were affixed on Gagaran, she pretended that she had heard and seen nothing at all.        
+
+        “Oy, you there with the coy expression, woman who’d sink straight to the bottom if she fell into the sea.”
+
+        She was indeed being completely ignored. Evileye sighed loudly in response to her behaviour.
+
+        “Oy, Gagaran.”
+
+        “Oy? Oh? What? What do you need me for? What’s going on, Evileye?”
+
+        “...you want to drink something too, right?”
+
+        “Ahhh, yes. I feel like gulping down a large amount of liquid. I could probably drink ten liters if I had to.”
+
+        “What even...Do you know how much time you’ve wasted just to hear me say that...Mmm, whatever. Regardless of how much there is, boss, can we get some too?”
+
+        “Haaaah, of course it’s fine...are you drinking too, Evileye?”
+
+        Lakyus’ eyes widened as she spoke. Indeed, if Evileye were to drink too, Climb would be as surprised as she was. To drink the tea, she would have to take off her mask but as far as Climb knew, this magic caster did not take off her mask under any circumstances.
+
+        Evileye did not reply to her question, but only shrugged as if to say no.
+
+        “Well then, we shall steep the tea while the boss and princess talk. I guarantee the tea will be richer than you could dream of.”
+
+        “Eh? You have already poured it into a Warm Bottle, huh?”
+
+        Lakyus said with a shocked expression as Tia nodded.
+
+        “We might not have enough considering the amount of people here. We’ll see.”
+
+        Tia began pouring the tea, but her movements were so unrefined that most of the tea split onto the saucer. This country’s tea culture did not dictate that tea should be drunk from the saucer, which was why Lakyus was furrowing her brows. Just as she had said, the Warm Bottle did not hold nearly enough liquid for the eight occupants of this room.       
+
+        “No need for me, right?”
+
+        “Ah, same here.”
+
+        Climb refused a cup after Brain did so too. That did not mean that they had enough tea for the rest of them. Even when those two were factored out, the amount of tea they had was still inadequate for six people.
+
+--------
+Mini-FAQ
+Q: Where are we at?
+A: As of this part: 453/568
+
+Hitori's comment corner:
+
+Sorry this part was so short. It's more of an announcement than a part heh. 
+
+Got sick over the weekend and no, not the rona, just a really bad case of food poisoning. Still feeling a little lethargic but hopefully I'll get out of this rut soon and the next part will be longer.
+
+I made a mistake in the last part, the line:
+“Ah, right. I told the Sorcerer King that my name was Riku Agneía, do keep a note of that. If the Sorcerer King were to ask, tell him that it was a fake name.”
+Should be:
+“Ah, right. I told the Sorcerer King that my name was Riku Agneía, do keep a note of that. If the Sorcerer King were to ask about me, remember to refer to me with this fake name.”</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,765</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

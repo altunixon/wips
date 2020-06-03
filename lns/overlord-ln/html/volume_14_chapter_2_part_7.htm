@@ -1,0 +1,614 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 03/19/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 2 Part 7
+
+	If the “Dual-Wielder” was on the same level as the Shield-Bearer, there would be no way Skama and the rest could handle both of them at the same time. No, perhaps they would be dead the moment they came into contact with the enemy.
+
+	“Skama, what do we do!?”
+
+	“...Let’s take care of this guy first.”
+
+	Skama spoke with determination after her companion’s panicked voice calmed her down somewhat. If they couldn’t even take this thing down, they wouldn’t even have a chance at an escape. They could only hope that this thing’s health had already been whittled down to a wick’s length by those spell attacks.
+
+	After she stopped retreating, Skama turned to face the Shield-Bearer and darted towards it.
+
+	Her tomahawk was easily blocked by the shield and so was the ethereal copy. Skama’s attacks were not enough to break down the Shield-Bearer’s defences.
+
+	She had expected her attack to be thwarted, that was all she had to do.
+
+	The real attack was the [Magic Arrow] and [Shockwave] that followed.
+
+	The spell attacks were followed up by the rogue, who tossed a bottle towards the sides of the undead’s leg.
+
+	The liquid that oozed out of her comrade’s shattered bottle was common glue that any alchemist or the like could manufacture. This was a strategy that could only work if the enemy was standing on polished stone.
+
+	No matter how high of a defence the Shield-Bearer might have, its ability to dodge didn’t matter against a bottle thrown at it.
+
+	The undead was bound to the ground by glue.
+
+	Even if it only was for a brief moment, their opponent was immobilized. This was a common tactic they used when engaging a foe who was much more powerful than them.
+
+	Skama circled around to the Shield-Bearer’s hand that did not hold the shield, the hand that held the wave-bladed sword, and began attacking.
+
+	The Shield-Bearer swung its greatsword around, expertly parrying every hit that came its way. Even though its two legs were completely stuck on the ground and she had used martial arts to chain her attacks, Skama couldn’t land a single hit.
+
+	{This thing, is like a metal wall!}
+
+	Skama saw from the corner of her vision the scene of the undead using brute strength to tear its foot away from the stone-tiled ground. Two more offensive spells were cast yet they still failed to bring it down.
+
+	{—an undying ability? Or something that could heal it over time?}
+
+	There were monsters like Hydras or Trolls who had the ability to regenerate. For those, you couldn’t just deal incremental damage but would have to land a single fatal hit that could reduce the monster’s health to zero.
+
+	It was futile to continue on their panicked attacks.
+
+
+	Skama couldn’t even land a single hit on it.
+
+	{God damn it!}
+
+ 	“—incoming!”
+
+	Skama couldn’t help but shift her gaze upon hearing the rogue’s cry. Standing at the gate was the silhouette of the other undead being.
+
+	The Dual-Wielder.
+
+	Skama felt her stomach churning, the combined pressure of them all made her want to puke.
+
+	{Is this where I’ll die!?}
+
+	The rogue who had been executing combos with Skama couldn’t handle the pressure and retreated to her side. The Dual-Wielder responded in kind and moved to the Shield-Bearer’s side.
+
+	“...They’re not attacking. Which means...shit. These things are highly sapient.”
+
+	Skama felt as though she could perceive a smile on the Dual-Wielder’s rotten face. The Shield-Bearer had shown them attacks that were not on the same level as its defence capabilities, but perhaps that was just to instill despair in them to buy time for the Dual-Wielder to come.
+
+	Both enemies were there, this was a good opportunity to use AOE spell attacks. Yet, those spells were never cast. No, it might have been better to say that they couldn’t start casting.
+
+	The reason why should have been obvious. Though attack spells had been proven to be effective, it would also provoke them to initiate their attacks.
+
+	Their fate would have been set in stone then.
+
+	Even if their side held off on attacking, their enemy would do so sooner or later. But, they simply could not build up the courage to hold their fates in their own hands.
+
+	After she agonized over this, Skama made her decision.
+
+	“You two, run away!” She knocked on the rogue’s waist, “we’ll buy you some time.”
+
+	“Hah? For real!? Me too!? Wait, you want me to do that!?”
+
+	The rogue wailed but Skama ignored him.
+
+	There were two opponents, if they did not at last have two people to hold them off, they could only— a ‘boom’ rung in their ears.
+
+	 “...hah?”
+
+	The undead in front of them, the Shield-Bearer’s head had been pierced by what looked like a long needle.
+
+	Wait, no.
+
+	What pierced through the Shield-Bearer’s head was not a needle; the thing that penetrated through its skull and was now embedded into the stone tile below was something about the size of an index finger.
+
+	That meant that that thing was so fast that Skama’s kinetic vision could not see it flying through the air at all but could only pick up its afterimage, which looked like a needle.
+
+	The Shield-Bearer shook, its feet trembled as they stomped on the tiles below, barely allowing it to stand up. Perhaps it was only because it was undead that it could remain standing even after its head had been pierced.
+
+	Skama and the others couldn’t help but shift their vision away from the enemy in front of them and look towards where that attack originated from. The undead did not attempt to attack them during this time as they were also looking towards the same direction.
+
+	Another attack pierced the Shield-Bearer’s head again and with that, the giant frame of the Shield-Bearer crumbled.
+
+	It only took two shots. No, perhaps it was because it had already taken so many spell attacks and was already weakened. But, who could accomplish such a thing—
+
+	The silhouette of a man could be seen in the air—
+
+	“W-What?”
+
+	—Whose voice was that?
+
+	Was it Skama herself’s or was it her companions’? She was so shocked that she could no longer tell such a simple thing.
+
+	In front of them was an armoured giant.
+	
+	An approximately three meters tall being clad in an odd, blood-red armour flew in the air. In his hands was a pipe-shaped object which he held like a crossbow, perhaps that was what those index finger sized things came out of.
+
+	Because it had attacked the Shield-Bearer, they could conclude that it was not their enemy, even if it wasn’t their ally either.
+
+	Skama and the others slowly moved away from the Dual-Wielder. If they were to be caught up in their battle, she knew for sure that they would meet their ends right there.
+
+	Perhaps the Dual-Wielder had already lost interest in Skama’s group or perhaps it was because the armoured giant in the air was the only threat worthy of its attention, whatever the reason was, it did not attempt to halt their retreat.
+
+	And then, the battle began.
+
+	It was the Dual-Wielder’s turn.
+
+	It threw one of its swords.
+
+	It threw the sword with such strength that there was no way that Skama could avoid it. If she tried to block it, it would still inflict a fatal amount of damage.
+
+	The armour did not try to avoid it but tanked the hit with its own body. Perhaps it could not avoid it, or maybe it did not feel the need to avoid the attack at all?
+
+	The ear-piercing sound of metal clashing against metal rang as the thrown sword bounced off the armour. It then disappeared as if it had evaporated into the air, only to show up back in the Dual-Wielder’s hands.
+
+	It did not return to its hand. Rather, another one had appeared.
+
+	The armour in the air pointed the pipe at the Dual-Wielder in one smooth motion, as though that sword toss did not do damage to him at all.
+
+	The pipe found its target and then — it spat out something after a brief flash of fire and lightning. 
+
+	What used to be single-shot attacks turned into an uncountable amount of projectiles. ‘Grakatatata’, the sound of apathetic violence could be heard everywhere.
+
+	Faced with the unknown projectiles, the Dual-Wielder swung its swords. The sharp ‘ting’ sounds of whatever was flying towards it being sliced into pieces could be heard. But there was a limit to it.
+
+	Two swords could not have dealt with the dozens or even hundreds of projectiles. The tiny projectiles flew at shocking speeds as it penetrated the enemy. The Dual-Wielder started twitching as though it had muscle spasms and like the Shield-Bearer before it, it disappeared.
+
+	The two undead beings had vanished in a blink of an eye.
+
+	Skama was truly, from the bottom of her heart, speechless.
+
+	To be honest, she had no idea what had just happened.
+
+	But Skama understood one thing, that armour was mind-bogglingly strong, stronger than everyone she knew. 
+
+	She couldn’t stop blinking.
+
+	Nothing about this felt real. It was hard for her to accept that they had been saved. Their despair and readiness for self-sacrifice were shattered so easily, her mind could not keep up at all.
+
+	“W-What the hell is that?”
+
+	“...Hey, isn’t that a plate from the Adventurer’s Guild?”
+
+	“Hah?”
+
+	She squinted her eyes to focus on the details after the rogue had said that and saw that on the neck of the armour — though she could barely make out its shape — was a necklace that held a metal plate. Though it was about the same size as Skama’s, it looked minuscule on that giant figure. As expected of a rogue to notice something that she would have missed.
+
+	The metal plate on the necklace was of a colour that she did not recognize.
+
+	She had seen the colour of Orichalcum before, so by the process of elimination this was,
+
+	“An Adamantite-ranked adventurer?”
+
+	There were three Adamantite-ranked groups in the Kingdom and the colour of the armour made her realize which team it was a part of.
+
+	“Perhaps this is someone from Red Drop…?”
+
+	Upon hearing Lilynette’s question, Skama replied, “should be.” If this was someone from Blue Rose or Darkness, she would be ranting about why they would choose this hue for their armour.
+
+	The floating armour turned its back to Skama.
+
+	“W-wait!”
+
+	The armour responded to her voice and turned around slowly.
+
+	It raised up its left hand, straightened its index and middle finger, and pointed them towards its forehead. As if it was bidding farewell, the armour gestured at them gently.
+
+	Then, it just flew away.
+
+	Skama stared vacantly at the empty sky and asked the rogue,
+
+	“...What was that?”
+
+	“Who knows...”
+
+	She couldn’t understand at all, but someone from Red Drop came over to assist them, that was probably it.
+
+	“But, umm, I understood one thing. If we have someone this strong — perhaps the Sorcerous Kingdom’s invasion will come to an end right here. Of course, this is under the pretext that it would still be willing to break the Adventurer’s Code and will continue participating in battles from this point onwards.”
+
+3
+
+	He felt as though he had just heard an, “eh?” sound. Ainz thought it sort of sounded like it was from himself.
+
+	A Death Knight and a Death Warrior, two undead beings had suddenly died. The one to defeat them was also wearing an item from Yggdrasil, the Power Suit.
+
+	Ainz had felt that he had lost two contacts — though the feeling wasn’t too strong given how many connections he had at once — which was how he had come to learn that it wasn’t an illusion.
+
+	Silence filled the room.
+
+	He felt the gaze of every Floor Guardian — perhaps the maids’ too — on him.
+
+	Ainz was the mastermind of this siege, so it would not have been wrong to view this as Ainz’s defeat.
+
+	Though something unexpected had occurred, the puny force they had lost was sent there precisely because losing them would not have been a big deal. So Ainz wished that they wouldn’t act so tight and careful.
+
+	However, given the current situation, if he was to tell them that it was fine to lose a battle, it would sound more like a sore loser’s excuse. Hindsight is always perfect.
+
+	His belief that he does not belong here would surely intensify.
+
+	Ainz decided to use his long-practised acting skills, which of course, he had obtained by practising in front of the mirror while the ordinary maids were absent.
+
+	“Hmmm...as I expected, mmm.”
+
+	The situation was under control.
+
+	Ainz displayed the same air of arrogance a mob boss quietly talking to themselves would have as they enjoyed the fragrance of the red wine from their wine glass.
+
+	The important part of this act was to not speak in a loud voice. A loud voice would be quite lame right now. The trick was to act as if he was just mumbling to himself.
+
+	His acting, the result of hard research, led to a ripple of commotion that reverberated around the room.
+
+	Ainz swallowed his non-existent saliva.
+
+	Whether he had succeeded or not depended on Demiurge’s response.
+
+	“I. See.
+	So. That. Was. Why…”
+
+	{—What!? Cocytus!?}
+
+	While Ainz was panicking, Shalltear responded, “Yes yes yes!” as both of her hands shot up. Though it appeared that she was hailing him, she was simply calling attention to herself. Shalltear smiled with pride as everyone’s gazes fell upon her.
+
+	“I understood it too-arinsu! Ainz-sama predicted that something like that would appear-arinsu! That was why we sent such a weak force, am I correct-arinsu!?”
+
+	This felt different from usual.
+
+	Was this a success or a failure? Ainz stole a glance at Demiurge, but he was just smiling mysteriously while nodding his head.
+
+	“As expected of the both of you.”
+
+	The two of them held their heads high upon receiving Demiurge’s praise. Perhaps Demiurge had already arrived at this conclusion but left it up to those two to answer first.
+
+	Ainz breathed a sigh of relief.
+
+	This appeared to be a success.
+
+	Albedo continued on,
+
+	“Intel from Sebas, Demiurge and also our corroborators in the capital mentioned how Red Drop was operating in the northern end of the Kingdom. Because of that, Ainz-sama decided to deploy insufficient troops to lure them out. The amount of troops struck the sweet spot of being easily defeatable by that guy, but at the same time enough to conquer the city without their help. Sasuga Ainz-sama.”
+
+	“Like. A. Hooked. Fish...”
+
+	{Eh? That was Red Drop? Could we trust that intel? What are the possibilities that it was a player?}
+
+	If he was in a Power Suit from Yggdrasil, isn’t the possibility that he was a player quite high?
+
+	Could they be sure that that was Red Drop? If so, shouldn’t that intel have reached him at some point or another?
+
+	No, wait— It was absolutely more likely that Ainz had simply missed that piece of intel while he read through the documents. For that reason, Ainz pretended that all was according to plan with a burst of gentle laughter.
+
+	Needless to say, he had practised this laugh quite a few times too.
+
+	“—hehe. Mmm, I did not think that he would actually show up. I was quite shocked too...I thought that perhaps they were conserving their forces for the showdown at the capital.”
+
+	“Ainz-sama can always think of situations we couldn’t!”
+
+	Said Aura as Mare mumbled, “amazing,” to himself.
+
+	The unadulterated gazes of reverence from those two dealt a massive blow to Ainz’s now fragile-as-glass superego.
+
+	{It’s not like that at all.}
+
+	But, he could never say those words.
+
+	Ainz had never considered such a thing could happen. Though he was of the mindset that losing was fine and winning was good, it was for different reasons than what they were now thinking of.
+
+	Ainz reminisced about the meeting between him, Sebas, and the others, the meeting that made Ainz take charge of this battle.
+
+----
+
+	“What is it, Sebas? Is something wrong?”
+
+	Ainz had just returned to Nazarick and in front of him was Sebas, who was supposed to be on standby in E-Rantel, so it was natural for him to ask.
+
+	Ainz had no recollection of the contents of his last order to him, let alone of an order for him to come forth. Perhaps he was here of his own will, Ainz was fine with that too.
+
+	Though Sebas was stationed at E-Rantel, he was still given considerable amounts of freedom. The right to return to Nazarick at any time was a given.
+
+	However, if his goal was to meet with Ainz, he could have done so in E-Rantel. This must have been about something important and urgent.
+
+	“I’m terribly sorry, Ainz-sama. Would you be so kind as to spare some of your precious time— or rather, could I bother you for a while?”
+
+	Ainz felt as though there was something ominous hidden in Sebas’ muddled choice of words. He ordered the ordinary maid closest to him — the one assigned to Ainz for the day — to leave them be. The maid, along with the other maid who was assigned to this room, gently lowered their heads and left the room.
+
+	Ainz looked towards the Eight-Edge Assassins on the ceiling.
+
+	“All of you, leave us be.”
+
+	The Eight-Edge Assassins fell from the ceiling as if they were completely weightless and silently exited the room.
+
+	If Ainz had ordered them to never speak of what was said in this room, they would probably follow that order to their deaths, but magic existed in this world that could lead someone to dominate their minds and extract information through those means. Needless to say, even though Ainz would never allow that to happen, it was still best to stay on their toes.
+
+	“Ainz-sama, I am eternally grateful.”
+
+	If Sebas was the one to order them to leave, it would be akin to him saying that he did not trust his colleagues, the ordinary maids.
+
+	So, his gratitude was probably directed at Ainz’s consideration to not start any tensions between them.
+
+	Ainz gently shook his head in response to what Sebas had said. To obtain the answer to the question he had in mind, Ainz asked again,
+
+	“So, what’s the matter? It doesn’t seem like an ordinary matter. An emergency perhaps?”
+
+	“Yes- ahem, no. I’m not too sure if this counts as out of the ordinary or not… Someone wishes to converse with Ainz-sama in private… I was requested to ask for Ainz-sama’s presence at their behest.”
+
+	“So they wish for me to go to them? They couldn’t come to my room?” Given that Ainz was the Supreme Overlord of the Great Underground Tomb of Nazarick, this was an uncommon request. “...This is not about that human, is it?”
+
+	“No, it was not Tsuare. It was a guardian who had not received permission to leave their area. They knew that this would be disrespectful, but they still wish to trouble Ainz-sama for a while...”
+
+	Sebas looked towards Ainz with an apologetic expression.
+
+	“Ahhh, I see.” Ainz understood.
+
+	If it was an Area Guardian, then it all made sense.
+
+	Of course, if he ordered them to come over they would most likely do so. Some NPCs might respond in the negative due to a previous order from Ainz’s allies, who were their creators and whom they referred to as the Forty-One Supreme Beings. Still, most would obey Ainz’s order.
+
+	There were also those who simply couldn’t be allowed to leave.
+
+	A good example of which would be one of the Area Guardians on the seventh floor, Guren.
+
+	Because of its passive aura, it would surely cause a lot of collateral damage just by moving to the ninth floor. Things like wool carpets catching fire would be fine, but if it were to cross paths with beings like the ordinary maids, they would surely take a lot of damage.
+
+	If that was the case, it was better for Ainz to go to it than the other way around. Ainz had never liked putting on airs anyway. In addition, he did not have any tasks on hand that must be dealt with immediately. At least that was what Ainz thought.
+
+	“Understood. I’ll go to them. So, who am I looking for?”
+
+	“It was Nigredo-sama and Pestonia”
+
+	Sebas was one to refer to everybody else with the honorific “-sama” yet he did not do so with Pestonia, was it because they were colleagues?
+	
+	“It was those two...”
+
+	Ainz’s expression became dejected and he tried his best to hide that fact. Though Ainz’s skeletal face could not show any expressions, it appeared as though a select few of the guardians could actually cold-read him. Albedo was one of them. As a side note, Demiurge would apparently always interpret his expression in weird ways.
+
+	Was it on purpose?
+
+	Ainz had thought that he had hidden his emotions well enough but it seemed like Sebas could still pick up on a few hints that slipped out of his vocal mannerisms. Sebas’ expression had become more and more apologetic as a result.
+
+	{Though I feel sorry for Sebas...but honestly, I don’t want to go~}
+
+	Nothing good will come of this.
+
+	He could confidently state that.
+
+	Imagine if you were in an office and someone told you, “the people from that other department are looking for you. They don’t want to call you but want you to go to them directly.” Eight or nine times out of ten it would be about a hassle.
+
+	That said, it wasn’t as though Ainz had a choice in this matter. If a larger issue rose up because he had neglected the smaller issues, the responsibility for the consequences would ultimately fall upon him.
+
+	While it was true that Ainz was the absolute overlord of Nazarick, for him to rest on his laurels would be moronic.
+
+	Ainz wanted none of the NPCs to dislike him, but rather, he desired that they would adore him just as he doted on them as if they were his children.
+
+	“...Let’s go. As for my schedule...” Ainz pulled out a notebook to check what he had scheduled for today. He was someone who would put off tasks that he found to be annoying yet was also someone who would wish that said annoying affairs would be resolved as soon as possible. “This time slot is fine, it’s empty. Can we go there right now?”
+
+	Nigredo and Pestonia. Though both of them were Area Guardians, with what Sebas had just stated, Ainz knew exactly where they were going. That was why he could still convey his intentions to Sebas even with these half-questions.
+
+	“If we were to allow Pestonia to arrive there first, how about an hour later?”
+
+	“...That’s fine. Looks like — it would be inappropriate to bring Albedo and Demiurge along.” 
+
+	“Yes. Though it pains me to say this, they hoped that Ainz-sama would be going there alone.”
+
+	Ainz nodded his head.
+
+	“What about that doll?”
+
+	“I will ask Pestonia to take care of that matter, there should not be any problems.”
+
+	“Good. An hour later then...hmm? Sebas, will you be going too?”
+
+	“Yes. I had hoped that you would grant me permission to. Am I allowed to?”
+
+	Sebas’ lowered his head of white upon receiving Ainz’s approval.
+
+	An hour later, Ainz used the power of the ring to teleport to the Frozen Prison on the fifth floor.
+
+	No one was accompanying him. He had told the ordinary maid assigned to him that he had important matters to attend to and had ordered her to keep the secret and stay behind.
+
+	At first she had protested by saying, “I will pretend that I saw nothing at all. You could just ignore my presence entirely, so please take me along with you.” While Ainz did find her suggestion to be trustworthy, she did appear to derive some form of fulfilment from being ignored.
+
+	He had talked this over with her in the past and her response was that for him to objectify them, would have meant that they had accomplished their duty as maids to the utmost. They were apparently also actively seeking that kind of interaction. Then again, he had only asked one of them so perhaps she was the only one — no, she had to be the only one with such a fetish.
+
+	Even if it was an ordinary maid like her, to guarantee that he did not leave even the 1% of a probability that this could snowball into something bigger, Ainz steeled himself.
+
+	{I should do something that’ll make her happier when I get back...maybe assign her to some bothersome and menial task...so that she’ll be happy or whatever. Yeah, I don’t get it at all…}
+
+	There were just too many people in Nazarick who behaved like this maid, that was why none of his long-term vacation and paid-leave policies ever took off. If this persisted, Ainz’s hopes and dreams were all doomed to fail.
+
+--------
+Mini-FAQ:
+Q: Why won't you work with [insert name]?
+A: anon, I thought we were past that stage where we trust random anons' claims. I have not been contacted by other TLers since I've started and prior to that, the ones I've talked to were either not up to my standards or burned out after a few pages or so. I'm not the only one TLing because I chose to, I'm the only one who stayed. That doesn't mean I'm without help though. I do have a few buddies looking over my work to pick out some of the major errors.
+Q: Where are we at?
+A: As of this part: 259/568</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

@@ -35,6 +35,7 @@ def chapter_zfill(chapter_txt, **zargs):
         return None
 
 def chapter_reddit():
+    # click spoiler > open 0bin > wait decode > scrape content
     return None
 
 def chapter_md(chapter_link, **kargs):

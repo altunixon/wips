@@ -1,0 +1,695 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 03/01/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 1 part 7 (revision)
+
+Changes:
+- semantics (minor)
+- grammatical errors (minor)
+- one missed reference to Raeven at the end (major)
+
+--------
+
+	Though he had advocated for talent scouting through the education sector, the Sorcerous Kingdom had yet to implement the as of now unrealistic policy of universal education for all. 
+
+	If the level of education rose, so will technological and cultural advancements, but it could also strengthen weaklings. Though their current policies may lead to some people with undiscovered talents to stay as farmers for the rest of their lives, Pax Nazarica was the top priority.
+
+	“I don’t think that’s a bad idea.”
+
+After Pandora’s Actor agreed, the trio began walking in another direction led by Narberal.
+
+	Not even two minutes had passed before Ainz received a [Message].
+
+	“-Ainz-sama.”
+
+	“-Entoma? What’s going on?”
+
+	Ainz walked as he talked and felt rather inauspicious.
+
+	He couldn’t remember the last time he had received a [Message] like this this year, so it must have been some kind of emergency.
+
+	But - Ainz's fearless smile never wavered.
+
+	The whole ordeal in the Holy Kingdom was such a pain that nothing could be worse in comparison.
+
+	{Compared to the hell I had to go through, nothing this world could throw at me is undoable.}
+
+	The request, as he had expected, was for him to return to Nazarick immediately. After replying that he would do so, Ainz instructed Narberal to bring the rest of the maids back to Nazarick too. He opened up a [Gate] after bidding his farewells to the two to allow the Hanzos who had been securing their perimeter to go back.
+
+	Only then did Ainz return to Nazarick himself.
+
+	After dismissing the Hanzos, he took the Ring of Ainz Ooal Gown from Solution, who had welcomed him back. Using the ring, he teleported to the tenth floor and began to walk towards the room that was his destination.
+
+	The rooms that were either important or special in Nazarick had all been marked so that one could teleport straight to their doors with the ring. This was not the case with rooms that had been deemed as ‘normal’ from the start and thus one could not teleport straight to them.
+
+	This could be seen as the only flaw of the ring that allowed its user to teleport freely within Nazarick but it was no longer possible for them to modify its functions. If they still had the Yggdrasil creator kits around it could be possible, but neither Ainz nor Nazarick’s inventory had any.
+
+	Albedo stood in front of the door to Ainz’s destination, awaiting his arrival. Ainz did not probe how long she had been waiting there, but only about the progress she had made on her assigned tasks.
+
+	“-you’ve been working hard, thank you.”
+
+	“I’m not worthy of your praise!”
+
+	Ainz sighed on the inside as he witnessed Albedo deeply lowering her head.
+
+	Though he had said that he would return immediately, he had not given them a specific time frame. The thought that he could have wasted Albedo’s time by making her wait unsettled Ainz. He did not and could not let those thoughts show on his face.
+
+	This had happened several times before. Despite telling Albedo that there was no need for her to wait for him each time, she had always insisted, saying that it was natural for a servant to welcome her master’s return.
+
+	In fact, he had talked about this with not just the Floor Guardians, but the Area Guardians and the maids too. Every time he brought it up, their responses would be the same as the one Albedo was giving him right now. The maids were especially enthusiastic with their answers, demonstrating a level of determination that could even make someone like Ainz cower and apologize.
+
+	If this was the general consensus then Ainz, as their overlord, had to forgo his personal opinions on the matter.
+
+	Albedo opened the door to the room and welcomed Ainz in.
+
+	Ainz believed that he was not a man outstanding enough to be worthy of such treatment and with great guilt, he put on the facade that this was all to be expected and walked into the room before her.
+
+	Shalltear.
+
+	Cocytus.
+
+	Aura and Mare.
+
+	And Demiurge.
+
+	The Floor Guardians had already been gathered in this room and were all bowing towards the throne that somehow radiated darkness.
+
+	Behind the throne hung the flag of the Sorcerous Kingdom of Ainz Ooal Gown.
+
+	It looked like everybody who was supposed to be here was already here. In cases such as this where all hands were on deck, Ainz had to be the last one to arrive according to procedures. Unless it was for a special occasion, no one would arrive later than him.
+
+	Ainz surveyed the overburdened Guardians in front of him.
+
+	Every Floor Guardian had had their own duties in the past, but recently the scope of their work had increased by a wide margin.
+
+	The air transportation system that mainly relied on flying monsters (mostly dragons) had established a transportation network between the Sorcerous Kingdom, the Empire, the Dwarven Kingdom, and the desolate, demihuman-inhabited region to the east of the Holy Kingdom. The one who was placed in charge of this network, Shalltear, now had the responsibility to utilize her skills to gradually establish a land-based transportation network.
+
+	The one in charge of controlling the weather in the territories and building an underground tomb on the outskirts of E-Rantel, Mare, was also working alongside the newly established Adventurer’s Guild.
+
+	The one in charge of commanding, managing, and training the Sorcerous Kingdom’s army, which consisted mostly of the undead but also included various types of demihumans and a small number of humans, was Cocytus. 
+
+	The one who used to only have to command her own magical beasts but now had to operate a department which deployed a warning net that provided adequate coverage over the ever-increasing boundaries of the Sorcerous Kingdom’s territories, was Aura.
+
+	The one who was establishing an intelligence agency on the seventh floor of Nazarick, was Demiurge.
+
+	Just like that, the responsibilities of each Floor Guardian grew over time.
+
+	Which was why there were plans to shift some of those responsibilities to those who up till that point had only been concerned with the internal defence of Nazarick, the Area Guardians. 
+
+	Needless to say, the one who was in charge of checking up on everybody’s progress, receiving requests or suggestions, and approving the various affairs of the Sorcerous Kingdom, the Guardian Overseer Albedo, had been the busiest of them all.
+
+	The truth was, no one was as idle as Ainz was.
+
+	His daily duties amounted to simply practicing to act more like an overlord, it was a deeply embarrassing fact to admit.
+
+	So basically, he had been summoned for something that those who were occupied by the most important tasks had deemed to require his presence. 
+
+	Ainz strode in a dignified manner through the center of the room. Albedo shut the doors behind them and followed closely behind him.
+
+	He sat on the only seat in the room. Albedo took a knee in front of him and said,
+
+	“Ainz-sama. The Floor Guardians of every floor have arrived.”
+
+	{What do you mean, they have arrived? They were here already!} Of course, Ainz did not and could not say that out loud.
+
+	“-umu. You Floor Guardians have been working hard. Raise your heads.”
+
+	“Yes!”
+
+	The guardians raised their heads as they gave their crisp answers, an action that was both flawless and in unison.
+
+	Originally, Albedo had been the one to ask them to raise their heads but Ainz had decided to put an end to that. Though it had been said that a superior shouldn’t talk so easily to their subordinates, Ainz did not want to distance himself from them that much.
+
+	The guardians’ gaze, which made apparent their absolute loyalty, all fell on Ainz’s body. In the past, Ainz couldn’t handle this kind of attention, but his skin had grown thick in the intervening times to the point that it did not affect him in the slightest these days.
+
+	{But...why? Am I getting the wrong impression or do they feel even more loyal than they were before…? No...it has to be the wrong impression, right...?}
+
+	Ainz, who couldn’t recall doing anything that could have raised their loyalty, avoided the welcoming gazes of the guardians to randomly scan the room he was in. This wasn’t because he couldn’t handle their gazes, but he did it anyway.
+
+	On both sides of the room were doors that were dissimilar to the one they had just walked through, doors that were not warranted given the relatively small size of the room. The room was just decorated in such an exquisite manner that it emanated an air of grandeur.
+
+	It was set up to be the audience room within Nazarick. Another was set up in E-Rantel.
+
+	Nazarick’s throne room was glorious, but it was too spacious and would feel empty if not enough people were gathered inside. He could gather enough people if he wanted to, but considering problems such as the presence of a World Item, something that was among Nazarick’s strongest assets and thus could not casually be seen by others, an audience room was built.
+
+	Everything in Nazarick was made by its guild members in the past, except this audience room. Under Ainz’s orders, the Floor Guardians had put great consideration (though it wasn’t as though much consideration was necessary anyways) into refitting an empty room for this exact purpose.
+
+	It made Ainz quite happy.
+
+	NPCs, made by the guild members, had grown beyond being mere NPCs. It was as though they had become players.
+
+	{There will always come a day when chicks will leave their nest to fly on their own, huh.}
+
+	Ainz smiled mentally. 
+
+	Every one of them had made him proud.
+
+	Suzuki Satoru had no children and not many of the other guild members did either. He wasn’t sure, but perhaps this was what it was like to be a father. At any rate, this was not what it would be like to be a mother, probably.
+
+	He immersed himself in his own thoughts for a bit. However, no one would speak until he had spoken, so he was forced to despite not being the emcee or something similar.
+
+	“So, Albedo. Tell me the reason why everyone was gathered here. It’s something important to Nazarick, or rather, to the Sorcerous Kingdom, right?”
+
+	“Yes. Simply put, our grain that was being transported through the Kingdom towards the Holy Kingdom was plundered four days ago.”
+
+	“Oh… and who did that?”
+
+	“A noble of the Kingdom.”
+
+	The light in Ainz’s eyes flashed for a moment. Albedo was being vague. Normally, she would report the name, military power, and goal of the noble all at once. {Why is that?} Ainz thought about it as he asked further,
+
+	“Did the Eight Fingers’ merchant in charge of transportation not have soldiers guard the caravans? Moreover, the rule was that our flag should have been flown, yes? Which meant the Kingdom had chosen to start a war with us?”
+
+	He had thought, judging by the Kingdom’s actions, that they were trying to avoid a war, but it now seemed to be an incorrect judgement. Or, was the incident itself some kind of strategy? Ainz took notice of another possibility as his thoughts developed.
+
+	“Could it be that the Eight Fingers had betrayed us?”
+
+	“No, well…”
+
+	Albedo lowered her head as she muttered, she then glanced at Ainz as if she were trying to sneak a peek.
+
+	Ainz thought that her current attitude was quite rare. Rather, this might have been the first time she has ever shown this kind of behaviour. She was behaving like a little girl who was afraid of getting scolded, definitely unlike the Overseer she had always been.
+
+	“What’s wrong, Albedo? Is something the matter?”
+
+	Ainz carefully maintained his dignified facade and felt as if his back was soaked with sweat. Ainz, of course, could not sweat.
+
+	Was it because of a mistake Ainz had made? If that was the case then Albedo’s response would make sense.
+
+	She was behaving like an employee who had had to point out the mistakes her boss had made that messed everything up.
+
+	{A noble of the Kingdom? I have no idea… Did I do something? I didn’t do anything funny in the past few months, did I? No, could I?}
+
+	As Ainz, who couldn’t even remember the documents he had stamped a few weeks ago, thought about it, it felt more and more like it was a mistake of his own. His anxiety grew alongside his thoughts.
+
+	{No, wait! I got it! I got it! Didn’t I tell Albedo and Demiurge during the Holy Kingdom thing? And I told a lot of people the same thing after coming back. Yes, I made a mistake deliberately! Past me, you’re great! Wait, now is the time… to use that excuse!}
+
+	Ainz had always thought that the title of an absolute overlord was too much for him to bear. It was about time for him to take it off.
+
+	He had a cordial smile on his face.
+
+	“Don’t worry about it, Albedo. Tell me about it.”
+
+	“Yes… Ainz-sama. Surely you remember our plan to make use of an idiotic noble for the purpose of gaining control over the Kingdom…”
+
+	{Hmm?} Ainz raised a question in his mind. What she said was not what he had expected, but at this point Ainz knew what to say.
+
+	“That fool had something to do with it?”
+
+	Albedo nodded, “Yes. That dimwit had caused this incident. Ainz-sama has probably realized by now the possibility that this could be a scheme of the Kingdom’s ruling class.”
+
+	{More misunderstandings, huh?} “Hmph…” Ainz started thinking. He couldn’t see the deeper aspects of such a scheme, but it was probably beneficial to the Kingdom to convict a noble associated with Nazarick. That way, they could purge a pest from their ranks.
+
+	“I understand… but does the blame truly lie with that imbecile? It’s not some ploy by the Kingdom is it? … Wait, Albedo must have investigated the intel already. Sorry for unnecessary questions.”
+
+	“No, those questions were only natural for you to ask, Ainz-sama. We have prepared a witness for this purpose. Shalltear.”
+
+	“Understood.”
+
+	Shalltear curtsied, stood up, and then left through the left door.
+
+	Right after that, a woman held on both sides by Death Knights returned with Shalltear.
+
+	She was so thin her bones were visible as if she was sick. She also had heavy bags under her eyes, did not wear any make-up, and had messy hair.
+
+	Tear stains could be seen around her bloodshot eyes, which darted around uncontrollably like a terrified, tiny creature.
+
+	Ainz remembered seeing that person somewhere, but he couldn’t recall important details like her name and position.
+
+	As he tried his best to search through his memories, the Death Knights let go of her.
+
+	The woman knelt down in one smooth movement. It was flawless, one could even say that it was beautiful.
+
+	It was something that was only possible through a suitable amount of training. Ainz even felt a bit of respect for her because of that.
+
+	“Yoar, yoar mejasty...” her voice was trembling a lot. She paused for a moment, then spoke again, “Your majesty.”
+
+	The room fell silent. Realising that it was his turn to speak, Ainz said in a deep voice, “-Woman, I permit you to speak your name.”
+
+	“Ah! Hilma Cygnaeus, your majesty!”
+
+	His reawakened memories spread like vines. She was one of the leaders of the Eight Fingers, the Kingdom’s crime syndicate.
+
+	“Ah, ah.”
+
+	It was not known how she understood the noise that Ainz had made subconsciously. Hilma, who had not raised her head even once, yelled as her forehead rubbed against the floor.
+
+	“I, I have no idea! No idea! I have absolutely no intention of disobedience! The grain robbery has nothing to do with me!”
+
+	Ainz took a glimpse at Albedo’s back.
+
+	It would be incredibly easy to determine if the woman had lied, so Albedo must have done so.  So why did she not report the results directly to Ainz?
+
+	Ainz didn’t know what was Albedo thinking, but it certainly wasn’t about stabbing him in the back. Actually, it was probably the opposite. There was some unknown misunderstanding that was borne of her holding Ainz in too high of a regard. It would not be appropriate to ask her about it directly.
+
+	{I got myself into this situation because I repeatedly performed as my persona, didn’t I? Albedo won’t understand if this continues on. Should I ask and see what happens? It would’ve been fine if Albedo was the only one who was here, but the others are also here...} Ainz looked at Aura and Mare. {Hm, next time I guess.}
+
+	“-Umu. First of all, let me confirm if Cygnaeus was telling the truth. [Dominate].”
+
+	After the spell had been cast, Ainz asked Cygnaeus:
+
+	“Did you play any role in that noble robbing our grain convoy?”
+
+	“None whatsoever!”
+
+	A dominee could not lie to their dominator, which meant that Cygnaeus had no direct connections to the incident. Though an indirect connection was still possible, it wouldn’t have made it her responsibility. The hypothetical that she had been lying by ways of memory manipulation was unlikely.
+
+	“-have you been described by others as having multiple personalities?”
+
+	“No!”
+
+	“Umu...then do you wish to oppose us?”
+
+	“Not at all! I don’t have the slightest intention to! Absolutely not!”
+
+	She denied with her fiercest tone yet. Bearing witness to this, Ainz released her from his [Dominate].
+
+	“If we were to punish her based on a crime she wasn’t purposely responsible for would be too harsh. Cygnaeus, not guilty. That’s my ruling.”
+
+	Cygnaeus raised her head and gazed towards Ainz with a brilliant passion within her eyes, to the point where Ainz found it to be terrifying.
+
+	“But, Ainz-sama. Shouldn’t the faults of a subordinate be the responsibility of their superiors? That cretin was her responsibility.”
+
+	Albedo was right.
+
+	“You, you’re absolutely correct! But he took those actions randomly and of his own accord! I had instructed him multiple times! ‘Contact me before you do anything!’ I had even appointed a subordinate to monitor him for this exact reason!”
+
+	Albedo did not object to her explanation. So that was the truth. She had performed her duties to the utmost, so it would be too cruel to let her shoulder the full responsibility for this incident.
+
+[Albedo], Human Resources, had hired an [simpleton] who caused major issues in [Cygnaeus], the department. Though it’s obvious that there were issues within that department, Ainz also understood the tendency to want to blame this on HR.
+
+	[Ainz], the salaryman, thought about this issue from Cygnaeus’ perspective.
+
+	If he was to leave this matter to Albedo and the others, they would surely dish out severe punishments to her. Then-
+
+	“-the faults of a subordinate is the responsibility of their superior. I concur with that statement.”
+
+	Ainz watched as the colors drained from Hilma’s face and continued,
+
+	“But, that proverb was said by a leader who wished to shoulder the burden of their subordinate, it was not meant as a way for subordinates to shift blame onto their superiors. As for how encompassing the statement could be. Albedo, let me ask you a question. Cygnaeus was in charge of that dunce, but who was in charge of Cygnaeus?”
+
+	“That’s- that’s my responsibility.”
+
+	“Umu. I am your master, so the responsibility for this incident falls on me in the end, correct?”
+
+	“W-W-We wouldn’t dare! This is absolutely not the fault of Ainz-sama!”
+
+	Albedo disavowed his statement with an uncharacteristically panicked expression.
+
+	Cygnaeus, whose expression just a moment prior had been one foretelling of their own doom, now gazed upon Ainz with the same spark in her eyes as before. Her face was almost ever-changing.
+
+	“Though Cygnaeus’ modus operandi may be flawed, she had performed according to the expectations of her office. For that, she has been forgiven. The first time an error occurs, it is because everyone makes mistakes. The second time around it would be the result of carelessness. The third time should have been avoidable. The fourth time is the one to indicate one’s incompetence- Cygnaeus.”
+
+	“Yes!!”
+
+	Cygnaeus lowered her head so much that it made an audible impact with the floor. It looked painful even from an outside perspective.
+
+	“To prevent a similar incident from occurring again, work harder on your preventative measures. Prepare a set of all of the plans you could think up of, submit them to Albedo, and wait for approval. That will be your punishment.
+
+	“Yes!!”
+
+	Cygnaeus rubbed her head against the ground, as if she was trying to lower her head even further.
+
+	{That seems unnecessary.} Ainz thought as he turned to look towards the guardians.
+
+	“That is my decision- do you have any comments? I won’t get angry, you are free to speak your minds.”
+
+	No one seemed to have objections. Still, every one of them was capable of saying ‘Ainz-sama’s decisions are always correct’ with a straight face even if they had any dissenting opinions, it wasn’t likely that they would give voice to those opinions. In any case, it was better to confirm than not.
+
+	“-Albedo.”
+
+	“No objections.”
+
+	“-Demiurge.”
+
+	“I concur with Albedo.”
+
+	“-Aura.”
+
+	“None.”
+
+	“-Mare.”
+
+	“Ah! Y-yes. I don’t have any objections.”
+
+	“-Cocytus.”
+
+	“No. Objections.”
+
+ 	“-Shalltear.”
+
+	“None.”
+
+	Were they really fine with it or were they too afraid to speak up? Ainz wasn’t sure, but he had at least received their approval.
+
+	Ainz forcefully nodded his head and made his judgement final.
+
+	“...Good. Now then, Cygnaeus. Prepare those plans within a few days, that is...have them ready within two days.”
+
+	Cygnaeus audibly whipped her head upwards.
+
+	“Understood! I’m grateful for my lord’s merciful judgement!! I thank you from the deepest depths of my heart!! Oh Sorcerer King-heika!! Please allow me, Hilma Cygnaeus, to continue loyally serving you from now on!!”
+
+	“Is that so…?”
+
+	Cygnaeus’ almost revolting amount of passion reminded him of a girl he had met in the past with scary-looking eyes.
+
+	“I look forward to your loyal service. Now then, Shalltear, please send Cygnaeus back.”
+
+	“Understood.”
+
+	Shalltear took Hilma along as she activated her ring’s function, the destination of their teleportation was the surface. She should be using [Gate] afterwards so it shouldn’t take too long. With that in mind, they waited in place for her. Not too long after, Shalltear returned alone as he had expected.
+
+	“Now then- that couldn’t be the only reason I was called here for, right?”
+
+	If that was the only reason why then he would be thanking his lucky stars, but that wish was shattered by Albedo.
+
+	“Yes, it is exactly as you have surmised.”
+
+	Ainz looked at Albedo as if he had held a grudge against her. He would have loved it if she had only let him hold onto that hope for just a while longer.
+
+	“Umm, is something wrong? Perhaps just then…”
+
+	“No, nothing’s wrong. Now then, how about you tell me the true purpose behind you calling me- gathering every Floor Guardian here?”
+
+	Albedo and Demiurge exchanged glances upon being asked.
+
+	“First on the docket, for what purpose did that buffoon undertake his actions? Was someone manipulating him as part of their ploy? That is certainly possible. Depending on the answer to those questions, we may have to significantly revise our plans against the Kingdom. For that it would be nice to know what Ainz-sama’s thoughts are on the matter, so I proposed that we ask for your presence.”
+
+	“Umu… As of now our strategy against the Kingdom had been ‘Sugar and Whip’ hadn’t it? Have you explained the concept to Aura, Mare, Cocytus, and Shalltear before?”
+
+	“Demiurge and I were in the process of doing so, but we have yet to explain the specific details of the plan.”
+
+	“Is that so? Then Albedo, please share the intel with everybody. Any suggestions or opinions from you all could be helpful.”
+
+	“Understood.”
+
+	Albedo began her explanation to the four of them.
+
+	The Sugar and Whip strategy (the term, coined by Ainz, was popular due to being easy to understand) to prepare the Kingdom for a takeover was in essence a plan to destabilize the Kingdom from the inside to the point where a portion of the Kingdom’s citizens would actively hope for peaceful foreign intervention by the Sorcerous Kingdom.
+
+	Was it because Demiurge was also involved in the planning process? The plan began sounding more and more like what they had done in the Holy Kingdom. It was a strategy that depended on internal conflicts and would thus cause a massive loss of life at the start. His preference for internal conflicts over physically invading a country was probably due to him being a fiend. If Cocytus or Shalltear were in charge of planning, they would probably prefer more direct methods such as a full-blown invasion.
+
+	But apparently this plan had been formulated by someone within the Kingdom and Albedo and Demiurge had only made slight modifications on top of the original.
+
+	That imbecile of a noble was a crucial element of this strategy.
+
+	He was meant to start a revolution. In conjunction with the internal conflicts initiated by their grain shortage, the Kingdom would then be forced to request aid from the Sorcerous Kingdom. There were multiple ways to make use of the nobility, but they would all create a reason for the Sorcerous Kingdom to intervene in the Kingdom’s affairs.
+
+	This meant that to Ainz, everything was still going according to plan. The incident caused by that dimwit was more than enough justification for the Sorcerous Kingdom to involve themselves.
+	
+	However, it appeared as though Albedo and Demiurge were a bit worried by the current situation. There had to be something that Ainz was missing.
+
+	“Now then, Albedo. Though I want to ask questions of a fundamental nature… Do we actually have evidence that noble caused the incident? Do we have clues that this was a ploy by the Kingdom? I recall something...about Albedo’s scheduled correspondence with that noble we were supposed to get under our influences?”
+
+	Albedo had complained to Ainz time after time about ‘having to send letters to that unpleasant noble’, ‘a mere human…’, or something similar. She had also requested Ainz to review said letters so he had to read them on numerous occasions.
+
+	If it was simple paperwork, Ainz would still know a bit about it, but he had no confidence in his ability to proofread or edit. He tried to avoid having to do so but Albedo had begged him in earnest, so he had to.
+
+	By the way, though much time had passed since he came to this world, Ainz still hadn’t learned to read the language.
+
+	The best he could do was write out his and Momon’s names and recognize numbers. Compared to Albedo, Demiurge, and- Pandora’s Actor- who understood the language of several countries, it was easy to see how their brains functioned on a completely different level than his. It was for this reason that Ainz had to rely on magical items to understand any texts.
+
+	If he was being honest, he didn’t think any edits would be necessary so he just handed them back as is to Albedo.
+
+	“I’ve also seen the letters that noble had sent back in response and frankly it appears as though he was completely charmed by you. I did not think that he would be the type to oppose the Sorcerous Kingdom.”
+
+	He had heard of a saying that betrayal from one’s crush could lead one to become irrationally hateful. Like finding out the cute voice actor you stan had a boyfriend. As this thought came to mind, Ainz could see a reflection of his friend of yesteryear crying tears of blood in Shalltear’s place.
+	
+	He could also see in Aura and Mare’s place, that friend’s sister laughing at him.
+
+	“Yes, we’ve conducted detailed investigations into this matter, it is undeniably true that that man was the mastermind behind the grain robbery. But...the possibility that he could have been charmed, brain-washed, or controlled in any other way is certainly not none… the one thing we could be sure of is that he had committed the crime.
+
+	“Perhaps this was a ploy by someone of an even higher intellect than us. If that was the case, then there is the possibility that they are somehow taking advantage of his actions...”
+
+	Albedo had a troubled expression and so did Demiurge. What Ainz found unbelievable was the possibility that someone who could rival the intellect of these two would just show up out of the blue. Or rather-
+
+	“Maybe that nobleman did what he did without thinking it through?”
+
+	If that was the case, then it would make a lot more sense to Ainz.
+
+	“Ainz-sama, I don’t believe that’s possible…”
+
+	Albedo said in a tone as if she were apologizing. This was the first time she had adopted such an attitude and Ainz couldn’t help but feel refreshed from this new kind of behaviour.
+
+	“No, wait a second, Albedo. We are only able to make pre-emptive moves against the strategies of some genius, but Ainz-sama could even see through an idiot’s rash actions. There’s always the possibility that that could be the case, is there not? No, isn’t that explanation the most plausible?”
+	
+	“B-but… to be that stupid… is it really possible…? But Ainz-sama…”
+
+	“If Ainz-sama said so, then isn’t it the truth? Albedo.”
+
+	“I-I guess so, I think…”
+
+	For some reason Aura and Mare had butted in back up Demiurge’s argument, stunning Ainz who had simply muttered a throwaway comment.
+
+	“If that’s the case-”
+
+	Albedo and Demiurge furrowed their brows and began to debate.
+
+	“Hol-hold on a second. Let’s hear the opinions of the other Floor Guardians regarding the operation. They must have quite a lot of questions, so let’s set aside some time for that. Those of you with questions could just raise your hands and Albedo or Demiurge will answer them.”
+
+	{Please don’t direct any questions at me.} Ainz had put up a white flag in his mind already.
+
+	“Umm, I have a question,” Aura said as she raised her hand, “why did we not just draw in as many of the nobility as we could at the start of the operation? If we did that, we could just kill off that troublesome noble and continue the operation as we had planned, right?”
+
+	The one to answer this question was Demiurge.
+
+	“We had considered that during the planning phase, but ultimately chose to abandon that idea after deliberations. It would have been fine had we drawn in outstanding noblemen, but they’re not exactly known for their intellect, are they? With that in mind, the more people we drew into the fold, the more likely it was for an unexpected leak in intel to occur. That was why we had decided to focus on an individual and have them form and manage a new faction.”
+
+	Things were the way they were because they hadn’t expected that person to be such a wildcard.
+
+	The next one to raise their hand was Cocytus.
+
+	“We. Could. Not. Make. Use. Of. The. Exceptional. Nobles?” 
+
+	“It wasn’t as though we couldn’t. In fact, we had recruited someone like that already… it’s so easy to blackmail a doting father. We had considered the fact that we would want to spare the noblemen who were at least somewhat capable, which was why we chose the expendable portion of the nobility. Don’t you believe that it’s necessary for us to clear out the moronic few so that the country could become one worthy of being ruled over by Ainz-sama? That was why we formed a faction that was filled with people that were incompetent in various forms. As a metaphor, think of it as preparing a rubbish bin before throwing away trash. Of course, we had received intel on the talented people of the Kingdom, but we wanted to also collect intel of our own directly from the source.”
+
+	“Because the Sorcerous Kingdom has no need for nobles other than a few of them who are either talented or hard-working ascetics.”
+
+--------
+
+Mini-FAQ:
+Q: Was Tira training the Hanzos or was it the other way around?
+A: I swear some of you give me depression. Those of you who claimed it was a mistranslation, no it wasn't. In fact I had taken the liberty to clear up some of the ambiguity in the original text and somehow you guys still couldn't read between the lines. Sigh.
+1- Context: They were talking about human spies
+Ainz: “-human spies?”
+Nabe: "Ainz-sama. Speaking of which"
+2- "they are no better than a single Eight-Edge Assassin", now why would a group of lvl &gt;80 ninjas be worse than a single Eight-Edge?
+Conclusion: the "them" in "Tira is currently in charge of training them" are human spies Tira was training with the help of the Hanzos Ainz had lent her.
+Q: What is the "Sugar and Whip" strategy?
+A: Native English speakers would know of it as the "Carrot and Stick" policy, but Satoru is a westaboo and knew it by the German version of the "Sugar Bread and Whip" strategy.
+Q: "Pax Nazarica"?
+A: Not the actual text in the book but I thought it sounded cooler than "Nazarick's peace". It will be changed in the final version.
+Q: Why is there K-pop lingo in my dark fantasy Japanese light novel?
+A: Beats me
+Q: Revision?
+A: Yes, pastes will be re-done if there was a major error only, most minor errors will have to wait to be fixed in the final product
+Q: Where are we at?
+A: As of this part: 137/568
+Q: Where do I send feedback on errors and whatnot?
+A: Direct them to fanficerrors@protonmail.com
+
+Hitori's message corner: We only have a few bits to go before the end of Chapter 1, the next part will probably go into Chapter 2 as well. I would've done the rest of it but TLing while sleep-deprived generally yields poor results. The last bit of this part might be a little rough because of that too.</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

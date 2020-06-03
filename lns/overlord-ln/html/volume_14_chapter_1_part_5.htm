@@ -1,0 +1,617 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 02/26/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 1 Part 5:
+
+*(T/N: Name change: Igthorn -&gt; Igor)
+
+	The caravan was soon approaching a forest.
+	
+	They could utilize that fact to estimate their approximate location.
+
+	Christopher opened up a mental image of a map to confirm that they were indeed making good progress. He could finally relax. Messing up a job related to the Sorcerous Kingdom would invite some terrifying consequences.
+
+	The time was around noon. They just had to pass through this forest and then they could take a break as planned. This wasn’t a wild forest, it showed signs of being well maintained by men so it shouldn’t take too long for them to traverse through this place.
+
+	The sound of bolting horses could be heard within the wobbling carriage, which was when the carriage also started slowing down.
+
+	Christopher took a peek at the mercenary leader and found his aura to be completely different from just then, things were getting serious.
+
+	“Excuse me, but it looks like I have a job to do.”
+
+	Two men poked their head through the portière, subordinates of the mercenary leader.
+
+	“Sorry, boss! This guy said there are a lot of villagers hiding in the forests.”
+
+	The merc said as he turned to face Christopher. The one who he had referred to as ‘this guy’ was their scout.
+
+	“...Not bandits, but villagers? How’d you know that?”
+
+	“Yes. First is their equipment. They were neither armored nor armed. Many of them are using hoes as improvised weapons...not clubs but hoes.”
+
+	“Even rocks could be weaponized...but hoes you say? That’s odd. No, were they metal hoes?”
+
+	“I couldn’t get a closer look but they appeared to be made out of wood.”
+
+	Christopher, who had been silently listening in to the conversation, thought that it must have just been regular villagers who were returning home after working on their farms.
+
+	“Hah? Really? Hoes? Is this a hoax…?”
+
+	“It didn’t feel like that was the case...”
+
+	“Send a few men to disperse them? Maybe we’re being too cautious…”
+
+	The mercenary leader mumbled.
+
+	The situation called for everyone to speak their minds, and that was probably why he was mumbling loud enough to himself for the others to hear. Probably.
+
+	“Excuse me, sorry for butting in on your conversation but can I say something?”
+
+	“Ah, that’s fine. As long as it’s constructive suggestions, we can never have too many of those.”
+
+	“First of all, this forest is well maintained - a cultivated forest, people let their pigs forage here or something. Aren’t they just here to round up their pigs? If that’s the case, if we were to disperse them, it might seem as though we are trying to steal their sounder of swine. We’re flying the Sorcerous Kingdom’s flag too, if a rumour was to circulate that the Sorcerous Kingdom is stealing pigs...wouldn’t it be bad if {that} country found out?”
+
+	“Tsss”, the mercenary leader sucked in his lips.
+
+	Up to this point they had had their safety guaranteed by the flag. They had the right of way through some of the cities along the way and were treated with respect because of it, but now it seemed as though the grace of the Sorcerous Kingdom had turned into shackles instead. To bring shame upon the Sorcerous Kingdom would be to bring disaster upon themselves.
+
+That was why Christopher did not dare bring along any contraband for sale later on.
+
+“You said there were a lot of them, how many is ‘a lot’?”
+
+	“For a rough estimate... Felt like there were around 50 men”
+
+	“I think that’s too much manpower for simple farm work, what about you?”
+
+	He was the one to bring farm work up, but his parents were merchants too. Christopher had no experience raising pigs.
+
+	“No, no. I don’t know if that’s too many or too little. I have no idea how many people are necessary to catch a pig. Maybe they’re here to plant more trees, or even cut down some. I heard there were also some types of farm work that require pigs or something…”
+
+	Well, if they brought hoes, then {that} would be more likely.
+
+	“Then, what about the noble of this land? Any tales of him working his serfs to death?”
+
+	Christopher kneaded his thick neck as he replied.
+
+	“No, I had seen him once in the past. He’s pretty young but also highly reliable. His demesne has also been stable under his management. If he was to learn more about the etiquette of the aristocracy and political strategies, he would have a bright future ahead of himself.”
+
+	Though he didn’t know him well, they had had conversations back when Christopher supplied alcohol to some tavern in the capital that was being funded by the Eight Fingers.
+
+	It was unfortunate that Christopher had not been given a warrant of appointment, so he had never done business with that noble even when he had to pass through this section of road in his demesne before. The lord here had potential worthy of Christopher’s attention, and no way was he the type to mobilize villagers to attack caravans. From what Christopher could recall, there weren’t many villagers in that man’s demesne who were hungry enough to attack a trade caravan, nevermind fifty of them.
+	
+	There was a world of difference between him and the man introduced to Christopher by Hilma Cygnaeus. No, that man was simply unparalleled in his inferiority. 
+
+	Christopher couldn’t help but suddenly tense up his forehead at the memory of being mistreated back there.
+
+	“Boss, even if they were to attack, they’re only fifty unarmed and unarmored villagers. We should be able to defeat them easily.”
+
+	“What are the chances that this is a bait and there are more soldiers lying in wait for an ambush?”
+
+	The two mercs looked at each other upon hearing what their leader said.
+
+	“That’s possible. Should we scout out our surroundings? If so we’ll need some time.”
+
+	“Better safe than sorry, do it.”
+
+	“Please don’t take too long, if we deviate from the plans too much I would have to march an army of wagons through the next time around to make up for the time we lost.”
+
+	“Understood, just take a look around and return as soon as possible.”
+
+	The scout gave a nod and ran out.
+
+	After around ten minutes, he returned to report that other than the fifty, there did not seem to be more waiting in ambush.
+
+	They arrived at the conclusion that they must be there for farm work and continued on their way. Not even five minutes had passed before the carriage stopped again.
+
+	“...patron, I do apologize but can I trouble you to come out for a second? The villagers have blocked our path. If they had any malicious intentions we would have just rushed them to scare them off, but they seem to be indifferent, lethargic, or...they just don’t look right. So I was hoping that you could come out and talk to them? Of course, your safety is our number one concern, so we prepared this shield for you.”
+
+	To tell the truth, Christopher really wanted to decline the merc’s request. He did not believe in his own abilities, after all, he had avoided any and all violent confrontations throughout his life.
+
+	But, this wasn’t something he could ignore. If they were to be embroiled in a dispute over what happened today, it would cost Christopher his access to this road. In that case, it wouldn’t just impact him but possibly also his children who will inherit his business.
+
+	“...yeah, let’s go”
+	
+Christopher and the mercenary leader stepped off the carriage together and walked towards the front of the entourage. They were escorted by mercs carrying a large shield known as a tower shield, which could cover half of his body during the negotiations.
+
+	Furthermore, they were also followed by halberdiers who were there as a deterrent and archers who hid in the forest. Of course, the mercenary leader was also there. He had warned Christopher to listen carefully to his commands should a situation arise.
+
+	Between the two sides of the forest on the road ahead of them, sat a few chattering villagers.
+
+	There was no mistaking it, they could only be villagers who were returning home after they had finished a day’s worth of farm work.
+
+	But if that was the case, why did they stop in the middle of the road to block them?
+
+	Perhaps the mercenary leader had perceived Christopher’s worries, as he started to mumble towards him in an attempt to initiate a conversation.
+
+	“Hey, pretty baffling right? If they’re planning to jump us they should’ve split into two and hid in the forest or something. There are lots of ways to set up an ambush, but none of them would require you to show yourself in the middle of the road. No commander would be stupid enough to make such a mistake.”
+
+	“Could it be that they’re trying to scare us?”
+
+	“Scare us? With their equipment? With those numbers? Wouldn’t that be a serious insult to us if that were the case? Has my patron only employed mercenaries of such low levels before?”
+
+	It was just as he had said.
+
+	Christopher did not bother replying but only stared towards the villagers. That said, the distance between them was huge and there were rows upon rows of mercenaries standing in front of them.
+
+	“I’m just a simple merchant who has accepted a transportation contract. If you’re on the road to beg some noble or whatever, we do not want anything to do with that. Please vacate the road, otherwise we will be forced to bear arms against you all in the name of self-defense.”
+
+	A man appeared from the forest just as he had finished speaking to the villagers.
+
+	The man had donned an exquisite set of full-plate armor, but because he wasn’t wearing his helmet, Christopher could see his face.
+
+	It was someone Christopher had met before.
+
+	“Unfortunately, for the sake of the Kingdom’s future, I cannot allow you to pass!”
+
+	“...Hah?”
+
+	Christopher couldn’t stop himself from vocalizing. It wasn’t just him either, the mercenaries around him had made similar sounds too.
+
+	“...I see. Looks like there has been some sort of a misunderstanding, we are just transporting the Sorcerous Kingdom’s food aid to the Holy Kingdom.”
+
+	“I mew it! Ahem-! I knew it! That’s precisely why I’m doing this!”
+
+	{What the fuck is this guy talking about?} or rather, {what kind of thought process would lead you to that conclusion?}
+
+	Christopher was perplexed from the depths of his heart.
+
+	But wait-
+
+	{It doesn’t matter what this unpleasant fool thinks. I don’t think his demesne is even close to this place? Why is he here? Are they in cahoots? But would the lord of this land even bother working with this guy?}
+
+	{Meh, whatever.} Christopher thought. The man had admitted guilt already, now Christopher could report back to his superiors that they were delayed by fools who were standing in the Sorcerous Kingdom’s way. It shouldn’t even be a problem with the Kingdom or the Sorcerous Kingdom if they were to kill them all. Just as he was about to motion to the mercenaries around him to slaughter them, he felt a strong feeling that he shouldn’t.
+
+	The man they called Philip is a nobleman who has the backing of Hilma Cygnaeus. Christopher, who was humiliated and had to hide his anger beneath a fake smile back then, was told that though this man was moronic, he still had value, so it was best to just ignore his own humiliation.
+	
+	Would it be such a good idea to kill a valuable pawn of the Eight Fingers?
+
+	Speaking from common sense, there’d be no way a local noble would attack a caravan that was flying the Sorcerous Kingdom’s flag. Everyone should know that that would just invite the Sorcerous Kingdom’s wrath and spark all-out war between the nations. No matter how dumb a noble may be, they certainly wouldn’t do something so braindead.
+
+	If that was the case- what would his reason be to undertake such a task?
+
+	{Plus, if he was trying to pretend to be a bandit, he would at least cover up his face. I can’t understand his reasoning.}
+
+	No matter how stupid someone could be, they should at least know that they should be concealing their identity in this situation. Since he was wearing that set of full-plate armor, it should’ve come with a helmet that could cover his entire face. If that was the case-
+
+	{He wants us to see his face. He wants us to identify him as Philip? Why wou- Ah!}
+
+	Christopher was suddenly reminded of the existence of illusion magic.
+
+	{That’s it! It’s an illusion! Someone’s trying to frame Philip so they faked his appearance. Maybe those villagers aren’t villagers after all...}
+
+	He had managed to deduce it perfectly.
+
+	Then-
+
+	“So, so you’re saying, you’re robbing us specifically because we’re carrying the Sorcerous Kingdom’s grain. Is that correct?”
+
+	“Oy, oy? Patron, what’s wrong?”
+
+	The mercenary leader who had been standing beside him asked with a perplexed expression. That was to be expected. He had expected an order to kill, so Christopher must have appeared to him like a mad man.
+
+	“That’s right! We’ll be using these grains efficiently!”
+
+	The man, who was purportedly Philip, replied with pride.
+
+	{He’s talking like a retard… The man pretending to be him must also be thinking why he’d have to say something so dumb. But...}
+
+	Could this be a pre-prepared script? But why?
+
+	Christopher’s first thought was of the rival organizations the mercenary leader had mentioned in their previous conversation, his next thought was of the leaders of the Eight Fingers.
+
+	If it was the former, they had to get away from this place immediately. The Eight Finger handed out the most ruthless punishments for those who had betrayed them, followed by those who had failed a job they had given to them. If the former was the case, then their opponents must have enough numbers to defeat Christopher’s security detail. But even if they’re just wearing disguises or whatever, Christopher couldn’t think of a reason why there would be shovel-wielding villagers.
+
+	Now that he thought about it, the latter felt more natural. If that was the case, then they’re dealing with something truly troublesome, something that’s extremely troublesome. This could imply that the leaders of the Eight Fingers were not as united as previously thought, but were still attempting to sabotage each other. Or, was this the will of all of the leaders?
+
+	{-are we being thrown away? Are they trying to push the crime of killing Philip, a noble of the Kingdom, onto me? ...his actual body might have already been dealt with.}
+
+If that was the case, what would their next best move be?
+
+“Hey, patron? What are we doing? Are you scared? You know that we can easily fight off someone like him, right? Though that noble-looking nutjob has some pretty impressive armor, he doesn’t seem to have the skills to match.”
+
+	The mercenary leader spoke in a hushed tone. This wasn’t the time for that, he shouldn’t be interrupting Christopher’s thoughts.
+
+	“-hold on. Just wait for a minute.”
+
+	Their problem wasn’t going away. If they were pushing the job to kill Philip onto him, why didn’t they mention it before? Had they told Christopher in advance, he wouldn’t have to worry as much. He would have just taken care of that man as if he was just a normal bandit.
+
+	So was their plan to make it out to be that a Sorcerous Kingdom’s caravan had killed one of the Kingdom’s nobles, and bring the nations to the brink of war? This thought made Christopher uncontrollably tilt his head.
+
+	As the situation stands, it was more like a merchant of the Kingdom killing one of its nobles in self-defense.
+
+	It would be hard to force a war on these conditions. Of course, Christopher, as someone who had had deep connections to the criminal underworld, knew full well that many people wouldn’t think twice about doing something as long as they had a reason prepared. There were also people who would kill for the simplest slight, but it was hard to imagine a country being this impulsive.
+
+	{...Then there’s only one possibility left. The top brass had decided on this already, but the word never got to me, so it’s just a misunderstanding. After all, there would be no way they thought that it was possible for them to kill us all right now and not have news of it spread all over the place.}
+
+	Careless mistakes being made was a tale as old as time, so it wasn’t as though that was an unreasonable assumption. What would be his best move from this point onward?
+
+	If he was to take independent actions, there was a chance that he would be ‘taken care of’. If he wanted to avoid that kind of situation, he should have an excuse for himself at the very least - he should act in a way that makes it possible to shift responsibility to someone else.
+
+	{Killing that Philip guy would be the worst option. Once he’s dead we can’t bring him back and it would probably anger Cygnaeus-sama. If that’s the case...}
+
+	“...Leave the cargo...leave this place. If we did that he wouldn’t chase us would he?”
+
+	“Hah?”
+
+	Christopher tried his best to ignore the perplexed sounds coming out of the mercenary leader’s mouth.
+
+	“Of course! I do not intend to harm the merchants of the Kingdom!”
+
+	{Even if it isn’t directly, you’re still harming me.} Though those were his hate-filled thoughts, Christopher did not let it show on his face.
+
+	“Oy, oy, oy? Are you for real? Are you being serious right now? What’s going on? What’s happening? Are you under a spell? Or do you see an entire army I’m not seeing right now?”
+
+	“This is an order from your patron, prepare for a full retreat.”
+
+	The mercenary leader rolled his eyes and got quiet for a moment. Perhaps he was considering the possibility that Christopher was under a spell, his own opinions, and his future. After a while, with an expression that said he couldn’t accept any of this, he said, “I understand.”
+
+	The mercenaries covered for Christopher as they backed away. 
+
+	He was allowing the grain to be taken away, but he knew the exact quantity and what exactly was in the cargo. If worse comes to worst, he could always re-purchase the cargo and send it to the Holy Kingdom. They wouldn’t be so picky as to only want this exact caravan of grain, right?
+
+	Though he would have to apologize to the maritime merchant who was waiting on him, it was imperative for him to return to the capital to ask Cygnaeus-sama about this.
+
+
+	Christopher knew from the depth of his heart that there was no easy way out of this situation.
+
+---
+
+	Was it because the merchants knew which side was in the right? They backed off without even unsheathing their swords.
+
+	There were numerous wagons as their spoils of war.
+
+	He had taken a look inside, they were all filled with barrels and crates, each filled to the brim with grain. Though it was all the types of grain that was easy to store and were by no means fresh, they should be safe for consumption.
+
+	It was disappointing how it was just food.
+
+	Philip wanted to take something as a trophy to commemorate his great achievement, but grain couldn’t fulfill that purpose. 
+
+	{If only there were sets of armor or swords in here, I could take one as a souvenir...so I really should have asked those men to leave their weapons behind, huh?}
+
+	Philip looked over the cargo wagons that were his prize.
+
+	The horses had been taken away already so they did not have a way to move them. Of course, Philip had ordered them to leave the horses, but someone who looked like he led the mercenary group had refused his order.
+
+	He even shot an arrow to the tree next to Philip back then.
+
+	Though Philip hated his guts, he had no other option but to back down.
+
+	{I have my full plate armor so I should be fine, but these soldiers aren’t in the same boat as I am. Ah, how merciful am I to forfeit my own gains out of consideration for these people. Though, considering how everything had gone so well - not a single injury and not a single drop of blood spilt - I wanted to keep that up till the end.}
+
+	Philip surveyed his spoils and his gaze fell upon the flag of the Sorcerous Kingdom.
+
+	{Oh, I can keep this as a souvenir. The first to capture the Sorcerous Kingdom’s flag, the country that had defeated the Kingdom’s 200,000 strong army in battle, is me!}
+
+	{Umu umu, umu umu}, Philp nodded his head.
+
+	Though he wanted to hide his joy, he couldn’t help but smile.
+
+	A perfect conclusion suited him the best - as he thought, he was truly someone with exceptional abilities. This made him extremely happy.
+
+	In front of him were the excellent fruits of his labour.
+
+	Since there were multiple flags around, it should be fine if he did it to one of them right? After finishing that thought, Philip dropped the flag and began to stomp on it.
+
+	The image of the Sorcerous Kingdom’s flag being defiled with dirt filled his heart with excitement. This wasn’t something anyone else in the Kingdom could accomplish.
+
+	That’s right, Philip had accomplished what no other man could.
+
+	{Look at that! I’m not a good-for-nothing after all! Compared to brother, compared to father - compared to everyone else in the Kingdom! I’m truly the greatest!}
+
+	“Ah, umm, my lord. Can we really take these? Or is it better to leave ‘em where they stand?”
+
+	One of the villagers checking the wagons asked timidly. With his excitement curbed, Philip asked without masking his emotions, “...What are you talking about?”
+
+	“No, you see, umm, won’t those who ran away come back ‘ere with soldiers?”
+
+	“What do you mean? You think it would be better if we killed those merchants?”
+
+	“N-no! I didn’t mean that! Killing them would ‘ave been unnecessary.”
+
+	“Then what are you trying to say?”
+
+	“Umm, my lord. What should we do about these? If we can take them back, how do we do that?”
+
+	The other villagers chimed in, it was what was bothering Philip as well.
+
+	“What should we do…”
+
+	Even if he forced all fifty of them to carry it back all on their backs, it still wouldn’t be enough to move all of their spoils back. The carriages themselves were also of high quality so they could probably fetch a fair price, or Philip could just use them.
+
+	But, with the manpower he has on hand, moving these back wouldn’t be an easy task - it would be heavy, gruelling physical labour.
+
+	Right as Philip was agonizing over the matter, he heard the sound of people running on grass. Upon looking at the source of the sound, he saw the silhouettes of two masked men.
+
+	“Philip-kakka!”
+
+	It was Wayne’s voice, but his equipment looked completely different from before. The dirty leather armor he had on was now replaced by a sturdy chestplate, he had a sword by his waist too. Why would he change his equipment? Philip felt doubt in his heart, but the feeling of excitement over the result of this operation was much stronger and thus overrode it.
+
+	“Hey! You two! Come, over here - look at our haul!”
+
+	“This...what, what happened?”
+
+	Wayne stood still, surveyed his surroundings, and spoke with an incredulous tone as if the cargo wagons being there was a strange sight to behold. Outside of regular combat and raids- once he considered that, Philip understood what questions Wayne had in mind.
+
+	As if to affirm Philip’s thoughts, Igor opened his mouth to ask.
+
+	“...Exactly. Looks like none of Philip-kakka’s soldiers have been harmed. The ground looks fine - the air looks fine, not even a whiff of blood. What kind of tactic did you employ? Did you have on your person any special magical items?”
+
+	If only he had any arcane talents, but that wasn’t what Igor was talking about was he?
+
+	“None of that, after all I’ve gathered a great number of men, the enemy simply did not want to fight to their deaths. I think.”
+
+	The two of them turned to face each other, but because both of them had their faces obscured, he couldn’t see what their expressions were like.
+
+	“Now then - how should we split this?”
+
+	If he was being honest, the spoils of war in front of them were there entirely because of Philip’s actions. It did irritate him somewhat that he had to split the prize with two people who had just been standing far back as spectators. However, if Philip were to take it all for himself, they would surely be unhappy too. After all, they also had to mobilize the villagers in their demesnes. Eighty percent of the spoils should go to Philip, those two can take the rest of it.
+
+	{To take a tenth of the spoils each just for mobilizing some villagers, there’d be no way they would want more, right?}
+
+	“Ah, no need to worry about that. It doesn’t sit right with us if we were to take a portion of the spoils without doing anything at all. Please, Philip-kakka, you should take it all. I trust that there aren’t any objections?”
+
+	“That’s right, Philip-kakka should take it all, including the cargo wagons.”
+
+	Even someone like Philip would feel guilty to take it all after hearing such cordial words. Though they did say their villages were too small so Philip couldn’t stay there, the fact that they had set up camps near the forest and had prepared food for him meant that those favours must be repaid.
+
+	“Nonsense, nonsense. Aren’t we partners? I would have to leave some of the spoils behind anyways, please feel free to use them.”
+
+	“No no, we have more than enough, Philip-kakka.”
+
+	Wayne replied without hesitation, not a single shred of doubt was present in his answer.
+
+	“These were all earned through Philip-kakka’s efforts. As the etiquette of the nobility would dictate, we cannot accept these.”
+
+	“Is that true?”
+
+	“Yes,” both of them answered simultaneously. They seemed to possess an unyielding will on this matter, so there was nothing he could do about it. {This is all mine!} Philip’s heart fluttered at that thought.
+
+	“Since it has come down to this, I’ll take it all. Also- though I’m embarrassed to ask, I do have a request for you two. Could I borrow some horses to pull these wagons?”
+
+	“Horses?”
+
+	“...What should we do?”
+
+	“We’ll discuss this privately for a second, please excuse us.”
+
+	The two who had temporarily left his presence seemed to be exchanging their opinions, but from this distance it was hard to tell if they were talking at all. They seemed to reach an agreement after a while and promptly returned to Philip.
+
+	“We’ll prepare the horses as soon as possible. However, because these aren’t warhorses but workhorses, could you return them shortly after you’re done with them?”
+
+	“Thank you very much.”
+
+	“Umm, an important thing to note, it would probably be best to lower the flags of the Sorcerous Kingdom. You wouldn’t want to be seen by regular folks while transporting your spoils back, so though it will be difficult, please consider transporting them through the forest.”
+
+	“Understood, I’ll do that then”
+
+	The two strode away as soon as they were done talking.
+
+	Soon their silhouettes could no longer be seen in the forest. Philip surveyed the cargo wagons again.
+
+	This was proof of his victory.
+
+	They were as bright as his future.
+
+	On the other hand, that which now rests underneath Philip’s foot, the dirt ridden flag of the Sorcerous Kingdom, was a representation of that country’s eventual downfall.
+
+
+--------
+
+Mini-FAQ:
+Q: Are we finally done with Philip?
+A: Nope, he shows up later on, but at least the next part will be about Ainz and E-Rantel
+Q: Where are we at?
+A: As of this part: 104/568
+Q: Where do I send feedback on errors and whatnot?
+A: Direct them to fanficerrors@protonmail.com
+
+Hitori's comment corner: I'm back. A bit late, but I'm back.
+
+Took quite a while. When the part is this big, proofreading takes just as much time, if not more, than TLing.
+
+As I've said before, my schedule isn't looking too good. Don't expect consistent releases, it'll be out when it's ready. I will try to get as much content out as possible while it is the weekend though.
+
+To that one art-streamer (you know who you are): Kiitos</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

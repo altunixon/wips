@@ -1,0 +1,377 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 02/21/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 1 Part 2:
+
+	“What the hell, he should’ve said sorry at the very least.” Wayne scoffed after saying goodbye to Philip.
+
+	The garment that was now stained with beer used to be his father’s and was quite old in both texture and design, making it quite a rare item. He had originally planned to show up to formal social gatherings with that garment, but now he would have to make preparations all over again.
+
+	At the end of the day, the aristocracy was nothing more than a bunch of creatures whose eyes could not see past one’s appearances. Clothing was naturally a part of the game, so what had just happened was absolutely unacceptable. But the truth was that Wayne was at the bottom of the upper class society, so what good could have come from having some nice clothes? 
+
+	On the contrary, this shabby garment could signify the owner’s weakness, and was therefore very useful for someone who wishes to be under the protection of their superiors. An outfit like this was a must-have for him to play the role of a weak nobleman on the stage that is a salon. So until he takes on the role of another character, he was under its care.
+
+	That was why it was even more unbearable than usual to see it sullied.
+
+	“That is true.”
+
+	A voice besides him chimed in, prompting Wayne to turn to look at its source.
+
+	“...Enough, that’s enough.”
+
+	His voice turned sombre along with the atmosphere surrounding him. Had Philip stood witness to this change, he would have been shocked speechless.
+
+	Wayne was never the extroverted type, he just plain disliked conversing with other people. To do so he would have to create layers upon layers of facades as he desperately attempts to pretend he was the extroverted and effusive type.
+
+	“Sorry dude, I really can’t handle that kind of a guise so you had to take care of most of it.”
+
+	Igthorn had switched from his previous personality too, his language was now so unrefined that none of the nobility would dare be caught using that language.
+
+	“No need, if you’re really sorry, go practice a few of these pleasantries. Lower level nobility like us have to put in real effort to appease those at the top.”
+
+	“Life’s just getting more and more difficult. I thought that once we inherited the barony we’d be able to join the racket of the aristocracy… Shameless flattery and ingratiation, just those two things alone annoy the shit out of me”
+
+	“Pffft, what are you talking about…? Peasants have to deal with the same shit. Nevermind who has it worse, everybody who's working under somebody has to be a bootlicker of sorts.”
+
+	“And that’s why I never wanted to grow up… Man I miss the days when we were carefree enough to swing sticks around and pretend to be dragonslayers.”
+
+	“There’s no going back so don’t think about it. Anyways, just learn to flatter others. That brainlet seems to be a good candidate to practice on, right? Even if we fuck it up our losses would be small.”
+
+	To noblemen of the higher echelon or those with more experience in life, basically those who had seen it all, nothing could satisfy them unless it was made to perfection. That was why they had to gain experience every time they had a chance.
+
+	“For real…? Well the next time we meet him I’ll try extra hard to put on a face.”
+
+	“Yeah, that’ll do, that’ll do. No one dislikes pleasantries. If someone you’re talking to is annoyed at you, it just means that your ability to hold a conversation isn’t there yet… Igthorn, I know this is hard. I’ll make up for your flaws and you can make up for mine, that was our deal, but you can’t just stop trying to overcome your own weaknesses because of that. It’s not like we’ll be with each other forever.”
+
+	Though Wayne might be more intelligent than the average person, he was completely outmatched in terms of athleticism. Igthorn was the complete opposite.
+
+	If they were of the same type, perhaps they would have been competitors instead. It was for this reason they were grateful for the fact that neither of them thought of each other that way. It was unusual for neighbouring lords to be friendly with each other, but since they were the third and fourth sons of their family, they weren’t indoctrinated with animosity from the past. That was why they were so close.
+
+	Most importantly, they had chemistry.
+
+	“Is that so…? So, what about what we discussed with him?”
+
+	“Absolutely terrible.”
+
+	Wayne did not hesitate for a second before answering his friend’s question. 
+
+	For someone like him to be at the helm of the faction was just far too dangerous of a situation.
+	
+	“But, wasn’t that guy easily manipulated?”
+
+	“Mhm, that’s true.”
+
+	This faction was, frankly speaking, a garbage dump. 
+
+	Its members were only in it to capitalize on their status as noblemen, and had absolutely no interest in developing their lands. Like a child with an iron sword, they abused their windfall authority. They had accomplished nothing whatsoever, yet were overconfident enough to believe they were omnipotent. These people were beyond saving. Even someone like Wayne could understand that he was just a completely ordinary nobleman, yet they couldn’t. The faction was full of that kind of people.
+
+	It was safe to say that because of this, the faction had a huge problem.
+
+	“The Sorcerous Kingdom storing grain in the capital is a disturbing development because they theoretically have complete control over its market price. They’ll definitely raise the prices due to our bad harvest this year. What’s even more terrifying is the fact that the nobles who are optimistic about such a blatant trap and have switched their farmlands to only grow cash crops aren’t the minority. Their mentality is that even if anything bad were to happen, they could get through a famine by importing grain from the Sorcerous Kingdom, even if the price is a bit higher.”
+
+	A lot of landed nobles in this faction had this mentality. Despite his attempts to subtly hint at the perils of doing so, their attitudes clearly demonstrated their belief that they alone would not be affected by it. They were determined to put their plans into action.
+
+	“...We lost a great amount of our labour force in that war. It’s easy to see that they’re fixated on the short term profits based off of how they’re distributing their remaining work force alone.”
+
+	To let go of petty gains and instead focus on long term profits should’ve been common sense for those at the top of the hierarchy.
+
+	“So to even think of robbing a Sorcerous Kingdom’s caravan of grain is evidence that he’s got brain damage. Surely no one is stupid enough to not understand that attacking a caravan that’s flying the Sorcerous Kingdom’s flag would be treated as a declaration of war and would result in serious retribution? Even if he’s this- Hold up. Were we being deceived?”
+
+	It was certainly possible that they were being set up and he just couldn’t figure out what that man’s goal was. Perhaps it wasn’t such a bad choice to accept his proposal after all.
+
+	“No, aren’t you overthinking? It’s probably because he was really that much of an idiot that he didn’t consider the potential consequences at all while he was coming up with that plan.”
+
+	“Hey now,” Wayne smiled bitterly, “to not consider the consequences of attacking those carriages at all- can an idiot of that magnitude really exist?”
+
+	“Well...if you put it that way...”
+
+	At any rate, there was no plausible way that a noble without common sense would be chosen to inherit his family’s title; hence, Philip must have had a goal. What could his goal be?
+
+	“It’s best if we consult Cygnaeus, right?”
+
+	“-no, don’t tell her.”
+
+	Hilma Cygnaeus, the woman who did everything in her power to establish this faction.
+
+	It was rumoured that she was a lover of a certain earl, but the formation of this faction would not have benefited said earl in any shape or form. And so, the origin of her overly plentiful funds and wide connections remained a mystery.
+
+	It was probably an organization, not an individual, that was behind the woman. By the simple process of elimination, one could easily arrive at which organization would have had such capabilities.
+
+	The Eight Fingers.
+
+	The crime syndicate controlling the Kingdom’s underground society.
+
+	In that case, Hilma was probably someone who could be readily discarded, like a mannequin.
+
+	{No}, Wayne’s intuition told him.
+
+	His few conversations with her told him that she was definitely not some simple sacrificial pawn. In fact, it was more than likely that she was one of the higher-ups of the organization. To have someone like her embedded in the faction was worrying to say the least. Although some nobles had the power to covertly form pacts with the crime syndicate, Wayne did not want to get entangled with such illegal organizations himself.
+
+	It was precisely because they didn’t think too highly of themselves that they would want to take advantage of her whilst maintaining a smooth operation.
+
+	“Why…? Looks like you’re thinking about something that I won’t be able to grasp again, but isn’t it about time that you tell me what’s going on? Even I know that saying yes to that guy will get us into trouble in the future. We’re about to attack a Sorcerous Kingdom’s caravan in your territory, you know? That bony bastard is definitely not gonna just let it slide. There’s no way that that guy’s not losing his head after this, and yours might not stay connected to your neck for long either.”
+
+	Igthorn was completely correct, but Wayne had an idea; he had agreed to the proposal with a full understanding of the risks involved.
+
+	“Perhaps that is that idiot’s plan, to make us his scapegoats and pocket the stolen goods for himself. How about we go along with his plan? We’ll be patrolling our own territories and will just so happen to stumble upon a group of bandits, the group that was responsible for the attack on the Sorcerous Kingdom’s caravan. After that, we’ll kill them all. It’s crucial that we alone are responsible for taking care of them.”
+
+	If an individual’s caravan were to be attacked, no victim would simply stand down after receiving the news that the perpetrators were killed. This holds true even on a national level. Retaliation would have been more than warranted. This is why they must not leave behind any evidence of their involvement. Moreover, they had managed to make it easier for them to maintain their innocence by painting the narrative that they were simply taking care of an incident that had coincidentally occurred on their lands.
+
+	“How about that? Not a bad plan to gain favour with the Sorcerous Kingdom, right? Even if we are suspected of involvement, we can just say that we were attempting to help aid the caravan. We’ll be fine as long as the perpetrators are all dead. You know what they say - dead men tell no tales.”
+
+	“We’re getting ahead of ourselves, but we do have to consider the possibility that there are priests who could resurrect the dead. You know what they also say? No lie slips by the priest.”
+
+	“...Do you seriously believe that there are priests capable of resurrection in the Sorcerous Kingdom? In a country where the undead are said to proudly walk the streets, tormenting the living?”
+
+	“No, I guess?”
+
+	Wayne grinned as he concurred with Igthorn.
+
+	“Regardless of that man’s goals, an attack on a Sorcerous Kingdom’s caravan is beneficial to us no matter the outcome. It doesn’t matter if the attack succeeds - which I don’t think it will - or fails, because the Sorcerous Kingdom would be on high alert for further attacks in the future either way. They might stop storing grain with the Kingdom’s merchants. That way, those idiots would get a wake up call and start making plans with a more solid foundation. Also-” Wayne laughed mockingly, “that man will be done for no matter what.”
+
+	“Is he worth all the hassle? For us to take all of these risks just for him?”
+
+	“Of course he’s not worth it personally, but it’s necessary to hinder Cygnaeus, the woman behind him, even if it’s by a little. She must be planning to use him to manipulate the faction and draw attention away from her, ultimately allowing her syndicate to operate in one form out in the open. If that wasn’t the case, it wouldn’t make sense for them to invest so much money on the faction.”
+
+	The Royal faction and the Noble faction had already lost much of their power. If one could freely manipulate this third faction of theirs, they would be able to wield a terrifying amount of authority. This meant that the Eight Fingers would be in charge of both the Kingdom’s legal and illegal affairs.
+
+	“I would only be able to come up with temporary solutions for these things, but you’ve already thought this far ahead huh?”
+
+	As Igthorn said, such an idea should be out of reach from the minds of nobles, let alone a lowly Baron. The truth is of course, not all barons are the same, some of them owned more land than nobles of a higher rank. Unfortunately for the two of them, their territories were of sizes befitting a Baron, so they were your average barons in the Kingdom.
+
+	All the nobles without connections in the Royal faction or the Noble faction wanted to do was to better develop their land. For this to happen, the Kingdom must also change for the better.
+
+	They had the idea not just because they were nobles, it was also borne of their own ambitions.
+
+	What they desired was to become wealthier and happier.
+
+	That’s why they would exploit any beneficial opportunities to its maximum potential.
+
+	“But even if we switched to a better faction, we would have to rebuild our reputation and connections all over again, right?”
+
+“Yeah, right.”
+
+	They had joined the faction to obtain opportunities that would otherwise be unavailable to them had they joined a more well-established faction. However, they never expected the Eight Fingers to appoint such a cretin to its leadership position. It seemed as though joining this faction was a mistake.
+
+	“Speaking of which, would the Sorcerous Kingdom use this as an excuse to declare war on the Kingdom?”
+
+	Wayne thought about it for a moment and shook his head.
+
+	“Unlikely. The Sorcerous Kingdom is a nation with a single city, they lack the manpower to fully occupy the entire Kingdom. Even if they have a lot of undead, they’re only suitable for simple manual labor anyways. They can’t properly manage a country, so even if war was declared, they would only ask for land that is closest to them at most… It shouldn’t be an issue for nobles like us whose land is far from the Sorcerous Kingdom. -now then”
+
+	He raised up a clenched fist as he spoke and Igthorn mirrored his movements to give him a fistbump.
+
+	“Let’s do this!”
+
+	“Yeah!”
+
+--------
+
+Mini-FAQ:
+Q: Do you accept donations?
+A: Why was this even an FAQ? FFS if you have extra money lying around to throw at me just spend it on a JP copy of the book to support Maruhack.
+Q: Where do I send feedback on errors and whatnot?
+A: Direct them to fanficerrors@protonmail.com</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

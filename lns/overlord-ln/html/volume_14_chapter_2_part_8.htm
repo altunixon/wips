@@ -1,0 +1,430 @@
+<html lang="en" class="local-storage history file-upload"><head>
+    <meta charset="utf-8">
+    <title>0bin - encrypted pastebin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="0bin is a client-side-encrypted
+                   pastebin featuring burn after reading, an history and
+                   a clipboard">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+      <link href="/static/css/prettify.css" rel="stylesheet">
+      <link href="/static/css/bootstrap.css" rel="stylesheet">
+      <link href="/static/css/style.css?0.4.1" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE7-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script src="/static/js/jquery-1.7.2.min.js"></script>
+      <script src="/static/js/sjcl.js"></script>
+      <script src="/static/js/behavior.js?0.4.1"></script>
+
+    <script type="text/javascript">
+      zerobin.max_size = 512000;
+    </script>
+
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <div class="nav-collapse">
+            <ul class="nav">
+
+                <li class="active">
+                    <a href="/">Home</a>
+
+                </li>
+                <li>
+                    <a href="https://github.com/sametmax/0bin">Download 0bin</a>
+
+                </li>
+                <li>
+                    <a href="/faq/">Faq</a>
+
+                </li>
+                <li>
+                    <a href="mailto:lesametlemax@gmail.com">
+                      Contact
+                    </a>
+
+                </li>
+
+            </ul>
+            <p class="about pull-right">
+              "A client side encrypted PasteBin"<br>
+              <span>All pastes are AES256 encrypted, we cannot know what you paste...</span>
+            </p>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <noscript class="container noscript">
+          <p>This pastebin uses client-side encryption. Therefore, it needs JavaScript enabled.</p>
+          <p>It seems like your browser doesn't have JavaScript enable.</p>
+          <p>Please enable JavaScript for this website or use a JavaScript-capable web browser.</p>
+    </noscript>
+
+    <div class="container" id="wrap-content" style="display: block;">
+      <div class="row">
+        <div class="span2">
+          <div class="well sidebar-nav">
+            <ul class="nav nav-list previous-pastes">
+              <li class="nav-header">Previous pastes</li>
+              <li class="item local-storage">
+                <em class="grey">
+                  Your previous pastes will be saved in  your browser using
+                  <a href="http://www.w3.org/TR/webstorage/">localStorage</a>.
+                </em>
+              </li>
+              <li class="item no-local-storage">
+                <em class="grey">
+                  Sorry your browser does not support
+                  <a href="http://www.w3.org/TR/webstorage/">LocalStorage</a>,
+                  We cannot display your previous pastes.
+                </em>
+              </li>
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+
+        <div id="main" class="span10"><p class="alert alert-info">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      
+      <span class="message">The paste did not seem to be code, so it was not colorized. <a id="force-coloration" href="#">Force coloration</a></span>
+    </p>
+
+<div class="well paste-form">
+<form action="/" method="get" accept-charset="utf-8">
+<p class="lnk-option"><a class="vhash" href="#"><canvas width="24" height="24"></canvas></a>
+  <a id="clip-button" href="#">Copy To Clipboard</a> |
+  <a id="short-url" href="#">Get short url</a> |
+  <a id="email-link" href="#">Email this</a>
+
+  <span class="paste-option btn-group top">
+      <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+      <button class="btn">New Paste</button>
+  </span>
+</p>
+
+<div class="progress progress-striped active" style="display: none;">
+  <div class="bar" style="width: 100%;">Done</div>
+</div>
+
+  <p id="expiration-tag">Expire the 03/22/2120</p>
+
+<p>
+  </p><pre id="paste-content" class="prettyprint done">Chapter 2 Part 8
+
+	Ainz pushed open the fairy-tale-esque, chateau-style layered frozen doors. Just as before, a chilly breeze flowed out from within, but Ainz, as an undead with complete immunity to freezing temperatures, was not bothered by it anyway.
+
+	Ainz walked alone through the gloomy corridors. Other than checking for holes in the ceiling as he walked, he strode non-stop to a door that stood as the centerpiece of a giant mural which spanned the entirety of the wall.
+
+	Just as before, the plaster on select spots of the mural had already fallen off. It looked quite miserable.
+
+	The door took a single push and silently slid open, the three occupants of the room stood up to greet Ainz.
+
+	The owner of the room, Nigredo.
+
+	The dog-headed maid, Pestonia.
+
+	And the last of the trio, Sebas.
+
+	“Welcome, Ainz-sama.”
+
+	With the room’s owner, Nigredo’s invitation, Ainz approached the table at which they sat.
+
+	The last time he had been in this room, all it had was a cradle. This time the cradle was nowhere to be seen, just a table and four chairs.
+
+	Those were probably appropriated from other rooms within the Frozen Prison. As a side note, Nigredo was only the Area Guardian of the above-ground portion of the Frozen Prison, Neuronist was the Area Guardian of the underground portion. 
+
+	After Ainz had taken his seat, Pestonia immediately began to prepare some tea. The steam emanating from the teacup in front him carried with it the aroma of the black tea held within. Sebas brought out some biscuits at the same time.
+
+	Of course, Ainz could not consume anything with his body, but he gladly accepted their hospitality anyways. After that, Ainz ordered the still-standing three of them to sit down.
+
+	The biscuits that were delivered to Ainz were not sophisticated at all, they were just plain squares. That could be said to be a rare sight in Nazarick.
+
+	Was this someone’s experiment? Ainz looked towards Sebas and asked about them through his gaze alone, prompting Sebas to reply,
+
+	“Those are not from Nazarick, but goods I had brought back from E-Rantel. Due to the current abundance of cheap and fresh ingredients being brought into the city, a food culture is slowly developing there. This biscuit is among the foods being developed. It was said to be harder previously, but is now quite soft.”
+
+	“I’ve tried some already, it’s at an acceptable level of quality for a snack, woof.”
+
+	“Hmmm.”
+
+	Ainz took a biscuit and bit down on it. Indeed, it wasn’t as tough as he had expected.
+
+	The biscuit snapped in half as Ainz caught the crumbs from the inside of his jaw cavity and placed the pieces next to the cup of black tea.
+
+	He could tell the texture of the biscuit, but not its taste. What a disappointment of a body.
+
+	However, from Ainz’s perspective it wasn’t so at all. It was specifically because of the fact that this body had no libido, appetite, and somnolence that he could succeed in his role as the ruler of Nazarick.
+
+	If one of those aspects were to apply to him, surely he would have been in an endless fall from grace since the beginning.
+
+	“If Ainz-sama was to rent out more of his undead for agricultural purposes, then there would certainly be developments in the improvements of breeds of food. The food culture would surely blossom and perhaps they could even produce food of an equal quality compared to Nazarick’s offering.”
+
+	“That would be great. Because of my body, I couldn’t investigate the buffs incurred by different food items before. If we were to invest more resources into this, it could help strengthen Nazarick. But — if that was the case, I assume those without [Cook] levels can’t cook at all then?”
+
+	“We were concerned about that too, so it would be best to save as many purebreds as we possibly could.”
+
+	Ainz nodded in approval in response to Nigredo’s suggestion.
+
+	Suddenly, Ainz was reminded of the European biodomes of the past and the conflicts that arose surrounding the seed banks. Though he wasn’t too interested in the topic back then, Blue Planet was riled up all over it.
+
+	“Ah, yes. It would be best. A task force should be formed to handle this matter.” He should probably propose this idea to Albedo. “Now then — it’s about time that we address the main topic at hand. Tell me. Why was I summoned here?”
+
+	Nigredo, as their representative, spoke,
+
+	“Yes. Given the current situation, isn’t it about time that we stop massacring the citizens of the Kingdom?”
+
+	“Negative. Anyways, shouldn’t this be something that you should ask of your direct superiors, the Floor Guardians, rather than me?”
+
+	Ainz replied immediately.
+
+	The denizens of Nazarick — especially the Area Guardians — had been informed, in writing, the actions of Floor Guardians and the goals behind them.
+
+	If they had any suggestions, they should be reporting to their superiors, the Floor Guardians. This was to unify the various denizens of Nazarick, to gain the opinions of those with different points of view and to pique the interest and curiosity of them all.
+
+	However, though Nigredo was stating her opinions just as he had hoped they would, she should have done so to her direct superior, the Floor Guardian of the fifth floor, Cocytus. If Ainz was to accept her suggestion directly, it would be detrimental to Cocytus’ authority.
+
+	As a social conformist, he absolutely could not do that.
+
+	If some of you don’t understand, do try skipping your own superior and petitioning a higher-up from another department if you will. Do you understand now? Nothing good would come of that.
+
+	From that perspective, Ainz, as the head of the board of directors — the company hierarchy analogue to Guildmaster — should be able to do so, but to rouse discord among his subordinates could ultimately lead the company into a difficult situation and thus should be avoided at all costs.
+	
+	If it was in the stead of the Floor Guardian of the fourth floor, Gargantua, instead, Ainz would be willing to do so.
+
+	“Ainz-sama is correct. So, do permit me to raise this suggestion too, woof.”
+
+	In a sense, Pestonia’s direct superior would be Sebas.
+
+	If a Floor Guardian was to be assigned to the ninth and tenth floors, Sebas would be the Floor Guardian of the ninth and Albedo would be the one for the tenth.
+
+	Because Sebas had been the one to have invited Ainz, there shouldn’t be an issue with indignity at all.
+
+	“—I see, I understand your feelings now, but I do want to ask one question. This war is a massive experiment for the greater good of strengthening the Great Underground Tomb of Nazarick, our home. It wouldn’t halt just by the grace of mercy alone. So, was your suggestion built upon this premise?”
+
+	Make no mistake, the Great Underground Tomb of Nazarick — the Sorcerous Kingdom of Ainz Ooal Gown is not unique, nor is it invincible. If they were to encounter another guild that was also transported to this world, they could lose.
+
+	To assume that they were the only ones to have transported here...would be far too optimistic.
+
+	To be honest, he had already felt the presence of other World Class Items so it wasn’t a far stretch of the imagination to assume that some other guild existed elsewhere.
+
+	This was why, to guarantee victory for an inevitable guild war, it was his duty as the Guildmaster to strengthen Nazarick as much as he could.
+
+	“By what grace may they be spared if it is not by mercy alone? Woof.”
+
+	“...uh. What do you mean? If there are any benefits to be reaped from your suggestion, do tell. That said, if it’s something along the lines of ‘if we spare as many people as possible, a strong being may be born in the future’ I will not entertain it. Throughout the Kingdom’s history, it has produced nothing stronger than Adamantite-ranked adventurers. In terms of pure power alone, perhaps this was humanity's limit. If that was the case, it’s better to give preference to Dragons or other stronger races.”
+
+	“All infants have potential, Ainz-sama.”
+
+	Pestonia gave Nigredo a cold-eyed — at least he thought it was — glare.
+
+	“Not just the infants, woof.”
+
+	Nigredo had a soft spot for babies, perhaps even surpassing that of Pestonia’s. However, her compassion is limited to only that of infants. Once they live past the age of two, she sees them as nothing but sacks of meat to be disposed of.
+
+	For that reason, the toddlers that had been saved during the assault on the capital had left Nigredo’s care and were placed under Pestonia once they were two years old. 
+
+	They were probably transferred to Yuri’s orphanage by now
+
+	“I see, that is true. But, isn’t the same true for dragonlings too?”
+
+	“What we had just talked about, improving the breeds of food, doesn’t that apply to humans too? If we were to apply the different techniques we have in Nazarick to strengthen them, surely stronger varieties of humans could be made. Plus, a race’s value isn’t just in their strength, humanity’s propensity for creativity in their creations… you could call it the ability of cultural development, I believe they do have that ability. If we were to reduce their population to nothing, isn’t that a great opportunity cost to Nazarick?”
+
+	Was that why they had given Ainz the biscuits? If that was the case, everything had been playing out the way they had intended for it to. No, that did not matter much. As long as they could convince Ainz, it would be their victory.
+
+	“Indeed, that is worth considering. However, I do not wish for the inhabitants of this world to become too strong, even to the extent that I believe their development of civilization to be a threat.” Ainz curled his hand into a fist. “Those who are strong but could not get stronger and those who are weak but still have room for growth, a turn of tides must be avoided at all costs. Once we discover the slightest possibility of that happening, we must prevent it at all costs. This is all for Nazarick’s good...isn’t it?”
+
+	The two of them fell silent. Ainz shifted his gaze onto Sebas.
+
+	Sebas hadn’t spoken since then.
+
+	“I’m grateful that Ainz-sama was willing to come down here and lend an ear to their thoughts. That is why I will not be making any further requests.”
+
+	“Hmmm...”
+
+	Ainz cupped his chin and turned his gaze back on to the two of them.
+
+	“Mmmm, it is true that it would be disadvantageous for us to push humanity to the brink of extinction. When push comes to shove, they would do anything to become stronger out of desperation. For that reason, it is best for us to wipe out all who have had that kind of experience. If you want to nurture them, nurture the ones who have not gone through those kinds of experiences — those without the drive to strengthen themselves.” Ainz alternated his gaze between the two of them. “Are we done here? Shall I return to my room?”
+
+	“Not yet, woof!”
+
+	Pestonia’s voice was a bit too loud. She lowered her head in shame and said, “I’m very sorry.”
+
+	“It’s fine. Rather than apologizing, do speak your mind.”
+
+	“Yes — Ainz-sama. I heard that your strategy this time around was called Candy and Whip, to let the countries around us know the difference in outcome between the Empire who chose to become our vassal and the Kingdom who chose to oppose us as enemies. Was that the reason for the current massacre, woof?” Pestonia continued after Ainz had nodded, “As more and more people manage to escape through great tribulations, wouldn’t the perception of how foolish it is to disobey Ainz-sama, or rather the Sorcerous Kingdom, become more widespread? Uh, woof.”
+
+	“You’re suggesting that I should intentionally let more of them go because of that?”
+
+	“Yes, woof.”
+
+	If that was the case, there was some value in allowing them to escape.
+
+	But.
+
+	He did not believe that Albedo and Demiurge had not given consideration to this already. Both of them were the type to not execute a plan until they had thought of even these kinds of possibilities. If Ainz were to allow that, he would be executing a plan that Albedo and Demiurge had abandoned for some reason.
+
+	How would those two, who always mistook Ainz’s actions to be that of a genius’, react to this?
+
+	Ainz’s non-existent stomach cramped up the moment he thought about this.
+
+	Wait no, he had told them that, “I will be making mistakes intentionally,” so even if something out of the ordinary happened, it could still work out fine at the end. However, the real issue lay in what would happen afterwards, specifically the actions of those who would call the color white as black and vice versa if he did it first. 
+
+	{If they gave up on the plan due to a fatal flaw and I ordered them to carry it out anyways, it could lead to massive losses on our side.}
+
+	It would be the same as a company that experienced massive losses due to the CEO’s incompetence while the employees were helpless to stop it from happening.
+
+	{Even if they were to recover the loss, someone like me would be too meek and powerless to do anything about it. Someone who couldn’t even shoulder the responsibilities and consequences of their actions shouldn’t be doing something like this.}
+
+	But even if he wanted to reject it, he couldn’t put his finger on exactly what was wrong with Pestonia’s suggestion.
+
+	Even though a simple “no” would have probably sufficed.
+
+	{...So I should have forcefully brought Albedo and Demiurge along, huh? But...}
+
+	He had not done so because he had more or less figured out what this meeting would be about after learning that it was with Nigredo and Pestonia.
+
+	This was why it had turned into a difficult situation.
+
+	Because, those two had been imprisoned before. Back then, Albedo had already suggested executing them. He was afraid that if the same thing was to occur again that Albedo would strongly request execution. He was also afraid of a future irreconcilable division.
+
+	An organization that seemed formidable to outsiders could still crumble down from the inside.
+
+	That was why they had to avoid anything that could pose a threat to them.
+
+	So then, what should he do now?
+
+	His common sense told him to reject their suggestion but something still troubled him: the future.
+
+	Though the Great Underground Tomb of Nazarick would only accept one set of outsiders into their ranks, the Sorcerous Kingdom of Ainz Ooal Gown had already absorbed a large number of outsiders. Though they may not hold any important posts within the organization, that was probably only a temporary measure.
+
+	If those outsiders were to become high-ranked officials, they would certainly hold quite a lot of different opinions. Perhaps there would also be suggestions for benevolence that would make Albedo and the rest call them “weak-willed” or something similar.
+
+	Would it be possible to task Nigredo and Pestonia with integrating those kinds of opinions?
+
+	If that was the case, ignoring their suggestions now could lead to problems later on.
+
+	If people with similar opinions as them were the exception in Nazarick, then he should divert even more attention towards this issue.
+
+	Also—
+
+	{I have already repaid the kindness Touch Me-san had shown to me, so if I was to consider this as repaying Mochi-chan and Tabula-san’s kindness, this should be fine.}
+
+	“...though I believe that all of you should know this by now, I’ll repeat it again. I never intended to wipe out every single human from the Kingdom. The truth is, we have already convinced multiple nobles to join our side...at most, only around 90% of them will be killed.”
+
+	“So some people chosen to be spared will live under the Nazarick’s rule, woof. I don’t believe that would advertise the message louder than if we were to let the unchosen ones escape.”
+
+	He could understand Pestonia’s will to help those who had not been chosen by them.
+
+	“I completely understand what you’re trying to say. If it is not out of mercy, but rather for the greater good of Nazarick, there is room for consideration...I’ll consider letting a few of them go.”
+
+	“We’re eternally grateful.”
+
+	“We’re eternally grateful, woof.”
+
+	Sebas silently lowered his head as well.
+
+	Still, though he had said that, he did not know exactly how he should go about this. Ainz’s heart grew heavy.
+
+	He had to think up a solution. Perhaps he only needed to let a few hundred people go to appease them.
+
+--------
+Mini-FAQ
+Q: Where are we at?
+A: As of this part: 270/568
+
+Hitori's comment corner: Maruyama's so damn repetitive with his word choice and sentence structure it pains me. This part was an absolute slog to go through.</pre>
+<p></p>
+
+<p class="paste-option btn-group bottom">
+    <button class="btn btn-clone"><i class="icon-camera"></i>&nbsp;Clone</button>
+    <button class="btn">New Paste</button>
+</p>
+
+</form>
+</div>
+
+<!-- For cloning -->
+<div class="submit-form clone">
+  <form class="well" method="post" action="/paste/create">
+    <p class="paste-option">
+    <label for="expiration">Expiration:</label>
+      <select id="expiration" name="expiration">
+        <option value="burn_after_reading">Burn after reading</option>
+        <option selected="" value="1_day">1 day</option>
+        <option value="1_month">1 month</option>
+        <option value="never">Never</option>
+      </select>
+      <button type="submit" class="btn btn-primary">Submit</button>
+      <button class="btn btn-danger">Cancel clone</button>
+    </p>
+
+    <div>
+        <div class="progress progress-striped active">
+          <div class="bar"></div>
+        </div>
+        <textarea rows="10" style="width: 100%; overflow: hidden; height: 54px;" class="input-xlarge" id="content" name="content"></textarea>
+    <div style="position: absolute; display: none; overflow-wrap: break-word; white-space: pre-wrap; border-color: rgb(221, 221, 221); border-style: solid; border-width: 1px; font-weight: 400; width: 100%; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 18px; font-size: 13px; padding: 4px;">&nbsp;</div></div>
+  </form>
+</div>
+
+
+
+        </div><!--/span-->
+
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+       <blockquote>
+        <p>“Few persons can be made to believe that it is not quite an easy thing to invent a method of secret writing which shall baffle investigation. Yet it may be roundly asserted that human ingenuity cannot concoct a cipher which human ingenuity cannot resolve...”</p>
+        <small>Edgar Allan Poe</small>
+      </blockquote>
+
+
+        <h4 id="pixels-total">
+          <p>ø</p>
+          <strong>203,762</strong> <br>pastes øbinned
+        </h4>
+
+
+      <br>
+        <p class="greetings span12">
+            Based on an original idea from
+           <a href="http://sebsauvage.net/paste/">sebsauvage.net</a><br>
+           <a href="http://sametmax.com">Sam &amp; Max</a><br>
+       </p>
+      </footer>
+
+        <script src="/static/js/jquery.elastic.source.js"></script>
+        <script src="/static/js/lzw.js"></script>
+        <script src="/static/js/prettify.min.js"></script>
+        <script src="/static/js/ZeroClipboard.js"></script>
+
+    <p id="alert-template">
+      <a class="close" data-dismiss="alert" href="#">×</a>
+      <strong class="title"></strong>
+      <span class="message"></span>
+    </p>
+  </div><!--/wrap-content-->
+
+  
+
+
+<div style="position: absolute; left: 220px; top: 138px; width: 107px; height: 15px; z-index: 99;"><embed id="ZeroClipboardMovie_1" src="/static/js/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="107" height="15" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=107&amp;height=15" wmode="transparent"></div></body></html>

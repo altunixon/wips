@@ -34,20 +34,28 @@ if __name__ == '__main__':
             default = 3, 
             help = 'Wait time in-between curls')
         console_args = parser.parse_args()
-        for url_haz_javascript in console_args.url:
+        if len(console_args.url) > 0:
+            url_haz_javascript = console_args.url[0]
             browser_sel.get(url_haz_javascript, read=False, wait=console_args.time_wait)
             url_html = browser_sel.read()
             if console_args.xpath is not None:
-                url_content = html_scraper(
+                url_article = html_scraper(
                     url_html, refer = url_haz_javascript, tag_content = console_args.xpath
                 )['tag_content']
+                if len(url_article) > 0:
+                    url_content = url_article[0] # type bytes!? WTF
+                else:
+                    url_content = url_haz_javascript
             else:
                 url_content = url_html
+            print (type(url_content))
             if console_args.path_out is None:
                 print (url_content)
             else:
-                with open(console_args.path_out, 'w+') as url_out:
+                with open(console_args.path_out, 'w+', encoding='utf-8') as url_out:
                     url_out.write(url_content)
+        else:
+            pass
     except Exception as excp:
         with open(os.path.join(path_base, 'error.log'), 'w+', encoding='utf-8') as ex:
             ex.write(repr(excp))

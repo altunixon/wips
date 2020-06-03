@@ -21,6 +21,11 @@
             "article": "//div[@class=\"entry-inner\"]"
         }
     },
+	"overlord": {
+		"type": "reddit",
+		"article": "//a[contains(@href, \"0bin.net\")]",
+		"transit": "//*[@id=\"paste-content\"]"
+	},
     "wordpress": {
         "article": "//div[contains(@class, \"entry-content\")]",
         "transit": null

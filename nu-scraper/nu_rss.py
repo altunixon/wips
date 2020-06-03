@@ -34,6 +34,9 @@ def chapter_zfill(chapter_txt, **zargs):
     else:
         return None
 
+def chapter_reddit():
+    return None
+
 def chapter_md(chapter_link, **kargs):
     xpath_article = kargs.get('article', None)
     article_desc = kargs.get('desc', 'Link')

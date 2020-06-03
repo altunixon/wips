@@ -12,7 +12,7 @@ def html2md(text_html, **kargs):
     # kill all script and style elements
     for x in soup_html.find_all("div", {'class': 'sharedaddy'}):
         x.decompose() # broke merc
-    for soup_script in soup_html(["script", "style", "ins"]):
+    for soup_script in soup_html(["ins", "script", "style"]):
         soup_script.decompose() # rip it out
     # soup_text = soup_html.get_text()
     # soup_text = re.sub('(\t|\s+)?\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?

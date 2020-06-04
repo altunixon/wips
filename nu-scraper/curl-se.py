@@ -43,7 +43,7 @@ if __name__ == '__main__':
                     url_html, refer = url_haz_javascript, tag_content = console_args.xpath
                 )['tag_content']
                 if len(url_article) > 0:
-                    url_content = url_article[0] # type bytes!? WTF
+                    url_content = url_article[0].decode(encoding='UTF-8') # type bytes!? WTF, temporary using decode to convert to str
                 else:
                     url_content = url_haz_javascript
             else:

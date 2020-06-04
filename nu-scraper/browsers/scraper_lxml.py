@@ -85,6 +85,7 @@ def html_scraper(html_txt, **xpath_supplied):
                                         scraped_results[xpath_attribute].append(tag_data.text_content().strip())
                                     elif xpath_attribute.startswith('tag_'):
                                         html_as_str = html.tostring(tag_data)
+                                        # might worth a try html.tostring(tag_data, encoding='utf-8')
                                         ### DEBUG
                                         print ('SCRAPER tag_ Type:', type(html_as_str))
                                         scraped_results[xpath_attribute].append(html_as_str)

@@ -33,13 +33,6 @@ def dump_html(html_string, html_file):
         with open(html_file, 'w+') as o:
             o.write(html_string)
 
-
-# Usage: html_scraper(view_html, view_url, src='//div/a/img[@id="img"]')
-#        html_scraper(ptag_html, gallery_url, pair='//tr[contains(@class,"gtr")]',
-#                 href='//td[@class="itd"]/div/div[contains(@class,"it")]/a[contains(@href,"/g/")]',
-#                 alt='//td[@class="itdc"]/a/img',
-#                 title='//td[@class="itd"]/div/div/div/a[contains(@href,"gallerytorrents.php")]/img')
-# Return: {'pair': [{'text_content': [], 'href': []}]}
 def html_scraper(html_txt, **xpath_supplied):
     verbosity = xpath_supplied.pop('verbose', True)
     refer_url = xpath_supplied.pop('refer', None)
@@ -89,13 +82,12 @@ def html_scraper(html_txt, **xpath_supplied):
                             if len(tag_object) > 0:
                                 for tag_data in tag_object:
                                     if xpath_attribute.startswith('text_'):
-                                        # if xpath_accept.endswith('text()'):
-                                        #     scraped_results[xpath_attribute].append(tag_data.text.strip())
-                                        # else:
-                                        #     scraped_results[xpath_attribute].append(tag_data.text_content().strip())
                                         scraped_results[xpath_attribute].append(tag_data.text_content().strip())
                                     elif xpath_attribute.startswith('tag_'):
-                                        scraped_results[xpath_attribute].append(html.tostring(tag_data))
+                                        html_as_str = html.tostring(tag_data)
+                                        ### DEBUG
+                                        print ('SCRAPER tag_ Type:', type(html_as_str))
+                                        scraped_results[xpath_attribute].append(html_as_str)
                                     else:
                                         if isinstance(tag_data, lxml.etree._ElementUnicodeResult):
                                             scraped_results[xpath_attribute].append(str(tag_data))
@@ -139,6 +131,9 @@ def html_scraper(html_txt, **xpath_supplied):
             raise Exception(telltime() + ' SLXML [ERR1] - #404 Url: "%s"' % refer_url)
     else:
         raise Exception(telltime() + ' SLXML [ERR1] - NO VALID XPATH SUPPLIED - Url: "%s", XPaths: %s' % (refer_url, xpath_supplied))
+    ### DEBUG
+    for x, y in enumerate(scraped_results):
+        print ('SCRAPE RETURN [%s] Type:' % x, type(y))
     return scraped_results
 
 class spiderman():

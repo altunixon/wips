@@ -84,11 +84,8 @@ def html_scraper(html_txt, **xpath_supplied):
                                     if xpath_attribute.startswith('text_'):
                                         scraped_results[xpath_attribute].append(tag_data.text_content().strip())
                                     elif xpath_attribute.startswith('tag_'):
-                                        html_as_str = html.tostring(tag_data)
                                         # might worth a try html.tostring(tag_data, encoding='utf-8')
-                                        ### DEBUG
-                                        print ('SCRAPER tag_ Type:', type(html_as_str))
-                                        scraped_results[xpath_attribute].append(html_as_str)
+                                        scraped_results[xpath_attribute].append(html.tostring(tag_data).decode('utf8'))
                                     else:
                                         if isinstance(tag_data, lxml.etree._ElementUnicodeResult):
                                             scraped_results[xpath_attribute].append(str(tag_data))
@@ -133,8 +130,8 @@ def html_scraper(html_txt, **xpath_supplied):
     else:
         raise Exception(telltime() + ' SLXML [ERR1] - NO VALID XPATH SUPPLIED - Url: "%s", XPaths: %s' % (refer_url, xpath_supplied))
     ### DEBUG
-    for x, y in enumerate(scraped_results):
-        print ('SCRAPE RETURN [%s] Type:' % x, type(y))
+    # for x, y in enumerate(scraped_results):
+    #     print ('SCRAPE RETURN [%s] Type:' % x, type(y))
     return scraped_results
 
 class spiderman():

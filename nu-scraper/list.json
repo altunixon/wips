@@ -21,11 +21,14 @@
             "article": "//div[@class=\"entry-inner\"]"
         }
     },
-	"overlord": {
-		"type": "reddit",
-		"button": "//button[text()[contains(., \"Click to see spoiler\")]",
-		"article": "//a[contains(@href, \"0bin.net\")]",
-		"transit": "//pre"
+    "overbin": {
+        "list": "/media/alt/bad/wips/lns/overlord-ln/0bin.txt"
+    },
+    "overlord": {
+        "type": "reddit",
+        "button": "//button[text()[contains(., \"Click to see spoiler\")]",
+        "article": "//a[contains(@href, \"0bin.net\")]",
+        "transit": "//pre"
 	},
     "wordpress": {
         "article": "//div[contains(@class, \"entry-content\")]",

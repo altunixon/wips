@@ -1,0 +1,31 @@
+version: '3'
+services:
+  mariadb:
+    image: "mariadb:10.1"
+    container_name: "mariadb"
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+    volumes:
+      - type: bind
+        source: /media/alt/ramdisk1/mysql/conf
+        target: /etc/mysql/conf.d
+    volumes:
+      - type: bind
+        source: /media/alt/ramdisk1/mysql/data
+        target: /var/lib/mysql
+  selenium-chrome:
+    image: "selenium/standalone-chrome:latest"
+    container_name: "se-chrome"
+    ports:
+      - "4444:4444"
+    volumes:
+      - type: bind
+        source: /dev/shm
+        target: /dev/shm
+ 
+ 
+ # https://docs.docker.com/compose/compose-file/
+ # https://hub.docker.com/_/mariadb
+ # https://github.com/SeleniumHQ/docker-selenium#running-the-images

@@ -26,6 +26,11 @@ services:
         target: /dev/shm
  
  
+ # pip install docker-compose
+ # pip uninstall docker-compose
+ # pip install --upgrade docker-compose
+ # docker-compose --file ./docker-compose-dlenv.yml create
+ # docker-compose --file ./docker-compose-dlenv.yml start
  # https://docs.docker.com/compose/compose-file/
  # https://hub.docker.com/_/mariadb
  # https://github.com/SeleniumHQ/docker-selenium#running-the-images

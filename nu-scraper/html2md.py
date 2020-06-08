@@ -12,6 +12,8 @@ def html2md(text_html, **kargs):
     # kill all script and style elements
     for x in soup_html.find_all("div", {'class': 'sharedaddy'}):
         x.decompose() # broke merc
+    for x in soup_html.find_all("div", {'id': 'jp-post-flair'}):
+        x.decompose()
     for soup_script in soup_html(["ins", "script", "style"]):
         soup_script.decompose() # rip it out
     # soup_text = soup_html.get_text()

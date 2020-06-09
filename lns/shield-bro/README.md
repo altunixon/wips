@@ -40,21 +40,28 @@
         esac
     done
     ```
+- Z-fill
+    ```bash
+    for x in $(ls -1 *.md); do
+        z=$(echo "$x" | awk -F '-' '{printf("%03d", $2)}')
+        y=$(echo "$x" | sed 's/-[0-9]{1,2}-/-'"$z"'-/')
+        [ "$y" != "$x" ] && mv --no-clobber -v "$x" "$y" || echo "[SKIP] $x"
+    done
+    ```
 - Add Navigation
     ```bash
     nav_pre="[Table of Contents](./toc.md)"
     chp_lst=($(ls -1 *.md))
     n_f=$((${#chp_lst[@]} - 1))
     for n_i in $(seq 0 $n_f); do
-        chp_now="${chp_lst[$n_i]}"
+        chp_now=${chp_lst[$n_i]}
+        chp_nex=${chp_lst[$((n_i + 1))]}
         if [ $n_i -lt $n_f ]; then
-            nav_nex=$"${chp_lst[$((n_i + 1))]}"
+            nav_nex="[$chp_nex](./$chp_nex)"
         else
             nav_nex="[Table of Contents](./toc.md)"
         fi
-        echo -e "${nav_pre} | ${nav_nex} <br/>\n$(cat ${chp_lst[$n_i]})\n${nav_pre} | ${nav_nex} <br/>\n" > "${chp_lst[$n_i]}"
-        chp_new=$(echo "$chp_now" | awk -F '|' '{print $1}')
-        mv --no-clobber -v "${chp_lst[$n_i]}" "${chp_new%% }"
-        nav_pre="$chp_now"
+        echo -e "${nav_pre} | ${nav_nex} <br/>\n$(cat $chp_now)\n${nav_pre} | ${nav_nex} <br/>\n" > "$chp_now"
+        nav_pre="[$chp_now](./$chp_now)"
     done
     ```

@@ -1,3 +1,4 @@
+[chapter-299-the-last-of-the-seven-stars.md](./chapter-299-the-last-of-the-seven-stars.md) | [chapter-301-the-eve-of-houou.md](./chapter-301-the-eve-of-houou.md) <br/>
 <br/>
 Chapter 300: A Seven Star Weapon<br/>
 After that, we started training based on our assumptions of Houou.<br/>
@@ -168,3 +169,7 @@ But in a game I know of, it’s the strongest weapon. (TL: Perhaps Castlevania)<
 <br/>
 <br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-299-the-last-of-the-seven-stars.md](./chapter-299-the-last-of-the-seven-stars.md) | [chapter-301-the-eve-of-houou.md](./chapter-301-the-eve-of-houou.md) <br/>
+

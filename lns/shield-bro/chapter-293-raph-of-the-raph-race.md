@@ -1,3 +1,4 @@
+[chapter-292-a-new-sort-of-carriage.md](./chapter-292-a-new-sort-of-carriage.md) | [chapter-294-collect-・-wall-・-ball.md](./chapter-294-collect-・-wall-・-ball.md) <br/>
 <br/>
 Finally! I should really stop registering for chapters that I don’t intend on finishing…. I don’t know why I keep losing interest/motivation midway. (I had to translate this twice because I didn’t do it well the first time >w<)<br/>
 For the record, feel free to take over a chapter if it’s not up within 2 days, you have my permission.<br/>
@@ -150,31 +151,7 @@ Your brown colouring pains me when I see it.<br/>
 And so, I returned home after talking with two of the women whose ages were on the higher end even in the village. [T/N: They’re two of the oldest ppl in the village]<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a8b45e8d', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a8b45ed1',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-292-a-new-sort-of-carriage.md](./chapter-292-a-new-sort-of-carriage.md) | [chapter-294-collect-・-wall-・-ball.md](./chapter-294-collect-・-wall-・-ball.md) <br/>
+

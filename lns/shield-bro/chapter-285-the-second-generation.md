@@ -1,3 +1,4 @@
+[chapter-284-the-battle-for-the-second-tower.md](./chapter-284-the-battle-for-the-second-tower.md) | [chapter-286-war-reversal.md](./chapter-286-war-reversal.md) <br/>
 <br/>
 Chapter 285: The Second Generation<br/>
 "Let’s start a strategy meeting!"<br/>
@@ -217,3 +218,7 @@ How selfish a bird.<br/>
 As always, Atlas is sleeping near me.<br/>
 Fohl failed in dragging her away.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-284-the-battle-for-the-second-tower.md](./chapter-284-the-battle-for-the-second-tower.md) | [chapter-286-war-reversal.md](./chapter-286-war-reversal.md) <br/>
+

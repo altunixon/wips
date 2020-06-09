@@ -1,3 +1,4 @@
+[chapter-118-the-spirit-turtle,-recon-battle.md](./chapter-118-the-spirit-turtle,-recon-battle.md) | [chapter-120-stalling-for-time_bijd18Ub.md](./chapter-120-stalling-for-time_bijd18Ub.md) <br/>
 <br/>
 Naofumi pulls a motivational speech out of nowhere. Even he agrees it is BS. On a side note, I seem to be getting stuck with the political chapters.<br/>
 Chapter 119: Strategic Countermeasures<br/>
@@ -185,3 +186,7 @@ If she gets over it, she will mature mentally.<br/>
 The first thing she must change is her own heart.<br/>
 Rafatalia was like this at the beginning as well. It’s fine if she just progresses slowly.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-118-the-spirit-turtle,-recon-battle.md](./chapter-118-the-spirit-turtle,-recon-battle.md) | [chapter-120-stalling-for-time_bijd18Ub.md](./chapter-120-stalling-for-time_bijd18Ub.md) <br/>
+

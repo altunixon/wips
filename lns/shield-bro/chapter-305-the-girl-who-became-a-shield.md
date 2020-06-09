@@ -1,3 +1,4 @@
+[chapter-304-a-price-too-great.md](./chapter-304-a-price-too-great.md) | [chapter-306-vs.-houou-finale.md](./chapter-306-vs.-houou-finale.md) <br/>
 <br/>
 Chapter 306 Here By Alva:<br/>
 https://akashalink.wordpress.com/2015/03/26/tate-yuusha-306/<br/>
@@ -187,3 +188,7 @@ All Resist<br/>
 Spell Support<br/>
 Along with the blind girl’s disappearance… the Shield of Compassion was born in my heart.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-304-a-price-too-great.md](./chapter-304-a-price-too-great.md) | [chapter-306-vs.-houou-finale.md](./chapter-306-vs.-houou-finale.md) <br/>
+

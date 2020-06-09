@@ -1,3 +1,4 @@
+[chapter-248-raising-an-army.md](./chapter-248-raising-an-army.md) | [chapter-250-promotion.md](./chapter-250-promotion.md) <br/>
 <br/>
 Please note that this is still flashback.<br/>
 Imagine an anime type flashback. Something like Naofumi watching the flashback through a TV, even though it should be Raphtalia explaining in words. While watching said flashback, he gives commentary. If that’s too unreasonable, then imagine Raphtalia using illusionary magic to show him the flashback instead of using words.  – frenzy85<br/>
@@ -136,3 +137,7 @@ That metaphor is a bit questionable…<br/>
 Now then, what will the Queen do?<br/>
 Will she execute her when this all calms down? I pray for the day her head falls from her neck.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-248-raising-an-army.md](./chapter-248-raising-an-army.md) | [chapter-250-promotion.md](./chapter-250-promotion.md) <br/>
+

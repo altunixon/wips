@@ -1,3 +1,4 @@
+[chapter-151-camping-plant.md](./chapter-151-camping-plant.md) | [chapter-153-even-though-you-already-understand.md](./chapter-153-even-though-you-already-understand.md) <br/>
 <br/>
 Chapter 152, done by Muel, with the untranslated portions filled in by me… Let me say this now. It takes me longer to edit/complete than to translate, so I don’t think I will be doing this again… I didn’t edit the whole thing, just kinda did the glaring errors, and missing portions. BTW, I might try to pick up Konjiki no Word Master as well.<br/>
 EXTREME EDITING BY uz3r013<br/>
@@ -165,3 +166,7 @@ I have some grudges against this person, but he has done me enough favors to bal
 "…. I understand. I’ll tell you my story." (Ren)<br/>
 Ren sighs, and begins to speak.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-151-camping-plant.md](./chapter-151-camping-plant.md) | [chapter-153-even-though-you-already-understand.md](./chapter-153-even-though-you-already-understand.md) <br/>
+

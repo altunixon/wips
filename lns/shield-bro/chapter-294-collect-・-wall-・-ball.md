@@ -1,3 +1,4 @@
+[chapter-293-raph-of-the-raph-race.md](./chapter-293-raph-of-the-raph-race.md) | [chapter-295-sibling-fight.md](./chapter-295-sibling-fight.md) <br/>
 <br/>
 Chapter 294: Collect ・ Wall ・ Ball<br/>
 We continued leveling for the Wave. I got the Old Man to make Raphtalia a new sword and placed an order for Firo’s claws with Imya’s Uncle. With that out of the way, we zealously proceed to level grind.<br/>
@@ -144,3 +145,7 @@ She doesn’t have any delegated position, but she’s quite powerful in battle.
 Though, she’s constantly bound to her Crepe Tree.<br/>
 When I asked her if she would participate in the wave, she was overflowing with eagerness.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-293-raph-of-the-raph-race.md](./chapter-293-raph-of-the-raph-race.md) | [chapter-295-sibling-fight.md](./chapter-295-sibling-fight.md) <br/>
+

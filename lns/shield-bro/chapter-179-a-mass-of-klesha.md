@@ -1,3 +1,4 @@
+[chapter-178-grasping-forces.md](./chapter-178-grasping-forces.md) | [chapter-180-good-luck-.md](./chapter-180-good-luck-.md) <br/>
 <br/>
 NAAAOOOOFFFUUUMMMIIII!!! CCCOOOMMMEEE BAAACCCKKKK!!!!<br/>
 Chapter 179: A Mass of Klesha (TL: Google it)<br/>
@@ -172,3 +173,7 @@ Is the me without Hate, Resentment, and Killing intent just a mass of Klesha?<br
 I must retrieve my negativity fast, or things will get dangerous.<br/>
 In numerous ways.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-178-grasping-forces.md](./chapter-178-grasping-forces.md) | [chapter-180-good-luck-.md](./chapter-180-good-luck-.md) <br/>
+

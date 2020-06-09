@@ -1,3 +1,4 @@
+[chapter-172-training.md](./chapter-172-training.md) | [chapter-174-melty-s-job.md](./chapter-174-melty-s-job.md) <br/>
 <br/>
 When the Waifu is away…<br/>
 Chapter 173: A Shield to Protect the Shield<br/>
@@ -201,3 +202,7 @@ These siblings really are troublesome.<br/>
 Though I say that…<br/>
 To want to become my shield… what a strange child.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-172-training.md](./chapter-172-training.md) | [chapter-174-melty-s-job.md](./chapter-174-melty-s-job.md) <br/>
+

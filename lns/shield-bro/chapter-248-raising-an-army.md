@@ -1,3 +1,4 @@
+[chapter-247-the-castle-town-riot.md](./chapter-247-the-castle-town-riot.md) | [chapter-249-complete-victory.md](./chapter-249-complete-victory.md) <br/>
 <br/>
 My translations are getting more literal… but I don’t have the creativeness, nor can I be bothered to reword it and make it flow better <br/>
 Anyway~ the chapter we’ve all been waiting for, WELCOME BACK RAPHTALIA-CHAN!! ~^^~<br/>
@@ -139,31 +140,7 @@ However, Raphtalia didn’t loosen her hand.<br/>
 Well, she did cause a lot of severe hardships, even if it wasn’t to me.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a6249e79', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a6249eaf',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-247-the-castle-town-riot.md](./chapter-247-the-castle-town-riot.md) | [chapter-249-complete-victory.md](./chapter-249-complete-victory.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-124-heart-of-the-spirit-turtle.md](./chapter-124-heart-of-the-spirit-turtle.md) | [chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md](./chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md) <br/>
 <br/>
 A bit anti-climactic. Stay tuned for the touching finale.<br/>
 Chapter 125: Possibilities<br/>
@@ -198,3 +199,7 @@ As I am deep in thought, the army people are getting noisy.<br/>
 "What’s wrong?" (Naofumi)<br/>
 "Look outside. The Spirit Turtle is approaching a city that hasn’t finished evacuation!" (Sodja Boy)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-124-heart-of-the-spirit-turtle.md](./chapter-124-heart-of-the-spirit-turtle.md) | [chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md](./chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md) <br/>
+

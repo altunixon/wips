@@ -132,34 +132,6 @@ Will Makoto one day know about the events that took place here?<br/>
 That has not yet been decided.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-977445811-5e8880325c56d',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
-<br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-977445815-5e8880325c58c', {<br/>
-                    sectionId: '977445815',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
 July 13, 2019 ReigokaiUncategorized <br/>
 <br/>

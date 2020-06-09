@@ -1,3 +1,4 @@
+[chapter-201-trash-and-atlas.md](./chapter-201-trash-and-atlas.md) | [chapter-203-the-flow-of-magic_cbp5DnZF.md](./chapter-203-the-flow-of-magic_cbp5DnZF.md) <br/>
 <br/>
 Amnesty<br/>
 "So it’s really that." (Naofumi)<br/>
@@ -131,31 +132,7 @@ From tomorrow, it’ll be unnecessary to start the Female Knight’s boot camp.<
 When it became night, due to weariness or something, I came to be annoyed that Ren slept with a refreshing face, and so I whispered insinuations in his ear.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a3e59bbe', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a3e59bf4',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-201-trash-and-atlas.md](./chapter-201-trash-and-atlas.md) | [chapter-203-the-flow-of-magic_cbp5DnZF.md](./chapter-203-the-flow-of-magic_cbp5DnZF.md) <br/>
+

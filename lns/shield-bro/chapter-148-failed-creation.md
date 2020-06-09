@@ -1,3 +1,4 @@
+[chapter-147-the-flag,-again-.md](./chapter-147-the-flag,-again-.md) | [chapter-149-the-alchemist.md](./chapter-149-the-alchemist.md) <br/>
 <br/>
 Failed Creation<br/>
 "Ah!"<br/>
@@ -180,31 +181,7 @@ When I send a look saying that, he bluntly avoids my glance by turning away.<br/
 Raphtalia and Imia had heard the chat between the old man and me.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a126e1e3', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a126e21f',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-147-the-flag,-again-.md](./chapter-147-the-flag,-again-.md) | [chapter-149-the-alchemist.md](./chapter-149-the-alchemist.md) <br/>
+

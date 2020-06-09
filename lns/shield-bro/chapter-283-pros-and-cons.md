@@ -1,3 +1,4 @@
+[chapter-282-bio-custom.md](./chapter-282-bio-custom.md) | [chapter-284-the-battle-for-the-second-tower.md](./chapter-284-the-battle-for-the-second-tower.md) <br/>
 <br/>
 Chapter 283: Pros and Cons<br/>
 Now then, on to the next one…<br/>
@@ -183,3 +184,7 @@ Atlas and Firo power up to match the fake.<br/>
 For them to have to double team her… perhaps it’s due to the support fire that occasionally pierces Fohl’s defenses. There’s no helping it.<br/>
 Be careful. Don’t deal any decisive blows.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-282-bio-custom.md](./chapter-282-bio-custom.md) | [chapter-284-the-battle-for-the-second-tower.md](./chapter-284-the-battle-for-the-second-tower.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-317-the-hero-of-the-cane.md](./chapter-317-the-hero-of-the-cane.md) | [chapter-319-glamour-vs.-loli.md](./chapter-319-glamour-vs.-loli.md) <br/>
 <br/>
 Chapter 318: Strategy Meeting<br/>
 We came all the way to the inside of the castle. To the room where Ren and the others were holding a meeting.<br/>
@@ -209,3 +210,7 @@ Trash’s probably seen her before, but he shouldn’t know about her ability.<b
 "Getting them here now is… impossible. Come with me." (Naofumi)<br/>
 I walked away to introduce her to Trash.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-317-the-hero-of-the-cane.md](./chapter-317-the-hero-of-the-cane.md) | [chapter-319-glamour-vs.-loli.md](./chapter-319-glamour-vs.-loli.md) <br/>
+

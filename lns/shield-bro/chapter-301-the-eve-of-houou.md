@@ -1,3 +1,4 @@
+[chapter-300-a-seven-star-weapon.md](./chapter-300-a-seven-star-weapon.md) | [chapter-302-vs.-houou.md](./chapter-302-vs.-houou.md) <br/>
 <br/>
 Chapter 301: The Eve of Houou<br/>
 "According to legend, it could turn into chains. It even changed into a flail." (Queen)<br/>
@@ -218,3 +219,7 @@ Their forms were exactly that depicted on the Mural. The two Houous.<br/>
 A loud shriek echoes through the air.<br/>
 It was the sound signaling the start of our battle with the beast.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-300-a-seven-star-weapon.md](./chapter-300-a-seven-star-weapon.md) | [chapter-302-vs.-houou.md](./chapter-302-vs.-houou.md) <br/>
+

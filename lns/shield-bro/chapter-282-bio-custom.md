@@ -1,3 +1,4 @@
+[chapter-281-life-ethics.md](./chapter-281-life-ethics.md) | [chapter-283-pros-and-cons.md](./chapter-283-pros-and-cons.md) <br/>
 <br/>
 Note, if you have a question or comment for me, I can’t answer it unless you ask in English or Japanese.<br/>
 Chapter 282: Bio Custom<br/>
@@ -176,3 +177,7 @@ I explained all of that body’s working functions, so… it should be fine.<br/
 <br/>
 <br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-281-life-ethics.md](./chapter-281-life-ethics.md) | [chapter-283-pros-and-cons.md](./chapter-283-pros-and-cons.md) <br/>
+

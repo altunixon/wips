@@ -1,3 +1,4 @@
+[chapter-365-defense-link.md](./chapter-365-defense-link.md) | [chapter-367-aiming-for-number-three.md](./chapter-367-aiming-for-number-three.md) <br/>
 <br/>
 Chapter 366: Paranoia Begets Paranoia<br/>
 "Anyways, for now…"<br/>
@@ -173,3 +174,7 @@ No… I’ve been with her for a long time, so perhaps she can.<br/>
 There’s no helping it. If that’s what it takes to get them to believe me, I’ll undertake Sadina’s appraisal.<br/>
 And like that, we left Melromark’s battlefield, and started moving towards the Castle Town.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-365-defense-link.md](./chapter-365-defense-link.md) | [chapter-367-aiming-for-number-three.md](./chapter-367-aiming-for-number-three.md) <br/>
+

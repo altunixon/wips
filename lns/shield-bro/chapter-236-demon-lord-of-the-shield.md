@@ -1,3 +1,4 @@
+[chapter-235-remnants.md](./chapter-235-remnants.md) | [chapter-237-spirit-turtle-armor.md](./chapter-237-spirit-turtle-armor.md) <br/>
 <br/>
 Remember, kids<br/>
 <br/>
@@ -136,3 +137,7 @@ What do you mean purify, you thieves!?<br/>
 If it’s used carelessly and gets scratched, its value will drop.<br/>
 "That Armor is my prey. You guys go deal with the rest. There’s no need to keep them alive, so fight with all your strength, but don’t kill the brainwashed ones." (Naofumi)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-235-remnants.md](./chapter-235-remnants.md) | [chapter-237-spirit-turtle-armor.md](./chapter-237-spirit-turtle-armor.md) <br/>
+

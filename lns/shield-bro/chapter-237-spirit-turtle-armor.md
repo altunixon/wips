@@ -1,3 +1,4 @@
+[chapter-236-demon-lord-of-the-shield.md](./chapter-236-demon-lord-of-the-shield.md) | [chapter-238-chasing-too-far.md](./chapter-238-chasing-too-far.md) <br/>
 <br/>
 Chapter 237: Spirit Turtle Shell<br/>
 I’m reaching my limit here.<br/>
@@ -169,3 +170,7 @@ Armor slowly rises to his feet.<br/>
 He’s surprisingly tough.<br/>
 "I guess it’s about time to finish this. There’s no need to keep you alive. Shall I make you regret baring your fangs at me?" (Naofumi)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-236-demon-lord-of-the-shield.md](./chapter-236-demon-lord-of-the-shield.md) | [chapter-238-chasing-too-far.md](./chapter-238-chasing-too-far.md) <br/>
+

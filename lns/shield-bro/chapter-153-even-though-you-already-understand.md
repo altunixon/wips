@@ -1,3 +1,4 @@
+[chapter-152-business.md](./chapter-152-business.md) | [chapter-154-independant-nature.md](./chapter-154-independant-nature.md) <br/>
 <br/>
 Chapter 153: Even Though You Already Understand…<br/>
 Ren and his comrades successfully cleared the Wave of another country, and then headed to the town the Spirit Turtle was sleeping in to search for greater strength.<br/>
@@ -151,3 +152,7 @@ Understand my pain, you bastard.<br/>
 No matter what I did, I was considered evil. Now taste that living hell some more.<br/>
 Heaven doesn’t open in just a few weeks.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-152-business.md](./chapter-152-business.md) | [chapter-154-independant-nature.md](./chapter-154-independant-nature.md) <br/>
+

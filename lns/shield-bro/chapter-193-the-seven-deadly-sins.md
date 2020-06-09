@@ -1,3 +1,4 @@
+[chapter-192-a-masked-man_XhLRjW8L.md](./chapter-192-a-masked-man_XhLRjW8L.md) | [chapter-194-dragon-s-sanctuary.md](./chapter-194-dragon-s-sanctuary.md) <br/>
 <br/>
 Note: Rishia’s last name should be Ivyred. Oh, and here’s a poll. Child Gaelion or Kogaelion.<br/>
 Take Our Poll<br/>
@@ -255,3 +256,7 @@ The only thing I can really brag about since coming to this world is my knowledg
 But that’s common sense to a large part of the population, so it’s nothing special.<br/>
 To draw the Hero of the sword out, Gaelion became the bait.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-192-a-masked-man_XhLRjW8L.md](./chapter-192-a-masked-man_XhLRjW8L.md) | [chapter-194-dragon-s-sanctuary.md](./chapter-194-dragon-s-sanctuary.md) <br/>
+

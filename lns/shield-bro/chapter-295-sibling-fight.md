@@ -1,3 +1,4 @@
+[chapter-294-collect-・-wall-・-ball.md](./chapter-294-collect-・-wall-・-ball.md) | [chapter-296-clash-of-tigers.md](./chapter-296-clash-of-tigers.md) <br/>
 <br/>
 This will become a fighting game for a bit.<br/>
 Chapter 295: Sibling Fight<br/>
@@ -124,3 +125,7 @@ As the two sides clash, the peanut gallery holds their breath and swallows their
 "Hengen Musou Fist Skill! Tiger Break!"<br/>
 Fohl’s Chi expands. And he points his arms and fists at Atlas, releasing a skill.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-294-collect-・-wall-・-ball.md](./chapter-294-collect-・-wall-・-ball.md) | [chapter-296-clash-of-tigers.md](./chapter-296-clash-of-tigers.md) <br/>
+

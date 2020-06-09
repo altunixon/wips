@@ -1,3 +1,4 @@
+[chapter-285-the-second-generation.md](./chapter-285-the-second-generation.md) | [chapter-287-research-results.md](./chapter-287-research-results.md) <br/>
 <br/>
 …… 5500 words… 3 times the length of a normal chapter…<br/>
 Chapter 286: War Reversal<br/>
@@ -455,3 +456,7 @@ The final battle commences.<br/>
 <br/>
 Actual Author note: This extra arc will end in a day or two.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-285-the-second-generation.md](./chapter-285-the-second-generation.md) | [chapter-287-research-results.md](./chapter-287-research-results.md) <br/>
+

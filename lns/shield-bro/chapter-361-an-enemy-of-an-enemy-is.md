@@ -1,3 +1,4 @@
+[chapter-360-choice.md](./chapter-360-choice.md) | [chapter-362-immortality.md](./chapter-362-immortality.md) <br/>
 <br/>
 Chapter 361: An Enemy of an Enemy is<br/>
 It’s not like we’re just going there to die.<br/>
@@ -211,3 +212,7 @@ We were just having a normal conversation, but it’s not like we’re allies, a
 There’s no defining rule that says the enemy of an enemy is a friend.<br/>
 There’s plenty a chance that the enemy of an enemy is but another enemy.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-360-choice.md](./chapter-360-choice.md) | [chapter-362-immortality.md](./chapter-362-immortality.md) <br/>
+

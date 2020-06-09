@@ -1,3 +1,4 @@
+[chapter-339-enhancement-methods-[beginning].md](./chapter-339-enhancement-methods-[beginning].md) | [chapter-341-enhancement-methods-[end].md](./chapter-341-enhancement-methods-[end].md) <br/>
 <br/>
 Out of school–I am now a NEET.<br/>
 Chapter 340: Enhancement Methods [Middle]<br/>
@@ -165,3 +166,7 @@ The amount of money we waste is tremendous!<br/>
 Screw this, you bourgeoisie!<br/>
 Though it’s useful, this isn’t some goddamn Freemium.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-339-enhancement-methods-[beginning].md](./chapter-339-enhancement-methods-[beginning].md) | [chapter-341-enhancement-methods-[end].md](./chapter-341-enhancement-methods-[end].md) <br/>
+

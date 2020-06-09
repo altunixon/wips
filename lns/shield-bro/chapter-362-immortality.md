@@ -1,3 +1,4 @@
+[chapter-361-an-enemy-of-an-enemy-is.md](./chapter-361-an-enemy-of-an-enemy-is.md) | [chapter-363-the-power-to-protect-everything.md](./chapter-363-the-power-to-protect-everything.md) <br/>
 <br/>
 Chapter 362: Immortality<br/>
 "Did you find My explanation strange?"<br/>
@@ -161,3 +162,7 @@ Atlas did say that was the last bit of his power.<br/>
 It seems that Arc fellow wanted to take me, but I’ll bet that would be just as slow.<br/>
 Will things get hectic? Don’t worry. They already are.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-361-an-enemy-of-an-enemy-is.md](./chapter-361-an-enemy-of-an-enemy-is.md) | [chapter-363-the-power-to-protect-everything.md](./chapter-363-the-power-to-protect-everything.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-105-weapon-copy.md](./chapter-105-weapon-copy.md) | [chapter-107-cal-mira-island-end.md](./chapter-107-cal-mira-island-end.md) <br/>
 <br/>
 Yes, it’s that time of month again. No, it’s not a period.<br/>
 It’s payroll time (As an accountant, I am the one writing the payrolls.). ;–;<br/>
@@ -170,34 +171,6 @@ I have the queen’s funding so gold should be no problem.<br/>
 Anyway, Including Raphtalia and Firo, we started strengthening ourselves.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-754659881-5ede19f1007a3',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-754659885-5ede19f1007ca', {<br/>
-                    sectionId: '754659885',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TweetLike this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-105-weapon-copy.md](./chapter-105-weapon-copy.md) | [chapter-107-cal-mira-island-end.md](./chapter-107-cal-mira-island-end.md) <br/>
+

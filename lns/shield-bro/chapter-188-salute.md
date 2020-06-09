@@ -1,3 +1,4 @@
+[chapter-186-a-dragon-s-rage.md](./chapter-186-a-dragon-s-rage.md) | [chapter-189-secret-base.md](./chapter-189-secret-base.md) <br/>
 <br/>
 A bit late, but I’ll try to release 2 today.<br/>
 Chapter 188: Salute<br/>
@@ -165,3 +166,7 @@ But Trash is over there, and I think I’ll get dragged into something troubleso
 "Then should this Onee-san show you her secret base?" (Sadina)<br/>
 "Secret base?" (Naofumi)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-186-a-dragon-s-rage.md](./chapter-186-a-dragon-s-rage.md) | [chapter-189-secret-base.md](./chapter-189-secret-base.md) <br/>
+

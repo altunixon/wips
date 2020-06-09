@@ -1,3 +1,4 @@
+[chapter-338-one-who-claimed-to-be-god.md](./chapter-338-one-who-claimed-to-be-god.md) | [chapter-340-enhancement-methods-[middle].md](./chapter-340-enhancement-methods-[middle].md) <br/>
 <br/>
 I get complaints that my editors don’t get enough work, but when I need editing they’re not online and so I end up doing it myself… *sigh*<br/>
 I suppose I could always wait but I guess you readers would prefer to get releases earlier (I know I would)<br/>
@@ -148,31 +149,7 @@ Raphtalia completely suspects me.<br/>
 It would be bothersome in various ways so I diverted the conversation.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1ab02061d', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1ab020659',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-338-one-who-claimed-to-be-god.md](./chapter-338-one-who-claimed-to-be-god.md) | [chapter-340-enhancement-methods-[middle].md](./chapter-340-enhancement-methods-[middle].md) <br/>
+

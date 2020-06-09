@@ -1,3 +1,4 @@
+[chapter-108-false-accusations,-again.md](./chapter-108-false-accusations,-again.md) | [chapter-110-a-girl-full-of-joy.md](./chapter-110-a-girl-full-of-joy.md) <br/>
 <br/>
 Dayyyyyyyum Naofumi, I didn’t know you had it in you. Well, he had a Saber and Berserker, It seems he has acquired a Castor. Oh yeah, Because Muel said that 108-110 go as a set, I did 109 and 110 and released them as a set.<br/>
 CHAPTER 109: THE REASON FOR REJECTION<br/>
@@ -185,3 +186,7 @@ And that’s why I can say for sure…<br/>
 "You will become strong no matter what." (Naofumi)<br/>
 <br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-108-false-accusations,-again.md](./chapter-108-false-accusations,-again.md) | [chapter-110-a-girl-full-of-joy.md](./chapter-110-a-girl-full-of-joy.md) <br/>
+

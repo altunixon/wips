@@ -1,3 +1,4 @@
+[chapter-102-the-conference-of-heroes-[during].md](./chapter-102-the-conference-of-heroes-[during].md) | [chapter-105-weapon-copy.md](./chapter-105-weapon-copy.md) <br/>
 <br/>
 I’m sorry for the late post. The reason is simple. I just got back from school. Anyways, this is the longest chapter I have translated by far. It’s mostly about game mechanics, so it’s not too interesting.<br/>
 CHAPTER 103: HERO CONFERENCE (END)<br/>
@@ -220,3 +221,7 @@ What followed was a long stream of verbal abuse.<br/>
 Shadow tried to get the meeting back under control, but it was already way past the point of no return.<br/>
 The first one to get fed up and leave was Itsuki. Ren soon followed. Finally, Motoyasu drudged off.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-102-the-conference-of-heroes-[during].md](./chapter-102-the-conference-of-heroes-[during].md) | [chapter-105-weapon-copy.md](./chapter-105-weapon-copy.md) <br/>
+

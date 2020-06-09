@@ -1,3 +1,4 @@
+[chapter-125-possibilities.md](./chapter-125-possibilities.md) | [chapter-127-overprotective.md](./chapter-127-overprotective.md) <br/>
 <br/>
 This is the final battle the arc deserved, but not the one that many people want to read. None too dramatic. As for why he didn’t increase the trap size or go for the heart instead, it is my theory that if he increased the Trap size, he would die before the attack could take effect, and Neither Rafatalia or Firo can completely destroy the head in the time it takes for the heart to regenerate. Oh Well. The Turtle gives off a Sort of Fate from Negima vibe in his intentions.<br/>
 Chapter 126: Versus the Spirit Turtle, the Final Battle<br/>
@@ -183,3 +184,7 @@ Did I act too rashly…?<br/>
 I’m sleepy. I pray I’m still alive when I open my eyes.<br/>
 I wonder what death is like. I’m a bit scared.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-125-possibilities.md](./chapter-125-possibilities.md) | [chapter-127-overprotective.md](./chapter-127-overprotective.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-347-coronation.md](./chapter-347-coronation.md) | [chapter-349-the-graveyard-of-life.md](./chapter-349-the-graveyard-of-life.md) <br/>
 <br/>
 Chapter 348: Love Consultation<br/>
 <br/>
@@ -161,3 +162,7 @@ By the way, I made sure to include ‘maybe’, and ‘I think’ so I have no r
 "Then I will go with Ren to take up my post at the Castle. Iwatani-dono, I’ll definitely repay you for all the things you’ve taught me. Now then." (Female Knight)<br/>
 And Female Knight uses Ren’s portal to teleport to the castle.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-347-coronation.md](./chapter-347-coronation.md) | [chapter-349-the-graveyard-of-life.md](./chapter-349-the-graveyard-of-life.md) <br/>
+

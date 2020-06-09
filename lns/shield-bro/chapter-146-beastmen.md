@@ -1,3 +1,4 @@
+[chapter-145-report.md](./chapter-145-report.md) | [chapter-147-the-flag,-again-.md](./chapter-147-the-flag,-again-.md) <br/>
 <br/>
 Chapter 146: Beastmen<br/>
 "Ah, Naofumi-sama" (Rafatalia)<br/>
@@ -183,3 +184,7 @@ The Merchant lets out a troubled voice as he deals with all the swarming custome
 Now then, I should find a safe place to put the robe back on.<br/>
 (TL: If you haven’t noticed yet, Lemo is an anagram of mole. If you can think of a better anagram of it, please present it. (The Japanese is Lu-Mo, rearranged to form Mo-Lu))<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-145-report.md](./chapter-145-report.md) | [chapter-147-the-flag,-again-.md](./chapter-147-the-flag,-again-.md) <br/>
+

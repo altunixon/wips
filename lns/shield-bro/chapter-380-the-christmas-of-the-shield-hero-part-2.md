@@ -1,3 +1,4 @@
+[chapter-379-the-christmas-of-the-shield-hero-part-1.md](./chapter-379-the-christmas-of-the-shield-hero-part-1.md) | [chapter-381-the-christmas-of-the-shield-hero-part-3.md](./chapter-381-the-christmas-of-the-shield-hero-part-3.md) <br/>
 <br/>
 So many spoilers, so little time. It seems that Naofumi calls Eclaire, Female Knight and Windea, Taniko. This may be because Taniko means Valley Child, and… well… she lived in a valley. Well, as I am doing this out of context I can’t really say who is correct. For all we know, her name might actually be Taniko. Oh, and it seems Taniko was raised by the Dragon Ren killed, if that helps.<br/>
 THE CHRISTMAS OF THE SHIELD HERO PART 2<br/>
@@ -170,3 +171,7 @@ It seems like he is saying, "Don’t worry, Papa will protect you from the scary
 Ren is desperately trying to invite these two women to a Christmas Party.<br/>
 Their reactions annoyed me a bit.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-379-the-christmas-of-the-shield-hero-part-1.md](./chapter-379-the-christmas-of-the-shield-hero-part-1.md) | [chapter-381-the-christmas-of-the-shield-hero-part-3.md](./chapter-381-the-christmas-of-the-shield-hero-part-3.md) <br/>
+

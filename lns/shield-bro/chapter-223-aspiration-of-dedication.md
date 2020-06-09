@@ -1,3 +1,4 @@
+[chapter-222-game-knowledge.md](./chapter-222-game-knowledge.md) | [chapter-224-fiance.md](./chapter-224-fiance.md) <br/>
 <br/>
 Many apologies for the long wait, Kookie was busy traversing the roads of life….and dying of heat stroke (well not really, but it is that hot >w<). Next time, feel free to take over if I’m stuck in limbo for more than a week.<br/>
 This still needs to be fixed up, but you’ve read through the MTs so you can live with this for now. (I know that might seem exaggerated but this chapter has just been TLed with no editing, apart from a few lines, and it’s not even proofread yet)<br/>
@@ -206,31 +207,7 @@ I don’t know the details of what happened, but Ren started hanging around Tani
 Even now, I don’t understand Gaelion’s reason for hiding.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a4d5419e', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a4d54230',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-222-game-knowledge.md](./chapter-222-game-knowledge.md) | [chapter-224-fiance.md](./chapter-224-fiance.md) <br/>
+

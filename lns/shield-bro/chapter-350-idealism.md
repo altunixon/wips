@@ -1,3 +1,4 @@
+[chapter-349-the-graveyard-of-life.md](./chapter-349-the-graveyard-of-life.md) | [chapter-351-the-holy-land-of-filo-rials.md](./chapter-351-the-holy-land-of-filo-rials.md) <br/>
 <br/>
 28 chapters left.<br/>
 Can ya stop correcting Reincarnator to Reincarnated? It isn’t a mistake.<br/>
@@ -228,3 +229,7 @@ But either way, he has changed.<br/>
 Eventually, he’ll wander into a battle where there’s no right answer, but he’s resolved himself to search for one.<br/>
 Will he find happiness on the end of his path? I can only pray.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-349-the-graveyard-of-life.md](./chapter-349-the-graveyard-of-life.md) | [chapter-351-the-holy-land-of-filo-rials.md](./chapter-351-the-holy-land-of-filo-rials.md) <br/>
+

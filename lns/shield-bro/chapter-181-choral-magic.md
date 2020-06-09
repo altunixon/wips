@@ -1,3 +1,4 @@
+[chapter-180-good-luck-.md](./chapter-180-good-luck-.md) | [chapter-182-wrath-dragon.md](./chapter-182-wrath-dragon.md) <br/>
 <br/>
 Sorry for all the waiting, I’ve been lacking motivation lately.<br/>
 Also, some of the dialogue labels may be wrong… it’s hard to tell who’s speaking so I made it up.<br/>
@@ -139,31 +140,7 @@ But, before that―<br/>
 Taniko raised her voice and shouted.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a2dd6e32', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a2dd6e98',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-180-good-luck-.md](./chapter-180-good-luck-.md) | [chapter-182-wrath-dragon.md](./chapter-182-wrath-dragon.md) <br/>
+

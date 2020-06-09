@@ -1,3 +1,4 @@
+[chapter-238-chasing-too-far.md](./chapter-238-chasing-too-far.md) | [chapter-240-research-material.md](./chapter-240-research-material.md) <br/>
 <br/>
 BTW: No, I did not release two chapters in one day. In my time zone, this is saturday’s chapter. I won’t release another on Saturday, as I have to beat the 100th floor of the Tower of Yggdrasil 25 times to upgrade my Halomonas Bow.<br/>
 Chapter 239: Opportunity<br/>
@@ -151,3 +152,7 @@ What are these strange items that are littered all over the floor?<br/>
 It’s like a game I used to play, where fiddling with the needle of an old clock would make a key appear.<br/>
 Just what was the maker of this building trying to accomplish?<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-238-chasing-too-far.md](./chapter-238-chasing-too-far.md) | [chapter-240-research-material.md](./chapter-240-research-material.md) <br/>
+

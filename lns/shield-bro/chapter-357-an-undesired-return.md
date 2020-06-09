@@ -1,3 +1,4 @@
+[chapter-356-leveling.md](./chapter-356-leveling.md) | [chapter-358-returning-home.md](./chapter-358-returning-home.md) <br/>
 <br/>
 Chapter 357: Undesired Return<br/>
 Raphtalia is here.<br/>
@@ -249,3 +250,7 @@ Ponko, Rafuko… there’s already a Raph-chan.<br/>
 "Y-yes." (Raphtalia)<br/>
 We walk through the town before arriving at my house.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-356-leveling.md](./chapter-356-leveling.md) | [chapter-358-returning-home.md](./chapter-358-returning-home.md) <br/>
+

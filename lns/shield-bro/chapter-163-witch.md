@@ -1,3 +1,4 @@
+[chapter-162-filo-rials-and-dragons.md](./chapter-162-filo-rials-and-dragons.md) | [chapter-164-negligence.md](./chapter-164-negligence.md) <br/>
 <br/>
 Sorry for the wait, but to be fair it’s still my tomorrow right now so still within a day or two~<br/>
 I wish I could’ve just had someone edit my work like all the others…but my translations are so horrible that they’re only slightly better than google standards (before I go through the tedious task of editing them. And re-editing them, proofreading, and then a final quality check.) TT^TT<br/>
@@ -125,31 +126,7 @@ But I feel the same way.<br/>
 "Sorry but I’m going to have you come back to the castle. I’ll arrest you, dead or alive." (naofumi)<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a1eb65fd', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a1eb6631',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-162-filo-rials-and-dragons.md](./chapter-162-filo-rials-and-dragons.md) | [chapter-164-negligence.md](./chapter-164-negligence.md) <br/>
+

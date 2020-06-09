@@ -1,3 +1,4 @@
+[chapter-280-human-modification.md](./chapter-280-human-modification.md) | [chapter-282-bio-custom.md](./chapter-282-bio-custom.md) <br/>
 <br/>
 Take Our PollTake Our PollTake Our Poll<br/>
 Chapter 281: Life Ethics<br/>
@@ -183,3 +184,7 @@ And it loudly proclaims.<br/>
 "Fake~"<br/>
 "What…?"<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-280-human-modification.md](./chapter-280-human-modification.md) | [chapter-282-bio-custom.md](./chapter-282-bio-custom.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-378-the-rise-of-the-shield-hero.md](./chapter-378-the-rise-of-the-shield-hero.md) | [chapter-380-the-christmas-of-the-shield-hero-part-2.md](./chapter-380-the-christmas-of-the-shield-hero-part-2.md) <br/>
 <br/>
 I didn’t want to interfere with normal translation, so I started the side stories, but I found that not only does it happen after the main story, I contains so many unintroduced characters that I have no Idea what is going on. The gender of these people is also pretty ambiguous as they are speaking in a gender-neutral manner. I have a slight suspicion that Atlas is a girl.<br/>
 Oh Well, here goes<br/>
@@ -191,3 +192,7 @@ These idiots don’t act rationally towards other people.<br/>
 "Let’s have fun later" (Naofumi)<br/>
 "YES!" (Kiel)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-378-the-rise-of-the-shield-hero.md](./chapter-378-the-rise-of-the-shield-hero.md) | [chapter-380-the-christmas-of-the-shield-hero-part-2.md](./chapter-380-the-christmas-of-the-shield-hero-part-2.md) <br/>
+

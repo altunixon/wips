@@ -1,3 +1,4 @@
+[chapter-219-peerless-activity.md](./chapter-219-peerless-activity.md) | [chapter-221-release-time.md](./chapter-221-release-time.md) <br/>
 <br/>
 There are some words you need to understand to understand Otaku Culture The word used for the title is Otoko no Ko, or the English Equivalent, Trap.<br/>
 <br/>
@@ -161,3 +162,7 @@ Ren looks over that exchange with a strange look on his face.<br/>
 He seems to have caught onto something.<br/>
 "Ah, Midori is the only male among the first angels that hatched. Could that be it?" (Motoyasu)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-219-peerless-activity.md](./chapter-219-peerless-activity.md) | [chapter-221-release-time.md](./chapter-221-release-time.md) <br/>
+

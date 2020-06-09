@@ -1,3 +1,4 @@
+[chapter-165-another-awakening.md](./chapter-165-another-awakening.md) | [chapter-167-hengen-musou.md](./chapter-167-hengen-musou.md) <br/>
 <br/>
 Chapters until Kookie will start translating: 7<br/>
 Chapter 166: Hatching<br/>
@@ -159,3 +160,7 @@ The Dragon chick cries out. Was that a yes, or a no?<br/>
 By the way, the villagers had also been trying to think of a name for the baby.<br/>
 However after hearing that Taniko already gave it one, they lost interest.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-165-another-awakening.md](./chapter-165-another-awakening.md) | [chapter-167-hengen-musou.md](./chapter-167-hengen-musou.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-363-the-power-to-protect-everything.md](./chapter-363-the-power-to-protect-everything.md) | [chapter-365-defense-link.md](./chapter-365-defense-link.md) <br/>
 <br/>
 Chapter 364: Two Years<br/>
 "Melty…"<br/>
@@ -242,3 +243,7 @@ We were able to quickly recover Ren.<br/>
 I strengthen my resolve, and broke into the other world.<br/>
 (TL: So is he her type now?)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-363-the-power-to-protect-everything.md](./chapter-363-the-power-to-protect-everything.md) | [chapter-365-defense-link.md](./chapter-365-defense-link.md) <br/>
+

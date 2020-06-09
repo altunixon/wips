@@ -1,3 +1,4 @@
+[chapter-214-the-revolutionary-faction.md](./chapter-214-the-revolutionary-faction.md) | [chapter-216-joint-ownership.md](./chapter-216-joint-ownership.md) <br/>
 <br/>
 This only took me 4 hours and I didn’t even procrastinate that much o_0<br/>
 I must still be influenced by the Spirit of Christmas.<br/>
@@ -142,31 +143,7 @@ Of course, I won’t let him cut corners with his construction.<br/>
 And with that, I left the Weapon Shop behind.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a4749c34', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a4749c94',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-214-the-revolutionary-faction.md](./chapter-214-the-revolutionary-faction.md) | [chapter-216-joint-ownership.md](./chapter-216-joint-ownership.md) <br/>
+

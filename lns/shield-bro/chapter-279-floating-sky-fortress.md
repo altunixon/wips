@@ -1,3 +1,4 @@
+[chapter-278-gene-modification.md](./chapter-278-gene-modification.md) | [chapter-280-human-modification.md](./chapter-280-human-modification.md) <br/>
 <br/>
 Translator Note, Naofumi is using older forms of Japanese here. If I were to compare it to something, I’d say he’s speaking like Gilgamesh. If you’ve ever watched Gilgamesh in Fate raw or subbed, that is the dialect Naofumi is speaking in.<br/>
 PLEASE READ 278 OR ELSE THINGS WILL ESCALATE TOO QUICKLY. IT STILL ESCALATES QUICKLY THOUGH.<br/>
@@ -187,3 +188,7 @@ I have nothing to offer to a fake.<br/>
 If I have time to look at that piece of garbage, I’d spend it looking for the real one.<br/>
 Following my orders, the Castle Plant sets out over the ocean. No one can follow us anymore.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-278-gene-modification.md](./chapter-278-gene-modification.md) | [chapter-280-human-modification.md](./chapter-280-human-modification.md) <br/>
+

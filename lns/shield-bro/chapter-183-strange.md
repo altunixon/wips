@@ -1,3 +1,4 @@
+[chapter-182-wrath-dragon.md](./chapter-182-wrath-dragon.md) | [chapter-186-a-dragon-s-rage.md](./chapter-186-a-dragon-s-rage.md) <br/>
 <br/>
 Chapter 183: Strange<br/>
 Rafatalia lands, and swings her sword to get the liquids off of it. She looks towards us.<br/>
@@ -183,3 +184,7 @@ And she starts glaring at Taniko.<br/>
 "He’s already better!" (Taniko)<br/>
 Whatever. This is becoming a pain.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-182-wrath-dragon.md](./chapter-182-wrath-dragon.md) | [chapter-186-a-dragon-s-rage.md](./chapter-186-a-dragon-s-rage.md) <br/>
+

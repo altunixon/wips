@@ -1,3 +1,4 @@
+[chapter-344-soul-eater.md](./chapter-344-soul-eater.md) | [chapter-346-breaking-the-limit.md](./chapter-346-breaking-the-limit.md) <br/>
 <br/>
 Ah, this is apparently my 200th post. Not my 200th chapter, as I have (This is not a Chapter)s as well, but still, it’s something.<br/>
 LET’S PARTY!!! Post your favorite party music in the comments!!!<br/>
@@ -139,3 +140,7 @@ An answer probably won’t come. Even if we tortured her, she would probably sta
 That day, Trash’s back looked so narrow.<br/>
 We were in a hate-hate relationship, but even scum like me feels like I should cheer him up a little.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-344-soul-eater.md](./chapter-344-soul-eater.md) | [chapter-346-breaking-the-limit.md](./chapter-346-breaking-the-limit.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-231-miscalculations.md](./chapter-231-miscalculations.md) | [chapter-233-dagger-of-justice.md](./chapter-233-dagger-of-justice.md) <br/>
 <br/>
 Chapter 232: Effort<br/>
 "This is… the village Naofumi-san built from the ground up. I am merely here to assist him. Welst-san, so you survived?" (Rishia)<br/>
@@ -159,3 +160,7 @@ I drink a mana potion and enclose Kiel in my Shield Prison.<br/>
 "Fue…" (Rishia)<br/>
 "If you don’t want that dagger in your ribs, then spill out your guts." (Naofumi)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-231-miscalculations.md](./chapter-231-miscalculations.md) | [chapter-233-dagger-of-justice.md](./chapter-233-dagger-of-justice.md) <br/>
+

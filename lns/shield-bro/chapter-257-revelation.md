@@ -1,3 +1,4 @@
+[chapter-256-superiority-complex.md](./chapter-256-superiority-complex.md) | [chapter-258-gaze-at-both-sized-of-the-shield.md](./chapter-258-gaze-at-both-sized-of-the-shield.md) <br/>
 <br/>
 Chapter 257: Revelation<br/>
 "Now then, where was I again?" (Naofumi)<br/>
@@ -140,3 +141,7 @@ And if I just remember the chant that comes out, my life will be easier.<br/>
 I never thought I would be able to master magic by studying Chi.<br/>
 With this, I can get a discount on my payments to the Magic Shop.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-256-superiority-complex.md](./chapter-256-superiority-complex.md) | [chapter-258-gaze-at-both-sized-of-the-shield.md](./chapter-258-gaze-at-both-sized-of-the-shield.md) <br/>
+

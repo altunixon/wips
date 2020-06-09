@@ -1,3 +1,4 @@
+[chapter-295-sibling-fight.md](./chapter-295-sibling-fight.md) | [chapter-297-the-land-of-houou.md](./chapter-297-the-land-of-houou.md) <br/>
 <br/>
 A short public service announcement<br/>
 As you may be aware, I make a habit of reading all comments.<br/>
@@ -170,3 +171,7 @@ Did these siblings awaken to a sixth sense recently?<br/>
 What are they staring at… I continued patting the Raph.<br/>
 A while later, Raphtalia returned with a strange smile on her face.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-295-sibling-fight.md](./chapter-295-sibling-fight.md) | [chapter-297-the-land-of-houou.md](./chapter-297-the-land-of-houou.md) <br/>
+

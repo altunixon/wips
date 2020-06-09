@@ -1,3 +1,4 @@
+[chapter-205-season-of-love_JDdiYB58.md](./chapter-205-season-of-love_JDdiYB58.md) | [chapter-208-shortcut.md](./chapter-208-shortcut.md) <br/>
 <br/>
 Hlentai is going too far ahead… My competitive spirit makes me have to release this early.<br/>
 Chapter 207: Race<br/>
@@ -193,3 +194,7 @@ Now then, to escape.<br/>
 I prepare to use Portal Shield, but then…<br/>
 Firo faces the carriage, dis-attaches herself from it, and grabs the rope of the broken bridge. As the Carriage passes over her, she delivers an amazing kick to it, sending it all the way to the other side.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-205-season-of-love_JDdiYB58.md](./chapter-205-season-of-love_JDdiYB58.md) | [chapter-208-shortcut.md](./chapter-208-shortcut.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-159-perfect-hidden-justice.md](./chapter-159-perfect-hidden-justice.md) | [chapter-161-princess-visit.md](./chapter-161-princess-visit.md) <br/>
 <br/>
 A bit disappointed he doesn’t confront the idiot.<br/>
 By the way, I have decided to instate a little… punishment when the next person asks when the next chapter is. You’ll see…<br/>
@@ -202,3 +203,7 @@ I’ll ignore it.<br/>
 Fohl glares at me with rebellious eyes. It’s of no concern to me.<br/>
 The coupling of the carriages is complete. We leave Zeltburg in the darkness of the night.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-159-perfect-hidden-justice.md](./chapter-159-perfect-hidden-justice.md) | [chapter-161-princess-visit.md](./chapter-161-princess-visit.md) <br/>
+

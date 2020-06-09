@@ -1,3 +1,4 @@
+[chapter-112-warehouse.md](./chapter-112-warehouse.md) | [chapter-114-meteor-shield.md](./chapter-114-meteor-shield.md) <br/>
 <br/>
 A Method On Becoming Stronger<br/>
 Rishia:"Fueeeeee~~~~~~~!"<br/>
@@ -160,34 +161,6 @@ Firo:"Go~"<br/>
 After a long absence, we headed to see the old man at the weapon shop.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-754659881-5ede19f62559c',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-754659885-5ede19f6255b9', {<br/>
-                    sectionId: '754659885',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TweetLike this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-112-warehouse.md](./chapter-112-warehouse.md) | [chapter-114-meteor-shield.md](./chapter-114-meteor-shield.md) <br/>
+

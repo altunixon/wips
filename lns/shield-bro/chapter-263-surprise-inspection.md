@@ -1,3 +1,4 @@
+[chapter-262-lab-visit.md](./chapter-262-lab-visit.md) | [chapter-264-familiar-(edited).md](./chapter-264-familiar-(edited).md) <br/>
 <br/>
 I believe this is what you call filler.<br/>
 Chapter 263: Surprise Inspection.<br/>
@@ -189,3 +190,7 @@ I’m just indulging myself in some pleasant fantasies, but Raphtalia scolds me.
 I mean, Itsuki isn’t repenting at all, and he can’t think at all right now.<br/>
 Though I admit from my imagination, that I am garbage.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-262-lab-visit.md](./chapter-262-lab-visit.md) | [chapter-264-familiar-(edited).md](./chapter-264-familiar-(edited).md) <br/>
+

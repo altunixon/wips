@@ -1,3 +1,4 @@
+[chapter-113-a-way-to-become-stronger.md](./chapter-113-a-way-to-become-stronger.md) | [chapter-115-the-curiosity-of-the-weapon-shop-owner.md](./chapter-115-the-curiosity-of-the-weapon-shop-owner.md) <br/>
 <br/>
 Meteor Shield<br/>
 Naofumi:"Yo. Old man, Long time to no see."<br/>
@@ -203,34 +204,6 @@ Naofumi:"Yeah, I’ll be relying on you."<br/>
 Thus we left the weapon shop.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-754659881-5ede19f69f611',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-754659885-5ede19f69f62f', {<br/>
-                    sectionId: '754659885',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TweetLike this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-113-a-way-to-become-stronger.md](./chapter-113-a-way-to-become-stronger.md) | [chapter-115-the-curiosity-of-the-weapon-shop-owner.md](./chapter-115-the-curiosity-of-the-weapon-shop-owner.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-200-repent-.md](./chapter-200-repent-.md) | [chapter-202-amnesty.md](./chapter-202-amnesty.md) <br/>
 <br/>
 Depending on how fast KookieDreamer, Hlentai and Reyak work, I might be on break for a bit. And now here I present to you The Rise of the Trash Hero<br/>
 Another note. If your comment get’s blocked, note that I do not actively moderate, and that it was simply caught in the spam filter. Spam Security has increased due to someone spamming inappropriate images.<br/>
@@ -157,3 +158,7 @@ I do have a hunch.<br/>
 Probably…<br/>
 "Yes, Iwatani-sama. As you thought, Atlas-san’s face looks exactly like that of Luge’s younger sister. She looks like an exact replica of Lucia." (Queen)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-200-repent-.md](./chapter-200-repent-.md) | [chapter-202-amnesty.md](./chapter-202-amnesty.md) <br/>
+

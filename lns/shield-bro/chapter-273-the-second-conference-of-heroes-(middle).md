@@ -1,3 +1,4 @@
+[chapter-272-the-second-conference-of-heroes-(start).md](./chapter-272-the-second-conference-of-heroes-(start).md) | [chapter-274-the-second-conference-of-heroes-(end).md](./chapter-274-the-second-conference-of-heroes-(end).md) <br/>
 <br/>
 I did a translation just because I couldn’t sleep. Enjoy.<br/>
 The Second Hero Conference [Middle]<br/>
@@ -146,31 +147,7 @@ Itsuki held out something that looked like a card.<br/>
 "The Dark Guild’s Membership card. As long as you have this, you can procure information from the Dark Guild." (Itsuki) [T/N: Come join the Dark Side, we have Kookie(s) XD]<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a7847748', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a7847781',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-272-the-second-conference-of-heroes-(start).md](./chapter-272-the-second-conference-of-heroes-(start).md) | [chapter-274-the-second-conference-of-heroes-(end).md](./chapter-274-the-second-conference-of-heroes-(end).md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-274-the-second-conference-of-heroes-(end).md](./chapter-274-the-second-conference-of-heroes-(end).md) | [chapter-276-bird-competition.md](./chapter-276-bird-competition.md) <br/>
 <br/>
 Chapter 275: Revival Festival<br/>
 A little while after the Heroes held their conference.<br/>
@@ -186,3 +187,7 @@ What’s wrong?<br/>
 Did she guess my intentions?<br/>
 It helps that Raphtalia’s so understanding.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-274-the-second-conference-of-heroes-(end).md](./chapter-274-the-second-conference-of-heroes-(end).md) | [chapter-276-bird-competition.md](./chapter-276-bird-competition.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-109-the-reason-for-rejection-.md](./chapter-109-the-reason-for-rejection-.md) | [chapter-111-the-king-i-can-see-as-nothing-but-a-fool.md](./chapter-111-the-king-i-can-see-as-nothing-but-a-fool.md) <br/>
 <br/>
 Chapter 110: The Girl of Misfortune<br/>
 Anyways, Rishia has become our comrade for now but…<br/>
@@ -168,3 +169,7 @@ As a Hero, I was supposed to gather human companions, but now it feels like I’
 And so we welcomed Rishia as a new member.<br/>
 <br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-109-the-reason-for-rejection-.md](./chapter-109-the-reason-for-rejection-.md) | [chapter-111-the-king-i-can-see-as-nothing-but-a-fool.md](./chapter-111-the-king-i-can-see-as-nothing-but-a-fool.md) <br/>
+

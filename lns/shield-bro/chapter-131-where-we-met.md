@@ -1,3 +1,4 @@
+[chapter-130-level-reset_Ykdk9zd2.md](./chapter-130-level-reset_Ykdk9zd2.md) | [chapter-132-acquaintances.md](./chapter-132-acquaintances.md) <br/>
 <br/>
 Quite a few familiar faces from the Christmas Special have started to pop up…<br/>
 Chapter 131: Where We Met<br/>
@@ -189,3 +190,7 @@ Rishia’s scream of terror fades into the distance.<br/>
 I put on a cloak and leave the tent.<br/>
 There are some other places I need to stop too.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-130-level-reset_Ykdk9zd2.md](./chapter-130-level-reset_Ykdk9zd2.md) | [chapter-132-acquaintances.md](./chapter-132-acquaintances.md) <br/>
+

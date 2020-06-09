@@ -1,3 +1,4 @@
+[chapter-244-justice-vs-justice.md](./chapter-244-justice-vs-justice.md) | [chapter-246-revolution.md](./chapter-246-revolution.md) <br/>
 <br/>
 Chapter 245 – Awakening<br/>
 "Again and again. Do you plan on standing in my way until the very end!?" (Itsuki)<br/>
@@ -180,3 +181,7 @@ Continue doing your part as my convenient pawn.<br/>
 Is it a legendary weapon?  Is it one of the Seven Star Weapons? Its abilities seem to be high.<br/>
 And Rishia owes me quite a few favors.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-244-justice-vs-justice.md](./chapter-244-justice-vs-justice.md) | [chapter-246-revolution.md](./chapter-246-revolution.md) <br/>
+

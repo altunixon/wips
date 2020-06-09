@@ -1,3 +1,4 @@
+[chapter-218-loyal-loinclothed-dog_S1HHhSpS.md](./chapter-218-loyal-loinclothed-dog_S1HHhSpS.md) | [chapter-220-trap.md](./chapter-220-trap.md) <br/>
 <br/>
 I’m trying to increase my speed so the quality may drop slightly, but I’m working on it. Time taken: ~03 : 15 (rounding to 5 mins)<br/>
 PS. If I take too long to repost a chapter then I’m probably editing it or working on the next chapter (or sleeping cos, you know, time zones).<br/>
@@ -127,31 +128,7 @@ Already, she can’t be stopped by the Female Knight.<br/>
 And so we trained with this kind of feeling.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a49d437e', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a49d43b4',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-218-loyal-loinclothed-dog_S1HHhSpS.md](./chapter-218-loyal-loinclothed-dog_S1HHhSpS.md) | [chapter-220-trap.md](./chapter-220-trap.md) <br/>
+

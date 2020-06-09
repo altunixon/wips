@@ -1,3 +1,4 @@
+[chapter-121-the-message-from-the-hero.md](./chapter-121-the-message-from-the-hero.md) | [chapter-123-blue-hourglass.md](./chapter-123-blue-hourglass.md) <br/>
 <br/>
 I’m going to go till I collapse, so I’ll only be reading comments every upload.<br/>
 Yes I was slacking the past few days, the motivation just wasn’t there.<br/>
@@ -148,34 +149,6 @@ Raphtalia:"Roger."<br/>
 We left Rishia behind and we advanced towards the caves that started to diverge.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-754659881-5ede19fbf047a',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-754659885-5ede19fbf04aa', {<br/>
-                    sectionId: '754659885',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TweetLike this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-121-the-message-from-the-hero.md](./chapter-121-the-message-from-the-hero.md) | [chapter-123-blue-hourglass.md](./chapter-123-blue-hourglass.md) <br/>
+

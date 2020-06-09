@@ -1,3 +1,4 @@
+[chapter-309-straying-off-course.md](./chapter-309-straying-off-course.md) | [chapter-311-genius.md](./chapter-311-genius.md) <br/>
 <br/>
 I’d like to say it clearly. No, I am not dropping this project.<br/>
 I’d like to say this clearly again. No, I am not dropping this project.<br/>
@@ -232,3 +233,7 @@ He should be able to use crossbows… I’ll have him try it out.<br/>
 As if he sensed my intention, Itsuki nodded, and left for the Weapon Store.<br/>
 With this, I hope he gets a bit stronger.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-309-straying-off-course.md](./chapter-309-straying-off-course.md) | [chapter-311-genius.md](./chapter-311-genius.md) <br/>
+

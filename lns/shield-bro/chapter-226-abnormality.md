@@ -1,3 +1,4 @@
+[chapter-225-disagreement.md](./chapter-225-disagreement.md) | [chapter-227-poison.md](./chapter-227-poison.md) <br/>
 <br/>
 Abnormality<br/>
 Elena: "Oh, well isn’t it the Hero of Shield"<br/>
@@ -177,31 +178,7 @@ Taniko was screaming as she rushed over.<br/>
 The Caterpilland came back, completely covered in wounds.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a4f4718a', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a4f471c3',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-225-disagreement.md](./chapter-225-disagreement.md) | [chapter-227-poison.md](./chapter-227-poison.md) <br/>
+

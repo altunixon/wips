@@ -1,3 +1,4 @@
+[chapter-132-acquaintances.md](./chapter-132-acquaintances.md) | [chapter-134-balloon-shield.md](./chapter-134-balloon-shield.md) <br/>
 <br/>
 I’m writing this while on a 6-hour car ride. I can’t really concentrate.<br/>
 Chapter 133: E Float<br/>
@@ -160,3 +161,7 @@ C Magic Snatch… It probably lets me steal magic power. C Gravity Shot seems to
 Tenacity Enhancement? If this were a game, it would increase my endurance.<br/>
 There are still plenty of shields to examine. I’ll look through them later.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-132-acquaintances.md](./chapter-132-acquaintances.md) | [chapter-134-balloon-shield.md](./chapter-134-balloon-shield.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-170-trash-and-hakuko_QmkDLfEf.md](./chapter-170-trash-and-hakuko_QmkDLfEf.md) | [chapter-172-training.md](./chapter-172-training.md) <br/>
 <br/>
 At long last, I present Chapter 171!!~~<br/>
 Portal Shield<br/>
@@ -136,31 +137,7 @@ Ah, that’s right. Speaking of limits, it seems like the carriage is too big an
 That’s why the other heroes didn’t use carriages.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a2661d45', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a2661d99',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-170-trash-and-hakuko_QmkDLfEf.md](./chapter-170-trash-and-hakuko_QmkDLfEf.md) | [chapter-172-training.md](./chapter-172-training.md) <br/>
+

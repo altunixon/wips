@@ -1,3 +1,4 @@
+[chapter-322-the-eighth-generation.md](./chapter-322-the-eighth-generation.md) | [chapter-324-the-king-of-wisdom.md](./chapter-324-the-king-of-wisdom.md) <br/>
 <br/>
 A wild KOOKIE appeared!<br/>
 READER used COMMENT!<br/>
@@ -152,31 +153,7 @@ The preparations are complete. I’ve done all that I need to.<br/>
 And thus, the war began.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1aa42fa63', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1aa42fabf',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-322-the-eighth-generation.md](./chapter-322-the-eighth-generation.md) | [chapter-324-the-king-of-wisdom.md](./chapter-324-the-king-of-wisdom.md) <br/>
+

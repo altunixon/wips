@@ -1,3 +1,4 @@
+[chapter-276-bird-competition.md](./chapter-276-bird-competition.md) | [chapter-278-gene-modification.md](./chapter-278-gene-modification.md) <br/>
 <br/>
 This chapter… was 3000 words. Oh, also, I was held up by FRC districts. sorry for the late release… zzzzzzz<br/>
 http://wwoofinternational.org/news/vaticans-new-list-of-the-seven-deadly-sins/<br/>
@@ -226,3 +227,7 @@ thank you for all of your votes.<br/>
 Translator Note:<br/>
 What the hell, those results were real!?<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-276-bird-competition.md](./chapter-276-bird-competition.md) | [chapter-278-gene-modification.md](./chapter-278-gene-modification.md) <br/>
+

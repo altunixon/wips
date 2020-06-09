@@ -1,3 +1,4 @@
+[chapter-123-blue-hourglass.md](./chapter-123-blue-hourglass.md) | [chapter-125-possibilities.md](./chapter-125-possibilities.md) <br/>
 <br/>
 Kingdom is too addicting……Almost done it though ;_;<br/>
 Heart of the Spirit Turtle<br/>
@@ -179,34 +180,6 @@ Soldier:"My apologies, we have failed……"<br/>
 A person from the magic corps reports to me.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-754659881-5ede19fd32570',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-754659885-5ede19fd32590', {<br/>
-                    sectionId: '754659885',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TweetLike this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-123-blue-hourglass.md](./chapter-123-blue-hourglass.md) | [chapter-125-possibilities.md](./chapter-125-possibilities.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-173-a-shield-to-protect.md](./chapter-173-a-shield-to-protect.md) | [chapter-175-ding-dong-ditch.md](./chapter-175-ding-dong-ditch.md) <br/>
 <br/>
 ~~Happy Thanksgiving!!~~<br/>
 Not that I actually celebrate Thanksgiving…..<br/>
@@ -147,31 +148,7 @@ Indeed, you’re still a child..<br/>
 When I said that, Melty’s face turned red, she became hysterical and left, together with Firo.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a286907d', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a28690b7',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-173-a-shield-to-protect.md](./chapter-173-a-shield-to-protect.md) | [chapter-175-ding-dong-ditch.md](./chapter-175-ding-dong-ditch.md) <br/>
+

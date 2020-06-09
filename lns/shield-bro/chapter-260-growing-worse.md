@@ -1,3 +1,4 @@
+[chapter-259-the-chivalrous-thief.md](./chapter-259-the-chivalrous-thief.md) | [chapter-261-esper.md](./chapter-261-esper.md) <br/>
 <br/>
 Your daily dose of Tate no Yuusha! (Courtesy of Kookie because Yoraikun doesn’t release TnY on Sundays EST-time)<br/>
 This isn’t me committing to a weekly update though, commitment is too hard >w<<br/>
@@ -133,31 +134,7 @@ Unfortunately, I don’t recall an ability to neutralise intoxication.<br/>
 "No, that’s not it. Us dimension travellers only attained these abilities before we came to this world." (Itsuki)<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a6bd33d6', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a6bd3408',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-259-the-chivalrous-thief.md](./chapter-259-the-chivalrous-thief.md) | [chapter-261-esper.md](./chapter-261-esper.md) <br/>
+

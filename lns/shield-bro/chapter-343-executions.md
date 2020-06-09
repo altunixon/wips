@@ -1,3 +1,4 @@
+[chapter-342-interworldly-exchange.md](./chapter-342-interworldly-exchange.md) | [chapter-344-soul-eater.md](./chapter-344-soul-eater.md) <br/>
 <br/>
 Chapter 343: Execution<br/>
 Author Note: As noted in the tags, this chapter contains excessive and cruel depictions.<br/>
@@ -148,3 +149,7 @@ What is it, you ask?<br/>
 Witch, and a few women, enter the stage.<br/>
 (TL: I dunno, I’m just a lowly translator you know.)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-342-interworldly-exchange.md](./chapter-342-interworldly-exchange.md) | [chapter-344-soul-eater.md](./chapter-344-soul-eater.md) <br/>
+

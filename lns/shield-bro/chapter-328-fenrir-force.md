@@ -1,3 +1,4 @@
+[chapter-327-looking-aside.md](./chapter-327-looking-aside.md) | [chapter-329-gleipnir-rope.md](./chapter-329-gleipnir-rope.md) <br/>
 <br/>
 50 Chapters remaining.<br/>
 And I don’t get why everyone is so creeped out by DIO.<br/>
@@ -204,3 +205,7 @@ Isn’t that right, Witch?<br/>
 But these thoughts are dangerous.<br/>
 If I go too far, I’ll get devoured by a curse, so I should stop.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-327-looking-aside.md](./chapter-327-looking-aside.md) | [chapter-329-gleipnir-rope.md](./chapter-329-gleipnir-rope.md) <br/>
+

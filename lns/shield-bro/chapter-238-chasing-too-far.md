@@ -1,3 +1,4 @@
+[chapter-237-spirit-turtle-armor.md](./chapter-237-spirit-turtle-armor.md) | [chapter-239-opportunity.md](./chapter-239-opportunity.md) <br/>
 <br/>
 Chapter 238: Chasing Too Far<br/>
 Ren and Motoyasu are Heroes, so I can’t kill them, and there are some things I need to make Witch do, so I’d like to leave her (barely) alive if possible.<br/>
@@ -180,3 +181,7 @@ Anyways, to stop two Heroes, a Filo Rial Queen, and an awakened Rishia, is proba
 All that’s left is to trample them.<br/>
 "Now then, Itsuki or Witch… Who’s hiding here?" (Naofumi)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-237-spirit-turtle-armor.md](./chapter-237-spirit-turtle-armor.md) | [chapter-239-opportunity.md](./chapter-239-opportunity.md) <br/>
+

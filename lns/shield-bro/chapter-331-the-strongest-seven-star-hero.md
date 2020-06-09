@@ -1,3 +1,4 @@
+[chapter-330-an-ordinary-person.md](./chapter-330-an-ordinary-person.md) | [chapter-332-a-kitsune-has-seven-forms,-and-a-tanuki,-eight.md](./chapter-332-a-kitsune-has-seven-forms,-and-a-tanuki,-eight.md) <br/>
 <br/>
 Kookie has not forsaken you guys, not yet! (It’s only been a week >w<)<br/>
 P.S. Credits to editor Dragonblood18 who has also joined our team~<br/>
@@ -91,31 +92,7 @@ Fohl’s attack was the same. The technique Fohl fired was a reproduction of the
 Tact collapsed from Fohl and my Two Platon attack. [T/N: ツープラトン攻撃] [ED: It’s a proper Japanese phrase along the lines of double-teaming. Pronounced how it sounds, derived from "Two platoons".]<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1aaa21856', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1aaa218be',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-330-an-ordinary-person.md](./chapter-330-an-ordinary-person.md) | [chapter-332-a-kitsune-has-seven-forms,-and-a-tanuki,-eight.md](./chapter-332-a-kitsune-has-seven-forms,-and-a-tanuki,-eight.md) <br/>
+

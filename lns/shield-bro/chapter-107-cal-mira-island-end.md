@@ -1,3 +1,4 @@
+[chapter-106-days-on-cal-mira-island.md](./chapter-106-days-on-cal-mira-island.md) | [chapter-108-false-accusations,-again.md](./chapter-108-false-accusations,-again.md) <br/>
 <br/>
 A short chapter. Nothing really happens. Things are going smoothly…<br/>
 CHAPTER 107: Cal Mira Island End<br/>
@@ -187,3 +188,7 @@ All I did was give him some advice. The rest is up to him.<br/>
 "Board~!" (Firo)<br/>
 And so, we boarded the boat and waited for it to depart.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-106-days-on-cal-mira-island.md](./chapter-106-days-on-cal-mira-island.md) | [chapter-108-false-accusations,-again.md](./chapter-108-false-accusations,-again.md) <br/>
+

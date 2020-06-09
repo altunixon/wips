@@ -138,34 +138,6 @@ The guild’s investigation team had fallen victim as well, and it continued to 
 Previous Chapter l Next Chapter<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-977445811-5e887f64dde4e',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
-<br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-977445815-5e887f64dde8a', {<br/>
-                    sectionId: '977445815',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
 August 21, 2018August 24, 2018 ReigokaiTsuki ga Michibiku Isekai Douchuu <br/>
 <br/>

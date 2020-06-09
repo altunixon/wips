@@ -1,3 +1,4 @@
+[chapter-288-damage-restitution.md](./chapter-288-damage-restitution.md) | [chapter-290-crepe-tree.md](./chapter-290-crepe-tree.md) <br/>
 <br/>
 Limited Time Offer<br/>
 With this and that, we returned to the village and began the days of improving our levels until the waves came.<br/>
@@ -234,31 +235,7 @@ By the way, apparently Firo and Motoyasu spent the day chasing one another.<br/>
 Motoyasu reported back happily, but I could only wonder if that was enough.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a884d874', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a884d8fd',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-288-damage-restitution.md](./chapter-288-damage-restitution.md) | [chapter-290-crepe-tree.md](./chapter-290-crepe-tree.md) <br/>
+

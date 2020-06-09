@@ -1,3 +1,4 @@
+[chapter-351-the-holy-land-of-filo-rials.md](./chapter-351-the-holy-land-of-filo-rials.md) | [chapter-353-cheat-.md](./chapter-353-cheat-.md) <br/>
 <br/>
 Chapter 352: Hammer the Nail that Sticks Out<br/>
 We’ve pretty much set quelling the waves worldwide to be our goal.<br/>
@@ -109,3 +110,7 @@ She was merely executed for those crimes.<br/>
 The next… words that came out of Glass’s mouth had nothing but sympathy behind them, and yet…<br/>
 "So people like that exist, no matter which world you’re in." (Glass)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-351-the-holy-land-of-filo-rials.md](./chapter-351-the-holy-land-of-filo-rials.md) | [chapter-353-cheat-.md](./chapter-353-cheat-.md) <br/>
+

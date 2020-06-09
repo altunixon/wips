@@ -1,3 +1,4 @@
+[chapter-355-the-goddess-descends.md](./chapter-355-the-goddess-descends.md) | [chapter-357-an-undesired-return.md](./chapter-357-an-undesired-return.md) <br/>
 <br/>
 Chapter 356: Levelling<br/>
 "Oh, great Queen of Melromark!" (Medea)<br/>
@@ -264,3 +265,7 @@ And there, was a pitiful strap made of chains, with a familiar jewel in the cent
 (TL Note: This is apparently what people were calling the original ending. I do not see any indication as such, and think people are possibly misinterpretting the word original here)<br/>
  <br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-355-the-goddess-descends.md](./chapter-355-the-goddess-descends.md) | [chapter-357-an-undesired-return.md](./chapter-357-an-undesired-return.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-117-when-game-knowledge-betrays-you.md](./chapter-117-when-game-knowledge-betrays-you.md) | [chapter-119-strategic-countermeasures.md](./chapter-119-strategic-countermeasures.md) <br/>
 <br/>
 Translation by : Anon/Manguro/Popeye (Same person who did 116)<br/>
 Extensive Editing by me<br/>
@@ -267,34 +268,6 @@ It looks like we have no choice but to attack the heart.<br/>
 Riding Firo, we withdraw from the Spirit Turtle.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-754659881-5ede19f94908a',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-754659885-5ede19f9490ac', {<br/>
-                    sectionId: '754659885',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TweetLike this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-117-when-game-knowledge-betrays-you.md](./chapter-117-when-game-knowledge-betrays-you.md) | [chapter-119-strategic-countermeasures.md](./chapter-119-strategic-countermeasures.md) <br/>
+

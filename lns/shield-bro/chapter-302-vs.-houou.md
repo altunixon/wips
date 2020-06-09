@@ -1,3 +1,4 @@
+[chapter-301-the-eve-of-houou.md](./chapter-301-the-eve-of-houou.md) | [chapter-303-an-unforgivable-flash.md](./chapter-303-an-unforgivable-flash.md) <br/>
 <br/>
 Chapter 302: Vs. Houou<br/>
 Just as I thought, like the Spirit Turtle, Houou also headed for the area with the densest population. It headed straight for our vast army.<br/>
@@ -186,3 +187,7 @@ How much will you trouble me?<br/>
 "To those who took damage, get treated immediately! 「All Zveit Heal」! If you die, you’ll get controlled by the enemy! Rear Supports, we need assistance." (NAofumi)<br/>
 On my order, the support squad runs forward, and provides relief to those that survived the impact.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-301-the-eve-of-houou.md](./chapter-301-the-eve-of-houou.md) | [chapter-303-an-unforgivable-flash.md](./chapter-303-an-unforgivable-flash.md) <br/>
+

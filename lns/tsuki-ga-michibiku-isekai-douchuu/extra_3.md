@@ -126,34 +126,6 @@ Well, it’s the first time Aniki’s relying on me. I’ll give it my best!<br/
 And so I, Susanoo, finish my visit to Aniki and begin to deal with things, holding some interest in this human that’s gone to another world.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-977445811-5e88803be8930',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
-<br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-977445815-5e88803be894d', {<br/>
-                    sectionId: '977445815',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
 July 13, 2019 ReigokaiUncategorized <br/>
 <br/>

@@ -1,3 +1,4 @@
+[chapter-220-trap.md](./chapter-220-trap.md) | [chapter-222-game-knowledge.md](./chapter-222-game-knowledge.md) <br/>
 <br/>
 I’m not sure what to refer to as what anymore. I forgot…<br/>
 Anyways, release is the thing where you unlock abilities if you use a weapon long enough.<br/>
@@ -184,3 +185,7 @@ Dragon Emperor Gaelion, remember this! You are the Wave!<br/>
 <br/>
 Author Note: I don’t think I have to say this, but no, he is not the wave.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-220-trap.md](./chapter-220-trap.md) | [chapter-222-game-knowledge.md](./chapter-222-game-knowledge.md) <br/>
+

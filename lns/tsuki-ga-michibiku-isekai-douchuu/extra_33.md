@@ -184,34 +184,6 @@ Even if there’s more races, more different environments, more work; the reside
 Previous Chapter l Next Chapter<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-977445811-5e887f6b7977b',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
-<br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-977445815-5e887f6b79799', {<br/>
-                    sectionId: '977445815',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
 July 31, 2018August 7, 2018 ReigokaiTsuki ga Michibiku Isekai Douchuu <br/>
 <br/>

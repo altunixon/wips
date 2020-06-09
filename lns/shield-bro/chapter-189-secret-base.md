@@ -1,3 +1,4 @@
+[chapter-188-salute.md](./chapter-188-salute.md) | [chapter-190-formal-request_UQYxgy4C.md](./chapter-190-formal-request_UQYxgy4C.md) <br/>
 <br/>
 The Web Novel’s halfway point, not that the author knew that when he wrote it. One Line I don’t really get at the end.<br/>
 Chapter 189: Secret Base<br/>
@@ -222,3 +223,7 @@ What’s with this scene?<br/>
 (TL: I don’t really get this line, please help. Perhaps I’m just sleepy (Knowing Naofumi, it’s probably a pop culture reference, but…)…誰だれだ？　俺おれの事ことをブーメランとか言いった奴やつは？)<br/>
 Anyways, like that we were able to obtain the Dragon’s protection for Class Ups.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-188-salute.md](./chapter-188-salute.md) | [chapter-190-formal-request_UQYxgy4C.md](./chapter-190-formal-request_UQYxgy4C.md) <br/>
+

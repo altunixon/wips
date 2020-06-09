@@ -1,3 +1,4 @@
+[chapter-183-strange.md](./chapter-183-strange.md) | [chapter-188-salute.md](./chapter-188-salute.md) <br/>
 <br/>
 It’s story time.<br/>
 Chapter 186: A Dragon’s Rage<br/>
@@ -142,3 +143,7 @@ Gaelion finally recovers from my sudden rejection. He starts speaking.<br/>
 I don’t think this deal seems very credible.<br/>
 "Even if it’s forgotten knowledge on how to break the Lv 100 cap?" (Gaelion)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-183-strange.md](./chapter-183-strange.md) | [chapter-188-salute.md](./chapter-188-salute.md) <br/>
+

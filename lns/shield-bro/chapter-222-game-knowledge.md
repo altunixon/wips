@@ -1,3 +1,4 @@
+[chapter-221-release-time.md](./chapter-221-release-time.md) | [chapter-223-aspiration-of-dedication.md](./chapter-223-aspiration-of-dedication.md) <br/>
 <br/>
 <br/>
 To usher in the Year of the Ram. Art by Gahokyu, I take absolutely no claim<br/>
@@ -192,3 +193,7 @@ I should probably report this to the Queen.<br/>
 Author Note: You’ve probably realized from the beginning, but original Naofumi was a Frivolous and diplomatic person.<br/>
 He participated in many offline meetings.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-221-release-time.md](./chapter-221-release-time.md) | [chapter-223-aspiration-of-dedication.md](./chapter-223-aspiration-of-dedication.md) <br/>
+

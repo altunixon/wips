@@ -1,3 +1,4 @@
+[chapter-226-abnormality.md](./chapter-226-abnormality.md) | [chapter-228-brainwashing.md](./chapter-228-brainwashing.md) <br/>
 <br/>
 Hi guys, I am new translator, nasir. I did this using google, freetranslation and jisho …etc also i am not very proficient in english. I have written in front of the sentences in which I have problem with translation. Anyone who is good in japanese can tell me my mistakes .well….. here the chapter.enjoy<br/>
 also thanks to yoraikun to let me post this on his blog.<br/>
@@ -175,3 +176,7 @@ The one which made the criminal demi-humans affiliates or gave a bad impression 
 "Is that okay?" (Rat)<br/>
 "He was a victim. He would have gone through a lot of hardships so far. I will treat the dead politely at least." (Naofumi)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-226-abnormality.md](./chapter-226-abnormality.md) | [chapter-228-brainwashing.md](./chapter-228-brainwashing.md) <br/>
+

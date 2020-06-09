@@ -1,3 +1,4 @@
+[chapter-298-journal-of-the-hero.md](./chapter-298-journal-of-the-hero.md) | [chapter-300-a-seven-star-weapon.md](./chapter-300-a-seven-star-weapon.md) <br/>
 <br/>
 Chapter 299: The Last of the Seven Stars<br/>
 And well, it was preserved decently, but the bottom of the mural was completely weathered away.<br/>
@@ -117,3 +118,7 @@ Following the scholar of the country, the Queen headed towards the castle.<br/>
 The result: when night fell, my slaves were given special permission to challenge the Gauntlet.<br/>
 I’d like to see those results.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-298-journal-of-the-hero.md](./chapter-298-journal-of-the-hero.md) | [chapter-300-a-seven-star-weapon.md](./chapter-300-a-seven-star-weapon.md) <br/>
+

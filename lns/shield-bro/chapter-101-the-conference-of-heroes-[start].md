@@ -1,3 +1,4 @@
+[chapter-100-hot-springs_F3umyv3i.md](./chapter-100-hot-springs_F3umyv3i.md) | [chapter-102-the-conference-of-heroes-[during].md](./chapter-102-the-conference-of-heroes-[during].md) <br/>
 <br/>
 An annoyingly long chapter. I don’t really know what is going on with the translations at this point. Do not read yet if 99 and 100 are not up yet, but by the titles, you can guess what happened… Also if you want to have a long discussion about the characters, please find a relevant forum and do it on that. The heroes finally get to mouth off at each other. Motoyasu seems to be the most accepting of his faults.<br/>
 CHAPTER 101: HERO CONFERENCE (START)<br/>
@@ -206,3 +207,7 @@ I will let this opportunity slide.<br/>
 "Yes, Yes." (Motoyasu)<br/>
 None of these people are repenting, are they.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-100-hot-springs_F3umyv3i.md](./chapter-100-hot-springs_F3umyv3i.md) | [chapter-102-the-conference-of-heroes-[during].md](./chapter-102-the-conference-of-heroes-[during].md) <br/>
+

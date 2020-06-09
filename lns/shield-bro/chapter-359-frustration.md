@@ -1,3 +1,4 @@
+[chapter-358-returning-home.md](./chapter-358-returning-home.md) | [chapter-360-choice.md](./chapter-360-choice.md) <br/>
 <br/>
 Dear readers, what’s a good setting for a solve & unlock/room escape challenge thingy? I’m making my own for a party.<br/>
 Frustration<br/>
@@ -156,31 +157,7 @@ We also investigated whether there were any humans who had been transported from
 I also wondered whether there were games or stories that were similar but the result was unfavourable.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1abf753fb', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1abf75439',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-358-returning-home.md](./chapter-358-returning-home.md) | [chapter-360-choice.md](./chapter-360-choice.md) <br/>
+

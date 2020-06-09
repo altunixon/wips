@@ -1,3 +1,4 @@
+[chapter-167-hengen-musou.md](./chapter-167-hengen-musou.md) | [chapter-169-weapon-shop-owner-and-apprentice.md](./chapter-169-weapon-shop-owner-and-apprentice.md) <br/>
 <br/>
 ADVERTISING : tictacattack.wordpress.com IS NOW HOSTING THE VALENTINES OF THE SHIELD HERO ALONG WITH hell5atan.wordpress.com<br/>
 Chapter 168: Alps<br/>
@@ -191,3 +192,7 @@ Rafatalia’s always seems to be seeing me off, but I’ve never had the opportu
 But there’s no need for me to mull over it.<br/>
 And so I took the slaves that wanted to level reset, and those that wanted to learn from the old man to the Castle Town.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-167-hengen-musou.md](./chapter-167-hengen-musou.md) | [chapter-169-weapon-shop-owner-and-apprentice.md](./chapter-169-weapon-shop-owner-and-apprentice.md) <br/>
+

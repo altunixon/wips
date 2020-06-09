@@ -1,3 +1,4 @@
+[chapter-239-opportunity.md](./chapter-239-opportunity.md) | [chapter-241-the-bow-of-justice.md](./chapter-241-the-bow-of-justice.md) <br/>
 <br/>
 I’m sorry for the rant. That was just my way of blowing off steam. It was late. I was Young. I was stuck indoors for 24+ hours by a feet of snow.<br/>
 Let me say I hold no animosity towards PROzess, or Krytyk. I like and respect both of their works. With Krytyk, the only thing I really wanted was to clarify my translating methods to avoid misunderstanding. They both do really good work. I’m a fan. As for PROzess, I hold nothing against him/her whatsoever, it just so happened that the comments I wanted to object to were on his/her blog.<br/>
@@ -162,3 +163,7 @@ Did he lose hope and come crying to Itsuki for help?<br/>
 Then why is Itsuki in a test tube?<br/>
 "Now awaken! It’s time to annihilate the Demon Lord of the Shield!" (Armor)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-239-opportunity.md](./chapter-239-opportunity.md) | [chapter-241-the-bow-of-justice.md](./chapter-241-the-bow-of-justice.md) <br/>
+

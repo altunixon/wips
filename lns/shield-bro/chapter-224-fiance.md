@@ -1,3 +1,4 @@
+[chapter-223-aspiration-of-dedication.md](./chapter-223-aspiration-of-dedication.md) | [chapter-225-disagreement.md](./chapter-225-disagreement.md) <br/>
 <br/>
 Fiancé<br/>
 Ren: "I’m fine like always"<br/>
@@ -171,31 +172,7 @@ Either way, the village is once again quiet.<br/>
 That being said, I told his three followers to try and stay at Cal Mira Island for as long as possible, but given his last words I shouldn’t expect too much.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a4e133de', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a4e13417',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-223-aspiration-of-dedication.md](./chapter-223-aspiration-of-dedication.md) | [chapter-225-disagreement.md](./chapter-225-disagreement.md) <br/>
+

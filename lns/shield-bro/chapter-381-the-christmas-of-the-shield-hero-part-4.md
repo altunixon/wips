@@ -1,3 +1,4 @@
+[chapter-381-the-christmas-of-the-shield-hero-part-3.md](./chapter-381-the-christmas-of-the-shield-hero-part-3.md) | [chapter-382-the-christmas-of-the-shield-hero-part-5.md](./chapter-382-the-christmas-of-the-shield-hero-part-5.md) <br/>
 <br/>
 Do not read this if you want to keep the main series spoiler free. This chapter was more difficult, but more fun to translate then the previous one. I’m changing Kiil to Kiel, as it seems more like a name. Motoyasu has been reduced to a gag character… Oh, and all 4 original heroes are assembled.<br/>
 THE CHRISTMAS OF THE SHIELD HERO PART 4<br/>
@@ -212,3 +213,7 @@ On that night, the villagers brought ingredients to the shared kitchen, and I co
 And like that, the day ended.<br/>
 Oh yes, and Firo did indeed end up singing the Hymns<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-381-the-christmas-of-the-shield-hero-part-3.md](./chapter-381-the-christmas-of-the-shield-hero-part-3.md) | [chapter-382-the-christmas-of-the-shield-hero-part-5.md](./chapter-382-the-christmas-of-the-shield-hero-part-5.md) <br/>
+

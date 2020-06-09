@@ -171,34 +171,6 @@ The two girls wait for Toa to arrive as they clean up the place, and they welcom
 Previous Chapter l Next Chapter<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-977445811-5e887f846b462',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
-<br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-977445815-5e887f846b482', {<br/>
-                    sectionId: '977445815',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
 April 7, 2018April 10, 2018 ReigokaiTsuki ga Michibiku Isekai Douchuu <br/>
 <br/>

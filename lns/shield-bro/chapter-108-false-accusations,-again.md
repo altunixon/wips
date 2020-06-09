@@ -1,3 +1,4 @@
+[chapter-107-cal-mira-island-end.md](./chapter-107-cal-mira-island-end.md) | [chapter-109-the-reason-for-rejection-.md](./chapter-109-the-reason-for-rejection-.md) <br/>
 <br/>
 Not as rage inducing as I expected, the voodoo doll I prepared went unused. Still, quite angry though.<br/>
 False Accusations, Again<br/>
@@ -187,34 +188,6 @@ After that, even though she wanted to approach even a little……The results we
 This was roughly the contents from Motoyasu’s story on Rishia.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-754659881-5ede19f265a01',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-754659885-5ede19f265a3b', {<br/>
-                    sectionId: '754659885',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TweetLike this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-107-cal-mira-island-end.md](./chapter-107-cal-mira-island-end.md) | [chapter-109-the-reason-for-rejection-.md](./chapter-109-the-reason-for-rejection-.md) <br/>
+

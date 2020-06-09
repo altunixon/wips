@@ -1,3 +1,4 @@
+[chapter-266-tiger-man.md](./chapter-266-tiger-man.md) | [chapter-268-alcohol.md](./chapter-268-alcohol.md) <br/>
 <br/>
 Chapter 267: Temporary Truce<br/>
 "Just give it up already, you people." (Naofumi)<br/>
@@ -125,3 +126,7 @@ I evaluate myself as I turn towards Sadina.<br/>
 If anything happens, I can use Gaelion to buy time for my escape.<br/>
 Like that, we ride Gaelion to Sadina’s secret Island Base.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-266-tiger-man.md](./chapter-266-tiger-man.md) | [chapter-268-alcohol.md](./chapter-268-alcohol.md) <br/>
+

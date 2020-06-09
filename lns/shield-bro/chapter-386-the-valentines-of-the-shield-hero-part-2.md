@@ -1,3 +1,4 @@
+[chapter-385-the-valentines-of-the-shield-hero-part-1.md](./chapter-385-the-valentines-of-the-shield-hero-part-1.md) | [Table of Contents](./toc.md) <br/>
 <br/>
 SIDE STORY: VALENTINE OF THE SHIELD HERO 2<br/>
 " fufufufufu, then next…. Is me "<br/>
@@ -175,31 +176,7 @@ Gentleman thief opened his mouth and believe such.<br/>
 "Hero of the Shield sama, reminds me -"<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1ad65d8bf', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1ad65d8fa',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-385-the-valentines-of-the-shield-hero-part-1.md](./chapter-385-the-valentines-of-the-shield-hero-part-1.md) | [Table of Contents](./toc.md) <br/>
+

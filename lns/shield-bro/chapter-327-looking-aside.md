@@ -1,3 +1,4 @@
+[chapter-326-x.md](./chapter-326-x.md) | [chapter-328-fenrir-force.md](./chapter-328-fenrir-force.md) <br/>
 <br/>
 I thought the Sheep Rabbit had too many banners to DIO, but I just realized that my website theme supports randomized headers as well. Ah, I’m not touching Rin, and the Akiba Art Magazine girl’s reflection is a pain.<br/>
 Chapter 327: Looking Aside<br/>
@@ -128,3 +129,7 @@ The blades edge was basked in a red light.<br/>
 A dark crimson shockwave shot towards the giant Dragon Emperess.<br/>
 Yeah, no one here seems to need my help.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-326-x.md](./chapter-326-x.md) | [chapter-328-fenrir-force.md](./chapter-328-fenrir-force.md) <br/>
+

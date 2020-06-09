@@ -1,3 +1,4 @@
+[chapter-135-edited-version_XehGmJ4C.md](./chapter-135-edited-version_XehGmJ4C.md) | [chapter-137-people-of-the-sea.md](./chapter-137-people-of-the-sea.md) <br/>
 <br/>
 Chapter 136: Midnight Snack<br/>
 And a while after that…<br/>
@@ -190,3 +191,7 @@ Why is it already determined that I’m supposed to make it?<br/>
 "…Yeah, I’ve prepared it." (Naofumi)<br/>
 I distribute food among the soldiers.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-135-edited-version_XehGmJ4C.md](./chapter-135-edited-version_XehGmJ4C.md) | [chapter-137-people-of-the-sea.md](./chapter-137-people-of-the-sea.md) <br/>
+

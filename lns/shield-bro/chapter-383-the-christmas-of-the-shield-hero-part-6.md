@@ -1,3 +1,4 @@
+[chapter-382-the-christmas-of-the-shield-hero-part-5.md](./chapter-382-the-christmas-of-the-shield-hero-part-5.md) | [chapter-384-the-christmas-of-the-shield-hero-conclusion.md](./chapter-384-the-christmas-of-the-shield-hero-conclusion.md) <br/>
 <br/>
 Well, this one was done in a bit of a rush, I had a lot of normal academic work to do. I can ensure accuracy, but not quality. All grammatical, or phrasing-related suggestions are considered. Not too interesting of a chapter, it mostly focused on how the other heroes kicked off their Christmas Day. I only have one left before I find something else to occupy my time with. Oh, before I forget, Warning: spoilers, spoilers, lots of spoilers.<br/>
 THE CHRISTMAS OF THE SHIELD HERO PART 6<br/>
@@ -169,3 +170,7 @@ But to use Revelation level magic, is she trying to kill me?<br/>
 "…Yes, lets." (Naofumi)<br/>
 This village is dangerous. We fly in the direction of castle.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-382-the-christmas-of-the-shield-hero-part-5.md](./chapter-382-the-christmas-of-the-shield-hero-part-5.md) | [chapter-384-the-christmas-of-the-shield-hero-conclusion.md](./chapter-384-the-christmas-of-the-shield-hero-conclusion.md) <br/>
+

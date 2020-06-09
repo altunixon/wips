@@ -1,3 +1,4 @@
+[chapter-260-growing-worse.md](./chapter-260-growing-worse.md) | [chapter-262-lab-visit.md](./chapter-262-lab-visit.md) <br/>
 <br/>
 Note, if you didn’t already know, ESP stands for Extra Sensory Perception, and PSI is greek letter Ψ, and is used to represent psychic phenomena. It doesn’t stand for anything, it’s just the first letter in the word for psychic.<br/>
 Chapter 261: ESPer<br/>
@@ -182,3 +183,7 @@ If I leave it to Raphtalia, who seems strict on public morals, I think I’ll fi
 "Understood." (Raphtalia)<br/>
 And so, Raphtalia joined me in my daily routine, and I resumed my work.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-260-growing-worse.md](./chapter-260-growing-worse.md) | [chapter-262-lab-visit.md](./chapter-262-lab-visit.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md](./chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md) | [chapter-128-a-hero-s-treatment_PR1Uu28w.md](./chapter-128-a-hero-s-treatment_PR1Uu28w.md) <br/>
 <br/>
 Laptop returned from fixing. I might even appear again within a year. Also decided to start including honorifics at times.<br/>
  <br/>
@@ -144,31 +145,7 @@ It’s true I’m exhausted, but not to the point that I’ll die. I’d prefer 
 Was Raphtalia always this overprotective？<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede19ffab653', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede19ffab682',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md](./chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md) | [chapter-128-a-hero-s-treatment_PR1Uu28w.md](./chapter-128-a-hero-s-treatment_PR1Uu28w.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-336-the-eighth.md](./chapter-336-the-eighth.md) | [chapter-338-one-who-claimed-to-be-god.md](./chapter-338-one-who-claimed-to-be-god.md) <br/>
 <br/>
 Chapter 337: World Assimilation<br/>
 "And? Am I right in assuming your weapon is that carriage?" (Naofumi)<br/>
@@ -133,3 +134,7 @@ So my thoughts may be way off the mark.<br/>
 But I’ve seen a situation similar to this.<br/>
 "In the stories of my world, there’s a certain someone who mediates reincarnations like these." (Naofumi)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-336-the-eighth.md](./chapter-336-the-eighth.md) | [chapter-338-one-who-claimed-to-be-god.md](./chapter-338-one-who-claimed-to-be-god.md) <br/>
+

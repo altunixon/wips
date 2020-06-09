@@ -1,3 +1,4 @@
+[chapter-246-revolution.md](./chapter-246-revolution.md) | [chapter-248-raising-an-army.md](./chapter-248-raising-an-army.md) <br/>
 <br/>
 Chapter 247: The Castle Town Riot<br/>
 On our way to the top of the castle, we meet multiple brainwashed parties, but each time, Rishia throws her weapon and nullifies the brainwashing.<br/>
@@ -196,3 +197,7 @@ I’ll leave it as one of the mysteries of Zombies.<br/>
 "Ye~s!" (Firo)<br/>
 And so, we pass through the Castle Town gate that was supposed to be barred during the night. We run across the plains, barely illuminated by the rising sun.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-246-revolution.md](./chapter-246-revolution.md) | [chapter-248-raising-an-army.md](./chapter-248-raising-an-army.md) <br/>
+

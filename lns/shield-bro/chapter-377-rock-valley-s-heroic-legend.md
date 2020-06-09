@@ -1,3 +1,4 @@
+[chapter-376-alternate-worlds-and-modern-ones.md](./chapter-376-alternate-worlds-and-modern-ones.md) | [chapter-378-the-rise-of-the-shield-hero.md](./chapter-378-the-rise-of-the-shield-hero.md) <br/>
 <br/>
 Epilogue: Rock Valley’s Heroic Legend<br/>
 Iwatani Naofumi<br/>
@@ -193,3 +194,7 @@ A Chivalrous Thief who left his own legend around the time of the Heroes.<br/>
 He stole the gold of evil nobles and merchants, and offered support to those going through poverty. IT is said that he was the head and founder of the Chivalrous Thieves Guild.<br/>
 He was an acquaintance of the Hero of the Shield, and a theory points to him being a bandit reformed by him.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-376-alternate-worlds-and-modern-ones.md](./chapter-376-alternate-worlds-and-modern-ones.md) | [chapter-378-the-rise-of-the-shield-hero.md](./chapter-378-the-rise-of-the-shield-hero.md) <br/>
+

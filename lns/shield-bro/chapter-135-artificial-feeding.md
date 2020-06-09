@@ -1,3 +1,4 @@
+[chapter-134-balloon-shield.md](./chapter-134-balloon-shield.md) | [chapter-135-edited-version_XehGmJ4C.md](./chapter-135-edited-version_XehGmJ4C.md) <br/>
 <br/>
 NOW I CAN FINALLY SLEEP!<br/>
 Some of the part which contain the japanese are either i’m not exactly too sure about the translation or felt that there should be a better wording out of it. Please leave message if you think you can make it better<br/>
@@ -212,34 +213,6 @@ Rishia are reading a book that she took out of nowhere. She is a hardworking per
 I began compounding for the preparation of my next plan. While at it, I went and checked the level of all slaves. It seem the average level that they raised to is 15。Their status all rise as well. Judging from Raphtalia’s growth pattern, I want to raise the level of them even for those that are unsuitable to combat to at least 30.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a05a96c3', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a05a9734',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Like this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-134-balloon-shield.md](./chapter-134-balloon-shield.md) | [chapter-135-edited-version_XehGmJ4C.md](./chapter-135-edited-version_XehGmJ4C.md) <br/>
+

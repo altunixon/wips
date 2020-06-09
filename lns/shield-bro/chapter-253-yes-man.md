@@ -1,3 +1,4 @@
+[chapter-252-pleading-for-life.md](./chapter-252-pleading-for-life.md) | [chapter-254-vol.-1.md](./chapter-254-vol.-1.md) <br/>
 <br/>
 I’m thinking of transferring old chapters from posts into pages. That somehow seems more efficient. (ED: Let me know how you want it done, and I can do it so you can continue translating ;o)<br/>
 <br/>
@@ -171,3 +172,7 @@ And he did whatever someone asked him to do.<br/>
 With him like that, it would have been exceptionally dangerous to bring him to Witch’s trial.<br/>
 If he were there, he would have immediately forgiven Witch when asked.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-252-pleading-for-life.md](./chapter-252-pleading-for-life.md) | [chapter-254-vol.-1.md](./chapter-254-vol.-1.md) <br/>
+

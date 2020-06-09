@@ -1,3 +1,4 @@
+[chapter-116-blue-sand-sound_yKxDvt01.md](./chapter-116-blue-sand-sound_yKxDvt01.md) | [chapter-118-the-spirit-turtle,-recon-battle.md](./chapter-118-the-spirit-turtle,-recon-battle.md) <br/>
 <br/>
 Note: all the other heroes’ motivations are currently 100% Naofumi’s conjecture. Don’t get so mad… yet…<br/>
 Chapter 117: When Game Knowledge Betrays You<br/>
@@ -182,3 +183,7 @@ I give out orders and prepare for battle.<br/>
 Firo starts running at full speed. We begin our assault on the Spirit Turtle.<br/>
 Boss Battle: The Spirit Turtle<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-116-blue-sand-sound_yKxDvt01.md](./chapter-116-blue-sand-sound_yKxDvt01.md) | [chapter-118-the-spirit-turtle,-recon-battle.md](./chapter-118-the-spirit-turtle,-recon-battle.md) <br/>
+

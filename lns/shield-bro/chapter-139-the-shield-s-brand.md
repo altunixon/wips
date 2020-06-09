@@ -1,3 +1,4 @@
+[chapter-138-same-sex-only.md](./chapter-138-same-sex-only.md) | [chapter-140-desertion-and-discovery_kA2Aj85z.md](./chapter-140-desertion-and-discovery_kA2Aj85z.md) <br/>
 <br/>
 …Hiragana Megane is down… Using Furigana Inserter, but tis not as effective Formatted to look more like the original, because wordpress usually gets rid of that…<br/>
 Chapter 139: The Shield’s Brand<br/>
@@ -149,3 +150,7 @@ The Slave Dealer’s men follow him.<br/>
 … Their presence is ruining the taste.<br/>
 I have to think of some countermeasures for next time, or me having to cook will become standard practice.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-138-same-sex-only.md](./chapter-138-same-sex-only.md) | [chapter-140-desertion-and-discovery_kA2Aj85z.md](./chapter-140-desertion-and-discovery_kA2Aj85z.md) <br/>
+

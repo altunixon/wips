@@ -1,3 +1,4 @@
+[chapter-362-immortality.md](./chapter-362-immortality.md) | [chapter-364-two-years.md](./chapter-364-two-years.md) <br/>
 <br/>
 15…<br/>
 All dat symbolism tho…<br/>
@@ -270,3 +271,7 @@ I open the Four Holy Weapons’ Manual<br/>
 It was written on the page.<br/>
 The Melromark’s army formation collapsed, and the reincarnators were closing in on Melty.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-362-immortality.md](./chapter-362-immortality.md) | [chapter-364-two-years.md](./chapter-364-two-years.md) <br/>
+

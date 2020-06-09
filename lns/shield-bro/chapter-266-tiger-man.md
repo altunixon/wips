@@ -1,3 +1,4 @@
+[chapter-265-late-night-combat.md](./chapter-265-late-night-combat.md) | [chapter-267-temporary-truce.md](./chapter-267-temporary-truce.md) <br/>
 <br/>
 Chapter 266: Tiger Man<br/>
 "And that’s how it is, Fohl. In order to make sure that neither Raphtalia nor Atlas sleeps with me, I’ve decided to sleep at your place." (Naofumi)<br/>
@@ -158,3 +159,7 @@ His sleeping face was that of a man who had overcome the greatest obstacle of hi
 "Niichan will prevent Atlas from walking on the wrong path!" (Fohl)<br/>
 And the next day, they fought again.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-265-late-night-combat.md](./chapter-265-late-night-combat.md) | [chapter-267-temporary-truce.md](./chapter-267-temporary-truce.md) <br/>
+

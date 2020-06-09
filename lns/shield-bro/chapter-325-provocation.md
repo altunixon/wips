@@ -1,3 +1,4 @@
+[chapter-324-the-king-of-wisdom.md](./chapter-324-the-king-of-wisdom.md) | [chapter-326-x.md](./chapter-326-x.md) <br/>
 <br/>
 After this arc is over, let’s get married.<br/>
 In which case, I really am taking a break once this arc is finished… for exams.<br/>
@@ -149,3 +150,7 @@ When I say as such, Tact completely falls for my provocations.<br/>
 "Of course! Let’s start the battle we were certain to win from the start!" (Tact)<br/>
 And everyone started their own battles.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-324-the-king-of-wisdom.md](./chapter-324-the-king-of-wisdom.md) | [chapter-326-x.md](./chapter-326-x.md) <br/>
+

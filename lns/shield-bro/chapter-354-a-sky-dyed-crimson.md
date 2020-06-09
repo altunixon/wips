@@ -1,3 +1,4 @@
+[chapter-353-cheat-.md](./chapter-353-cheat-.md) | [chapter-355-the-goddess-descends.md](./chapter-355-the-goddess-descends.md) <br/>
 <br/>
 Chapter 354: A Sky Dyed Crimson<br/>
 <br/>
@@ -185,3 +186,7 @@ The Wine colored sky changes to the crimson hue of blood, and, like a door, the 
 So the world will end… in a place like this!?<br/>
 The earth rumbles before us as the entire world begins to shake.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-353-cheat-.md](./chapter-353-cheat-.md) | [chapter-355-the-goddess-descends.md](./chapter-355-the-goddess-descends.md) <br/>
+

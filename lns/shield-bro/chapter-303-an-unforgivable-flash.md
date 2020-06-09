@@ -1,3 +1,4 @@
+[chapter-302-vs.-houou.md](./chapter-302-vs.-houou.md) | [chapter-304-a-price-too-great.md](./chapter-304-a-price-too-great.md) <br/>
 <br/>
 Can ya wankahs just quit it wit’ ya bloody spoilahs? I ulrede lost me motivation to translate, an ‘m trying to revav it rah naw.<br/>
 Please don’t forget that I am site Admin, and that I can ban people (Though I only used this power on the Yaoi guy so far, and my actual brother for the luls)<br/>
@@ -183,3 +184,7 @@ Where Houou was standing, is now a ball of fire as brilliant as the sun.<br/>
 And it’s still expanding. The ground below it scorches and melts. Nothing is left in its path.<br/>
 At the same time, far, far away… the flames could be seen, even from Melromark.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-302-vs.-houou.md](./chapter-302-vs.-houou.md) | [chapter-304-a-price-too-great.md](./chapter-304-a-price-too-great.md) <br/>
+

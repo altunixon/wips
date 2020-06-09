@@ -1,3 +1,4 @@
+[chapter-263-surprise-inspection.md](./chapter-263-surprise-inspection.md) | [chapter-265-late-night-combat.md](./chapter-265-late-night-combat.md) <br/>
 <br/>
 Original translator: 黒曜石ペガサス Original chapter<br/>
 So I don’t know Yoraikun’s plans, but I feel like it would be a waste of his time to re-translate chapter 264. So, I took the liberty of editing it. I don’t know how accurate it is, and maybe Yoraikun is going to re-translate it anyway, but hopefully, I could save him some effort and go straight to chapter 265.<br/>
@@ -226,3 +227,7 @@ The remaining slaves’ stuff are pretty similar.<br/>
 Except, just like Firo’s, many of them are pretty dirty.<br/>
 At dinner, I inform them that I did the surprise inspection and caution them.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-263-surprise-inspection.md](./chapter-263-surprise-inspection.md) | [chapter-265-late-night-combat.md](./chapter-265-late-night-combat.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-334-two-thirds.md](./chapter-334-two-thirds.md) | [chapter-336-the-eighth.md](./chapter-336-the-eighth.md) <br/>
 <br/>
 Now time for a survey. It’s been a while, but I’m still getting flooded with angry comments about Witch’s punishment (being sent to Faubley for a torturous death). Some think it wasn’t enough, some say it was too much, others say that its concept was a mistake in its entirety. People are calling each other ‘monsters’ and ‘naive ideologists,’ and there are political matters being ignored as well. So, let’s set it straight here. Now, when answering this, please remember that the characters are not in our own world governed by ‘just’ law, and that the other responders to this survey come from all over our own world. They have been raised under different beliefs and ideologies than you (people from 149 countries to be specific, 148 if you ignore Taiwan, and are reading this webnovel as of today, May 18th, 2015).<br/>
 Take Our Poll<br/>
@@ -173,3 +174,7 @@ A white light begins flooding out of the source of the wave, forcing us to close
 Glass’s words enter my ears.<br/>
 And after the light abates… I was able to confirm what the wave had done. I was able to confirm that the voices from the Spirit of the Shield had been telling the truth.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-334-two-thirds.md](./chapter-334-two-thirds.md) | [chapter-336-the-eighth.md](./chapter-336-the-eighth.md) <br/>
+

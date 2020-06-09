@@ -1,3 +1,4 @@
+[chapter-275-revival-festival.md](./chapter-275-revival-festival.md) | [chapter-277-the-new-seven-deadly-sins.md](./chapter-277-the-new-seven-deadly-sins.md) <br/>
 <br/>
 To make up for the other chapter.<br/>
 And because people were asking for a photo:<br/>
@@ -168,31 +169,7 @@ Firo’s kicks were quite capable of paying barely-outrageous retributions.<br/>
 They tried to chase the future queen and so they were just getting what they deserved though.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a7d337f7', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a7d33833',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-275-revival-festival.md](./chapter-275-revival-festival.md) | [chapter-277-the-new-seven-deadly-sins.md](./chapter-277-the-new-seven-deadly-sins.md) <br/>
+

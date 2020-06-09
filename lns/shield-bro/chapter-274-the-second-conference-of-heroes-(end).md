@@ -1,3 +1,4 @@
+[chapter-273-the-second-conference-of-heroes-(middle).md](./chapter-273-the-second-conference-of-heroes-(middle).md) | [chapter-275-revival-festival.md](./chapter-275-revival-festival.md) <br/>
 <br/>
 Chapter 274: The Second Conference of Heroes [End]<br/>
 Wait, the Dark Guild’s Membership card…?<br/>
@@ -125,3 +126,7 @@ But with this, Ren, Motoyasu, and Itsuki are on the road to becoming stronger. I
 (TL: This is not the image for this chapter, but still, it is highly relevant. Credit to Nopeandnope for posting it.)<br/>
 <br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-273-the-second-conference-of-heroes-(middle).md](./chapter-273-the-second-conference-of-heroes-(middle).md) | [chapter-275-revival-festival.md](./chapter-275-revival-festival.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-160-return-to-the-village.md](./chapter-160-return-to-the-village.md) | [chapter-162-filo-rials-and-dragons.md](./chapter-162-filo-rials-and-dragons.md) <br/>
 <br/>
 I felt like I should at least try do some more chapters even with all my procrastinating, which is weird cos normally I’m a huge leecher but more chapters are good so here you go (:<br/>
 I keep typing Alta instead of Atla and had to keep fixing it >w<<br/>
@@ -209,31 +210,7 @@ Dolphin-type:<br/>
 I didn’t find an octopus though…<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a1ce3d0b', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a1ce3d55',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-160-return-to-the-village.md](./chapter-160-return-to-the-village.md) | [chapter-162-filo-rials-and-dragons.md](./chapter-162-filo-rials-and-dragons.md) <br/>
+

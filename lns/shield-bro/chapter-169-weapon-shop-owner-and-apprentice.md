@@ -1,3 +1,4 @@
+[chapter-168-alps.md](./chapter-168-alps.md) | [chapter-170-trash-and-hakuko_QmkDLfEf.md](./chapter-170-trash-and-hakuko_QmkDLfEf.md) <br/>
 <br/>
 I feel like my translations seem to keep getting worse…but everyone probably can’t tell because they compare it to all the machine translations 😐<br/>
 Anyway~ thank you for all your patience (:<br/>
@@ -137,31 +138,7 @@ It feels like a reunion between long-term friends. It’s not bad.<br/>
 And like this, we left the weapon store behind.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a24e6412', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a24e6456',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-168-alps.md](./chapter-168-alps.md) | [chapter-170-trash-and-hakuko_QmkDLfEf.md](./chapter-170-trash-and-hakuko_QmkDLfEf.md) <br/>
+

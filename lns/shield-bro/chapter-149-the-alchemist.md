@@ -1,3 +1,4 @@
+[chapter-148-failed-creation.md](./chapter-148-failed-creation.md) | [chapter-150-favorable-discrimination.md](./chapter-150-favorable-discrimination.md) <br/>
 <br/>
 Exactly 24 hours later and a new chapter is up….or close enough.<br/>
 I’m sorry I’m not as fast as Yoraikun >w<<br/>
@@ -213,31 +214,7 @@ If she’s thinking stupid things such as seeking revenge on the country or tryi
 "My aim? It’s to create powerful monsters of course" (alchemist)<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a12e64df', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a12e6522',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-148-failed-creation.md](./chapter-148-failed-creation.md) | [chapter-150-favorable-discrimination.md](./chapter-150-favorable-discrimination.md) <br/>
+

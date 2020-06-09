@@ -1,3 +1,4 @@
+[chapter-198-purpose_vDqCuQmf.md](./chapter-198-purpose_vDqCuQmf.md) | [chapter-200-repent-.md](./chapter-200-repent-.md) <br/>
 <br/>
 Chapter 199: The Morning of the Shield Hero<br/>
 I have to get up early in the mornings.<br/>
@@ -234,3 +235,7 @@ What? What exactly could be pulling on her heartstrings to this extent?<br/>
 "Onii-sama just got a wonderful nickname from Naofumi-sama, and on top of that he learns to take on a cute form. He must be aiming for Naofumi-sama’s heart. I’m envious. I’m jealous." (Atlas)<br/>
 … This is no good.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-198-purpose_vDqCuQmf.md](./chapter-198-purpose_vDqCuQmf.md) | [chapter-200-repent-.md](./chapter-200-repent-.md) <br/>
+

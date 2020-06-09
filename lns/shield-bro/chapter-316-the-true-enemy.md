@@ -1,3 +1,4 @@
+[chapter-315-spirit.md](./chapter-315-spirit.md) | [chapter-317-the-hero-of-the-cane.md](./chapter-317-the-hero-of-the-cane.md) <br/>
 <br/>
 Chapter 316: The True Enemy<br/>
 "… As expected of the Hero chosen by the Spirit of the Shield. The other sprits are praising him." (Atlas)<br/>
@@ -131,3 +132,7 @@ Upon feeling her skin, tears start forming in my eyes. I’m not even sad, so wh
 Atlas’s body changes into light, and disperses.<br/>
 I watch over the scene, and head off to reality.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-315-spirit.md](./chapter-315-spirit.md) | [chapter-317-the-hero-of-the-cane.md](./chapter-317-the-hero-of-the-cane.md) <br/>
+

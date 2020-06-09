@@ -1,3 +1,4 @@
+[chapter-313-retreat.md](./chapter-313-retreat.md) | [chapter-315-spirit.md](./chapter-315-spirit.md) <br/>
 <br/>
 Chapter 314: Will<br/>
 My body’s light; it feels as if I’m floating.<br/>
@@ -215,3 +216,7 @@ And my dislodged conscience floated elsewhere once more.<br/>
 Now I’m not anywhere. An empty space of flickering lights, looping in an endless pattern.<br/>
 In that space, was me, and ___…<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-313-retreat.md](./chapter-313-retreat.md) | [chapter-315-spirit.md](./chapter-315-spirit.md) <br/>
+

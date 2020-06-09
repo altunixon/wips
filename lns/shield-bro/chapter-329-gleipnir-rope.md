@@ -1,3 +1,4 @@
+[chapter-328-fenrir-force.md](./chapter-328-fenrir-force.md) | [chapter-330-an-ordinary-person.md](./chapter-330-an-ordinary-person.md) <br/>
 <br/>
 Kookie was lazy and promoted the first person to volunteer the last time Kookie complained about finding an editor. Please welcome RebelGoRound~~<br/>
 I haven’t actually given him a test so I’ll let you readers decide on his fate (but please no being mean >w<)<br/>
@@ -139,31 +140,7 @@ I was meant to be fighting Tact but I’m fighting his followers before I know i
 As far as it goes, Tact had prepared the shield so it seems he didn’t receive that much damage but even so, it’s only at this level, huh?<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1aa9050fa', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1aa905155',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-328-fenrir-force.md](./chapter-328-fenrir-force.md) | [chapter-330-an-ordinary-person.md](./chapter-330-an-ordinary-person.md) <br/>
+

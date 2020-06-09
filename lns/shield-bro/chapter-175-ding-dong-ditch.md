@@ -1,3 +1,4 @@
+[chapter-174-melty-s-job.md](./chapter-174-melty-s-job.md) | [chapter-176-wimp.md](./chapter-176-wimp.md) <br/>
 <br/>
 The King of Kings did 177, and I will be doing 176. I’m working on it, but won’t be able to around dinner +-2 hours, so I’m not sure if I will finish today.<br/>
 Chapter 175: Ding Dong Ditch<br/>
@@ -267,3 +268,7 @@ Gaelion seems overjoyed. He flies straight at me and begins licking my face.<br/
 It’s nice how pure he is. Unlike that talking bird.<br/>
 And after playing with Gaelion for a while, I went back to my work.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-174-melty-s-job.md](./chapter-174-melty-s-job.md) | [chapter-176-wimp.md](./chapter-176-wimp.md) <br/>
+

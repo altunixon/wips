@@ -1,3 +1,4 @@
+[chapter-179-a-mass-of-klesha.md](./chapter-179-a-mass-of-klesha.md) | [chapter-181-choral-magic.md](./chapter-181-choral-magic.md) <br/>
 <br/>
 Naofumi’s intelligence may be visibly falling. (I’m not talking about his plan).<br/>
 ADVERTISEMENT: TATE NO YUUSHA GAME PRODUCTION IN THE WORKS<br/>
@@ -162,3 +163,7 @@ As he was positioned to eat me, he picks me up in his teeth and tries to bite do
 I grab his fangs and wrench them open with all my strength. I fall to the ground.<br/>
 Good, this finally seems like a battle we can fight.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-179-a-mass-of-klesha.md](./chapter-179-a-mass-of-klesha.md) | [chapter-181-choral-magic.md](./chapter-181-choral-magic.md) <br/>
+

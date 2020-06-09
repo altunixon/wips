@@ -1,3 +1,4 @@
+[chapter-101-the-conference-of-heroes-[start].md](./chapter-101-the-conference-of-heroes-[start].md) | [chapter-103-the-conference-of-heroes-[end].md](./chapter-103-the-conference-of-heroes-[end].md) <br/>
 <br/>
 Hero Conference (During)<br/>
 Shadow:"Next, please inform each hero-dono of the problems pointed out from each other’s comrades degojaru."<br/>
@@ -174,34 +175,6 @@ At Motoyasu’s words, the other two nod as if this was common sense.<br/>
 Naofumi:"What is that!?"<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-754659881-5ede19ee23592',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-754659885-5ede19ee235b0', {<br/>
-                    sectionId: '754659885',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TweetLike this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-101-the-conference-of-heroes-[start].md](./chapter-101-the-conference-of-heroes-[start].md) | [chapter-103-the-conference-of-heroes-[end].md](./chapter-103-the-conference-of-heroes-[end].md) <br/>
+

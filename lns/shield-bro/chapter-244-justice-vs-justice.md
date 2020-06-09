@@ -1,3 +1,4 @@
+[chapter-243-the-conditions-for-a-duel.md](./chapter-243-the-conditions-for-a-duel.md) | [chapter-245-awakening.md](./chapter-245-awakening.md) <br/>
 <br/>
 "What do you do when there is an evil you cannot defeat by just means? Do you stain your hands with evil to destroy evil? Or do you remain steadfastly just and righteous even if it means surrendering to evil?"<br/>
 -Yoraikun Vi Britannia<br/>
@@ -157,3 +158,7 @@ She even managed to thwart an execution device… Rishia’s growth is beginning
 Excluding Motoyasu, She’s probably the strongest out of all my subordinates right now.<br/>
 But, perhaps Raphtalia can enhance herself this much as well.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-243-the-conditions-for-a-duel.md](./chapter-243-the-conditions-for-a-duel.md) | [chapter-245-awakening.md](./chapter-245-awakening.md) <br/>
+

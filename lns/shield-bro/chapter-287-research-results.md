@@ -1,3 +1,4 @@
+[chapter-286-war-reversal.md](./chapter-286-war-reversal.md) | [chapter-288-damage-restitution.md](./chapter-288-damage-restitution.md) <br/>
 <br/>
 Chapter 287: Research Result<br/>
 "… Good of you to come all the way here. Perhaps the result of the war has already been decided, but I will not step down here." (Atlas)<br/>
@@ -263,3 +264,7 @@ This pointless phenomenon will perhaps ________, but the world will ________.<br
 I remember my enemy’s words.<br/>
 Why is he with Raphtalia…?<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-286-war-reversal.md](./chapter-286-war-reversal.md) | [chapter-288-damage-restitution.md](./chapter-288-damage-restitution.md) <br/>
+

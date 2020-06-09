@@ -1,3 +1,4 @@
+[chapter-251-bloodline-of-heroes.md](./chapter-251-bloodline-of-heroes.md) | [chapter-253-yes-man.md](./chapter-253-yes-man.md) <br/>
 <br/>
 Aww… Naofumi made a friend. How sweet.<br/>
 I’ve said it time and again, but I’m just a translator. Don’t blame me for these events…<br/>
@@ -147,3 +148,7 @@ Like this, I finally cut my long ties with Witch… It was so abrupt that it se
 (Note: "I just realized. Did Naofumi just invent AVs [adult videos] for this world?"<br/>
 -Psychronia)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-251-bloodline-of-heroes.md](./chapter-251-bloodline-of-heroes.md) | [chapter-253-yes-man.md](./chapter-253-yes-man.md) <br/>
+

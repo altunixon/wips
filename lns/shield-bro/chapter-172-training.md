@@ -1,3 +1,4 @@
+[chapter-171-portal-shield.md](./chapter-171-portal-shield.md) | [chapter-173-a-shield-to-protect.md](./chapter-173-a-shield-to-protect.md) <br/>
 <br/>
 Chapter 172 retranslated by Kookie<br/>
 This was such a pain to do cos it was so long. Pls, if you’re going to do bad translations of chapters that I have to redo, pick shorter ones next time.<br/>
@@ -228,31 +229,7 @@ All the same, if we went out to fight the waves together without being able to c
 And just like this I saw the levelling party off and resumed work in the village.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a271b583', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a271b5c8',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-171-portal-shield.md](./chapter-171-portal-shield.md) | [chapter-173-a-shield-to-protect.md](./chapter-173-a-shield-to-protect.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-372-the-end.md](./chapter-372-the-end.md) | [chapter-374-trust.md](./chapter-374-trust.md) <br/>
 <br/>
 How many people want Kookie to work on the side stories?<br/>
 A Couple’s Strength<br/>
@@ -130,31 +131,7 @@ It’s fine like that.<br/>
 That’s why― Raphtalia and I as we are now…. The sword and shield as a pair, there’s no way we’ll lose to this kind of opponent.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1acb05b6e', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1acb05bbd',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-372-the-end.md](./chapter-372-the-end.md) | [chapter-374-trust.md](./chapter-374-trust.md) <br/>
+

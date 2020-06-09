@@ -1,3 +1,4 @@
+[chapter-146-beastmen.md](./chapter-146-beastmen.md) | [chapter-148-failed-creation.md](./chapter-148-failed-creation.md) <br/>
 <br/>
 Though I have a hunch about the Lemo’s gender, the characters have been using gender-neutral phrasing up until not, so I will keep it that way for a while. About the translations of 149-150, it was just a step up from complete machine translation, so I think me and KookieDreamer will re-translate them. It’s like Elena and Bitch. Sure, Elena may be exponentially better and more likable than Bitch, but in Naofumi’s eyes, they’re both trash.<br/>
 Chapter 147: The Flag, again<br/>
@@ -208,3 +209,7 @@ I hope there isn’t too much of a difference in constitution.<br/>
 Like a mother, Rafatalia wipes the Lumo Child’s mouth and begins feeding it.<br/>
 It’s quite a peaceful scene.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-146-beastmen.md](./chapter-146-beastmen.md) | [chapter-148-failed-creation.md](./chapter-148-failed-creation.md) <br/>
+

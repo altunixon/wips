@@ -1,3 +1,4 @@
+[chapter-210-envy_4cwmPfTs.md](./chapter-210-envy_4cwmPfTs.md) | [chapter-212-love-hunter_XjQMyz4y.md](./chapter-212-love-hunter_XjQMyz4y.md) <br/>
 <br/>
 Anouncement: Due to exams (I’m a high school student) I won’t be translating for the first half of January<br/>
 Also, I think this is what 212 was referring to<br/>
@@ -157,3 +158,7 @@ I don’t have any more options. I could try using this power to strengthen the 
 But… If I give up here, my purity…!<br/>
 Perhaps I should shift my target to Motoyasu?<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-210-envy_4cwmPfTs.md](./chapter-210-envy_4cwmPfTs.md) | [chapter-212-love-hunter_XjQMyz4y.md](./chapter-212-love-hunter_XjQMyz4y.md) <br/>
+

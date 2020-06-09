@@ -1,3 +1,4 @@
+[chapter-321-jealousy.md](./chapter-321-jealousy.md) | [chapter-323-change-raph.md](./chapter-323-change-raph.md) <br/>
 <br/>
 Chapter 322: The Eighth Generation<br/>
 I immediately returned to the village with the Cane’s portal, and went to Rat, who was busy constructing her Carriage-type body for Mii-kun<br/>
@@ -124,3 +125,7 @@ Did I plan to take the organism I created myself, and make it my girlfriend?<br/
 Even so, the password was, ‘To my beloved daughter’.<br/>
 "It’s good that Raph-chan understands, but if handled poorly, there was a chance he could have swapped places with the original." (Rat)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-321-jealousy.md](./chapter-321-jealousy.md) | [chapter-323-change-raph.md](./chapter-323-change-raph.md) <br/>
+

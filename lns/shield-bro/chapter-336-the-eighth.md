@@ -1,3 +1,4 @@
+[chapter-335-united-front.md](./chapter-335-united-front.md) | [chapter-337-world-assimilation.md](./chapter-337-world-assimilation.md) <br/>
 <br/>
 Chapter 336: The Eighth<br/>
 "The land…? What’s happening?"<br/>
@@ -126,3 +127,7 @@ There’s no doubt she’s the one who put Firo in heat.<br/>
 Motoyasu is quiet, so Fitoria regains her composure, and returns.<br/>
 For the love of god, that man really needs to read the mood more.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-335-united-front.md](./chapter-335-united-front.md) | [chapter-337-world-assimilation.md](./chapter-337-world-assimilation.md) <br/>
+

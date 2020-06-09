@@ -1,3 +1,4 @@
+[chapter-267-temporary-truce.md](./chapter-267-temporary-truce.md) | [chapter-269-truth-in-darkness_C7gcha79.md](./chapter-269-truth-in-darkness_C7gcha79.md) <br/>
 <br/>
 Chapter 268: Alcohol<br/>
 "There are quite a few more things here than when I last visited." (Naofumi)<br/>
@@ -109,3 +110,7 @@ The ones who stayed didn’t seem particularly concerned with me.<br/>
 "Hey, what’s your relationship with Raphtalia, exactly?" (Naofumi)<br/>
 "Naofumi-chan, to me, Raphtalia-chan and her parents were my reason for living." (Sadina)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-267-temporary-truce.md](./chapter-267-temporary-truce.md) | [chapter-269-truth-in-darkness_C7gcha79.md](./chapter-269-truth-in-darkness_C7gcha79.md) <br/>
+

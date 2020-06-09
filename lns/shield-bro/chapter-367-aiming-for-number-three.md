@@ -1,3 +1,4 @@
+[chapter-366-paranoia-begets-paranoia.md](./chapter-366-paranoia-begets-paranoia.md) | [chapter-368-a-fragile-place.md](./chapter-368-a-fragile-place.md) <br/>
 <br/>
 Chapter 367: Aiming for Number Three<br/>
 After arriving at the Castle Town, we proceeded directly to the castle.<br/>
@@ -160,3 +161,7 @@ It’s this. This.<br/>
 Once you appear to save someone from crisis, this is what you’re supposed to get…<br/>
 I appraise the situation satisfyingly, as I felt relieved having returned to this world.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-366-paranoia-begets-paranoia.md](./chapter-366-paranoia-begets-paranoia.md) | [chapter-368-a-fragile-place.md](./chapter-368-a-fragile-place.md) <br/>
+

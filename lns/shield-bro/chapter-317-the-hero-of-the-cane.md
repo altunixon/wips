@@ -1,3 +1,4 @@
+[chapter-316-the-true-enemy.md](./chapter-316-the-true-enemy.md) | [chapter-318-strategy-meeting.md](./chapter-318-strategy-meeting.md) <br/>
 <br/>
 Chapter 317: The Hero of the Cane<br/>
 "Gu…" (Naofumi)<br/>
@@ -163,3 +164,7 @@ At the very least, he’s more decent than he was before.<br/>
 "Leave it to me. I’ll completely slaughter the enemy with the minimum amount of casualties." (Trash)<br/>
 We turned our backs to the Queen’s coffin, and quietly… started walking forward.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-316-the-true-enemy.md](./chapter-316-the-true-enemy.md) | [chapter-318-strategy-meeting.md](./chapter-318-strategy-meeting.md) <br/>
+

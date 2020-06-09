@@ -1,3 +1,4 @@
+[chapter-122-exploration.md](./chapter-122-exploration.md) | [chapter-124-heart-of-the-spirit-turtle.md](./chapter-124-heart-of-the-spirit-turtle.md) <br/>
 <br/>
 Kingdom is too good, I just finished the war against Wei arc and am taking a break. (No spoilers please)<br/>
 Blue Hourglass<br/>
@@ -205,34 +206,6 @@ Shadow:"Roger degojaru."<br/>
 We postpone the battle against the spirit turtle’s heart and withdraw.<br/>
 <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-754659881-5ede19fc952d8',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			<br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-754659885-5ede19fc952f4', {<br/>
-                    sectionId: '754659885',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
-Share this:TweetLike this:Like Loading...<br/>
-<br/>
-Related<br/>
- <br/>
+[chapter-122-exploration.md](./chapter-122-exploration.md) | [chapter-124-heart-of-the-spirit-turtle.md](./chapter-124-heart-of-the-spirit-turtle.md) <br/>
+

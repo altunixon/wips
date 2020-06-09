@@ -1,3 +1,4 @@
+[chapter-230-contagion.md](./chapter-230-contagion.md) | [chapter-232-effort.md](./chapter-232-effort.md) <br/>
 <br/>
 Good news, I’m now a senior in the second semester, meaning I’m a lame duck student. I can devote more time to translation… Oh, and since people ask how I find time for this let me say that my average time is 2 Hours +-30 minutes per chapter. it isn’t that bad.<br/>
 Chapter 231: Miscalculations<br/>
@@ -148,3 +149,7 @@ Nonono, the ones who drove Rishia out were you people.<br/>
 You were there–you saw everything.<br/>
 You can’t just conveniently forget that at this point in time.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-230-contagion.md](./chapter-230-contagion.md) | [chapter-232-effort.md](./chapter-232-effort.md) <br/>
+

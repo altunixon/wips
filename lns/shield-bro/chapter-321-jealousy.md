@@ -1,3 +1,4 @@
+[chapter-320-raph-chan.md](./chapter-320-raph-chan.md) | [chapter-322-the-eighth-generation.md](./chapter-322-the-eighth-generation.md) <br/>
 <br/>
 …<br/>
 …<br/>
@@ -246,3 +247,7 @@ I ask Raph-chan once more.<br/>
 In a few days, we’ll be fighting.<br/>
 This may be a… waste of time, but I’ll have Rat investigate it. We may find something useful.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-320-raph-chan.md](./chapter-320-raph-chan.md) | [chapter-322-the-eighth-generation.md](./chapter-322-the-eighth-generation.md) <br/>
+

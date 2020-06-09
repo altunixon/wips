@@ -1,3 +1,4 @@
+[chapter-241-the-bow-of-justice.md](./chapter-241-the-bow-of-justice.md) | [chapter-243-the-conditions-for-a-duel.md](./chapter-243-the-conditions-for-a-duel.md) <br/>
 <br/>
 … The fight’s next chapter.<br/>
 Chapter 242: Denial of Justice<br/>
@@ -133,3 +134,7 @@ Itsuki pulls back his bow once more, and an arrow made of light manifests.<br/>
 But it seems it will take a while before he can shoot it.<br/>
 "I understand that nothing will change your opinion. So I will step forward as your enemy and fight you with all of my might!" (Rishia)<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-241-the-bow-of-justice.md](./chapter-241-the-bow-of-justice.md) | [chapter-243-the-conditions-for-a-duel.md](./chapter-243-the-conditions-for-a-duel.md) <br/>
+

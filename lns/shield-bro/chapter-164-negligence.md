@@ -1,3 +1,4 @@
+[chapter-163-witch.md](./chapter-163-witch.md) | [chapter-165-another-awakening.md](./chapter-165-another-awakening.md) <br/>
 <br/>
 <br/>
 Chapters until Kookie comes back to translation: 9<br/>
@@ -151,3 +152,7 @@ I don’t really care, and I kinda like seeing his depressed face, but I notice 
 "Yes." (Rafatalia)<br/>
 And that’s how we dragged Motoyasu with us, and found an Inn to stay at.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-163-witch.md](./chapter-163-witch.md) | [chapter-165-another-awakening.md](./chapter-165-another-awakening.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-215-barbarian-armor-+2.md](./chapter-215-barbarian-armor-+2.md) | [chapter-217-the-hero-of-the-shield-s-capture-walkthrough.md](./chapter-217-the-hero-of-the-shield-s-capture-walkthrough.md) <br/>
 <br/>
 Oh god.<br/>
 Chapter 216: Joint Ownership<br/>
@@ -136,3 +137,7 @@ My heartless cry echoes through the village.<br/>
 By the way, my salvation came in the form of Firo, who mustered up her courage and came to check the situation out. I now owe her one.<br/>
 I won’t say what sort of things happened to me until she came to my aid.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-215-barbarian-armor-+2.md](./chapter-215-barbarian-armor-+2.md) | [chapter-217-the-hero-of-the-shield-s-capture-walkthrough.md](./chapter-217-the-hero-of-the-shield-s-capture-walkthrough.md) <br/>
+

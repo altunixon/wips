@@ -1,3 +1,4 @@
+[chapter-357-an-undesired-return.md](./chapter-357-an-undesired-return.md) | [chapter-359-frustration.md](./chapter-359-frustration.md) <br/>
 <br/>
 I’m sorry Kookie, I already had it done when I checked the comments.<br/>
 Once Mamafumi, always Mamafumi, oh and 20 chapters left.<br/>
@@ -264,3 +265,7 @@ First, I’ll have to teach her how to read and write.<br/>
 Hmm.<br/>
 By the way, I checked the Four Holy Weapons’ Manual after that, and it showed absolutely no change.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-357-an-undesired-return.md](./chapter-357-an-undesired-return.md) | [chapter-359-frustration.md](./chapter-359-frustration.md) <br/>
+

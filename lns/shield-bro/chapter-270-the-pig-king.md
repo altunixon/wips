@@ -1,3 +1,4 @@
+[chapter-269-truth-in-darkness_C7gcha79.md](./chapter-269-truth-in-darkness_C7gcha79.md) | [chapter-271-king_kL9XNpNv.md](./chapter-271-king_kL9XNpNv.md) <br/>
 <br/>
 Chapter 270: The Pig King<br/>
 The next day.<br/>
@@ -183,3 +184,7 @@ The fact that he can ask things like this is proof.<br/>
 "Oh my! If it isn’t Father-in-Law!?" (Motoyasu)<br/>
 Aa, so this is the reason Firo quickly retreated.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-269-truth-in-darkness_C7gcha79.md](./chapter-269-truth-in-darkness_C7gcha79.md) | [chapter-271-king_kL9XNpNv.md](./chapter-271-king_kL9XNpNv.md) <br/>
+

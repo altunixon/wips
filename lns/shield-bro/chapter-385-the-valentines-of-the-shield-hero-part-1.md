@@ -1,3 +1,4 @@
+[chapter-384-the-christmas-of-the-shield-hero-conclusion.md](./chapter-384-the-christmas-of-the-shield-hero-conclusion.md) | [chapter-386-the-valentines-of-the-shield-hero-part-2.md](./chapter-386-the-valentines-of-the-shield-hero-part-2.md) <br/>
 <br/>
 ED: Sup, it’s RebelGoRound doing something for the fandom. This is my first time translating, and I’m not that good at it, so I appreciate any feedback. Thanks to Kookie and Yoraikun for the inspiration, and Hell5atan for making a backbone to check my work against.<br/>
 Also, ohmygod  you guys. I actually did one of these!<br/>
@@ -97,31 +98,7 @@ Though I’m out of character, I should do it like a Hero. I receive a lot of be
 Afterward, we continued to talk about the next measures. The accessory merchant reported on areas that are dangerous to step into and that can bring in the most profit. The thief investigated the neighborhood and made a list of dangerous items with the help of the accessory merchant’s acquaintance. Thus, the story of slave hunting and plundering steadily solidified.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1ad5989b2', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1ad5989ef',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-384-the-christmas-of-the-shield-hero-conclusion.md](./chapter-384-the-christmas-of-the-shield-hero-conclusion.md) | [chapter-386-the-valentines-of-the-shield-hero-part-2.md](./chapter-386-the-valentines-of-the-shield-hero-part-2.md) <br/>
+

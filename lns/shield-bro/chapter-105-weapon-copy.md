@@ -1,3 +1,4 @@
+[chapter-103-the-conference-of-heroes-[end].md](./chapter-103-the-conference-of-heroes-[end].md) | [chapter-106-days-on-cal-mira-island.md](./chapter-106-days-on-cal-mira-island.md) <br/>
 <br/>
 CHAPTER 105: WEAPON COPY<br/>
 That day, I went back to the inn and tried feeding ingredients into my shield. An Icon popped up.<br/>
@@ -205,3 +206,7 @@ My expectations are quite high.<br/>
 "……" (Naofumi)<br/>
 I hear a familiar voice from the market place… But I won’t turn around.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-103-the-conference-of-heroes-[end].md](./chapter-103-the-conference-of-heroes-[end].md) | [chapter-106-days-on-cal-mira-island.md](./chapter-106-days-on-cal-mira-island.md) <br/>
+

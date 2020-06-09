@@ -1,3 +1,4 @@
+[chapter-329-gleipnir-rope.md](./chapter-329-gleipnir-rope.md) | [chapter-331-the-strongest-seven-star-hero.md](./chapter-331-the-strongest-seven-star-hero.md) <br/>
 <br/>
 T/N: Not fully edited yet, so some sentences may be weird.<br/>
 Ed.Rebel: semi edited while on work break.<br/>
@@ -182,31 +183,7 @@ Raising my right hand, I catch the sword that Ren sent over.<br/>
 (Protagonist inclusive)<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1aa975cf2', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1aa975d31',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-329-gleipnir-rope.md](./chapter-329-gleipnir-rope.md) | [chapter-331-the-strongest-seven-star-hero.md](./chapter-331-the-strongest-seven-star-hero.md) <br/>
+

@@ -1,3 +1,4 @@
+[chapter-289-limited-time-offer.md](./chapter-289-limited-time-offer.md) | [chapter-291-dragon-faith.md](./chapter-291-dragon-faith.md) <br/>
 <br/>
 Crepe Tree<br/>
 "Next is Kiel, huh." (Naofumi)<br/>
@@ -243,31 +244,7 @@ Raphtalia replies while giving the Raph a sidelong glance.<br/>
 I understand it. I’d feel the same if there was a copycat who resembled me.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a8911f4a', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a8911fa2',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-289-limited-time-offer.md](./chapter-289-limited-time-offer.md) | [chapter-291-dragon-faith.md](./chapter-291-dragon-faith.md) <br/>
+

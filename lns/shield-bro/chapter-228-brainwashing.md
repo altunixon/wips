@@ -1,3 +1,4 @@
+[chapter-227-poison.md](./chapter-227-poison.md) | [chapter-229-multiple-culprits.md](./chapter-229-multiple-culprits.md) <br/>
 <br/>
 hello,everyone.Its my second chapter.this one took longer then the previous one because it had many difficult sentences and I had to proofread it.i did not do proofreading of the first one. :P .i have written japanese in front of those sentences which were confusing me or i am not sure of their translation ….Still if you find any mistake just tell me in the comments or edit it.<br/>
 CHAPTER 228: BRAINWASH<br/>
@@ -151,3 +152,7 @@ Even if Rishia became estranged here, I cannot stop her.<br/>
 We may already consider this an attack by Itsuki already.<br/>
 Don’t come with nastier methods than Ren and Motoyasu.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-227-poison.md](./chapter-227-poison.md) | [chapter-229-multiple-culprits.md](./chapter-229-multiple-culprits.md) <br/>
+

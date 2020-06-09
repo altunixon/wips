@@ -1,3 +1,4 @@
+[chapter-305-the-girl-who-became-a-shield.md](./chapter-305-the-girl-who-became-a-shield.md) | [chapter-307-funeral.md](./chapter-307-funeral.md) <br/>
 <br/>
 VS Houou Final<br/>
 The shield was very simple but it felt as warm and tender as the sunlight.<br/>
@@ -175,31 +176,7 @@ It wasn’t something shameful, I realize this now.<br/>
 More than anything… for the feelings of the girl who became my shield…I just wanted to silently cry.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a96733c0', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a96733f4',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-305-the-girl-who-became-a-shield.md](./chapter-305-the-girl-who-became-a-shield.md) | [chapter-307-funeral.md](./chapter-307-funeral.md) <br/>
+

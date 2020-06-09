@@ -1,3 +1,4 @@
+[chapter-153-even-though-you-already-understand.md](./chapter-153-even-though-you-already-understand.md) | [chapter-155-zeltburg.md](./chapter-155-zeltburg.md) <br/>
 <br/>
 I have Agreed to take Up Konjiki no Word Master, but no it will not be seeing as regular updates as Tate no Yuusha. Perhaps weekly.<br/>
 Chapter 154: Independent Nature<br/>
@@ -195,3 +196,7 @@ But I don’t think I can really help with it.<br/>
 So there hasn’t been any progress. But Rat’s skills are growing.<br/>
 The skills of the one who grants power to monsters, the Mad Alchemist.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-153-even-though-you-already-understand.md](./chapter-153-even-though-you-already-understand.md) | [chapter-155-zeltburg.md](./chapter-155-zeltburg.md) <br/>
+

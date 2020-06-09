@@ -1,3 +1,4 @@
+[chapter-303-an-unforgivable-flash.md](./chapter-303-an-unforgivable-flash.md) | [chapter-305-the-girl-who-became-a-shield.md](./chapter-305-the-girl-who-became-a-shield.md) <br/>
 <br/>
 Hey wait I just checked Baka-Tsuki, and someone registered me all the way up to 305. It’s not like I wasn’t planning on doing them, but please don’t register me.<br/>
 Chapter 304: A Price Too Great<br/>
@@ -229,3 +230,7 @@ She always wanted to be by my side.<br/>
 "Even if I lose my form, please let… me be with you." (Atlas)<br/>
 At this girl’s goal… I trembled.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-303-an-unforgivable-flash.md](./chapter-303-an-unforgivable-flash.md) | [chapter-305-the-girl-who-became-a-shield.md](./chapter-305-the-girl-who-became-a-shield.md) <br/>
+

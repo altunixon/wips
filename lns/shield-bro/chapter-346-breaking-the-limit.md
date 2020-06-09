@@ -1,3 +1,4 @@
+[chapter-345-remorse.md](./chapter-345-remorse.md) | [chapter-347-coronation.md](./chapter-347-coronation.md) <br/>
 <br/>
 Chapter 346: Breaking the Limit<br/>
 "Now then, Gaelion. I’m leaving the limit breaking Class Up to you."<br/>
@@ -200,3 +201,7 @@ That’s how it went.<br/>
 Honestly, we’re becoming quite strong.<br/>
 It seems I can count on our non-hero forces as well.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-345-remorse.md](./chapter-345-remorse.md) | [chapter-347-coronation.md](./chapter-347-coronation.md) <br/>
+

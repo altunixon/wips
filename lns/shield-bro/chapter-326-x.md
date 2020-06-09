@@ -1,3 +1,4 @@
+[chapter-325-provocation.md](./chapter-325-provocation.md) | [chapter-327-looking-aside.md](./chapter-327-looking-aside.md) <br/>
 <br/>
 Kookie wonders if she would be able to translate more chapters if she had an editor. But Kookie is too lazy to deal with applications and the hassle of actually finding someone….<br/>
 Edit: Kookie took the first volunteer and promoted them to editor. Please welcome RebelGoRound [unless you wish to use another alias?] as our new editor~~<br/>
@@ -113,31 +114,7 @@ I have to support them if anything happens.<br/>
 I decided not to lose anyone a second time.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1aa660ea1', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1aa660ed4',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-325-provocation.md](./chapter-325-provocation.md) | [chapter-327-looking-aside.md](./chapter-327-looking-aside.md) <br/>
+

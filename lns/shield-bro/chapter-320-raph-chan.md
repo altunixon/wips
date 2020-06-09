@@ -1,3 +1,4 @@
+[chapter-319-glamour-vs.-loli.md](./chapter-319-glamour-vs.-loli.md) | [chapter-321-jealousy.md](./chapter-321-jealousy.md) <br/>
 <br/>
 Raph-chan’s gender is unknown, because he/she is always referred to in a gender-neutral fashion.<br/>
 Chapter 320: Raph-chan<br/>
@@ -161,3 +162,7 @@ Looking at statistics, a large portion of our forces were unable to participate.
 The ratio of women in out village was high to begin with.<br/>
 And while the night was drawing on, we used Ren to return to the castle.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-319-glamour-vs.-loli.md](./chapter-319-glamour-vs.-loli.md) | [chapter-321-jealousy.md](./chapter-321-jealousy.md) <br/>
+

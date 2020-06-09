@@ -1,3 +1,4 @@
+[chapter-228-brainwashing.md](./chapter-228-brainwashing.md) | [chapter-230-contagion.md](./chapter-230-contagion.md) <br/>
 <br/>
 Multiple Culprits<br/>
 Ren: "Itsuki…"<br/>
@@ -163,31 +164,7 @@ In that case, walking into a trap wouldn’t be too bad.<br/>
 Naofumi: "The others-"<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a51564a0', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a51564da',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-228-brainwashing.md](./chapter-228-brainwashing.md) | [chapter-230-contagion.md](./chapter-230-contagion.md) <br/>
+

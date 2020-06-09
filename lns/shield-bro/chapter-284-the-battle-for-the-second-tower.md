@@ -1,3 +1,4 @@
+[chapter-283-pros-and-cons.md](./chapter-283-pros-and-cons.md) | [chapter-285-the-second-generation.md](./chapter-285-the-second-generation.md) <br/>
 <br/>
 Chapter 284: The Battle for the Second Tower<br/>
 Hmm? The slaves that had split off into a separate regiment are approaching the central portion as well.<br/>
@@ -159,3 +160,7 @@ That’s bothersome.<br/>
 Anyways, we lost the battle of the second tower.<br/>
 I have to admit that.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-283-pros-and-cons.md](./chapter-283-pros-and-cons.md) | [chapter-285-the-second-generation.md](./chapter-285-the-second-generation.md) <br/>
+

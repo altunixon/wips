@@ -1,3 +1,4 @@
+[chapter-277-the-new-seven-deadly-sins.md](./chapter-277-the-new-seven-deadly-sins.md) | [chapter-279-floating-sky-fortress.md](./chapter-279-floating-sky-fortress.md) <br/>
 <br/>
 I’m definitely bored, to be doing so much translating.<br/>
 Gene Modification<br/>
@@ -178,31 +179,7 @@ Raphtalia drew the sword on her back and took a stance, facing me of all things.
 "Who are you! You’re not Naofumi-sama!" (Raphtalia)<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a7eafefe', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a7eaff3f',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-277-the-new-seven-deadly-sins.md](./chapter-277-the-new-seven-deadly-sins.md) | [chapter-279-floating-sky-fortress.md](./chapter-279-floating-sky-fortress.md) <br/>
+

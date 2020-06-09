@@ -1,3 +1,4 @@
+[chapter-359-frustration.md](./chapter-359-frustration.md) | [chapter-361-an-enemy-of-an-enemy-is.md](./chapter-361-an-enemy-of-an-enemy-is.md) <br/>
 <br/>
 Kookie did 359<br/>
 Chapter 360: Choice<br/>
@@ -171,3 +172,7 @@ I’ll bet they won’t actually be of any use, but they’ll at least be of som
 "Yes." (Raphtalia)<br/>
 We muster up our courage, and plunged into the pillar of light.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-359-frustration.md](./chapter-359-frustration.md) | [chapter-361-an-enemy-of-an-enemy-is.md](./chapter-361-an-enemy-of-an-enemy-is.md) <br/>
+

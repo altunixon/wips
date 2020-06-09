@@ -1,3 +1,4 @@
+[chapter-128-a-hero-s-treatment_PR1Uu28w.md](./chapter-128-a-hero-s-treatment_PR1Uu28w.md) | [chapter-130-level-reset_Ykdk9zd2.md](./chapter-130-level-reset_Ykdk9zd2.md) <br/>
 <br/>
 Really… Each and every one of you… Is it REALLY that hard to wait for 128 to be posted? Anyways, I’m posting this now, because some people were getting passively aggressive with me.<br/>
 Chapter 129: Social Standing<br/>
@@ -128,3 +129,7 @@ But the soldiers surrounding him succeed in restraining him.<br/>
 He can’t even talk to me anymore. The Queen does good work.<br/>
 Is that man really one of the Seven Star Heroes? That’s definitely a lie.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-128-a-hero-s-treatment_PR1Uu28w.md](./chapter-128-a-hero-s-treatment_PR1Uu28w.md) | [chapter-130-level-reset_Ykdk9zd2.md](./chapter-130-level-reset_Ykdk9zd2.md) <br/>
+

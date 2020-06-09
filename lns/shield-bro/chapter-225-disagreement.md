@@ -1,3 +1,4 @@
+[chapter-224-fiance.md](./chapter-224-fiance.md) | [chapter-226-abnormality.md](./chapter-226-abnormality.md) <br/>
 <br/>
 It’s much harder learning to touch type with the on-screen keyboard, I keep making so many typos >w<<br/>
 Anyway~ Kookie is gonna do this thing where she’ll TL chapters without registering and if she finishes before someone registers it then it’ll be posted up, but if not, well it’s good practice anyways.<br/>
@@ -130,31 +131,7 @@ That was until… there was a disturbance in the neighbouring town the next day.
  Leaving those words behind, I ran to the town with Imia.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ede1a4eab7a5', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
 <br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ede1a4eab7e0',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+[chapter-224-fiance.md](./chapter-224-fiance.md) | [chapter-226-abnormality.md](./chapter-226-abnormality.md) <br/>
+

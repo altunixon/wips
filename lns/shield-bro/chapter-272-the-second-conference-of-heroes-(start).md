@@ -1,3 +1,4 @@
+[chapter-271-king_kL9XNpNv.md](./chapter-271-king_kL9XNpNv.md) | [chapter-273-the-second-conference-of-heroes-(middle).md](./chapter-273-the-second-conference-of-heroes-(middle).md) <br/>
 <br/>
 Chapter 272: The Second Conference of Heroes [Start]<br/>
 I step out of the Onsen and expose my body to the nighttime breeze. While I bask in the cool air, Ren and Motoyasu get out as well.<br/>
@@ -166,3 +167,7 @@ There’s a possibility that the magic learned depends on the individual.<br/>
 I learned Zveit Aura, but it’s not certain that Ren and Motoyasu learned the same.<br/>
 "Zveit Magic Enchant."<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-271-king_kL9XNpNv.md](./chapter-271-king_kL9XNpNv.md) | [chapter-273-the-second-conference-of-heroes-(middle).md](./chapter-273-the-second-conference-of-heroes-(middle).md) <br/>
+

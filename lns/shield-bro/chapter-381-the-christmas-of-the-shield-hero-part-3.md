@@ -1,3 +1,4 @@
+[chapter-380-the-christmas-of-the-shield-hero-part-2.md](./chapter-380-the-christmas-of-the-shield-hero-part-2.md) | [chapter-381-the-christmas-of-the-shield-hero-part-4.md](./chapter-381-the-christmas-of-the-shield-hero-part-4.md) <br/>
 <br/>
 … This translation was… how should I put it… boring. Without knowing the characters, I can’t really get very into their conversations. Oh well, I already started translating. I’ll at least finish this Christmas story. More Spoilers, more unintroduced characters. Oh, and any changes you want to make to make the dialogue more exciting will be taken into account. Ah, to those that have actually read the novel, please share any info that would help the translation.<br/>
 THE CHRISTMAS OF THE SHIELD HERO PART 3<br/>
@@ -193,3 +194,7 @@ Is this person supposed to be a bear? Is what I wanted to retort.<br/>
 Just how much can he hate the cold?<br/>
 And so, time passed.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-380-the-christmas-of-the-shield-hero-part-2.md](./chapter-380-the-christmas-of-the-shield-hero-part-2.md) | [chapter-381-the-christmas-of-the-shield-hero-part-4.md](./chapter-381-the-christmas-of-the-shield-hero-part-4.md) <br/>
+

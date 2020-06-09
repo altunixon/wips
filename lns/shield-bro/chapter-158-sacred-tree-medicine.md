@@ -1,3 +1,4 @@
+[chapter-157-purchase.md](./chapter-157-purchase.md) | [chapter-159-perfect-hidden-justice.md](./chapter-159-perfect-hidden-justice.md) <br/>
 <br/>
 Reposted with Flazeo25’s permission.<br/>
 ***By Flazeo25. Edited by Firo’s Ahoge (4 hours worth of editing o_o; I had to consult the raws at times with machine assistance so some parts may be off. In any case, enjoy! It’s a great chapter!)***<br/>
@@ -200,3 +201,7 @@ Naofumi: "I’ll perform the slave registration later."<br/>
 Slave Dealer: "As you request."<br/>
 In this way, I opted for the siblings purchase.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-157-purchase.md](./chapter-157-purchase.md) | [chapter-159-perfect-hidden-justice.md](./chapter-159-perfect-hidden-justice.md) <br/>
+

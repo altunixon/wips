@@ -1,3 +1,4 @@
+[chapter-164-negligence.md](./chapter-164-negligence.md) | [chapter-166-hatching.md](./chapter-166-hatching.md) <br/>
 <br/>
 Chapters left until Kookie will release one: 8<br/>
 Chapter 165: Another Awakening<br/>
@@ -220,3 +221,7 @@ She is to be captured on sight.<br/>
 The problem is that she’s travelling with Ren.<br/>
 And we began our escape from the clutches of the Broken Motoyasu.<br/>
 Share this:TwitterFacebookLike this:Like Loading... <br/>
+<br/>
+<br/>
+[chapter-164-negligence.md](./chapter-164-negligence.md) | [chapter-166-hatching.md](./chapter-166-hatching.md) <br/>
+

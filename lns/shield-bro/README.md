@@ -61,7 +61,7 @@
         else
             nav_nex="[Table of Contents](./toc.md)"
         fi
-        echo -e "${nav_pre} | ${nav_nex} <br/>\n$(cat $chp_now)\n${nav_pre} | ${nav_nex} <br/>\n" > "$chp_now"
+        echo -e "${nav_pre} | ${nav_nex} <br/>\n$(cat $chp_now)\n<br/>\n${nav_pre} | ${nav_nex} <br/>\n" > "$chp_now"
         nav_pre="[$chp_now](./$chp_now)"
     done
     ```

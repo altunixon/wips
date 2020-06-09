@@ -50,83 +50,45 @@ if __name__ == '__main__':
         argument_default=argparse.SUPPRESS, 
         formatter_class=RawTextHelpFormatter)
     parser.add_argument(
-        dest='url_list', 
-        nargs='*', 
-        default=[],
+        dest='url_list', nargs='*', default=[],
         help='an URL for the accumulator')
     parser.add_argument(
-        '-o', 
-        '--out-path', 
-        dest='saveto', 
-        nargs='?', 
-        default=os.path.join(os.getcwd(), 'downloads'), 
+        '-o', '--out-path', dest='saveto', nargs='?', default=os.path.join(os.getcwd(), 'downloads'), 
         help='Download to folder')
     parser.add_argument(
-        '-f', 
-        '--list-file', 
-        dest='url_file', 
-        nargs='?', 
-        default=None, 
+        '-f', '--list-file', dest='url_file', nargs='?', default=None, 
         help='List file')
     parser.add_argument(
-        '-d', 
-        '--database', 
-        dest='db_connector', 
-        nargs='?', 
-        default=None, 
+        '-d', '--database', dest='db_connector', nargs='?', default=None, 
         help='Set database connect string, default=None database is disabled')
     parser.add_argument(
-        '-b',
-        '--browser',
-        dest='browser',
-        nargs='?',
-        default='chrome',
+        '-b','--browser',dest='browser',nargs='?',default='chrome',
         help='Browser type: default=chrome (via native chromewebdriver) use firefox if needed be.')
     parser.add_argument(
-        '-c', 
-        '--check', 
-        dest='verify', 
-        action='store_true', 
+        '-c', '--check', dest='verify', action='store_true', 
         help='Force Verify image if file is not in db, by default will not verify if file exists in db or destination')
     parser.set_defaults(verify=False)
     parser.add_argument(
-        '-w',
-        '--wait',
-        dest='wait',
-        nargs='?',
-        type=int,
-        default=10,
+        '-w', '--wait', dest='wait', nargs='?', type=int, default=10,
         help='wait n seconds between downloads (default = 5 seconds).')
     parser.add_argument(
-        '-q', 
-        '--quiet', 
-        dest='verbose', 
-        action='store_false', 
+        '-q', '--quiet', dest='verbose', action='store_false', 
         help='Quiet, subdue all output print only essential info, disable delete corrupt prompt')
     parser.set_defaults(verbose=True)
     parser.add_argument(
-        '-r', 
-        '--redownload', 
-        dest='redownload', 
-        action='store_true', 
+        '-r', '--redownload', dest='redownload', action='store_true', 
         help='Redownload if possible, ignore db file status')
     parser.set_defaults(redownload=False)
     parser.add_argument(
-        '--reverse', 
-        dest='reverse_order', 
-        action='store_true', 
+        '--reverse', dest='reverse_order', action='store_true', 
         help='Revert chapter order, download oldest first')
     parser.set_defaults(reverse_order=False)
     parser.add_argument(
-        '--lazy', 
-        dest='lazy', 
-        action='store_true', 
+        '--lazy', dest='lazy', action='store_true', 
         help='Skip on first downloaded chapter, should only be used for increment downloads.')
     parser.set_defaults(lazy=False)
     parser.add_argument(
-        '--headless', 
-        dest='headless', 
-        action='store_true', 
+        '--headless', dest='headless', action='store_true', 
         help='Headless mode.')
     parser.set_defaults(headless=False)
     console_args = parser.parse_args()

@@ -119,7 +119,7 @@ Now, it is impossible to deny the possibility that it could have been left to an
 A large magic formation appears before the Spirit Turtle.<br/>
 …..I have a bad feeling about this.<br/>
 Immediately, Raphatalia and Firo are forced to the ground.<br/>
-"Gu~uuuuu" (Firo)<br/>
+"Gu\~uuuuu" (Firo)<br/>
 "Wha, What is that….." (Raphtalia)<br/>
 "What happened?" (Naofumi)<br/>
 "I-I don’t know. But my body is stuck to the ground….It’s heavy" (Raphtalia)<br/>
@@ -145,7 +145,7 @@ It’ll break as it is.<br/>
 "We’re moving, come with me." (Naofumi)<br/>
 There is no reason to continue being trampled.<br/>
 "Okay!" (Raphtalia)<br/>
-"Okay~" (Firo)<br/>
+"Okay\~" (Firo)<br/>
 "Fueee….I understand" (Rishia)<br/>
 After those three understand what is going on, we escape from being trampled by the Spirit Turtle.<br/>
 With a thud, the Spirit Turtle raises a cloud of dust.<br/>

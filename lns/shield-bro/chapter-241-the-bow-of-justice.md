@@ -131,5 +131,4 @@ His face is not one led by his own ambition. It’s not the one that only striv
 As Ren points his finger at the Bow, Itsuki answers with a bright smile.<br/>
 "Isn’t it amazing? It’s an amazing bow that I just got my hands on. Its name is the Justice Bow! It’s clearly a weapon meant for me. One shot from this bow dispels brainwashing and lets others understand me." (Itsuki)<br/>
 <br/>
-<br/> <br/>
 [chapter-240-research-material.md](./chapter-240-research-material.md) | [chapter-242-denial-of-justice.md](./chapter-242-denial-of-justice.md) <br/>

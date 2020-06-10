@@ -249,5 +249,4 @@ Was there a necessity to spread something like this around all of the Heroes?<br
 Well, like that, we cleaned up Fitoria’s house, and finished excavating the ancient ruins left by past Heroes.<br/>
 As a result, we found some good equipment, so I won’t offer any complaints.<br/>
 <br/>
-<br/> <br/>
 [chapter-350-idealism.md](./chapter-350-idealism.md) | [chapter-352-hammer-the-nail-that-sticks-out.md](./chapter-352-hammer-the-nail-that-sticks-out.md) <br/>

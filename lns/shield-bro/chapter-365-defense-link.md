@@ -200,5 +200,4 @@ Similarly, Firo seems to have grieving over my death, so she’s still half in d
 For the love of god, when I get back, I’m treated like a zombie.<br/>
 That Goddess sure likes picking a fight.<br/>
 <br/>
-<br/> <br/>
 [chapter-364-two-years.md](./chapter-364-two-years.md) | [chapter-366-paranoia-begets-paranoia.md](./chapter-366-paranoia-begets-paranoia.md) <br/>

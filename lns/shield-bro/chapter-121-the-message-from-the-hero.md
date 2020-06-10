@@ -138,5 +138,4 @@ And the Reson squad leader points deeper into the mountains.<br/>
 "SIR YES SIR" (Entire army)<br/>
 We continue to drive off the familiars and proceed to the cave the Recon Squad found.<br/>
 <br/>
-<br/> <br/>
 [chapter-120-stalling-for-time_bijd18Ub.md](./chapter-120-stalling-for-time_bijd18Ub.md) | [chapter-122-exploration.md](./chapter-122-exploration.md) <br/>

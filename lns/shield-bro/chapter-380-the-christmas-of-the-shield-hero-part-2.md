@@ -171,5 +171,4 @@ It seems like he is saying, "Don’t worry, Papa will protect you from the scary
 Ren is desperately trying to invite these two women to a Christmas Party.<br/>
 Their reactions annoyed me a bit.<br/>
 <br/>
-<br/> <br/>
 [chapter-379-the-christmas-of-the-shield-hero-part-1.md](./chapter-379-the-christmas-of-the-shield-hero-part-1.md) | [chapter-381-the-christmas-of-the-shield-hero-part-3.md](./chapter-381-the-christmas-of-the-shield-hero-part-3.md) <br/>

@@ -167,5 +167,4 @@ There’s a possibility that the magic learned depends on the individual.<br/>
 I learned Zveit Aura, but it’s not certain that Ren and Motoyasu learned the same.<br/>
 "Zveit Magic Enchant."<br/>
 <br/>
-<br/> <br/>
 [chapter-271-king_kL9XNpNv.md](./chapter-271-king_kL9XNpNv.md) | [chapter-273-the-second-conference-of-heroes-(middle).md](./chapter-273-the-second-conference-of-heroes-(middle).md) <br/>

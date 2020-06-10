@@ -168,5 +168,4 @@ Itsuki: "Metero Bow!"<br/>
 Arrows and Swords made of light head directly towards the Pope—<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-070-the-pope_ZDe2cXZt.md](./chapter-070-the-pope_ZDe2cXZt.md) | [chapter-072-wrath-shield.md](./chapter-072-wrath-shield.md) <br/>

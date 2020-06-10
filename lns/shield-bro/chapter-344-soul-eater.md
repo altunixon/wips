@@ -147,5 +147,4 @@ This must be the proof of my own madness.<br/>
 Witch’s body is burned away, and her soul is offered to the Soul Eaters.<br/>
 And like that, before my very eyes, Witch utters her true final breath.<br/>
 <br/>
-<br/> <br/>
 [chapter-343-executions.md](./chapter-343-executions.md) | [chapter-345-remorse.md](./chapter-345-remorse.md) <br/>

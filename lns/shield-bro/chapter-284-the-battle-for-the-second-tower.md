@@ -160,5 +160,4 @@ That’s bothersome.<br/>
 Anyways, we lost the battle of the second tower.<br/>
 I have to admit that.<br/>
 <br/>
-<br/> <br/>
 [chapter-283-pros-and-cons.md](./chapter-283-pros-and-cons.md) | [chapter-285-the-second-generation.md](./chapter-285-the-second-generation.md) <br/>

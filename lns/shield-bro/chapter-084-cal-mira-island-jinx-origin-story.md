@@ -189,5 +189,4 @@ I don’t care about lvling anymore, so let’s find a way to quickly make now b
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-083-magic-lore.md](./chapter-083-magic-lore.md) | [chapter-085-the-companions-of-the-spear-hero.md](./chapter-085-the-companions-of-the-spear-hero.md) <br/>

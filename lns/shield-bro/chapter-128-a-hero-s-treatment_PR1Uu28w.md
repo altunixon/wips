@@ -177,5 +177,4 @@ This would solve the Allied Force's issue, as well as the thing I thought of so 
  <br/>
 “Then― “(naofumi)
 <br/>
-<br/> <br/>
 [chapter-127-overprotective.md](./chapter-127-overprotective.md) | [chapter-129-social-standing.md](./chapter-129-social-standing.md) <br/>

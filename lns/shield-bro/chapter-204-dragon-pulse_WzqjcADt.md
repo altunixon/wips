@@ -204,5 +204,4 @@ Honestly...oh yeah this fellow is also simply levelling up fast. Seeing she's al
  <br/>
 With the trivial chatter finished for the day, I went to bed. Never would I think even in my dreams, that the embers of the problem I overlooked would become such a big fire the next morning.
 <br/>
-<br/> <br/>
 [chapter-203-the-flow-of-magic_cbp5DnZF.md](./chapter-203-the-flow-of-magic_cbp5DnZF.md) | [chapter-205-season-of-love_JDdiYB58.md](./chapter-205-season-of-love_JDdiYB58.md) <br/>

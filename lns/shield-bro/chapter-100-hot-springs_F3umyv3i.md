@@ -368,5 +368,4 @@ Raphtalia: "Haaaa, whatever.. " <br/>
 Raphtalia returned with a weary look  after just stepping out of the bath. <br/>
 By the way, after retuning I asked for the reason but, I didn't get a reply.
 <br/>
-<br/> <br/>
 [chapter-099-cal-mira-island-jinx-trending-fad-story.md](./chapter-099-cal-mira-island-jinx-trending-fad-story.md) | [chapter-101-the-conference-of-heroes-[start].md](./chapter-101-the-conference-of-heroes-[start].md) <br/>

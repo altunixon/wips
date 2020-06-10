@@ -151,5 +151,4 @@ When I look at those who were fighting before we got here, their movements have 
 It looks like monsters are appearing from areas outside of the fissure.<br/>
 It’s like they respawn the moment they’re cut down.<br/>
 <br/>
-<br/> <br/>
 [chapter-333-the-hero-of-the-shield-commands.md](./chapter-333-the-hero-of-the-shield-commands.md) | [chapter-335-united-front.md](./chapter-335-united-front.md) <br/>

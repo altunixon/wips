@@ -176,5 +176,4 @@ The one which made the criminal demi-humans affiliates or gave a bad impression 
 "Is that okay?" (Rat)<br/>
 "He was a victim. He would have gone through a lot of hardships so far. I will treat the dead politely at least." (Naofumi)<br/>
 <br/>
-<br/> <br/>
 [chapter-226-abnormality.md](./chapter-226-abnormality.md) | [chapter-228-brainwashing.md](./chapter-228-brainwashing.md) <br/>

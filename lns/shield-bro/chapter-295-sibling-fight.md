@@ -125,5 +125,4 @@ As the two sides clash, the peanut gallery holds their breath and swallows their
 "Hengen Musou Fist Skill! Tiger Break!"<br/>
 Fohl’s Chi expands. And he points his arms and fists at Atlas, releasing a skill.<br/>
 <br/>
-<br/> <br/>
 [chapter-294-collect-・-wall-・-ball.md](./chapter-294-collect-・-wall-・-ball.md) | [chapter-296-clash-of-tigers.md](./chapter-296-clash-of-tigers.md) <br/>

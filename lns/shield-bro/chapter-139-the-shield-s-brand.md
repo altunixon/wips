@@ -150,5 +150,4 @@ The Slave Dealer’s men follow him.<br/>
 … Their presence is ruining the taste.<br/>
 I have to think of some countermeasures for next time, or me having to cook will become standard practice.<br/>
 <br/>
-<br/> <br/>
 [chapter-138-same-sex-only.md](./chapter-138-same-sex-only.md) | [chapter-140-desertion-and-discovery_kA2Aj85z.md](./chapter-140-desertion-and-discovery_kA2Aj85z.md) <br/>

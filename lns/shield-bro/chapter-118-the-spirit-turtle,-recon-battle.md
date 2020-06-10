@@ -268,5 +268,4 @@ It looks like we have no choice but to attack the heart.<br/>
 Riding Firo, we withdraw from the Spirit Turtle.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-117-when-game-knowledge-betrays-you.md](./chapter-117-when-game-knowledge-betrays-you.md) | [chapter-119-strategic-countermeasures.md](./chapter-119-strategic-countermeasures.md) <br/>

@@ -144,5 +144,4 @@ I mean it’s only natural to attack from the rear with a bow.<br/>
 Well, I’ll ask Itsuki’s companions about it tomorrow.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-090-the-significance-of-personnel-exchange.md](./chapter-090-the-significance-of-personnel-exchange.md) | [chapter-092-the-sword-hero-&-my-companions.md](./chapter-092-the-sword-hero-&-my-companions.md) <br/>

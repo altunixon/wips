@@ -164,5 +164,4 @@ I address Woman 1. Her real name was Elena… I think.<br/>
 "I understand." (Woman 1)<br/>
 Elena takes a deep sigh, and begins speaking.<br/>
 <br/>
-<br/> <br/>
 [chapter-140-desertion-and-discovery_kA2Aj85z.md](./chapter-140-desertion-and-discovery_kA2Aj85z.md) | [chapter-142-the-day-the-game-ended.md](./chapter-142-the-day-the-game-ended.md) <br/>

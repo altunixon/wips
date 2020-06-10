@@ -143,5 +143,4 @@ If we keep dispelling the brainwashing, their forces will be lower than expected
 "Then we’ll head there." (Naofumi)<br/>
 Taking the soldiers with us, we head towards the Queen.<br/>
 <br/>
-<br/> <br/>
 [chapter-245-awakening.md](./chapter-245-awakening.md) | [chapter-247-the-castle-town-riot.md](./chapter-247-the-castle-town-riot.md) <br/>

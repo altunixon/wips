@@ -134,5 +134,4 @@ I believe Filo Rials had some form of pride among carriages.<br/>
 Firo holds her head high among the flock of birds.<br/>
 The others gaze at me, but… don’t stare at me like that.<br/>
 <br/>
-<br/> <br/>
 [chapter-291-dragon-faith.md](./chapter-291-dragon-faith.md) | [chapter-293-raph-of-the-raph-race.md](./chapter-293-raph-of-the-raph-race.md) <br/>

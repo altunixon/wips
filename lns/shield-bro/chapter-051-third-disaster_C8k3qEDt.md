@@ -435,5 +435,4 @@ There seems to be some stamina left over. <br/>
  <br/>
 We left the village to the volunteers and adventurers, while we rode towards the boss of the wave on Firo.
 <br/>
-<br/> <br/>
 [chapter-050-before-the-storm_GXMvWepL.md](./chapter-050-before-the-storm_GXMvWepL.md) | [chapter-052-grow-up_0zw1pBs5.md](./chapter-052-grow-up_0zw1pBs5.md) <br/>

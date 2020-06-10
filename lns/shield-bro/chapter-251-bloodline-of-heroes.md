@@ -179,5 +179,4 @@ It’s a shitty world. And I’m tired of it.<br/>
 "NOOOOOOOOOOOOOOOOOOOOOOO!" (Witch)<br/>
 Witch’s voice resounds through the castle.<br/>
 <br/>
-<br/> <br/>
 [chapter-250-promotion.md](./chapter-250-promotion.md) | [chapter-252-pleading-for-life.md](./chapter-252-pleading-for-life.md) <br/>

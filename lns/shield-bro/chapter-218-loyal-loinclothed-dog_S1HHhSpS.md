@@ -234,5 +234,4 @@ No doubt, Motoyasu being able to talk to Ren is because he can tell. <br/>
  <br/>
 I finish distributing the crepes and resume studying for the day.
 <br/>
-<br/> <br/>
 [chapter-217-the-hero-of-the-shield-s-capture-walkthrough.md](./chapter-217-the-hero-of-the-shield-s-capture-walkthrough.md) | [chapter-219-peerless-activity.md](./chapter-219-peerless-activity.md) <br/>

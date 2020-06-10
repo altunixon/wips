@@ -322,5 +322,4 @@ What an unpleasant party managed by women.<br/>
 Are real harems like that?<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-084-cal-mira-island-jinx-origin-story.md](./chapter-084-cal-mira-island-jinx-origin-story.md) | [chapter-086-murmurs.md](./chapter-086-murmurs.md) <br/>

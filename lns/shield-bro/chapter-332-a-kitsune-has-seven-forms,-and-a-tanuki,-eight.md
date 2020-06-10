@@ -161,5 +161,4 @@ When I took a step in their direction…<br/>
 "Not… yet."<br/>
 Tact’s consciousness returns, and he suddenly stands up.<br/>
 <br/>
-<br/> <br/>
 [chapter-331-the-strongest-seven-star-hero.md](./chapter-331-the-strongest-seven-star-hero.md) | [chapter-333-the-hero-of-the-shield-commands.md](./chapter-333-the-hero-of-the-shield-commands.md) <br/>

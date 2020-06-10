@@ -187,5 +187,4 @@ What’s wrong?<br/>
 Did she guess my intentions?<br/>
 It helps that Raphtalia’s so understanding.<br/>
 <br/>
-<br/> <br/>
 [chapter-274-the-second-conference-of-heroes-(end).md](./chapter-274-the-second-conference-of-heroes-(end).md) | [chapter-276-bird-competition.md](./chapter-276-bird-competition.md) <br/>

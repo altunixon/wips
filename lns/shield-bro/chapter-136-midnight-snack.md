@@ -191,5 +191,4 @@ Why is it already determined that I’m supposed to make it?<br/>
 "…Yeah, I’ve prepared it." (Naofumi)<br/>
 I distribute food among the soldiers.<br/>
 <br/>
-<br/> <br/>
 [chapter-135-edited-version_XehGmJ4C.md](./chapter-135-edited-version_XehGmJ4C.md) | [chapter-137-people-of-the-sea.md](./chapter-137-people-of-the-sea.md) <br/>

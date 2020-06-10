@@ -154,5 +154,4 @@ I don’t know, but… I guess that would be good bye.<br/>
 My thoughts of going back home, and my thoughts of staying with everyone, and answering to their feelings, intersect.<br/>
 Without me reaching an answer, the night came and went.<br/>
 <br/>
-<br/> <br/>
 [chapter-308-kirin.md](./chapter-308-kirin.md) | [chapter-310-firearms.md](./chapter-310-firearms.md) <br/>

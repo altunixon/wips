@@ -170,5 +170,4 @@ But to use Revelation level magic, is she trying to kill me?<br/>
 "…Yes, lets." (Naofumi)<br/>
 This village is dangerous. We fly in the direction of castle.<br/>
 <br/>
-<br/> <br/>
 [chapter-382-the-christmas-of-the-shield-hero-part-5.md](./chapter-382-the-christmas-of-the-shield-hero-part-5.md) | [chapter-384-the-christmas-of-the-shield-hero-conclusion.md](./chapter-384-the-christmas-of-the-shield-hero-conclusion.md) <br/>

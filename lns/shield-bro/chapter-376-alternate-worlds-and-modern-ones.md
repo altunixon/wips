@@ -289,5 +289,4 @@ Well, they’re days I look back on with joy, so it’s fine.<br/>
 From now on, I’ll give it my best at a happy life.<br/>
 While my body was being pulled in both directions, I let out a laugh.<br/>
 <br/>
-<br/> <br/>
 [chapter-375-banquet.md](./chapter-375-banquet.md) | [chapter-377-rock-valley-s-heroic-legend.md](./chapter-377-rock-valley-s-heroic-legend.md) <br/>

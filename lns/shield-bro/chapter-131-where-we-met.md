@@ -190,5 +190,4 @@ Rishia’s scream of terror fades into the distance.<br/>
 I put on a cloak and leave the tent.<br/>
 There are some other places I need to stop too.<br/>
 <br/>
-<br/> <br/>
 [chapter-130-level-reset_Ykdk9zd2.md](./chapter-130-level-reset_Ykdk9zd2.md) | [chapter-132-acquaintances.md](./chapter-132-acquaintances.md) <br/>

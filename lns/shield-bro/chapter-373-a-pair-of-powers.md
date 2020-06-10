@@ -132,5 +132,4 @@ That’s why― Raphtalia and I as we are now…. The sword and shield as a pair
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-372-the-end.md](./chapter-372-the-end.md) | [chapter-374-trust.md](./chapter-374-trust.md) <br/>

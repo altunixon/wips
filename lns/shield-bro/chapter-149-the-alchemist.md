@@ -215,5 +215,4 @@ If she’s thinking stupid things such as seeking revenge on the country or tryi
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-148-failed-creation.md](./chapter-148-failed-creation.md) | [chapter-150-favorable-discrimination.md](./chapter-150-favorable-discrimination.md) <br/>

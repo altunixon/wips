@@ -141,5 +141,4 @@ As far as it goes, Tact had prepared the shield so it seems he didn’t receive 
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-328-fenrir-force.md](./chapter-328-fenrir-force.md) | [chapter-330-an-ordinary-person.md](./chapter-330-an-ordinary-person.md) <br/>

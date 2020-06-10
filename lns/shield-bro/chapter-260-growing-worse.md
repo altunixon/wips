@@ -135,5 +135,4 @@ Unfortunately, I don’t recall an ability to neutralise intoxication.<br/>
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-259-the-chivalrous-thief.md](./chapter-259-the-chivalrous-thief.md) | [chapter-261-esper.md](./chapter-261-esper.md) <br/>

@@ -231,5 +231,4 @@ I lose my voice.<br/>
 On Tact’s arm is… a very familiar Shield.<br/>
 "Ah, you’ll probably hate dying with all of these questions on your mind, so I’ll tell you. I have the power to steal the power of the legendary weapons." (Tact)<br/>
 <br/>
-<br/> <br/>
 [chapter-311-genius.md](./chapter-311-genius.md) | [chapter-313-retreat.md](./chapter-313-retreat.md) <br/>

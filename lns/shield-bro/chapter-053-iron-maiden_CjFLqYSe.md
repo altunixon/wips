@@ -297,5 +297,4 @@ Raphtalia just catches up to me as I turn around, and Firo falls to the ground i
  <br/>
 Thus, the third wave in this world ended.
 <br/>
-<br/> <br/>
 [chapter-052-grow-up_0zw1pBs5.md](./chapter-052-grow-up_0zw1pBs5.md) | [chapter-054-farewell_vXY028GG.md](./chapter-054-farewell_vXY028GG.md) <br/>

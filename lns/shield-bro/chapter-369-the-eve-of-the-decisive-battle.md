@@ -216,5 +216,4 @@ I should find some peace of mind, and sleep for a while.<br/>
 At that time, Atlas murmured, "It’s the first time that Naofumi-sama agreed to let me sleep by his side", but that doesn’t really matter.<br/>
 Like that, the night before the battle passed by.<br/>
 <br/>
-<br/> <br/>
 [chapter-368-a-fragile-place.md](./chapter-368-a-fragile-place.md) | [chapter-370-barbarian-armor-ex.md](./chapter-370-barbarian-armor-ex.md) <br/>

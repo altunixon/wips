@@ -143,5 +143,4 @@ Gaelion finally recovers from my sudden rejection. He starts speaking.<br/>
 I don’t think this deal seems very credible.<br/>
 "Even if it’s forgotten knowledge on how to break the Lv 100 cap?" (Gaelion)<br/>
 <br/>
-<br/> <br/>
 [chapter-183-strange.md](./chapter-183-strange.md) | [chapter-188-salute.md](./chapter-188-salute.md) <br/>

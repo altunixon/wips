@@ -128,5 +128,4 @@ However, even with that, the Old Man’s eyes shine with admiration. He nods a f
 "Yeah! Firo will look forward!" (Firo)<br/>
 After looking over the blueprints with the old man, we warp back to the village.<br/>
 <br/>
-<br/> <br/>
 [chapter-254-vol.-1.md](./chapter-254-vol.-1.md) | [chapter-256-superiority-complex.md](./chapter-256-superiority-complex.md) <br/>

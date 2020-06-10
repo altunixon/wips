@@ -145,5 +145,4 @@ In close quarters, they would be at quite a disadvantage.<br/>
 Of course, I intend to take applicants from my village as well, but we definitely don’t have large enough numbers.<br/>
 So I think it’s time to deploy a new kind of monster.<br/>
 <br/>
-<br/> <br/>
 [chapter-318-strategy-meeting.md](./chapter-318-strategy-meeting.md) | [chapter-320-raph-chan.md](./chapter-320-raph-chan.md) <br/>

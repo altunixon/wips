@@ -219,5 +219,4 @@ I’ll have to make sure Taniko stays silent. <br/>
  <br/>
 That said, we rode Gaelion and set off for some levelling and bandit hunting.
 <br/>
-<br/> <br/>
 [chapter-189-secret-base.md](./chapter-189-secret-base.md) | [chapter-191-late-bloomer_MJKWAdwC.md](./chapter-191-late-bloomer_MJKWAdwC.md) <br/>

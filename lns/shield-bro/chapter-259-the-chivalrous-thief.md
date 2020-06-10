@@ -112,5 +112,4 @@ Well, the number of underworld organizations in this world merely increased by o
 (TL: Discworld, anyone?)<br/>
 By the way, the Bandit that I personally trained eventually became quite famous, but that’s another story.<br/>
 <br/>
-<br/> <br/>
 [chapter-258-gaze-at-both-sized-of-the-shield.md](./chapter-258-gaze-at-both-sized-of-the-shield.md) | [chapter-260-growing-worse.md](./chapter-260-growing-worse.md) <br/>

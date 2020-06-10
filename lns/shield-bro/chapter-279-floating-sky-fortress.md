@@ -188,5 +188,4 @@ I have nothing to offer to a fake.<br/>
 If I have time to look at that piece of garbage, I’d spend it looking for the real one.<br/>
 Following my orders, the Castle Plant sets out over the ocean. No one can follow us anymore.<br/>
 <br/>
-<br/> <br/>
 [chapter-278-gene-modification.md](./chapter-278-gene-modification.md) | [chapter-280-human-modification.md](./chapter-280-human-modification.md) <br/>

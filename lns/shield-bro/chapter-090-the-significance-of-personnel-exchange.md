@@ -147,5 +147,4 @@ E/N: He’s thinking in RPG terms, that the guy looks like a warrior/damage deal
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-089-the-birth-of-cal-mira-island-sports.md](./chapter-089-the-birth-of-cal-mira-island-sports.md) | [chapter-091-the-companions-of-the-sword-hero.md](./chapter-091-the-companions-of-the-sword-hero.md) <br/>

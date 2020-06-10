@@ -159,5 +159,4 @@ I think that Itsuki is definitely involved in this riot in one way or another.<b
 We need to be prepared for when he chooses to show himself.<br/>
 But, for now, I’m worried about what became of the village I left to Ren and Firo.<br/>
 <br/>
-<br/> <br/>
 [chapter-232-effort.md](./chapter-232-effort.md) | [chapter-234-mob-mentality.md](./chapter-234-mob-mentality.md) <br/>

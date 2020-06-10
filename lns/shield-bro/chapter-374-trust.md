@@ -403,5 +403,4 @@ An oppressing presence had left the world.<br/>
 Perhaps all life on this world had sensed it.<br/>
 Our long battle ended, and all the lifeforms in the world looked forward to a brighter tomorrow.<br/>
 <br/>
-<br/> <br/>
 [chapter-373-a-pair-of-powers.md](./chapter-373-a-pair-of-powers.md) | [chapter-375-banquet.md](./chapter-375-banquet.md) <br/>

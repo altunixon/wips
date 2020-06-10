@@ -156,5 +156,4 @@ I’ll have to Weapon Copy the Old Man’s new shield instead of buying it at th
 I follow the Slave Dealers further while being followed closely by my new slaves.<br/>
 TL: Opuscot is an anagram of Octopus. The Japanese is Kato, a anagram of Tako, the japanese word for octopus. I don’t know what Kafe is an an anagram of, so I left is the same as the original.<br/>
 <br/>
-<br/> <br/>
 [chapter-156-fulfilled-dream.md](./chapter-156-fulfilled-dream.md) | [chapter-158-sacred-tree-medicine.md](./chapter-158-sacred-tree-medicine.md) <br/>

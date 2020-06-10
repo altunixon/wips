@@ -173,5 +173,4 @@ That being said, I told his three followers to try and stay at Cal Mira Island f
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-223-aspiration-of-dedication.md](./chapter-223-aspiration-of-dedication.md) | [chapter-225-disagreement.md](./chapter-225-disagreement.md) <br/>

@@ -181,5 +181,4 @@ Continue doing your part as my convenient pawn.<br/>
 Is it a legendary weapon?  Is it one of the Seven Star Weapons? Its abilities seem to be high.<br/>
 And Rishia owes me quite a few favors.<br/>
 <br/>
-<br/> <br/>
 [chapter-244-justice-vs-justice.md](./chapter-244-justice-vs-justice.md) | [chapter-246-revolution.md](./chapter-246-revolution.md) <br/>

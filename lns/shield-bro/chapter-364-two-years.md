@@ -243,5 +243,4 @@ We were able to quickly recover Ren.<br/>
 I strengthen my resolve, and broke into the other world.<br/>
 (TL: So is he her type now?)<br/>
 <br/>
-<br/> <br/>
 [chapter-363-the-power-to-protect-everything.md](./chapter-363-the-power-to-protect-everything.md) | [chapter-365-defense-link.md](./chapter-365-defense-link.md) <br/>

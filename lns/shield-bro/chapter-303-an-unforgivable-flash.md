@@ -184,5 +184,4 @@ Where Houou was standing, is now a ball of fire as brilliant as the sun.<br/>
 And it’s still expanding. The ground below it scorches and melts. Nothing is left in its path.<br/>
 At the same time, far, far away… the flames could be seen, even from Melromark.<br/>
 <br/>
-<br/> <br/>
 [chapter-302-vs.-houou.md](./chapter-302-vs.-houou.md) | [chapter-304-a-price-too-great.md](./chapter-304-a-price-too-great.md) <br/>

@@ -184,5 +184,4 @@ And it loudly proclaims.<br/>
 "Fake~"<br/>
 "What…?"<br/>
 <br/>
-<br/> <br/>
 [chapter-280-human-modification.md](./chapter-280-human-modification.md) | [chapter-282-bio-custom.md](./chapter-282-bio-custom.md) <br/>

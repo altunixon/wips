@@ -159,5 +159,4 @@ His sleeping face was that of a man who had overcome the greatest obstacle of hi
 "Niichan will prevent Atlas from walking on the wrong path!" (Fohl)<br/>
 And the next day, they fought again.<br/>
 <br/>
-<br/> <br/>
 [chapter-265-late-night-combat.md](./chapter-265-late-night-combat.md) | [chapter-267-temporary-truce.md](./chapter-267-temporary-truce.md) <br/>

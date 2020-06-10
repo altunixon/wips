@@ -160,5 +160,4 @@ There’s no turning back for a Hero.<br/>
 While keeping his eyes locked on me, Itsuki turns his bow towards Rishia.<br/>
 And Rishia deeply bows towards me with gratitude.<br/>
 <br/>
-<br/> <br/>
 [chapter-242-denial-of-justice.md](./chapter-242-denial-of-justice.md) | [chapter-244-justice-vs-justice.md](./chapter-244-justice-vs-justice.md) <br/>

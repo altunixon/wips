@@ -236,5 +236,4 @@ Motoyasu reported back happily, but I could only wonder if that was enough.<br/>
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-288-damage-restitution.md](./chapter-288-damage-restitution.md) | [chapter-290-crepe-tree.md](./chapter-290-crepe-tree.md) <br/>

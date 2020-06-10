@@ -239,5 +239,4 @@ Melty:"Naofumi, Firo-chan, Raphtalia-san, Good luck! Have a nice day!"<br/>
 We parted from the queen, got on the carriage, and hurried to the town where the ship to Cal Mira Island is.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-080-invigoration.md](./chapter-080-invigoration.md) | [chapter-082-grave-visit.md](./chapter-082-grave-visit.md) <br/>

@@ -184,5 +184,4 @@ And she starts glaring at Taniko.<br/>
 "He’s already better!" (Taniko)<br/>
 Whatever. This is becoming a pain.<br/>
 <br/>
-<br/> <br/>
 [chapter-182-wrath-dragon.md](./chapter-182-wrath-dragon.md) | [chapter-186-a-dragon-s-rage.md](./chapter-186-a-dragon-s-rage.md) <br/>

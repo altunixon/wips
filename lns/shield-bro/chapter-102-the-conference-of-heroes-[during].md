@@ -175,5 +175,4 @@ At Motoyasu’s words, the other two nod as if this was common sense.<br/>
 Naofumi:"What is that!?"<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-101-the-conference-of-heroes-[start].md](./chapter-101-the-conference-of-heroes-[start].md) | [chapter-103-the-conference-of-heroes-[end].md](./chapter-103-the-conference-of-heroes-[end].md) <br/>

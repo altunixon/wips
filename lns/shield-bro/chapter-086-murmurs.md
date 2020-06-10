@@ -169,5 +169,4 @@ With such feelings, we finished the demon hunt and returned to the main island.<
 Compared to what I imagined would happen, it was unexpectedly decent.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-085-the-companions-of-the-spear-hero.md](./chapter-085-the-companions-of-the-spear-hero.md) | [chapter-087-the-spear-hero-&-my-companions.md](./chapter-087-the-spear-hero-&-my-companions.md) <br/>

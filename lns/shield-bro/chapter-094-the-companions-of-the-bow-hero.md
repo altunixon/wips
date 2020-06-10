@@ -242,5 +242,4 @@ Rishia:"O-Okay!"<br/>
 I gave up thinking about it, since her bumbling about was always late.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-093-tavern.md](./chapter-093-tavern.md) | [chapter-095-the-disease-of-justice.md](./chapter-095-the-disease-of-justice.md) <br/>

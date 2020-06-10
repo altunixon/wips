@@ -308,5 +308,4 @@ But it’s too late.<br/>
 "Now then, it appears that you were planning on destroying the world with your power, but that won’t be happening. From here on, it’s…" (Raphtalia)<br/>
 "The real battle." (Naofumi)<br/>
 <br/>
-<br/> <br/>
 [chapter-370-barbarian-armor-ex.md](./chapter-370-barbarian-armor-ex.md) | [chapter-372-the-end.md](./chapter-372-the-end.md) <br/>

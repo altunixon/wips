@@ -162,5 +162,4 @@ Ren looks over that exchange with a strange look on his face.<br/>
 He seems to have caught onto something.<br/>
 "Ah, Midori is the only male among the first angels that hatched. Could that be it?" (Motoyasu)<br/>
 <br/>
-<br/> <br/>
 [chapter-219-peerless-activity.md](./chapter-219-peerless-activity.md) | [chapter-221-release-time.md](./chapter-221-release-time.md) <br/>

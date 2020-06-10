@@ -212,5 +212,4 @@ We were just having a normal conversation, but it’s not like we’re allies, a
 There’s no defining rule that says the enemy of an enemy is a friend.<br/>
 There’s plenty a chance that the enemy of an enemy is but another enemy.<br/>
 <br/>
-<br/> <br/>
 [chapter-360-choice.md](./chapter-360-choice.md) | [chapter-362-immortality.md](./chapter-362-immortality.md) <br/>

@@ -219,5 +219,4 @@ I feel that there is some kind of conspiracy, but I can’t tell based on the st
 Anyway, Raphtalia’s evaluation of the Hero of the Spear dropped fatally.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-086-murmurs.md](./chapter-086-murmurs.md) | [chapter-088-intuition-and-analysis.md](./chapter-088-intuition-and-analysis.md) <br/>

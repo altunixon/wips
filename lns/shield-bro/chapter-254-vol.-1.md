@@ -174,5 +174,4 @@ I can’t let this guy into the outside world…<br/>
 Even if he’s a Hero with high combat abilities, he only listens to orders. He’s like a doll.<br/>
 I have no choice but to watch over him at my village.<br/>
 <br/>
-<br/> <br/>
 [chapter-253-yes-man.md](./chapter-253-yes-man.md) | [chapter-255-starting-point.md](./chapter-255-starting-point.md) <br/>

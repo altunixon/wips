@@ -454,5 +454,4 @@ That would also become the reason why it can't beat my rage. No matter how much 
  <br/>
 「俺は世界を救う最強の勇者なんだぁああああ！　素直に負けを認めろぉおおおおおおおおおおおおおお！」
 <br/>
-<br/> <br/>
 [chapter-194-dragon-s-sanctuary.md](./chapter-194-dragon-s-sanctuary.md) | [chapter-196-ideals-and-reality_ktBve4cy.md](./chapter-196-ideals-and-reality_ktBve4cy.md) <br/>

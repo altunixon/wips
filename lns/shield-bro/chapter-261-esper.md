@@ -183,5 +183,4 @@ If I leave it to Raphtalia, who seems strict on public morals, I think I’ll fi
 "Understood." (Raphtalia)<br/>
 And so, Raphtalia joined me in my daily routine, and I resumed my work.<br/>
 <br/>
-<br/> <br/>
 [chapter-260-growing-worse.md](./chapter-260-growing-worse.md) | [chapter-262-lab-visit.md](./chapter-262-lab-visit.md) <br/>

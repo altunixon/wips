@@ -146,5 +146,4 @@ Was Raphtalia always this overprotective？<br/>
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md](./chapter-126- v.s.-the-spirit-turtle,-the-final-showdown.md) | [chapter-128-a-hero-s-treatment_PR1Uu28w.md](./chapter-128-a-hero-s-treatment_PR1Uu28w.md) <br/>

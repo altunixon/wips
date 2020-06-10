@@ -168,5 +168,4 @@ Later, there was an exaggerated rumor going around the island……It was about 
 Is the power of the Three Heroes Church still alive?<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-092-the-sword-hero-&-my-companions.md](./chapter-092-the-sword-hero-&-my-companions.md) | [chapter-094-the-companions-of-the-bow-hero.md](./chapter-094-the-companions-of-the-bow-hero.md) <br/>

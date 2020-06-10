@@ -199,5 +199,4 @@ I guess that would be difficult.<br/>
 Gaelion lets out an evil laugh. He seems to understand that he’s no match for his rival.<br/>
 Well, like that, I ended my visit to Rat’s lab.<br/>
 <br/>
-<br/> <br/>
 [chapter-261-esper.md](./chapter-261-esper.md) | [chapter-263-surprise-inspection.md](./chapter-263-surprise-inspection.md) <br/>

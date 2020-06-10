@@ -281,5 +281,4 @@ Firo: "Yaay~!" <br/>
  <br/>
 Firo begins skipping happily.
 <br/>
-<br/> <br/>
 [chapter-045-the-results-of-peddling_FxuQnG0E.md](./chapter-045-the-results-of-peddling_FxuQnG0E.md) | [chapter-047-welcome_jp48XpM8.md](./chapter-047-welcome_jp48XpM8.md) <br/>

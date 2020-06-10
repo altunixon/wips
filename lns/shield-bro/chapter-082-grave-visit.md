@@ -181,5 +181,4 @@ If such a storm were to appear in my world, then any ship would surely sink.<br/
 After this boat trip, I am again realising this is a different world.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-081-class-up.md](./chapter-081-class-up.md) | [chapter-083-magic-lore.md](./chapter-083-magic-lore.md) <br/>

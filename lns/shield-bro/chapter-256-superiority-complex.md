@@ -120,5 +120,4 @@ It’s lecture time!<br/>
 Why does it seem like I’m giving that loinclothed dog special treatment!?<br/>
 These people… They’re way too optimistic!<br/>
 <br/>
-<br/> <br/>
 [chapter-255-starting-point.md](./chapter-255-starting-point.md) | [chapter-257-revelation.md](./chapter-257-revelation.md) <br/>

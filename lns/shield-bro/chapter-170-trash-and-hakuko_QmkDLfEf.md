@@ -273,5 +273,4 @@ I really don't want to see it in my life. <br/>
  <br/>
 It really did not matter.
 <br/>
-<br/> <br/>
 [chapter-169-weapon-shop-owner-and-apprentice.md](./chapter-169-weapon-shop-owner-and-apprentice.md) | [chapter-171-portal-shield.md](./chapter-171-portal-shield.md) <br/>

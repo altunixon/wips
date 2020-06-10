@@ -221,5 +221,4 @@ Ren’s words are colored with surprise.<br/>
 Gaelion had used his experiences ‘til now… As a Wrath Dragon and an Emperor. He managed to make a skill that blocked off the use of teleportation.<br/>
 "The game of tag ends here, Ren." (Naofumi)<br/>
 <br/>
-<br/> <br/>
 [chapter-193-the-seven-deadly-sins.md](./chapter-193-the-seven-deadly-sins.md) | [chapter-195-greed_wDn3kRcn.md](./chapter-195-greed_wDn3kRcn.md) <br/>

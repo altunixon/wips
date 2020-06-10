@@ -170,5 +170,4 @@ They tried to chase the future queen and so they were just getting what they des
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-275-revival-festival.md](./chapter-275-revival-festival.md) | [chapter-277-the-new-seven-deadly-sins.md](./chapter-277-the-new-seven-deadly-sins.md) <br/>

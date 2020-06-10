@@ -180,5 +180,4 @@ Soldier:"My apologies, we have failed……"<br/>
 A person from the magic corps reports to me.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-123-blue-hourglass.md](./chapter-123-blue-hourglass.md) | [chapter-125-possibilities.md](./chapter-125-possibilities.md) <br/>

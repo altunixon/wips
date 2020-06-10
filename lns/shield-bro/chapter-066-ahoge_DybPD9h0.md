@@ -380,5 +380,4 @@ To effortlessly toy with Firo who has the strength to kick around a dragon. <br/
 Anyway, I am looking forward to how much Firo has powered up. <br/>
 Our journey South West continues.
 <br/>
-<br/> <br/>
 [chapter-065-legend-of-the-divine-bird_e5xAmgdr.md](./chapter-065-legend-of-the-divine-bird_e5xAmgdr.md) | [chapter-067-jungle_5S09eB0a.md](./chapter-067-jungle_5S09eB0a.md) <br/>

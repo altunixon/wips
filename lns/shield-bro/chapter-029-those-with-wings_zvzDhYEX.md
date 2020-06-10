@@ -334,5 +334,4 @@ I look back at the slave trader and we trade puzzled looks. <br/>
  <br/>
 A naked blonde girl with wings extends her hand towards me.
 <br/>
-<br/> <br/>
 [chapter-028-exit-by-a-kick_NuddPzZ0.md](./chapter-028-exit-by-a-kick_NuddPzZ0.md) | [chapter-030-transformation-ability_RKBEUwHq.md](./chapter-030-transformation-ability_RKBEUwHq.md) <br/>

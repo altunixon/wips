@@ -182,5 +182,4 @@ Raphtalia and Imia had heard the chat between the old man and me.<br/>
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-147-the-flag,-again-.md](./chapter-147-the-flag,-again-.md) | [chapter-149-the-alchemist.md](./chapter-149-the-alchemist.md) <br/>

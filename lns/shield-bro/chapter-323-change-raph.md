@@ -154,5 +154,4 @@ And thus, the war began.<br/>
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-322-the-eighth-generation.md](./chapter-322-the-eighth-generation.md) | [chapter-324-the-king-of-wisdom.md](./chapter-324-the-king-of-wisdom.md) <br/>

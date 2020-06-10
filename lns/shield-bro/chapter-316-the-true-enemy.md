@@ -132,5 +132,4 @@ Upon feeling her skin, tears start forming in my eyes. I’m not even sad, so wh
 Atlas’s body changes into light, and disperses.<br/>
 I watch over the scene, and head off to reality.<br/>
 <br/>
-<br/> <br/>
 [chapter-315-spirit.md](./chapter-315-spirit.md) | [chapter-317-the-hero-of-the-cane.md](./chapter-317-the-hero-of-the-cane.md) <br/>

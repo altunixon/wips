@@ -192,5 +192,4 @@ These idiots don’t act rationally towards other people.<br/>
 "Let’s have fun later" (Naofumi)<br/>
 "YES!" (Kiel)<br/>
 <br/>
-<br/> <br/>
 [chapter-378-the-rise-of-the-shield-hero.md](./chapter-378-the-rise-of-the-shield-hero.md) | [chapter-380-the-christmas-of-the-shield-hero-part-2.md](./chapter-380-the-christmas-of-the-shield-hero-part-2.md) <br/>

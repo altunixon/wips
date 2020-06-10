@@ -170,5 +170,4 @@ Armor slowly rises to his feet.<br/>
 He’s surprisingly tough.<br/>
 "I guess it’s about time to finish this. There’s no need to keep you alive. Shall I make you regret baring your fangs at me?" (Naofumi)<br/>
 <br/>
-<br/> <br/>
 [chapter-236-demon-lord-of-the-shield.md](./chapter-236-demon-lord-of-the-shield.md) | [chapter-238-chasing-too-far.md](./chapter-238-chasing-too-far.md) <br/>

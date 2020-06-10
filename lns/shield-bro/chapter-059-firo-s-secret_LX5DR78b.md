@@ -213,5 +213,4 @@ It seems to only swell a little. <br/>
  <br/>
 Hmm......Today it seems I have had a glimpse at the strange anatomy of this bird.
 <br/>
-<br/> <br/>
 [chapter-058-wanted_BS5dSDXe.md](./chapter-058-wanted_BS5dSDXe.md) | [chapter-060-deviltry_05N8y6HU.md](./chapter-060-deviltry_05N8y6HU.md) <br/>

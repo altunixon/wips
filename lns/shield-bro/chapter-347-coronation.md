@@ -212,5 +212,4 @@ When she’s the one who instigated it, why is she crying out for help?<br/>
 "Mel-chan, do you want to run?" (Firo)<br/>
 Melty’s scream reaches everyone but the oblivious bird beside her.<br/>
 <br/>
-<br/> <br/>
 [chapter-346-breaking-the-limit.md](./chapter-346-breaking-the-limit.md) | [chapter-348-love-consultation.md](./chapter-348-love-consultation.md) <br/>

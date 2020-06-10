@@ -186,5 +186,4 @@ The Wine colored sky changes to the crimson hue of blood, and, like a door, the 
 So the world will end… in a place like this!?<br/>
 The earth rumbles before us as the entire world begins to shake.<br/>
 <br/>
-<br/> <br/>
 [chapter-353-cheat-.md](./chapter-353-cheat-.md) | [chapter-355-the-goddess-descends.md](./chapter-355-the-goddess-descends.md) <br/>

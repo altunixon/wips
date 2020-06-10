@@ -148,5 +148,4 @@ Elena sighs once more. She sits down at the reception desk with a bored expressi
 She’s really quite an easy-going person.<br/>
 And so I have failed to capture Motoyasu for now.<br/>
 <br/>
-<br/> <br/>
 [chapter-141-to-capture-the-spear-.md](./chapter-141-to-capture-the-spear-.md) | [chapter-143-monster-problem.md](./chapter-143-monster-problem.md) <br/>

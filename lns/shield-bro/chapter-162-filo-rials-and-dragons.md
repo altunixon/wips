@@ -210,5 +210,4 @@ She’s getting a little too conceited over her leg power.<br/>
 I also need to think of what jobs to give the slaves later on.<br/>
 And… the first day of peddling went by with no problems.<br/>
 <br/>
-<br/> <br/>
 [chapter-161-princess-visit.md](./chapter-161-princess-visit.md) | [chapter-163-witch.md](./chapter-163-witch.md) <br/>

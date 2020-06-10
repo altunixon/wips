@@ -253,5 +253,4 @@ But we have to at least try to get to Silt Welt by a detour route. <br/>
 We'll continue our fugitive lifestyle <br/>
 By the way, I cured the injury with a Fast Heal.
 <br/>
-<br/> <br/>
 [chapter-061-persuasion_JQ6NKR7n.md](./chapter-061-persuasion_JQ6NKR7n.md) | [chapter-063-shadow_8c8vKrni.md](./chapter-063-shadow_8c8vKrni.md) <br/>

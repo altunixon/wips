@@ -184,5 +184,4 @@ Atlas and Firo power up to match the fake.<br/>
 For them to have to double team her… perhaps it’s due to the support fire that occasionally pierces Fohl’s defenses. There’s no helping it.<br/>
 Be careful. Don’t deal any decisive blows.<br/>
 <br/>
-<br/> <br/>
 [chapter-282-bio-custom.md](./chapter-282-bio-custom.md) | [chapter-284-the-battle-for-the-second-tower.md](./chapter-284-the-battle-for-the-second-tower.md) <br/>

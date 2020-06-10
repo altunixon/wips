@@ -203,5 +203,4 @@ Witch was presented to the crowd. She had a gag on to prevent speech, and she wa
 From the look in her eyes, she hasn’t given up on life just yet. She’s glaring at me as her sworn enemy.<br/>
 Based on the direction of her glare, it seems that Raphtalia is also included on her enemy list.<br/>
 <br/>
-<br/> <br/>
 [chapter-249-complete-victory.md](./chapter-249-complete-victory.md) | [chapter-251-bloodline-of-heroes.md](./chapter-251-bloodline-of-heroes.md) <br/>

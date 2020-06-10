@@ -177,5 +177,4 @@ I explained all of that body’s working functions, so… it should be fine.<br/
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-281-life-ethics.md](./chapter-281-life-ethics.md) | [chapter-283-pros-and-cons.md](./chapter-283-pros-and-cons.md) <br/>

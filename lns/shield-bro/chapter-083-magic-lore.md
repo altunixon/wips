@@ -217,5 +217,4 @@ Shadow:"Then I’ll guide you degojaru."<br/>
 With an uneasy feeling that I can’t get rid of……I headed out.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-082-grave-visit.md](./chapter-082-grave-visit.md) | [chapter-084-cal-mira-island-jinx-origin-story.md](./chapter-084-cal-mira-island-jinx-origin-story.md) <br/>

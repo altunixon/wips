@@ -166,5 +166,4 @@ I have some grudges against this person, but he has done me enough favors to bal
 "…. I understand. I’ll tell you my story." (Ren)<br/>
 Ren sighs, and begins to speak.<br/>
 <br/>
-<br/> <br/>
 [chapter-151-camping-plant.md](./chapter-151-camping-plant.md) | [chapter-153-even-though-you-already-understand.md](./chapter-153-even-though-you-already-understand.md) <br/>

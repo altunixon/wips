@@ -265,5 +265,4 @@ First, I’ll have to teach her how to read and write.<br/>
 Hmm.<br/>
 By the way, I checked the Four Holy Weapons’ Manual after that, and it showed absolutely no change.<br/>
 <br/>
-<br/> <br/>
 [chapter-357-an-undesired-return.md](./chapter-357-an-undesired-return.md) | [chapter-359-frustration.md](./chapter-359-frustration.md) <br/>

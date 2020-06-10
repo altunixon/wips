@@ -141,5 +141,4 @@ I bet Faubley will take a while to gather their Heroes as well, so we should res
 "Understood." (Queen)<br/>
 Like that, the third of the four beasts was defeated, and the wave’s hourglass turned red once more.<br/>
 <br/>
-<br/> <br/>
 [chapter-307-funeral.md](./chapter-307-funeral.md) | [chapter-309-straying-off-course.md](./chapter-309-straying-off-course.md) <br/>

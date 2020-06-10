@@ -309,5 +309,4 @@ Firo was already half asleep. コクリコクリとしている。(I can’t rem
 Rishia id reading a book that she took out of nowhere. She is a hardworking person. <br/>
 I began compounding for the preparation of my next plan. While at it I went and checked the level of all slaves. It seems the average of the level that they raised is 15. All of their status rose as well. Judging from Raphtalia’s growth pattern, I want to raise the level of them even for those that are unsuitable to combat to at least 30.
 <br/>
-<br/> <br/>
 [chapter-135-artificial-feeding.md](./chapter-135-artificial-feeding.md) | [chapter-136-midnight-snack.md](./chapter-136-midnight-snack.md) <br/>

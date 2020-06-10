@@ -166,5 +166,4 @@ And Firo asks Itsuki with a face full doubt.<br/>
 Firo:"Hey, why did you hold back your power?"<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-095-the-disease-of-justice.md](./chapter-095-the-disease-of-justice.md) | [chapter-097-lies.md](./chapter-097-lies.md) <br/>

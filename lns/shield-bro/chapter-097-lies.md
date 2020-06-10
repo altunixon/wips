@@ -127,5 +127,4 @@ If you take away her self-control, this is what will happen.<br/>
 "Please leave it at that." (Naofumi)<br/>
 At my command, Rafatalia stares at Itsuki for one last time, and finally lets go.<br/>
 <br/>
-<br/> <br/>
 [chapter-096-the-bow-hero-&-my-companions.md](./chapter-096-the-bow-hero-&-my-companions.md) | [chapter-098-evaluation-session.md](./chapter-098-evaluation-session.md) <br/>

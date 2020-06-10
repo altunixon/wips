@@ -159,5 +159,4 @@ Motoyasu confirms that we arrived first, as he falls to his knees and places his
 —Author Note—<br/>
 By the way, one of Motoyasu’s Filo Rials is male.<br/>
 <br/>
-<br/> <br/>
 [chapter-207-race.md](./chapter-207-race.md) | [chapter-209-lust_nHz31zS6.md](./chapter-209-lust_nHz31zS6.md) <br/>

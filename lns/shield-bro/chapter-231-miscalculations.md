@@ -149,5 +149,4 @@ Nonono, the ones who drove Rishia out were you people.<br/>
 You were there–you saw everything.<br/>
 You can’t just conveniently forget that at this point in time.<br/>
 <br/>
-<br/> <br/>
 [chapter-230-contagion.md](./chapter-230-contagion.md) | [chapter-232-effort.md](./chapter-232-effort.md) <br/>

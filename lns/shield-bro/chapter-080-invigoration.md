@@ -206,5 +206,4 @@ Melty also wanted to sleep in Firo’s feathers…… I remember the teacher who
 Thus, with the queen and Melty, we head towards the Hourglass of the Dragon’s Era.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-079-dinner.md](./chapter-079-dinner.md) | [chapter-081-class-up.md](./chapter-081-class-up.md) <br/>

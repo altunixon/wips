@@ -149,5 +149,4 @@ When I said that, Melty’s face turned red, she became hysterical and left, tog
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-173-a-shield-to-protect.md](./chapter-173-a-shield-to-protect.md) | [chapter-175-ding-dong-ditch.md](./chapter-175-ding-dong-ditch.md) <br/>

@@ -206,5 +206,4 @@ Naofumi: "Yeah yeah" <br/>
  <br/>
 We played at the grassy plain till the end of the day, then returned to the hotel to prepare for the wave.
 <br/>
-<br/> <br/>
 [chapter-049-volunteers_q8MK24Z5.md](./chapter-049-volunteers_q8MK24Z5.md) | [chapter-051-third-disaster_C8k3qEDt.md](./chapter-051-third-disaster_C8k3qEDt.md) <br/>

@@ -184,5 +184,4 @@ Raising my right hand, I catch the sword that Ren sent over.<br/>
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-329-gleipnir-rope.md](./chapter-329-gleipnir-rope.md) | [chapter-331-the-strongest-seven-star-hero.md](./chapter-331-the-strongest-seven-star-hero.md) <br/>

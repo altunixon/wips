@@ -286,5 +286,4 @@ And without any tension, the zombie dragon was disposed of. <br/>
 Though, I couldn't level any skill trees with the bone and meat of the dragon. <br/>
 Still, the dragon zombie's skin and dragon's bone seem to be useful so I'll put in the wagon.
 <br/>
-<br/> <br/>
 [chapter-043-curse-series_jmkfaPy1.md](./chapter-043-curse-series_jmkfaPy1.md) | [chapter-045-the-results-of-peddling_FxuQnG0E.md](./chapter-045-the-results-of-peddling_FxuQnG0E.md) <br/>

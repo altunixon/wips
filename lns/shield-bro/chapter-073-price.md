@@ -168,5 +168,4 @@ A new attack skill, Blutopfer, was added to the Wrath Shield.<br/>
 It is strong, but the price is too great……<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-072-wrath-shield.md](./chapter-072-wrath-shield.md) | [chapter-074-the-queen.md](./chapter-074-the-queen.md) <br/>

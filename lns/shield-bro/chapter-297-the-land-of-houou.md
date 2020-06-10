@@ -144,5 +144,4 @@ I think as I proceed forward.<br/>
 It’s not like anything will happen yet.<br/>
 I think. I give a vague response to Atlas and went to go read up on our next foe.<br/>
 <br/>
-<br/> <br/>
 [chapter-296-clash-of-tigers.md](./chapter-296-clash-of-tigers.md) | [chapter-298-journal-of-the-hero.md](./chapter-298-journal-of-the-hero.md) <br/>

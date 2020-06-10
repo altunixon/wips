@@ -183,5 +183,4 @@ I give out orders and prepare for battle.<br/>
 Firo starts running at full speed. We begin our assault on the Spirit Turtle.<br/>
 Boss Battle: The Spirit Turtle<br/>
 <br/>
-<br/> <br/>
 [chapter-116-blue-sand-sound_yKxDvt01.md](./chapter-116-blue-sand-sound_yKxDvt01.md) | [chapter-118-the-spirit-turtle,-recon-battle.md](./chapter-118-the-spirit-turtle,-recon-battle.md) <br/>

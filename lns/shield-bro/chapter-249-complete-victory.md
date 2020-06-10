@@ -137,5 +137,4 @@ That metaphor is a bit questionable…<br/>
 Now then, what will the Queen do?<br/>
 Will she execute her when this all calms down? I pray for the day her head falls from her neck.<br/>
 <br/>
-<br/> <br/>
 [chapter-248-raising-an-army.md](./chapter-248-raising-an-army.md) | [chapter-250-promotion.md](./chapter-250-promotion.md) <br/>

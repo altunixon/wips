@@ -389,5 +389,4 @@ Because Taniko was here, he whispered near my ear while acting playfully. <br/>
  <br/>
 「ガキの言葉に怖気付いたな！　このヘタレ竜が！」
 <br/>
-<br/> <br/>
 [chapter-195-greed_wDn3kRcn.md](./chapter-195-greed_wDn3kRcn.md) | [chapter-197-flash.md](./chapter-197-flash.md) <br/>

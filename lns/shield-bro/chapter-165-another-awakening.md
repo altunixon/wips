@@ -221,5 +221,4 @@ She is to be captured on sight.<br/>
 The problem is that she’s travelling with Ren.<br/>
 And we began our escape from the clutches of the Broken Motoyasu.<br/>
 <br/>
-<br/> <br/>
 [chapter-164-negligence.md](./chapter-164-negligence.md) | [chapter-166-hatching.md](./chapter-166-hatching.md) <br/>

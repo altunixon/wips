@@ -299,5 +299,4 @@ The second princess will be the key that leads us to victory. <br/>
 If we lose her we are done. <br/>
 I covered the knights who fainted in the forest and changed our direction to Silt Welt while staying cautious.
 <br/>
-<br/> <br/>
 [chapter-056-shield-demon_GkTSr9wp.md](./chapter-056-shield-demon_GkTSr9wp.md) | [chapter-058-wanted_BS5dSDXe.md](./chapter-058-wanted_BS5dSDXe.md) <br/>

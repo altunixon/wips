@@ -310,5 +310,4 @@ I still think she's some noble's daughter. <br/>
  <br/>
 Thus, I somehow became embroiled in a ridiculous conspiracy.
 <br/>
-<br/> <br/>
 [chapter-055-departure_ThPHwPzH.md](./chapter-055-departure_ThPHwPzH.md) | [chapter-057-the-church-of-the-three-heroes_fxg8m967.md](./chapter-057-the-church-of-the-three-heroes_fxg8m967.md) <br/>

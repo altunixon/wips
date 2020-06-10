@@ -269,5 +269,4 @@ I feel like something strangely annoying happened. <br/>
 "Okay~" <br/>
 "Uh huh."
 <br/>
-<br/> <br/>
 [chapter-063-shadow_8c8vKrni.md](./chapter-063-shadow_8c8vKrni.md) | [chapter-065-legend-of-the-divine-bird_e5xAmgdr.md](./chapter-065-legend-of-the-divine-bird_e5xAmgdr.md) <br/>

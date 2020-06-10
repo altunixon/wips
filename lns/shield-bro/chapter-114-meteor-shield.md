@@ -204,5 +204,4 @@ Naofumi:"Yeah, I’ll be relying on you."<br/>
 Thus we left the weapon shop.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-113-a-way-to-become-stronger.md](./chapter-113-a-way-to-become-stronger.md) | [chapter-115-the-curiosity-of-the-weapon-shop-owner.md](./chapter-115-the-curiosity-of-the-weapon-shop-owner.md) <br/>

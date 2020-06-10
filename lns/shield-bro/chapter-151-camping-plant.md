@@ -118,5 +118,4 @@ I had completely forgotten.<br/>
 "I wonder." (Naofumi)<br/>
 I think about how to produce a medicine generating Bioplant as I call Firo over. I get on the Carriage and set out for the neighboring village.<br/>
 <br/>
-<br/> <br/>
 [chapter-150-favorable-discrimination.md](./chapter-150-favorable-discrimination.md) | [chapter-152-business.md](./chapter-152-business.md) <br/>

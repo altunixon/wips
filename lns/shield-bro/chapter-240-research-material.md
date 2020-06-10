@@ -163,5 +163,4 @@ Did he lose hope and come crying to Itsuki for help?<br/>
 Then why is Itsuki in a test tube?<br/>
 "Now awaken! It’s time to annihilate the Demon Lord of the Shield!" (Armor)<br/>
 <br/>
-<br/> <br/>
 [chapter-239-opportunity.md](./chapter-239-opportunity.md) | [chapter-241-the-bow-of-justice.md](./chapter-241-the-bow-of-justice.md) <br/>

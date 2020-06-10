@@ -210,5 +210,4 @@ Ah, did he subconsciously look over that side of her and develop a fear of women
 "Naofumi-sama, please decide whether you’re supporting him or striking fear into his heart." (Raphtalia)<br/>
 And like always, Raphtalia offers a retort.<br/>
 <br/>
-<br/> <br/>
 [chapter-348-love-consultation.md](./chapter-348-love-consultation.md) | [chapter-350-idealism.md](./chapter-350-idealism.md) <br/>

@@ -189,5 +189,4 @@ I should handle this with caution.<br/>
 "I won’t run from my crimes anymore. If I am to be executed for my crimes relating to the Spirit Turtle, then I will gladly present my neck. But, I am to be forgiven, then Welt, Bakter, Terishia, Fauly, I will fight to achieve the peaceful world my four comrades wished for. That’s all I want now." (Ren)<br/>
 Ren says, as he begins to do pushups.<br/>
 <br/>
-<br/> <br/>
 [chapter-199-the-morning-of-the-shield-hero.md](./chapter-199-the-morning-of-the-shield-hero.md) | [chapter-201-trash-and-atlas.md](./chapter-201-trash-and-atlas.md) <br/>

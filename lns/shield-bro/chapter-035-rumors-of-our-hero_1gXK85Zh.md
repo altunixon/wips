@@ -326,5 +326,4 @@ I continuously ponder that question in my head. <br/>
  <br/>
 Oh well, such are the results of two weeks.
 <br/>
-<br/> <br/>
 [chapter-034-journey-on-carriage_3YtuVrta.md](./chapter-034-journey-on-carriage_3YtuVrta.md) | [chapter-036-to-take-everything-but-your-life_bBAKPpja.md](./chapter-036-to-take-everything-but-your-life_bBAKPpja.md) <br/>

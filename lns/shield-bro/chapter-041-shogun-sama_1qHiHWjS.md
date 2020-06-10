@@ -240,5 +240,4 @@ As for what will happen to the village? That's a different story. <br/>
 It seems that my true identity was revealed, but because the small neighbouring country was saved from famine, the residents weren't bothered by it. <br/>
 Additionally, due to the large amount of medical herbs acquired here, it seems an epidemic was prevented in the east district after we decided to sell there.
 <br/>
-<br/> <br/>
 [chapter-040-selective-breeding_pH9VZP9v.md](./chapter-040-selective-breeding_pH9VZP9v.md) | [chapter-042-the-village-of-plague_4SqRZHzS.md](./chapter-042-the-village-of-plague_4SqRZHzS.md) <br/>

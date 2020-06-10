@@ -286,5 +286,4 @@ The Spirit Turtle's stomach drew nearer second by second, as the ceiling was low
 Filo changed her course midway using a high speed movement, turned her back and escaped from the front, dodging earthquakes by leaping over them and changed direction as she landed. <br/>
 And with a huge leap, she jumped onto the Spirit Turtle's shell.
 <br/>
-<br/> <br/>
 [chapter-119-strategic-countermeasures.md](./chapter-119-strategic-countermeasures.md) | [chapter-121-the-message-from-the-hero.md](./chapter-121-the-message-from-the-hero.md) <br/>

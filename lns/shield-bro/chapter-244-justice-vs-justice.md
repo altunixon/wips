@@ -158,5 +158,4 @@ She even managed to thwart an execution device… Rishia’s growth is beginning
 Excluding Motoyasu, She’s probably the strongest out of all my subordinates right now.<br/>
 But, perhaps Raphtalia can enhance herself this much as well.<br/>
 <br/>
-<br/> <br/>
 [chapter-243-the-conditions-for-a-duel.md](./chapter-243-the-conditions-for-a-duel.md) | [chapter-245-awakening.md](./chapter-245-awakening.md) <br/>

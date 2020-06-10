@@ -875,5 +875,4 @@ And while exchanging complaints and idle chatter, we teleported to the village w
 　と、嫌味と雑談を交えながら、気絶した錬を俺達は村へと輸送したのだった。 <br/>
 　この後、城へ連行するのかは知らないが、錬の意識が戻らないと話にならない。
 <br/>
-<br/> <br/>
 [chapter-197-flash.md](./chapter-197-flash.md) | [chapter-199-the-morning-of-the-shield-hero.md](./chapter-199-the-morning-of-the-shield-hero.md) <br/>

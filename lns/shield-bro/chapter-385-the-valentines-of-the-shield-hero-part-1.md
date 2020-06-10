@@ -99,5 +99,4 @@ Afterward, we continued to talk about the next measures. The accessory merchant 
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-384-the-christmas-of-the-shield-hero-conclusion.md](./chapter-384-the-christmas-of-the-shield-hero-conclusion.md) | [chapter-386-the-valentines-of-the-shield-hero-part-2.md](./chapter-386-the-valentines-of-the-shield-hero-part-2.md) <br/>

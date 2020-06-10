@@ -201,5 +201,4 @@ Shit! To bring out something so troublesome. <br/>
 If we can overcome this, then our counter-attack will begin. <br/>
 Right now is a crucial moment.
 <br/>
-<br/> <br/>
 [chapter-069-judgement_eM507cQA.md](./chapter-069-judgement_eM507cQA.md) | [chapter-071-replica.md](./chapter-071-replica.md) <br/>

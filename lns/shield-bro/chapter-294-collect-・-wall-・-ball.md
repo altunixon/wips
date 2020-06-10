@@ -145,5 +145,4 @@ She doesn’t have any delegated position, but she’s quite powerful in battle.
 Though, she’s constantly bound to her Crepe Tree.<br/>
 When I asked her if she would participate in the wave, she was overflowing with eagerness.<br/>
 <br/>
-<br/> <br/>
 [chapter-293-raph-of-the-raph-race.md](./chapter-293-raph-of-the-raph-race.md) | [chapter-295-sibling-fight.md](./chapter-295-sibling-fight.md) <br/>

@@ -210,5 +210,4 @@ Trash’s probably seen her before, but he shouldn’t know about her ability.<b
 "Getting them here now is… impossible. Come with me." (Naofumi)<br/>
 I walked away to introduce her to Trash.<br/>
 <br/>
-<br/> <br/>
 [chapter-317-the-hero-of-the-cane.md](./chapter-317-the-hero-of-the-cane.md) | [chapter-319-glamour-vs.-loli.md](./chapter-319-glamour-vs.-loli.md) <br/>

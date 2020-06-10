@@ -157,5 +157,4 @@ Basking in luxury, moving the world to her pleasure, thinking of men as nothing 
 01:01<br/>
 Ku… every second, more and more is shaved off.<br/>
 <br/>
-<br/> <br/>
 [chapter-352-hammer-the-nail-that-sticks-out.md](./chapter-352-hammer-the-nail-that-sticks-out.md) | [chapter-354-a-sky-dyed-crimson.md](./chapter-354-a-sky-dyed-crimson.md) <br/>

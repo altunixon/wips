@@ -161,5 +161,4 @@ C Magic Snatch… It probably lets me steal magic power. C Gravity Shot seems to
 Tenacity Enhancement? If this were a game, it would increase my endurance.<br/>
 There are still plenty of shields to examine. I’ll look through them later.<br/>
 <br/>
-<br/> <br/>
 [chapter-132-acquaintances.md](./chapter-132-acquaintances.md) | [chapter-134-balloon-shield.md](./chapter-134-balloon-shield.md) <br/>

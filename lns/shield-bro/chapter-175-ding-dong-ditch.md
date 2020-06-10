@@ -268,5 +268,4 @@ Gaelion seems overjoyed. He flies straight at me and begins licking my face.<br/
 It’s nice how pure he is. Unlike that talking bird.<br/>
 And after playing with Gaelion for a while, I went back to my work.<br/>
 <br/>
-<br/> <br/>
 [chapter-174-melty-s-job.md](./chapter-174-melty-s-job.md) | [chapter-176-wimp.md](./chapter-176-wimp.md) <br/>

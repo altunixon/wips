@@ -176,5 +176,4 @@ Gaelion is quite a curious one. He’s also easy to deal with. Firo was also lik
 Is what… I thought.<br/>
 But I never thought this would be the trigger for that big incident.<br/>
 <br/>
-<br/> <br/>
 [chapter-175-ding-dong-ditch.md](./chapter-175-ding-dong-ditch.md) | [chapter-177-level-drain_0nriYQPF.md](./chapter-177-level-drain_0nriYQPF.md) <br/>

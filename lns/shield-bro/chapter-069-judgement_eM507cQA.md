@@ -200,5 +200,4 @@ This is...... <br/>
  <br/>
 "Oh dear oh dear, How could I forget to introduce myself. I am the pope of the Church of Three Heroes."
 <br/>
-<br/> <br/>
 [chapter-068-battle-between-spear-and-shield_1A9dGgdm.md](./chapter-068-battle-between-spear-and-shield_1A9dGgdm.md) | [chapter-070-the-pope_ZDe2cXZt.md](./chapter-070-the-pope_ZDe2cXZt.md) <br/>

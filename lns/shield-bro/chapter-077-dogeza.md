@@ -156,5 +156,4 @@ Queen:"Don’t you have the memory of having done so yourself? It was on the thi
 Naofumi:"What?"<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-076-trash-and-bitch.md](./chapter-076-trash-and-bitch.md) | [chapter-078-agreement.md](./chapter-078-agreement.md) <br/>

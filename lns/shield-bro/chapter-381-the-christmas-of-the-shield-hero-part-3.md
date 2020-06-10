@@ -194,5 +194,4 @@ Is this person supposed to be a bear? Is what I wanted to retort.<br/>
 Just how much can he hate the cold?<br/>
 And so, time passed.<br/>
 <br/>
-<br/> <br/>
 [chapter-380-the-christmas-of-the-shield-hero-part-2.md](./chapter-380-the-christmas-of-the-shield-hero-part-2.md) | [chapter-381-the-christmas-of-the-shield-hero-part-4.md](./chapter-381-the-christmas-of-the-shield-hero-part-4.md) <br/>

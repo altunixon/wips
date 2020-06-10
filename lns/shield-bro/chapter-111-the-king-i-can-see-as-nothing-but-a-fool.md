@@ -259,5 +259,4 @@ I believe the Old Man said he would take custom orders.<br/>
 The Queen leads us to the warehouse building next to the castle.<br/>
 TL: Excuse my Photoshop Skills<br/>
 <br/>
-<br/> <br/>
 [chapter-110-a-girl-full-of-joy.md](./chapter-110-a-girl-full-of-joy.md) | [chapter-112-warehouse.md](./chapter-112-warehouse.md) <br/>

@@ -371,5 +371,4 @@ Bandit searching lasted only 30 minutes. I became extremely uneasy about the fut
  <br/>
 　盗賊探しをして僅か三十分。俺は今回の任務の先行きが非常に不安になるのだった。
 <br/>
-<br/> <br/>
 [chapter-191-late-bloomer_MJKWAdwC.md](./chapter-191-late-bloomer_MJKWAdwC.md) | [chapter-193-the-seven-deadly-sins.md](./chapter-193-the-seven-deadly-sins.md) <br/>

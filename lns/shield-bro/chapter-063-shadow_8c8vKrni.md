@@ -264,5 +264,4 @@ I cannot just view this situation as black and white any more. <br/>
 We have taken a step from escaping abroad aimlessly. <br/>
 Now we will set a course towards the south west.
 <br/>
-<br/> <br/>
 [chapter-062-common-destiny_mB8F3aGe.md](./chapter-062-common-destiny_mB8F3aGe.md) | [chapter-064-names_xZ7KSys7.md](./chapter-064-names_xZ7KSys7.md) <br/>

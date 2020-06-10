@@ -179,5 +179,4 @@ Rishia begins breathing slowly, and reads through the list.<br/>
 The light begins to converge on her.<br/>
 "I’ve made my decision." (Rishia)<br/>
 <br/>
-<br/> <br/>
 [chapter-143-monster-problem.md](./chapter-143-monster-problem.md) | [chapter-145-report.md](./chapter-145-report.md) <br/>

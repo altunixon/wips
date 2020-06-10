@@ -227,5 +227,4 @@ thank you for all of your votes.<br/>
 Translator Note:<br/>
 What the hell, those results were real!?<br/>
 <br/>
-<br/> <br/>
 [chapter-276-bird-competition.md](./chapter-276-bird-competition.md) | [chapter-278-gene-modification.md](./chapter-278-gene-modification.md) <br/>

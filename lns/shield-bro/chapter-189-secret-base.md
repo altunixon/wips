@@ -223,5 +223,4 @@ What’s with this scene?<br/>
 (TL: I don’t really get this line, please help. Perhaps I’m just sleepy (Knowing Naofumi, it’s probably a pop culture reference, but…)…誰だれだ？　俺おれの事ことをブーメランとか言いった奴やつは？)<br/>
 Anyways, like that we were able to obtain the Dragon’s protection for Class Ups.<br/>
 <br/>
-<br/> <br/>
 [chapter-188-salute.md](./chapter-188-salute.md) | [chapter-190-formal-request_UQYxgy4C.md](./chapter-190-formal-request_UQYxgy4C.md) <br/>

@@ -165,5 +165,4 @@ Firo dodged Motoyasu's Meteor Spear by a paper-thin margin and kicked Motoyasu's
  <br/>
 "Gu...Firo-tan's kick, I'm so happy..." (Motoyasu)
 <br/>
-<br/> <br/>
 [chapter-209-lust_nHz31zS6.md](./chapter-209-lust_nHz31zS6.md) | [chapter-211-infighting.md](./chapter-211-infighting.md) <br/>

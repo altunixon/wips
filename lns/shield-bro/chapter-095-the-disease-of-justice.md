@@ -148,5 +148,4 @@ Once I get back, I have to meet with the other heroes.<br/>
 I guess I’ll ask Motoyasu or Ren at that time.<br/>
 AUTHOR NOTE (TL: Yes, the actual author): Note, The mental state Naofumi is referring to is called Dirty Harry Syndrome, I did not write it as it is the name of a movie.<br/>
 <br/>
-<br/> <br/>
 [chapter-094-the-companions-of-the-bow-hero.md](./chapter-094-the-companions-of-the-bow-hero.md) | [chapter-096-the-bow-hero-&-my-companions.md](./chapter-096-the-bow-hero-&-my-companions.md) <br/>

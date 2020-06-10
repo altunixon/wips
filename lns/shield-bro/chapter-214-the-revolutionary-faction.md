@@ -142,5 +142,4 @@ The Queen seems satisfied with the explanation as she nods.<br/>
 But still. Even when a calamity is hitting the world, the people prepare for a rebellion.<br/>
 Just how rotten can this world be?<br/>
 <br/>
-<br/> <br/>
 [chapter-213-nap.md](./chapter-213-nap.md) | [chapter-215-barbarian-armor-+2.md](./chapter-215-barbarian-armor-+2.md) <br/>

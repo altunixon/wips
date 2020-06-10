@@ -160,5 +160,4 @@ Is the Hero of the Shield really that sought after?<br/>
 Quit it already.<br/>
 Next, we went into the actual discussions. The negotiations with the country Houou was sealed in were already completed. We’ll arrive five days before the scheduled time, have the country and Shadows look for the location, and have the other Heroes confirm it. For those five days, we would pound the ability to coordinate attacks into the newly allied armies.<br/>
 <br/>
-<br/> <br/>
 [chapter-290-crepe-tree.md](./chapter-290-crepe-tree.md) | [chapter-292-a-new-sort-of-carriage.md](./chapter-292-a-new-sort-of-carriage.md) <br/>

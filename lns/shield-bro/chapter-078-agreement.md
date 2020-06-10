@@ -204,5 +204,4 @@ Raphtalia holds my hand as I watch the conversation.<br/>
 I clench her hand silently and understood without turning around.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-077-dogeza.md](./chapter-077-dogeza.md) | [chapter-079-dinner.md](./chapter-079-dinner.md) <br/>

@@ -171,5 +171,4 @@ I have the queen’s funding so gold should be no problem.<br/>
 Anyway, Including Raphtalia and Firo, we started strengthening ourselves.<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-105-weapon-copy.md](./chapter-105-weapon-copy.md) | [chapter-107-cal-mira-island-end.md](./chapter-107-cal-mira-island-end.md) <br/>

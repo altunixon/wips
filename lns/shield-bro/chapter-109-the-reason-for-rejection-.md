@@ -186,5 +186,4 @@ And that’s why I can say for sure…<br/>
 "You will become strong no matter what." (Naofumi)<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-108-false-accusations,-again.md](./chapter-108-false-accusations,-again.md) | [chapter-110-a-girl-full-of-joy.md](./chapter-110-a-girl-full-of-joy.md) <br/>

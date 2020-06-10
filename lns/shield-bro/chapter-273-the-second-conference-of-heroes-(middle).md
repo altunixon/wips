@@ -148,5 +148,4 @@ Itsuki held out something that looked like a card.<br/>
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-272-the-second-conference-of-heroes-(start).md](./chapter-272-the-second-conference-of-heroes-(start).md) | [chapter-274-the-second-conference-of-heroes-(end).md](./chapter-274-the-second-conference-of-heroes-(end).md) <br/>

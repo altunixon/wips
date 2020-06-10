@@ -141,5 +141,4 @@ Well, it’s not like he’s repenting anything. He probably just wants to show 
 "After that, how should I say this. Up until that point, things proceeded relatively smoothly, but after that, the Hero of the Spear began to take increasingly troublesome action regarding the Filo Rials within the castle…" (Queen)<br/>
 "Ha?" (Naofumi)<br/>
 <br/>
-<br/> <br/>
 [chapter-212-love-hunter_XjQMyz4y.md](./chapter-212-love-hunter_XjQMyz4y.md) | [chapter-214-the-revolutionary-faction.md](./chapter-214-the-revolutionary-faction.md) <br/>

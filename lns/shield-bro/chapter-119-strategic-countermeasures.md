@@ -186,5 +186,4 @@ If she gets over it, she will mature mentally.<br/>
 The first thing she must change is her own heart.<br/>
 Rafatalia was like this at the beginning as well. It’s fine if she just progresses slowly.<br/>
 <br/>
-<br/> <br/>
 [chapter-118-the-spirit-turtle,-recon-battle.md](./chapter-118-the-spirit-turtle,-recon-battle.md) | [chapter-120-stalling-for-time_bijd18Ub.md](./chapter-120-stalling-for-time_bijd18Ub.md) <br/>

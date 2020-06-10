@@ -149,5 +149,4 @@ What is it, you ask?<br/>
 Witch, and a few women, enter the stage.<br/>
 (TL: I dunno, I’m just a lowly translator you know.)<br/>
 <br/>
-<br/> <br/>
 [chapter-342-interworldly-exchange.md](./chapter-342-interworldly-exchange.md) | [chapter-344-soul-eater.md](./chapter-344-soul-eater.md) <br/>

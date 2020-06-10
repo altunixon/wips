@@ -129,5 +129,4 @@ The blades edge was basked in a red light.<br/>
 A dark crimson shockwave shot towards the giant Dragon Emperess.<br/>
 Yeah, no one here seems to need my help.<br/>
 <br/>
-<br/> <br/>
 [chapter-326-x.md](./chapter-326-x.md) | [chapter-328-fenrir-force.md](./chapter-328-fenrir-force.md) <br/>

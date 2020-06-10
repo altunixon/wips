@@ -233,5 +233,4 @@ That reminds me... I heard a rumour about a famine up north. I should go sell th
 Naofumi: "Let's depart for the north." <br/>
 Firo: "Okay~!"
 <br/>
-<br/> <br/>
 [chapter-039-plant-invasion_VKVLsf2d.md](./chapter-039-plant-invasion_VKVLsf2d.md) | [chapter-041-shogun-sama_1qHiHWjS.md](./chapter-041-shogun-sama_1qHiHWjS.md) <br/>

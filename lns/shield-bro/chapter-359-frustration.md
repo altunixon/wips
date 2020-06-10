@@ -158,5 +158,4 @@ I also wondered whether there were games or stories that were similar but the re
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-358-returning-home.md](./chapter-358-returning-home.md) | [chapter-360-choice.md](./chapter-360-choice.md) <br/>

@@ -202,5 +202,4 @@ These siblings really are troublesome.<br/>
 Though I say that…<br/>
 To want to become my shield… what a strange child.<br/>
 <br/>
-<br/> <br/>
 [chapter-172-training.md](./chapter-172-training.md) | [chapter-174-melty-s-job.md](./chapter-174-melty-s-job.md) <br/>

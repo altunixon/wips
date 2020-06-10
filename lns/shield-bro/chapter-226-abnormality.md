@@ -179,5 +179,4 @@ The Caterpilland came back, completely covered in wounds.<br/>
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-225-disagreement.md](./chapter-225-disagreement.md) | [chapter-227-poison.md](./chapter-227-poison.md) <br/>

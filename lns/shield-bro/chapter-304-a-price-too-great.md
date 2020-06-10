@@ -230,5 +230,4 @@ She always wanted to be by my side.<br/>
 "Even if I lose my form, please let… me be with you." (Atlas)<br/>
 At this girl’s goal… I trembled.<br/>
 <br/>
-<br/> <br/>
 [chapter-303-an-unforgivable-flash.md](./chapter-303-an-unforgivable-flash.md) | [chapter-305-the-girl-who-became-a-shield.md](./chapter-305-the-girl-who-became-a-shield.md) <br/>

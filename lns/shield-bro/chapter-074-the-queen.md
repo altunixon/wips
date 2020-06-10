@@ -234,5 +234,4 @@ The smile has a strong will mixed in.<br/>
 (Tl note: Auckley = trashking for those who forgot.)<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-073-price.md](./chapter-073-price.md) | [chapter-075-sermon.md](./chapter-075-sermon.md) <br/>

@@ -133,5 +133,4 @@ When it became night, due to weariness or something, I came to be annoyed that R
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-201-trash-and-atlas.md](./chapter-201-trash-and-atlas.md) | [chapter-203-the-flow-of-magic_cbp5DnZF.md](./chapter-203-the-flow-of-magic_cbp5DnZF.md) <br/>

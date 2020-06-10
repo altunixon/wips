@@ -161,5 +161,4 @@ It’s this. This.<br/>
 Once you appear to save someone from crisis, this is what you’re supposed to get…<br/>
 I appraise the situation satisfyingly, as I felt relieved having returned to this world.<br/>
 <br/>
-<br/> <br/>
 [chapter-366-paranoia-begets-paranoia.md](./chapter-366-paranoia-begets-paranoia.md) | [chapter-368-a-fragile-place.md](./chapter-368-a-fragile-place.md) <br/>

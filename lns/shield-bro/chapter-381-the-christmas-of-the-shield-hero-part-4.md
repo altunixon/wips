@@ -213,5 +213,4 @@ On that night, the villagers brought ingredients to the shared kitchen, and I co
 And like that, the day ended.<br/>
 Oh yes, and Firo did indeed end up singing the Hymns<br/>
 <br/>
-<br/> <br/>
 [chapter-381-the-christmas-of-the-shield-hero-part-3.md](./chapter-381-the-christmas-of-the-shield-hero-part-3.md) | [chapter-382-the-christmas-of-the-shield-hero-part-5.md](./chapter-382-the-christmas-of-the-shield-hero-part-5.md) <br/>

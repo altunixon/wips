@@ -176,5 +176,4 @@ Everybody who saw or heard this message, regardless of social position all react
 """What!?"""<br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-075-sermon.md](./chapter-075-sermon.md) | [chapter-077-dogeza.md](./chapter-077-dogeza.md) <br/>

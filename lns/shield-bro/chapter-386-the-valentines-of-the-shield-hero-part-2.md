@@ -177,5 +177,4 @@ Gentleman thief opened his mouth and believe such.<br/>
 <br/>
 <br/>
 <br/>
-<br/> <br/>
 [chapter-385-the-valentines-of-the-shield-hero-part-1.md](./chapter-385-the-valentines-of-the-shield-hero-part-1.md) | [Table of Contents](./toc.md) <br/>

@@ -316,5 +316,4 @@ The Rider Suit changes to look like a Jet-Black Dragon. <br/>
  <br/>
 And as compensation, a black shadow clouds my view......
 <br/>
-<br/> <br/>
 [chapter-051-third-disaster_C8k3qEDt.md](./chapter-051-third-disaster_C8k3qEDt.md) | [chapter-053-iron-maiden_CjFLqYSe.md](./chapter-053-iron-maiden_CjFLqYSe.md) <br/>

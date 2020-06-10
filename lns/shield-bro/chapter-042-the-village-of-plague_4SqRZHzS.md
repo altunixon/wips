@@ -308,5 +308,4 @@ Treatment Master: "Un-Understood." <br/>
  <br/>
 Thus, we went to dispose of a dragon corpse in a mountain.
 <br/>
-<br/> <br/>
 [chapter-041-shogun-sama_1qHiHWjS.md](./chapter-041-shogun-sama_1qHiHWjS.md) | [chapter-043-curse-series_jmkfaPy1.md](./chapter-043-curse-series_jmkfaPy1.md) <br/>

@@ -233,5 +233,4 @@ He should be able to use crossbows… I’ll have him try it out.<br/>
 As if he sensed my intention, Itsuki nodded, and left for the Weapon Store.<br/>
 With this, I hope he gets a bit stronger.<br/>
 <br/>
-<br/> <br/>
 [chapter-309-straying-off-course.md](./chapter-309-straying-off-course.md) | [chapter-311-genius.md](./chapter-311-genius.md) <br/>

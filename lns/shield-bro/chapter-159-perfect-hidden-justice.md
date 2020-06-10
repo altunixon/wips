@@ -144,5 +144,4 @@ I haven’t talked to him yet, so the cause is still a mystery.<br/>
 Though I’m not sure if he’ll actually say anything.<br/>
 I guess I should at least try.<br/>
 <br/>
-<br/> <br/>
 [chapter-158-sacred-tree-medicine.md](./chapter-158-sacred-tree-medicine.md) | [chapter-160-return-to-the-village.md](./chapter-160-return-to-the-village.md) <br/>

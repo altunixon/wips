@@ -160,5 +160,4 @@ I drink a mana potion and enclose Kiel in my Shield Prison.<br/>
 "Fue…" (Rishia)<br/>
 "If you don’t want that dagger in your ribs, then spill out your guts." (Naofumi)<br/>
 <br/>
-<br/> <br/>
 [chapter-231-miscalculations.md](./chapter-231-miscalculations.md) | [chapter-233-dagger-of-justice.md](./chapter-233-dagger-of-justice.md) <br/>

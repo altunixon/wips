@@ -1,4 +1,4 @@
-[chapter-090-the-significance-of-personnel-exchange.md](./chapter-090-the-significance-of-personnel-exchange.md) | [chapter-092-the-sword-hero-&amp;-my-companions.md](./chapter-092-the-sword-hero-&amp;-my-companions.md) <br/>
+[chapter-090-the-significance-of-personnel-exchange.md](./chapter-090-the-significance-of-personnel-exchange.md) | [chapter-092-the-sword-hero-&-my-companions.md](./chapter-092-the-sword-hero-&-my-companions.md) <br/>
 <br/>
 So my non-existent schedule got fucked up thanks to the Unlimited Blade Works movie (Dr.Gil why ;_;), and all episodes of Carnival Phantasm. It just didn’t feel right to not do a chapter though.<br/>
 Hero of the Sword’s Companions<br/>
@@ -144,6 +144,5 @@ I mean it’s only natural to attack from the rear with a bow.<br/>
 Well, I’ll ask Itsuki’s companions about it tomorrow.<br/>
 <br/>
 <br/>
-<br/>
-[chapter-090-the-significance-of-personnel-exchange.md](./chapter-090-the-significance-of-personnel-exchange.md) | [chapter-092-the-sword-hero-&amp;-my-companions.md](./chapter-092-the-sword-hero-&amp;-my-companions.md) <br/>
-
+<br/> <br/>
+[chapter-090-the-significance-of-personnel-exchange.md](./chapter-090-the-significance-of-personnel-exchange.md) | [chapter-092-the-sword-hero-&-my-companions.md](./chapter-092-the-sword-hero-&-my-companions.md) <br/>

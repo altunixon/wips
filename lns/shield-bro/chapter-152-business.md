@@ -165,8 +165,6 @@ I have some grudges against this person, but he has done me enough favors to bal
 "Ren If you don’t say it, your position will become worse. You’ll become the next Demon of the Shield." (Naofumi)<br/>
 "…. I understand. I’ll tell you my story." (Ren)<br/>
 Ren sighs, and begins to speak.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-151-camping-plant.md](./chapter-151-camping-plant.md) | [chapter-153-even-though-you-already-understand.md](./chapter-153-even-though-you-already-understand.md) <br/>
-

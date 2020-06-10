@@ -173,8 +173,6 @@ A white light begins flooding out of the source of the wave, forcing us to close
 "It seems we’ve barely managed to prevent the worst from happening, but…" (Glass)<br/>
 Glass’s words enter my ears.<br/>
 And after the light abates… I was able to confirm what the wave had done. I was able to confirm that the voices from the Spirit of the Shield had been telling the truth.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-334-two-thirds.md](./chapter-334-two-thirds.md) | [chapter-336-the-eighth.md](./chapter-336-the-eighth.md) <br/>
-

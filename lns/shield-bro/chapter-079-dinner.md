@@ -174,6 +174,5 @@ Motoyasu:"Eh?"<br/>
 Motoyasu expresses his surprise and seems flabbergasted by the queen’s words.<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-078-agreement.md](./chapter-078-agreement.md) | [chapter-080-invigoration.md](./chapter-080-invigoration.md) <br/>
-

@@ -144,6 +144,5 @@ And with that, I left the Weapon Shop behind.<br/>
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-214-the-revolutionary-faction.md](./chapter-214-the-revolutionary-faction.md) | [chapter-216-joint-ownership.md](./chapter-216-joint-ownership.md) <br/>
-

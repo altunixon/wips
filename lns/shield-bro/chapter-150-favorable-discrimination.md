@@ -112,8 +112,6 @@ Perhaps I can also leave veterinary work to her.<br/>
 Anyways, this is a person I don’t really understand. Her ideologies contain multiple contradictions.<br/>
 Discrimination is bad, but turning monsters into weapons is Okay. She wants to modify monsters to be stronger. Does she like monsters or hate them?<br/>
 Anyways. It seems that my own research will be getting easier from now on.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-149-the-alchemist.md](./chapter-149-the-alchemist.md) | [chapter-151-camping-plant.md](./chapter-151-camping-plant.md) <br/>
-

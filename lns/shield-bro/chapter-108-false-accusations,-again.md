@@ -188,6 +188,5 @@ After that, even though she wanted to approach even a little……The results we
 This was roughly the contents from Motoyasu’s story on Rishia.<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-107-cal-mira-island-end.md](./chapter-107-cal-mira-island-end.md) | [chapter-109-the-reason-for-rejection-.md](./chapter-109-the-reason-for-rejection-.md) <br/>
-

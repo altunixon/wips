@@ -455,8 +455,6 @@ The probability is low, but the current me has no other option.<br/>
 The final battle commences.<br/>
 <br/>
 Actual Author note: This extra arc will end in a day or two.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-285-the-second-generation.md](./chapter-285-the-second-generation.md) | [chapter-287-research-results.md](./chapter-287-research-results.md) <br/>
-

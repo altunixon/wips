@@ -141,6 +141,5 @@ Well, she did cause a lot of severe hardships, even if it wasn’t to me.<br/>
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-247-the-castle-town-riot.md](./chapter-247-the-castle-town-riot.md) | [chapter-249-complete-victory.md](./chapter-249-complete-victory.md) <br/>
-

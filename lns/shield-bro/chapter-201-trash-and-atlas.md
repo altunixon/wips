@@ -157,8 +157,6 @@ But… the Queen takes on a somewhat troubled face.<br/>
 I do have a hunch.<br/>
 Probably…<br/>
 "Yes, Iwatani-sama. As you thought, Atlas-san’s face looks exactly like that of Luge’s younger sister. She looks like an exact replica of Lucia." (Queen)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-200-repent-.md](./chapter-200-repent-.md) | [chapter-202-amnesty.md](./chapter-202-amnesty.md) <br/>
-

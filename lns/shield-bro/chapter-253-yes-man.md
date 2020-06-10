@@ -171,8 +171,6 @@ Well, this was pretty much someone else in Itsuki’s form.<br/>
 And he did whatever someone asked him to do.<br/>
 With him like that, it would have been exceptionally dangerous to bring him to Witch’s trial.<br/>
 If he were there, he would have immediately forgiven Witch when asked.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-252-pleading-for-life.md](./chapter-252-pleading-for-life.md) | [chapter-254-vol.-1.md](./chapter-254-vol.-1.md) <br/>
-

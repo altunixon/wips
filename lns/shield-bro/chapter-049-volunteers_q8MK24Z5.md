@@ -295,6 +295,5 @@ I think that even in this country, I can trust a little. <br/>
 It was only a moment where I felt that. <br/>
 Naturally, as I said if anything happens, I will not be lenient.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-048-accusations-of-identity-fraud_MhnD62cv.md](./chapter-048-accusations-of-identity-fraud_MhnD62cv.md) | [chapter-050-before-the-storm_GXMvWepL.md](./chapter-050-before-the-storm_GXMvWepL.md) <br/>
-

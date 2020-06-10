@@ -211,8 +211,6 @@ No, that may be to make me feel relieved.<br/>
 We were just having a normal conversation, but it’s not like we’re allies, and I’m not sure if I can trust him.<br/>
 There’s no defining rule that says the enemy of an enemy is a friend.<br/>
 There’s plenty a chance that the enemy of an enemy is but another enemy.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-360-choice.md](./chapter-360-choice.md) | [chapter-362-immortality.md](./chapter-362-immortality.md) <br/>
-

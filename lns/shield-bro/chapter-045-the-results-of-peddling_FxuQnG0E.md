@@ -457,6 +457,5 @@ Naofumi: "That's not what I meant. Anyways, let's go." <br/>
  <br/>
 As for us, we head to the Hourglass of the Dragon's era full of expectations.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-044-shield-of-rage_maLEJtNn.md](./chapter-044-shield-of-rage_maLEJtNn.md) | [chapter-046-exit-by-a-kick,-again_RV2qA2Td.md](./chapter-046-exit-by-a-kick,-again_RV2qA2Td.md) <br/>
-

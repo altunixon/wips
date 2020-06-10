@@ -180,6 +180,5 @@ How fast. Even though Atla's movements were good too. Well, being compared to Fi
  <br/>
 Then, Atla pointed at Motoyasu.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-208-shortcut.md](./chapter-208-shortcut.md) | [chapter-210-envy_4cwmPfTs.md](./chapter-210-envy_4cwmPfTs.md) <br/>
-

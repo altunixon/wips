@@ -183,8 +183,6 @@ Did I act too rashly…?<br/>
 "Rishia, please… Rafatalia… Queen… Report…" (Naofumi)<br/>
 I’m sleepy. I pray I’m still alive when I open my eyes.<br/>
 I wonder what death is like. I’m a bit scared.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-125-possibilities.md](./chapter-125-possibilities.md) | [chapter-127-overprotective.md](./chapter-127-overprotective.md) <br/>
-

@@ -275,6 +275,5 @@ Today was an unlucky day. There were various experiences. <br/>
 After all, this castle town is under the jurisdiction of that trash king, so there is no way they won't be biased. <br/>
 Let's quickly return to the hotel.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-047-welcome_jp48XpM8.md](./chapter-047-welcome_jp48XpM8.md) | [chapter-049-volunteers_q8MK24Z5.md](./chapter-049-volunteers_q8MK24Z5.md) <br/>
-

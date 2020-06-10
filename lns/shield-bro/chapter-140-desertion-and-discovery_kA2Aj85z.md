@@ -266,6 +266,5 @@ Recently, Rishia's level had risen up to 35. <br/>
 It's almost time for a Class Up. <br/>
 As that may be, I want her to Class Up together with the others so it'll be a bit later but....for now, the capture of Motoyasu has the highest priority.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-139-the-shield-s-brand.md](./chapter-139-the-shield-s-brand.md) | [chapter-141-to-capture-the-spear-.md](./chapter-141-to-capture-the-spear-.md) <br/>
-

@@ -366,6 +366,5 @@ And with silly conversations like that, our days of peddling continue. <br/>
  <br/>
 　なんて馬鹿な会話をしつつ、俺達の行商は続いていく。
 <br/>
-<br/>
+<br/> <br/>
 [chapter-033-peddling_iqjJ2dX5.md](./chapter-033-peddling_iqjJ2dX5.md) | [chapter-035-rumors-of-our-hero_1gXK85Zh.md](./chapter-035-rumors-of-our-hero_1gXK85Zh.md) <br/>
-

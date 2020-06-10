@@ -196,8 +196,6 @@ I’ll leave it as one of the mysteries of Zombies.<br/>
 "Okay, we’re starting again." (Naofumi)<br/>
 "Ye~s!" (Firo)<br/>
 And so, we pass through the Castle Town gate that was supposed to be barred during the night. We run across the plains, barely illuminated by the rising sun.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-246-revolution.md](./chapter-246-revolution.md) | [chapter-248-raising-an-army.md](./chapter-248-raising-an-army.md) <br/>
-

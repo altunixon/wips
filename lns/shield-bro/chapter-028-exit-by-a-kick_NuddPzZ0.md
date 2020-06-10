@@ -265,6 +265,5 @@ I prepare the cart and depart with Firo. <br/>
  <br/>
 Firo dashed energetically.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-026-firo_Pmmdvy9a.md](./chapter-026-firo_Pmmdvy9a.md) | [chapter-029-those-with-wings_zvzDhYEX.md](./chapter-029-those-with-wings_zvzDhYEX.md) <br/>
-

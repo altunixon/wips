@@ -218,8 +218,6 @@ Their forms were exactly that depicted on the Mural. The two Houous.<br/>
 "KYUIIIIIIIIIIIIIIIIIIIIIIIIIIIII!"<br/>
 A loud shriek echoes through the air.<br/>
 It was the sound signaling the start of our battle with the beast.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-300-a-seven-star-weapon.md](./chapter-300-a-seven-star-weapon.md) | [chapter-302-vs.-houou.md](./chapter-302-vs.-houou.md) <br/>
-

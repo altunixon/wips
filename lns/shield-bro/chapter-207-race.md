@@ -193,8 +193,6 @@ With a final snap, the bridge splits in two.<br/>
 Now then, to escape.<br/>
 I prepare to use Portal Shield, but then…<br/>
 Firo faces the carriage, dis-attaches herself from it, and grabs the rope of the broken bridge. As the Carriage passes over her, she delivers an amazing kick to it, sending it all the way to the other side.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-205-season-of-love_JDdiYB58.md](./chapter-205-season-of-love_JDdiYB58.md) | [chapter-208-shortcut.md](./chapter-208-shortcut.md) <br/>
-

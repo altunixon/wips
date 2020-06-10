@@ -160,8 +160,6 @@ Not wanting to lose Raph-chan starts playing around with me.<br/>
 It’s this. This.<br/>
 Once you appear to save someone from crisis, this is what you’re supposed to get…<br/>
 I appraise the situation satisfyingly, as I felt relieved having returned to this world.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-366-paranoia-begets-paranoia.md](./chapter-366-paranoia-begets-paranoia.md) | [chapter-368-a-fragile-place.md](./chapter-368-a-fragile-place.md) <br/>
-

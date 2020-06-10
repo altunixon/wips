@@ -211,8 +211,6 @@ These people plan to trouble me in many ways. I hope these monsters don’t cost
 <br/>
 If this gets taken down for copyright, check:<br/>
 http://kissanime.com/Anime/Kaze-no-Tani-no-Nausicaa/Movie-1080p?id=60656 at 1:01:24 – 1:03:02)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-142-the-day-the-game-ended.md](./chapter-142-the-day-the-game-ended.md) | [chapter-144-decision.md](./chapter-144-decision.md) <br/>
-

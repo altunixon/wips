@@ -268,6 +268,5 @@ Firo who is growing up quickly and healthily chirps. <br/>
 After I petted Firo to confirm if she's asleep, I head back to Raphtalia and my room. I study this world's letters afterwards. <br/>
 The problem is that there are too many letters in this language.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-021-contradiction-in-action-404.md](./chapter-021-contradiction-in-action-404.md) | [chapter-028-exit-by-a-kick_NuddPzZ0.md](./chapter-028-exit-by-a-kick_NuddPzZ0.md) <br/>
-

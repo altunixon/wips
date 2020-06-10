@@ -173,8 +173,6 @@ The Spirit Turtle incident has, for various reasons, messed up the public order 
 "I may have to perform a grand sweep of them soon." (Naofumi)<br/>
 "But what will you do?" (Ren)<br/>
 "I have an idea." (Naofumi)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-257-revelation.md](./chapter-257-revelation.md) | [chapter-259-the-chivalrous-thief.md](./chapter-259-the-chivalrous-thief.md) <br/>
-

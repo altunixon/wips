@@ -139,8 +139,6 @@ They plan to conquer me!? Cut the crap! (TL: Again, as in Galge)<br/>
 I immediately called these meetings to a close, but… I get the ominous feeling that something’s still going on in secret.<br/>
 Skipping to the result, it seems my Filo Rials became more loveable, and sales increased.<br/>
 A number of Nobles asked if we would sell them, but Motoyasu started complaining, so we ended up turning them down.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-216-joint-ownership.md](./chapter-216-joint-ownership.md) | [chapter-218-loyal-loinclothed-dog_S1HHhSpS.md](./chapter-218-loyal-loinclothed-dog_S1HHhSpS.md) <br/>
-

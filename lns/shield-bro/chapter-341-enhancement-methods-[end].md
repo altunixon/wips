@@ -160,8 +160,6 @@ It’s a formation incorporating the Sword, which carries the strongest image of
 The bad part of this party is that they don’t seem to get along too well.<br/>
 True Gaelion seems to hate Ren, but child Gaelion doesn’t seem to be affected by that.<br/>
 "Well, I guess that just about does it. Everyone set out to maintain public order and raise your levels in order to defeat the wave." (Naofumi)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-340-enhancement-methods-[middle].md](./chapter-340-enhancement-methods-[middle].md) | [chapter-342-interworldly-exchange.md](./chapter-342-interworldly-exchange.md) <br/>
-

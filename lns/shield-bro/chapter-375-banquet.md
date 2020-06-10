@@ -376,8 +376,6 @@ Good grief, there’s no end to this cacophony.<br/>
 Like that, the banquet dragged on for a while.<br/>
 Once I got worn out, I left and took a rest in a guest room before returning, only to be congratulated once more.<br/>
 In the end, the banquet doors remained open for an entire week, but I guess that doesn’t really matter.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-374-trust.md](./chapter-374-trust.md) | [chapter-376-alternate-worlds-and-modern-ones.md](./chapter-376-alternate-worlds-and-modern-ones.md) <br/>
-

@@ -201,6 +201,5 @@ Apparently there's a lot of money to be made so we leave for a south-west villag
 Judging by speed alone Firo seems to be a match for a God Bird... <br/>
 (tl note: No idea......　なんでも速度からして間に合うのは神鳥……フィーロ位なものらしい。 )
 <br/>
-<br/>
+<br/> <br/>
 [chapter-036-to-take-everything-but-your-life_bBAKPpja.md](./chapter-036-to-take-everything-but-your-life_bBAKPpja.md) | [chapter-038-the-reason-it-is-sealed_251SGJpZ.md](./chapter-038-the-reason-it-is-sealed_251SGJpZ.md) <br/>
-

@@ -212,8 +212,6 @@ As for food, Sadina caught some large fish in the ocean so there is no problem.<
 On that night, the villagers brought ingredients to the shared kitchen, and I cooked them.<br/>
 And like that, the day ended.<br/>
 Oh yes, and Firo did indeed end up singing the Hymns<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-381-the-christmas-of-the-shield-hero-part-3.md](./chapter-381-the-christmas-of-the-shield-hero-part-3.md) | [chapter-382-the-christmas-of-the-shield-hero-part-5.md](./chapter-382-the-christmas-of-the-shield-hero-part-5.md) <br/>
-

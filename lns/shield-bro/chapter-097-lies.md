@@ -1,4 +1,4 @@
-[chapter-096-the-bow-hero-&amp;-my-companions.md](./chapter-096-the-bow-hero-&amp;-my-companions.md) | [chapter-098-evaluation-session.md](./chapter-098-evaluation-session.md) <br/>
+[chapter-096-the-bow-hero-&-my-companions.md](./chapter-096-the-bow-hero-&-my-companions.md) | [chapter-098-evaluation-session.md](./chapter-098-evaluation-session.md) <br/>
 <br/>
 Oh God, Rafatalia is scary…<br/>
 CHAPTER 97: LIES<br/>
@@ -126,8 +126,6 @@ Despite her looks, Rafatalia does possess high strength.<br/>
 If you take away her self-control, this is what will happen.<br/>
 "Please leave it at that." (Naofumi)<br/>
 At my command, Rafatalia stares at Itsuki for one last time, and finally lets go.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
-[chapter-096-the-bow-hero-&amp;-my-companions.md](./chapter-096-the-bow-hero-&amp;-my-companions.md) | [chapter-098-evaluation-session.md](./chapter-098-evaluation-session.md) <br/>
-
+<br/> <br/>
+[chapter-096-the-bow-hero-&-my-companions.md](./chapter-096-the-bow-hero-&-my-companions.md) | [chapter-098-evaluation-session.md](./chapter-098-evaluation-session.md) <br/>

@@ -161,8 +161,6 @@ And I once again had to sooth the ones who couldn’t go to war.<br/>
 Looking at statistics, a large portion of our forces were unable to participate.<br/>
 The ratio of women in out village was high to begin with.<br/>
 And while the night was drawing on, we used Ren to return to the castle.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-319-glamour-vs.-loli.md](./chapter-319-glamour-vs.-loli.md) | [chapter-321-jealousy.md](./chapter-321-jealousy.md) <br/>
-

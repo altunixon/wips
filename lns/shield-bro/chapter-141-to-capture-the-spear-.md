@@ -163,8 +163,6 @@ I address Woman 1. Her real name was Elena… I think.<br/>
 "You’ve probably already told the people at the castle, but would you mind sharing your story with me?" (Naofumi)<br/>
 "I understand." (Woman 1)<br/>
 Elena takes a deep sigh, and begins speaking.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-140-desertion-and-discovery_kA2Aj85z.md](./chapter-140-desertion-and-discovery_kA2Aj85z.md) | [chapter-142-the-day-the-game-ended.md](./chapter-142-the-day-the-game-ended.md) <br/>
-

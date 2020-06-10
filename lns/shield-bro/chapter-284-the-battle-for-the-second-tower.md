@@ -159,8 +159,6 @@ It seems Itsuki’s getting over his curse. His SP recovered a bit.<br/>
 That’s bothersome.<br/>
 Anyways, we lost the battle of the second tower.<br/>
 I have to admit that.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-283-pros-and-cons.md](./chapter-283-pros-and-cons.md) | [chapter-285-the-second-generation.md](./chapter-285-the-second-generation.md) <br/>
-

@@ -200,6 +200,5 @@ Maybe the queen would have somehow pushed Melty the second princess on me, and i
 Queen: "First of all there is a problem that needs to be addressed. This country…… was only 4th in line to summon the four holy Heroes, as designated by the world conference."<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-074-the-queen.md](./chapter-074-the-queen.md) | [chapter-076-trash-and-bitch.md](./chapter-076-trash-and-bitch.md) <br/>
-

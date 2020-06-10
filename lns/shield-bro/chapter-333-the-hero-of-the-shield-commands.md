@@ -138,8 +138,6 @@ I’m holding back to an extent where it won’t kill him, so there are no probl
 I really do want to kill him now, but there’s a reason I can’t.<br/>
 At the very least, as long as the possibility exists that he’s a reincarnated individual, I can’t kill him so easily.<br/>
 I need to know what god or demon is backing this bastard.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-332-a-kitsune-has-seven-forms,-and-a-tanuki,-eight.md](./chapter-332-a-kitsune-has-seven-forms,-and-a-tanuki,-eight.md) | [chapter-334-two-thirds.md](./chapter-334-two-thirds.md) <br/>
-

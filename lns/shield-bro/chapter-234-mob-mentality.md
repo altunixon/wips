@@ -169,8 +169,6 @@ My place’s Filo Rials sure are high class.<br/>
 Though, besides Firo’s first disciple, Motoyasu raised them all.<br/>
 Is he going to become the Filo Rial Master?<br/>
 What would I do if he actually becomes one…<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-233-dagger-of-justice.md](./chapter-233-dagger-of-justice.md) | [chapter-235-remnants.md](./chapter-235-remnants.md) <br/>
-

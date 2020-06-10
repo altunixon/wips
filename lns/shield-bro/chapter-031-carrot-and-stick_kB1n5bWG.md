@@ -364,6 +364,5 @@ With the conversation ending on that note, we left the tent. <br/>
  <br/>
 　こんな調子で話を終えた俺達はテントを後にした。
 <br/>
-<br/>
+<br/> <br/>
 [chapter-030-transformation-ability_RKBEUwHq.md](./chapter-030-transformation-ability_RKBEUwHq.md) | [chapter-032-reward_BRBdJnMS.md](./chapter-032-reward_BRBdJnMS.md) <br/>
-

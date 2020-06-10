@@ -223,6 +223,5 @@ Firo: "Food!" <br/>
  <br/>
 We were collecting seeds while Firo stuffed herself with the remaining fruits and potatoes.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-038-the-reason-it-is-sealed_251SGJpZ.md](./chapter-038-the-reason-it-is-sealed_251SGJpZ.md) | [chapter-040-selective-breeding_pH9VZP9v.md](./chapter-040-selective-breeding_pH9VZP9v.md) <br/>
-

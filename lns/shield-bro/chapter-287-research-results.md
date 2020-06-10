@@ -263,8 +263,6 @@ Based on my brief eight days of existence, I realize that the waves are a fight 
 This pointless phenomenon will perhaps ________, but the world will ________.<br/>
 I remember my enemy’s words.<br/>
 Why is he with Raphtalia…?<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-286-war-reversal.md](./chapter-286-war-reversal.md) | [chapter-288-damage-restitution.md](./chapter-288-damage-restitution.md) <br/>
-

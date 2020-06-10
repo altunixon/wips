@@ -178,8 +178,6 @@ So it won’t act up like last time.<br/>
 Rishia begins breathing slowly, and reads through the list.<br/>
 The light begins to converge on her.<br/>
 "I’ve made my decision." (Rishia)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-143-monster-problem.md](./chapter-143-monster-problem.md) | [chapter-145-report.md](./chapter-145-report.md) <br/>
-

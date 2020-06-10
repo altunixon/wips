@@ -177,6 +177,5 @@ More than anything… for the feelings of the girl who became my shield…I just
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-305-the-girl-who-became-a-shield.md](./chapter-305-the-girl-who-became-a-shield.md) | [chapter-307-funeral.md](./chapter-307-funeral.md) <br/>
-

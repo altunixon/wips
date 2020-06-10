@@ -269,8 +269,6 @@ After that, the scenery in front of my eyes changes, and at the same time, for m
 I bet the transfer was successful.<br/>
 The same goes for Motoyasu and Itsuki.<br/>
 But… The Granny didn’t come with us. We were only able to confirm that after we warped away…<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-312-stolen-power.md](./chapter-312-stolen-power.md) | [chapter-314-will.md](./chapter-314-will.md) <br/>
-

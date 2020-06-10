@@ -121,8 +121,6 @@ But that’s fine.<br/>
 I just have to do what I’ve been assigned to do.<br/>
 I’ll entrust the rest of the battlefield to Trash.<br/>
 Since we’ve come this far, then at the very least, we won’t go down without a fight.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-323-change-raph.md](./chapter-323-change-raph.md) | [chapter-325-provocation.md](./chapter-325-provocation.md) <br/>
-

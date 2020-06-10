@@ -201,8 +201,6 @@ He glares at me as if I had insulted his ancestors. His slave crest begins to gl
 These siblings really are troublesome.<br/>
 Though I say that…<br/>
 To want to become my shield… what a strange child.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-172-training.md](./chapter-172-training.md) | [chapter-174-melty-s-job.md](./chapter-174-melty-s-job.md) <br/>
-

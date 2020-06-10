@@ -148,8 +148,6 @@ Even Raphtalia’s become a battle maniac.<br/>
 Though the fault lies with me for leaving these two to her.<br/>
 But, it’s no joke if Sadina and Atlas have teamed up.<br/>
 I can’t have Raphtalia battling all night. I have to do something.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-264-familiar-(edited).md](./chapter-264-familiar-(edited).md) | [chapter-266-tiger-man.md](./chapter-266-tiger-man.md) <br/>
-

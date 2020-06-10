@@ -202,8 +202,6 @@ I’ll ignore it.<br/>
 "…ah." (Atlas)<br/>
 Fohl glares at me with rebellious eyes. It’s of no concern to me.<br/>
 The coupling of the carriages is complete. We leave Zeltburg in the darkness of the night.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-159-perfect-hidden-justice.md](./chapter-159-perfect-hidden-justice.md) | [chapter-161-princess-visit.md](./chapter-161-princess-visit.md) <br/>
-

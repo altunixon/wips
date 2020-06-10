@@ -144,8 +144,6 @@ By the way, the voice of the slaves, besides Raphtalia, is Kiel.<br/>
 She doesn’t have any delegated position, but she’s quite powerful in battle.<br/>
 Though, she’s constantly bound to her Crepe Tree.<br/>
 When I asked her if she would participate in the wave, she was overflowing with eagerness.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-293-raph-of-the-raph-race.md](./chapter-293-raph-of-the-raph-race.md) | [chapter-295-sibling-fight.md](./chapter-295-sibling-fight.md) <br/>
-

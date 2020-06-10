@@ -1,4 +1,4 @@
-[chapter-094-the-companions-of-the-bow-hero.md](./chapter-094-the-companions-of-the-bow-hero.md) | [chapter-096-the-bow-hero-&amp;-my-companions.md](./chapter-096-the-bow-hero-&amp;-my-companions.md) <br/>
+[chapter-094-the-companions-of-the-bow-hero.md](./chapter-094-the-companions-of-the-bow-hero.md) | [chapter-096-the-bow-hero-&-my-companions.md](./chapter-096-the-bow-hero-&-my-companions.md) <br/>
 <br/>
 Well, I finished translating the Christmas special, so I thought I would start on the main special. I really don’t know which chapters I will be charged with at this point in time,but here goes. I don’t really bad for Rishia, as… well if you read part 4-5 of the Christmas special… Nevermind, spoilers.<br/>
 CHAPTER 95: THE DISEASE OF JUSTICE<br/>
@@ -147,8 +147,6 @@ At first I thought it was a material for modifying accessories, but if he regula
 Once I get back, I have to meet with the other heroes.<br/>
 I guess I’ll ask Motoyasu or Ren at that time.<br/>
 AUTHOR NOTE (TL: Yes, the actual author): Note, The mental state Naofumi is referring to is called Dirty Harry Syndrome, I did not write it as it is the name of a movie.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
-[chapter-094-the-companions-of-the-bow-hero.md](./chapter-094-the-companions-of-the-bow-hero.md) | [chapter-096-the-bow-hero-&amp;-my-companions.md](./chapter-096-the-bow-hero-&amp;-my-companions.md) <br/>
-
+<br/> <br/>
+[chapter-094-the-companions-of-the-bow-hero.md](./chapter-094-the-companions-of-the-bow-hero.md) | [chapter-096-the-bow-hero-&-my-companions.md](./chapter-096-the-bow-hero-&-my-companions.md) <br/>

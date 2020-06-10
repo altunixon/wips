@@ -138,8 +138,6 @@ Rishia seems to be forming a strange affinity for it, but… that’s not my pro
 "Anyways, I’ll leave it to you." (Naofumi)<br/>
 "Got it!" (Old Man)<br/>
 My negotiations with the Old Man are complete. I put the cloak back on and leave the store.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-131-where-we-met.md](./chapter-131-where-we-met.md) | [chapter-133-e-float.md](./chapter-133-e-float.md) <br/>
-

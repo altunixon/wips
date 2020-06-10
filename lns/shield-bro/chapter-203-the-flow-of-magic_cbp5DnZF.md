@@ -228,6 +228,5 @@ Essentially extending my magic power like when enchanting, I tried forcibly extr
  <br/>
 I haven't learned the aria or anything so it's not like I should be able to use it. After that I groaned as I continued practicing to include magic power with my magic and skills.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-202-amnesty.md](./chapter-202-amnesty.md) | [chapter-204-dragon-pulse_WzqjcADt.md](./chapter-204-dragon-pulse_WzqjcADt.md) <br/>
-

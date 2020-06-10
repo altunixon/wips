@@ -184,8 +184,6 @@ I almost fall over.<br/>
 Dragon Emperor Gaelion, remember this! You are the Wave!<br/>
 <br/>
 Author Note: I don’t think I have to say this, but no, he is not the wave.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-220-trap.md](./chapter-220-trap.md) | [chapter-222-game-knowledge.md](./chapter-222-game-knowledge.md) <br/>
-

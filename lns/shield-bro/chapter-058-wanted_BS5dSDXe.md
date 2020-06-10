@@ -299,6 +299,5 @@ After this, our best bet would be to avoid towns and villages as much as possibl
 The wagon made a rumbling sound as we began to run north east. <br/>
 If possible I hope the village won't be punished for helping us.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-057-the-church-of-the-three-heroes_fxg8m967.md](./chapter-057-the-church-of-the-three-heroes_fxg8m967.md) | [chapter-059-firo-s-secret_LX5DR78b.md](./chapter-059-firo-s-secret_LX5DR78b.md) <br/>
-

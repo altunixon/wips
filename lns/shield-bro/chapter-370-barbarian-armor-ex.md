@@ -141,8 +141,6 @@ Now, let’s start the battle.<br/>
 <br/>
 And now, a related image of a Saber ripping out an Ahoge.<br/>
 <br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-369-the-eve-of-the-decisive-battle.md](./chapter-369-the-eve-of-the-decisive-battle.md) | [chapter-371-proxy.md](./chapter-371-proxy.md) <br/>
-

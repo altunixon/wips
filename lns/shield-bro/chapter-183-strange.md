@@ -183,8 +183,6 @@ And she starts glaring at Taniko.<br/>
 "That child was the cause of this turmoil. Please dispose of him." (Melty)<br/>
 "He’s already better!" (Taniko)<br/>
 Whatever. This is becoming a pain.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-182-wrath-dragon.md](./chapter-182-wrath-dragon.md) | [chapter-186-a-dragon-s-rage.md](./chapter-186-a-dragon-s-rage.md) <br/>
-

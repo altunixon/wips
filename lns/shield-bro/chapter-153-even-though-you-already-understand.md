@@ -151,8 +151,6 @@ And I think it will be fun to watch him suffer more.<br/>
 Understand my pain, you bastard.<br/>
 No matter what I did, I was considered evil. Now taste that living hell some more.<br/>
 Heaven doesn’t open in just a few weeks.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-152-business.md](./chapter-152-business.md) | [chapter-154-independant-nature.md](./chapter-154-independant-nature.md) <br/>
-

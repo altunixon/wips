@@ -146,6 +146,5 @@ There is also that ore that I got from Rishia, I could possibly discover somethi
  <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-097-lies.md](./chapter-097-lies.md) | [chapter-099-cal-mira-island-jinx-trending-fad-story.md](./chapter-099-cal-mira-island-jinx-trending-fad-story.md) <br/>
-

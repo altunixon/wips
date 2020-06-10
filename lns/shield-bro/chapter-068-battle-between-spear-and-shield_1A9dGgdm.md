@@ -253,6 +253,5 @@ Raphtalia disappears and all that's left is an after-image. <br/>
  <br/>
 "Your magical power was not enough to completely nullify my illusion magic. Now it's my turn!"
 <br/>
-<br/>
+<br/> <br/>
 [chapter-067-jungle_5S09eB0a.md](./chapter-067-jungle_5S09eB0a.md) | [chapter-069-judgement_eM507cQA.md](./chapter-069-judgement_eM507cQA.md) <br/>
-

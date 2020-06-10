@@ -150,8 +150,6 @@ With my Aura and Itsuki’s Down, the battle should… become easier!<br/>
 When I look at those who were fighting before we got here, their movements have gotten better. Their skills have risen, but the amount of enemies isn’t decreasing.<br/>
 It looks like monsters are appearing from areas outside of the fissure.<br/>
 It’s like they respawn the moment they’re cut down.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-333-the-hero-of-the-shield-commands.md](./chapter-333-the-hero-of-the-shield-commands.md) | [chapter-335-united-front.md](./chapter-335-united-front.md) <br/>
-

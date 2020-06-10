@@ -203,8 +203,6 @@ The Slave Dealer also managed to obtain some of the food in the heat of the mome
 But the Slave Merchant seems lost in his meal. I’m not sure if he heard me.<br/>
 It’s like a welcoming party. Things will get busy from here on out. I need to make sure they get proper nourishment or they won’t hold up.<br/>
 And like that, after the meal the slaves boarded the carriage and we leave the castle town in the darkness of the night. Towards our new home.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-133-e-float.md](./chapter-133-e-float.md) | [chapter-135-artificial-feeding.md](./chapter-135-artificial-feeding.md) <br/>
-

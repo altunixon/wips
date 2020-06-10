@@ -159,8 +159,6 @@ There’s no turning back for a Hero.<br/>
 "I see. If I have to defeat this girl who’s being controlled by evil, then I guess I have no choice." (Itsuki)<br/>
 While keeping his eyes locked on me, Itsuki turns his bow towards Rishia.<br/>
 And Rishia deeply bows towards me with gratitude.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-242-denial-of-justice.md](./chapter-242-denial-of-justice.md) | [chapter-244-justice-vs-justice.md](./chapter-244-justice-vs-justice.md) <br/>
-

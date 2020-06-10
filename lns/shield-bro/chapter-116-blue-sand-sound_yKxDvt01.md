@@ -212,6 +212,5 @@ information" <br/>
 The Queen gave instructions to a messenger soldier to gather information. <br/>
 The opening of the case was here ......
 <br/>
-<br/>
+<br/> <br/>
 [chapter-115-the-curiosity-of-the-weapon-shop-owner.md](./chapter-115-the-curiosity-of-the-weapon-shop-owner.md) | [chapter-117-when-game-knowledge-betrays-you.md](./chapter-117-when-game-knowledge-betrays-you.md) <br/>
-

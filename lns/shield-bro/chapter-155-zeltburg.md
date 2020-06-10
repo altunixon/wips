@@ -214,8 +214,6 @@ It doesn’t seem that this country keeps good public order.<br/>
 "I-I know!" (Rishia)<br/>
 Though she says that, it seems she had forgotten about it up until that point.<br/>
 I want to believe that she had simply forgot about it, and hadn’t intended on walking through town dressed like that.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-154-independant-nature.md](./chapter-154-independant-nature.md) | [chapter-156-fulfilled-dream.md](./chapter-156-fulfilled-dream.md) <br/>
-

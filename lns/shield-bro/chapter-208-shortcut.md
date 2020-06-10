@@ -158,8 +158,6 @@ And soon after, Motoyasu and his noisy three come storming in.<br/>
 Motoyasu confirms that we arrived first, as he falls to his knees and places his hands on the ground.<br/>
 —Author Note—<br/>
 By the way, one of Motoyasu’s Filo Rials is male.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-207-race.md](./chapter-207-race.md) | [chapter-209-lust_nHz31zS6.md](./chapter-209-lust_nHz31zS6.md) <br/>
-

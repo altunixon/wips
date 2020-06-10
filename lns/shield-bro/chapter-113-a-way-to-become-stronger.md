@@ -161,6 +161,5 @@ Firo:"Go~"<br/>
 After a long absence, we headed to see the old man at the weapon shop.<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-112-warehouse.md](./chapter-112-warehouse.md) | [chapter-114-meteor-shield.md](./chapter-114-meteor-shield.md) <br/>
-

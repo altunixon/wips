@@ -158,8 +158,6 @@ I wonder. Will she say the same if Itsuki steps onto the battlefield?<br/>
 I think that Itsuki is definitely involved in this riot in one way or another.<br/>
 We need to be prepared for when he chooses to show himself.<br/>
 But, for now, I’m worried about what became of the village I left to Ren and Firo.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-232-effort.md](./chapter-232-effort.md) | [chapter-234-mob-mentality.md](./chapter-234-mob-mentality.md) <br/>
-

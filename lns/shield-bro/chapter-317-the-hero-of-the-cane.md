@@ -163,8 +163,6 @@ At the very least, he’s more decent than he was before.<br/>
 "… Got it. Trash, I leave the plan to you. I have some expectations for the Wise King inside of your head." (Naofumi)<br/>
 "Leave it to me. I’ll completely slaughter the enemy with the minimum amount of casualties." (Trash)<br/>
 We turned our backs to the Queen’s coffin, and quietly… started walking forward.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-316-the-true-enemy.md](./chapter-316-the-true-enemy.md) | [chapter-318-strategy-meeting.md](./chapter-318-strategy-meeting.md) <br/>
-

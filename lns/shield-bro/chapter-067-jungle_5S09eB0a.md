@@ -229,6 +229,5 @@ Now......Let's see who is stronger! <br/>
  <br/>
 We both step forwards and charge towards each other.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-066-ahoge_DybPD9h0.md](./chapter-066-ahoge_DybPD9h0.md) | [chapter-068-battle-between-spear-and-shield_1A9dGgdm.md](./chapter-068-battle-between-spear-and-shield_1A9dGgdm.md) <br/>
-

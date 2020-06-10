@@ -180,8 +180,6 @@ Atlas and Rishia can manipulate the invisible force of Chi, so I should send the
 Anyways, to stop two Heroes, a Filo Rial Queen, and an awakened Rishia, is probably impossible.<br/>
 All that’s left is to trample them.<br/>
 "Now then, Itsuki or Witch… Who’s hiding here?" (Naofumi)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-237-spirit-turtle-armor.md](./chapter-237-spirit-turtle-armor.md) | [chapter-239-opportunity.md](./chapter-239-opportunity.md) <br/>
-

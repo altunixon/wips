@@ -200,8 +200,6 @@ Raphtalia shows a small smile to Fohl.<br/>
 Naofumi: "I’ll perform the slave registration later."<br/>
 Slave Dealer: "As you request."<br/>
 In this way, I opted for the siblings purchase.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-157-purchase.md](./chapter-157-purchase.md) | [chapter-159-perfect-hidden-justice.md](./chapter-159-perfect-hidden-justice.md) <br/>
-

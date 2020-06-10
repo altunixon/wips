@@ -223,6 +223,5 @@ In the first place is she even worried about her younger sister? <br/>
  <br/>
 "The latest incident is already solved! the devil of the shield used powerful brainwashing on the second princess!"
 <br/>
-<br/>
+<br/> <br/>
 [chapter-060-deviltry_05N8y6HU.md](./chapter-060-deviltry_05N8y6HU.md) | [chapter-062-common-destiny_mB8F3aGe.md](./chapter-062-common-destiny_mB8F3aGe.md) <br/>
-

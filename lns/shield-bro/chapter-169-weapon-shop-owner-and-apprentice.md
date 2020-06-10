@@ -139,6 +139,5 @@ And like this, we left the weapon store behind.<br/>
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-168-alps.md](./chapter-168-alps.md) | [chapter-170-trash-and-hakuko_QmkDLfEf.md](./chapter-170-trash-and-hakuko_QmkDLfEf.md) <br/>
-

@@ -353,6 +353,5 @@ Anyways, from now on I must observe Rishia I guess. <br/>
  <br/>
 　ともあれ、これからリーシアを観察して行かねばならないだろうな。
 <br/>
-<br/>
+<br/> <br/>
 [chapter-190-formal-request_UQYxgy4C.md](./chapter-190-formal-request_UQYxgy4C.md) | [chapter-192-a-masked-man_XhLRjW8L.md](./chapter-192-a-masked-man_XhLRjW8L.md) <br/>
-

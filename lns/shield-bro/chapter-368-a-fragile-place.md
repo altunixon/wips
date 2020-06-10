@@ -199,8 +199,6 @@ On Atlas’s words, a teardrop drifts down his face as he quietly closes his eye
 From one of his aides, I received a blanket, and I draped it over him.<br/>
 I’ll put some expectations on him.<br/>
 Tomorrow, the sleeping king of wisdom will turn out an idea good enough to overturn the battlefield.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-367-aiming-for-number-three.md](./chapter-367-aiming-for-number-three.md) | [chapter-369-the-eve-of-the-decisive-battle.md](./chapter-369-the-eve-of-the-decisive-battle.md) <br/>
-

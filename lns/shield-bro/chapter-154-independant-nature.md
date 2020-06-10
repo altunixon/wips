@@ -195,8 +195,6 @@ But I don’t think I can really help with it.<br/>
 "Yes. Yes." (Naofumi)<br/>
 So there hasn’t been any progress. But Rat’s skills are growing.<br/>
 The skills of the one who grants power to monsters, the Mad Alchemist.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-153-even-though-you-already-understand.md](./chapter-153-even-though-you-already-understand.md) | [chapter-155-zeltburg.md](./chapter-155-zeltburg.md) <br/>
-

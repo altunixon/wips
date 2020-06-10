@@ -133,8 +133,6 @@ The Filo Rials gaze at Firo’s carriage with envy now, for some reason.<br/>
 I believe Filo Rials had some form of pride among carriages.<br/>
 Firo holds her head high among the flock of birds.<br/>
 The others gaze at me, but… don’t stare at me like that.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-291-dragon-faith.md](./chapter-291-dragon-faith.md) | [chapter-293-raph-of-the-raph-race.md](./chapter-293-raph-of-the-raph-race.md) <br/>
-

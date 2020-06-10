@@ -175,8 +175,6 @@ He sticks his head into the sack I keep the materials used to make new clothes a
 Gaelion is quite a curious one. He’s also easy to deal with. Firo was also like this once.<br/>
 Is what… I thought.<br/>
 But I never thought this would be the trigger for that big incident.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-175-ding-dong-ditch.md](./chapter-175-ding-dong-ditch.md) | [chapter-177-level-drain_0nriYQPF.md](./chapter-177-level-drain_0nriYQPF.md) <br/>
-

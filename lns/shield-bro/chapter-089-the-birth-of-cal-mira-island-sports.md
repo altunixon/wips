@@ -136,6 +136,5 @@ Well, it was good for killing time.<br/>
 Raphtalia seemed to be satisfied with body strengthening as a principle.<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-088-intuition-and-analysis.md](./chapter-088-intuition-and-analysis.md) | [chapter-090-the-significance-of-personnel-exchange.md](./chapter-090-the-significance-of-personnel-exchange.md) <br/>
-

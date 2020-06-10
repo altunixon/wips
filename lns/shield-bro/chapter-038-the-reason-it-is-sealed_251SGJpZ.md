@@ -392,6 +392,5 @@ I tie the ample bag of money I received to my hip, and walk down the road rife w
 　村人の奴等の声を無視して蔓の中を進む。俺の後をラフタリアとフィーロが付き従う。 <br/>
 　受け取った金のたっぷり入った袋を腰に下げて、植物が侵食する大地に歩いて行く。
 <br/>
-<br/>
+<br/> <br/>
 [chapter-037-magical-study_JjS4VuLQ.md](./chapter-037-magical-study_JjS4VuLQ.md) | [chapter-039-plant-invasion_VKVLsf2d.md](./chapter-039-plant-invasion_VKVLsf2d.md) <br/>
-

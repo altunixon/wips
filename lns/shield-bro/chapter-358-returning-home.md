@@ -264,8 +264,6 @@ Well, I’ll put that matter aside for now. As long as she understands that.<br/
 First, I’ll have to teach her how to read and write.<br/>
 Hmm.<br/>
 By the way, I checked the Four Holy Weapons’ Manual after that, and it showed absolutely no change.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-357-an-undesired-return.md](./chapter-357-an-undesired-return.md) | [chapter-359-frustration.md](./chapter-359-frustration.md) <br/>
-

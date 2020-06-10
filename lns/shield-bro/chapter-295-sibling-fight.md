@@ -124,8 +124,6 @@ An aura hot enough to melt an enemy, and an aura cold enough to silence them.<br
 As the two sides clash, the peanut gallery holds their breath and swallows their saliva.<br/>
 "Hengen Musou Fist Skill! Tiger Break!"<br/>
 Fohl’s Chi expands. And he points his arms and fists at Atlas, releasing a skill.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-294-collect-・-wall-・-ball.md](./chapter-294-collect-・-wall-・-ball.md) | [chapter-296-clash-of-tigers.md](./chapter-296-clash-of-tigers.md) <br/>
-

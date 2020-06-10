@@ -183,8 +183,6 @@ It dodges by a paper thinmargin, and does a flip before landing on the ground. I
 And it loudly proclaims.<br/>
 "Fake~"<br/>
 "What…?"<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-280-human-modification.md](./chapter-280-human-modification.md) | [chapter-282-bio-custom.md](./chapter-282-bio-custom.md) <br/>
-

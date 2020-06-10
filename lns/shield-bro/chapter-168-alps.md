@@ -191,8 +191,6 @@ Firo grabs the resisting Fohl. The other slaves prepare for the harsh trip.<br/>
 Rafatalia’s always seems to be seeing me off, but I’ve never had the opportunity of seeing her off.<br/>
 But there’s no need for me to mull over it.<br/>
 And so I took the slaves that wanted to level reset, and those that wanted to learn from the old man to the Castle Town.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-167-hengen-musou.md](./chapter-167-hengen-musou.md) | [chapter-169-weapon-shop-owner-and-apprentice.md](./chapter-169-weapon-shop-owner-and-apprentice.md) <br/>
-

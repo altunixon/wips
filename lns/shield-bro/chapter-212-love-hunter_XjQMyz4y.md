@@ -293,6 +293,5 @@ Well, with that, we returned to the village in the same day. I think today is th
  <br/>
 Somehow the sunlight is dazzling.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-211-infighting.md](./chapter-211-infighting.md) | [chapter-213-nap.md](./chapter-213-nap.md) <br/>
-

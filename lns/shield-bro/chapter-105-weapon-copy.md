@@ -205,8 +205,6 @@ My expectations are quite high.<br/>
 "Mother. I can do it, relax!" (???)<br/>
 "……" (Naofumi)<br/>
 I hear a familiar voice from the market place… But I won’t turn around.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-103-the-conference-of-heroes-[end].md](./chapter-103-the-conference-of-heroes-[end].md) | [chapter-106-days-on-cal-mira-island.md](./chapter-106-days-on-cal-mira-island.md) <br/>
-

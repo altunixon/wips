@@ -1,4 +1,4 @@
-[chapter-087-the-spear-hero-&amp;-my-companions.md](./chapter-087-the-spear-hero-&amp;-my-companions.md) | [chapter-089-the-birth-of-cal-mira-island-sports.md](./chapter-089-the-birth-of-cal-mira-island-sports.md) <br/>
+[chapter-087-the-spear-hero-&-my-companions.md](./chapter-087-the-spear-hero-&-my-companions.md) | [chapter-089-the-birth-of-cal-mira-island-sports.md](./chapter-089-the-birth-of-cal-mira-island-sports.md) <br/>
 <br/>
 So. Many. Explanations.<br/>
 Also for those who are interested in the side story.<br/>
@@ -137,6 +137,5 @@ The mysteries don’t end.<br/>
 While deliberating such thoughts deeply, and returning to the hotel, Motoyasu was forgotten about.<br/>
 <br/>
 <br/>
-<br/>
-[chapter-087-the-spear-hero-&amp;-my-companions.md](./chapter-087-the-spear-hero-&amp;-my-companions.md) | [chapter-089-the-birth-of-cal-mira-island-sports.md](./chapter-089-the-birth-of-cal-mira-island-sports.md) <br/>
-
+<br/> <br/>
+[chapter-087-the-spear-hero-&-my-companions.md](./chapter-087-the-spear-hero-&-my-companions.md) | [chapter-089-the-birth-of-cal-mira-island-sports.md](./chapter-089-the-birth-of-cal-mira-island-sports.md) <br/>

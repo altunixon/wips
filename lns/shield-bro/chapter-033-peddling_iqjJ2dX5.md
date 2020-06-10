@@ -227,6 +227,5 @@ Raphtalia: "Wa!" <br/>
 Raphtalia was surprised and clings to Firo. <br/>
 At least, we will arrive at our destination today.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-032-reward_BRBdJnMS.md](./chapter-032-reward_BRBdJnMS.md) | [chapter-034-journey-on-carriage_3YtuVrta.md](./chapter-034-journey-on-carriage_3YtuVrta.md) <br/>
-

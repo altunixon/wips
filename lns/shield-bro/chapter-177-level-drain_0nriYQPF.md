@@ -322,6 +322,5 @@ Firo has a good friend indeed. <br/>
  <br/>
 Thus we let the stubborn Firo overdo herself and left on a carriage.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-176-wimp.md](./chapter-176-wimp.md) | [chapter-178-grasping-forces.md](./chapter-178-grasping-forces.md) <br/>
-

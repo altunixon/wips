@@ -263,6 +263,5 @@ Firo nods, and the carriage suddenly takes off. <br/>
 The voice of the goddamn kid fades into the distance. <br/>
 The castle town sucks as expected. Other than coming for shopping I would rather stay away.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-054-farewell_vXY028GG.md](./chapter-054-farewell_vXY028GG.md) | [chapter-056-shield-demon_GkTSr9wp.md](./chapter-056-shield-demon_GkTSr9wp.md) <br/>
-

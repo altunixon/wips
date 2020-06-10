@@ -156,8 +156,6 @@ If I can bring Raphtalia with me, then she’ll have to choose that for herself.
 And once I make that village happy, I’ll go home.<br/>
 I really have picked up too many troublesome things…<br/>
 But for some reason, I don’t feel bad about it.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-314-will.md](./chapter-314-will.md) | [chapter-316-the-true-enemy.md](./chapter-316-the-true-enemy.md) <br/>
-

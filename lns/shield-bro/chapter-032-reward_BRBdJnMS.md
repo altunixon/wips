@@ -442,6 +442,5 @@ Oh well, we barbecued next to the riverbank till evening and then called it a da
 By the way, Firo caught 10 Usapiru. <br/>
 I barely had time to eat. Mostly managing the barbecue and dismantling Usapiru to roast.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-031-carrot-and-stick_kB1n5bWG.md](./chapter-031-carrot-and-stick_kB1n5bWG.md) | [chapter-033-peddling_iqjJ2dX5.md](./chapter-033-peddling_iqjJ2dX5.md) <br/>
-

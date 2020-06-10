@@ -151,8 +151,6 @@ Even if Rishia became estranged here, I cannot stop her.<br/>
 "Is… is that so." (Rishia)<br/>
 We may already consider this an attack by Itsuki already.<br/>
 Don’t come with nastier methods than Ren and Motoyasu.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-227-poison.md](./chapter-227-poison.md) | [chapter-229-multiple-culprits.md](./chapter-229-multiple-culprits.md) <br/>
-

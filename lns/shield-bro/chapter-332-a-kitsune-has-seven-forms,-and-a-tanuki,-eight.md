@@ -160,8 +160,6 @@ Is this the time for me to offer assistance?<br/>
 When I took a step in their direction…<br/>
 "Not… yet."<br/>
 Tact’s consciousness returns, and he suddenly stands up.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-331-the-strongest-seven-star-hero.md](./chapter-331-the-strongest-seven-star-hero.md) | [chapter-333-the-hero-of-the-shield-commands.md](./chapter-333-the-hero-of-the-shield-commands.md) <br/>
-

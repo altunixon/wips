@@ -159,8 +159,6 @@ Stones multiply… I can’t imagine that at all.<br/>
 By the way, the Demi-Humans Glass was talking about were Elves and Dwarfs.<br/>
 Since the ones I know of all have fluffy animal ears, it’s rare to see a human subspecies.<br/>
 Would the past me have been overly excited over this?<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-341-enhancement-methods-[end].md](./chapter-341-enhancement-methods-[end].md) | [chapter-343-executions.md](./chapter-343-executions.md) <br/>
-

@@ -230,6 +230,5 @@ And just like this I saw the levelling party off and resumed work in the village
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-171-portal-shield.md](./chapter-171-portal-shield.md) | [chapter-173-a-shield-to-protect.md](./chapter-173-a-shield-to-protect.md) <br/>
-

@@ -175,8 +175,6 @@ Even before I came to this world… no, that’s impossible.<br/>
 But still, I feel that someone told me something similar before.<br/>
 Hmm…<br/>
 I feel irritated, as if something were stuck in my teeth.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-310-firearms.md](./chapter-310-firearms.md) | [chapter-312-stolen-power.md](./chapter-312-stolen-power.md) <br/>
-

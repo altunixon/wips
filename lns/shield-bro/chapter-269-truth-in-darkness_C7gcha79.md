@@ -239,6 +239,5 @@ I have felt it a little bit though. <br/>
 We finished chatting like this and returned to our respective homes to sleep. <br/>
 By the way, Gaelion enjoyed drinking the liquor he got from Sadina.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-268-alcohol.md](./chapter-268-alcohol.md) | [chapter-270-the-pig-king.md](./chapter-270-the-pig-king.md) <br/>
-

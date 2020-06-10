@@ -347,6 +347,5 @@ This demon won't listen to a thing I say? <br/>
 Shit! I bought a demon because I expected it to follow my orders. <br/>
 Slave trader... Wash your neck because I'm coming for you.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-029-those-with-wings_zvzDhYEX.md](./chapter-029-those-with-wings_zvzDhYEX.md) | [chapter-031-carrot-and-stick_kB1n5bWG.md](./chapter-031-carrot-and-stick_kB1n5bWG.md) <br/>
-

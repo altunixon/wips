@@ -149,8 +149,6 @@ I had long thrown away such ambitions.<br/>
 I hear the sound of the children running around with their new toys.<br/>
 That’s right, right now I’m living a happy enough life that the me over there would be jealous.<br/>
 Is what I think as I get out of bed.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-383-the-christmas-of-the-shield-hero-part-6.md](./chapter-383-the-christmas-of-the-shield-hero-part-6.md) | [chapter-385-the-valentines-of-the-shield-hero-part-1.md](./chapter-385-the-valentines-of-the-shield-hero-part-1.md) <br/>
-

@@ -237,6 +237,5 @@ Really an incorrigible fellow. <br/>
  <br/>
 Motoyasu sitting in a seiza alone this time is a inconsequential complement.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-270-the-pig-king.md](./chapter-270-the-pig-king.md) | [chapter-272-the-second-conference-of-heroes-(start).md](./chapter-272-the-second-conference-of-heroes-(start).md) <br/>
-

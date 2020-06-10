@@ -261,8 +261,6 @@ The problem is that all of them are of low level.<br/>
 I’ll overcome that with the power of the Shield some way or another.<br/>
 But there’s a sequence to things like this.<br/>
 If I have the time to grant them power, then there are plenty of things I have to do.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-279-floating-sky-fortress.md](./chapter-279-floating-sky-fortress.md) | [chapter-281-life-ethics.md](./chapter-281-life-ethics.md) <br/>
-

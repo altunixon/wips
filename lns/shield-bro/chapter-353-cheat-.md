@@ -156,8 +156,6 @@ That woman gives off a similar feeling to Witch.<br/>
 Basking in luxury, moving the world to her pleasure, thinking of men as nothing more than tools to be used, an aura conveying these feelings emanated from her.<br/>
 01:01<br/>
 Ku… every second, more and more is shaved off.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-352-hammer-the-nail-that-sticks-out.md](./chapter-352-hammer-the-nail-that-sticks-out.md) | [chapter-354-a-sky-dyed-crimson.md](./chapter-354-a-sky-dyed-crimson.md) <br/>
-

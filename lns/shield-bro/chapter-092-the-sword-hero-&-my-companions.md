@@ -231,6 +231,5 @@ I didn’t think there would be someone besides Motoyasu that would anger Raphta
 This……Itsuki might also cause something as well.<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-091-the-companions-of-the-sword-hero.md](./chapter-091-the-companions-of-the-sword-hero.md) | [chapter-093-tavern.md](./chapter-093-tavern.md) <br/>
-

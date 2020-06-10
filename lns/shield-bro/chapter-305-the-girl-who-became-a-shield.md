@@ -187,8 +187,6 @@ Blessing<br/>
 All Resist<br/>
 Spell Support<br/>
 Along with the blind girl’s disappearance… the Shield of Compassion was born in my heart.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-304-a-price-too-great.md](./chapter-304-a-price-too-great.md) | [chapter-306-vs.-houou-finale.md](./chapter-306-vs.-houou-finale.md) <br/>
-

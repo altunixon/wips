@@ -178,8 +178,6 @@ It’s a shitty world. And I’m tired of it.<br/>
 "It seems the other party is very pleased with you, Witch. He plans to use you as his toy every night. My heart aches as I wonder what will happen to you. Now, how many days will you last?" (Queen)<br/>
 "NOOOOOOOOOOOOOOOOOOOOOOO!" (Witch)<br/>
 Witch’s voice resounds through the castle.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-250-promotion.md](./chapter-250-promotion.md) | [chapter-252-pleading-for-life.md](./chapter-252-pleading-for-life.md) <br/>
-

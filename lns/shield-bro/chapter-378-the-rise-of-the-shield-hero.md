@@ -223,8 +223,6 @@ This truly is the Rise of the Shield Hero.<br/>
 Our battle still goes on.<br/>
 For the lives lost without reason, we will continue to protect.<br/>
 From here on… eternally…<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-377-rock-valley-s-heroic-legend.md](./chapter-377-rock-valley-s-heroic-legend.md) | [chapter-379-the-christmas-of-the-shield-hero-part-1.md](./chapter-379-the-christmas-of-the-shield-hero-part-1.md) <br/>
-

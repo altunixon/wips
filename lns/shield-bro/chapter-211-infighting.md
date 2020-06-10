@@ -157,8 +157,6 @@ I’m doing this without any practice. And it requires a lot of concentration to
 I don’t have any more options. I could try using this power to strengthen the Meteor Shield, but it’s still cooling down.<br/>
 But… If I give up here, my purity…!<br/>
 Perhaps I should shift my target to Motoyasu?<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-210-envy_4cwmPfTs.md](./chapter-210-envy_4cwmPfTs.md) | [chapter-212-love-hunter_XjQMyz4y.md](./chapter-212-love-hunter_XjQMyz4y.md) <br/>
-

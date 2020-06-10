@@ -141,6 +141,5 @@ Instantly my heart is consumed by dark emotions.<br/>
 "——————–!"<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-071-replica.md](./chapter-071-replica.md) | [chapter-073-price.md](./chapter-073-price.md) <br/>
-

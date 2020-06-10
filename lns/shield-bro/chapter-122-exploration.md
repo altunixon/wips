@@ -149,6 +149,5 @@ Raphtalia:"Roger."<br/>
 We left Rishia behind and we advanced towards the caves that started to diverge.<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-121-the-message-from-the-hero.md](./chapter-121-the-message-from-the-hero.md) | [chapter-123-blue-hourglass.md](./chapter-123-blue-hourglass.md) <br/>
-

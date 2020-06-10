@@ -141,8 +141,6 @@ Fumu, she really is Melty’s mother.<br/>
 At times like this, she takes the initiative, and steps forward.<br/>
 The Queen went to talk to the other army commanders.<br/>
 It ended up that the Silt Welt generals would take charge of the Armies, and have them steadily proceed towards Faubley.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-306-vs.-houou-finale.md](./chapter-306-vs.-houou-finale.md) | [chapter-308-kirin.md](./chapter-308-kirin.md) <br/>
-

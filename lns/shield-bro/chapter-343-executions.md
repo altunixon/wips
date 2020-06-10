@@ -148,8 +148,6 @@ When I was sick of it all, a special program that caught my interest comes up.<b
 What is it, you ask?<br/>
 Witch, and a few women, enter the stage.<br/>
 (TL: I dunno, I’m just a lowly translator you know.)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-342-interworldly-exchange.md](./chapter-342-interworldly-exchange.md) | [chapter-344-soul-eater.md](./chapter-344-soul-eater.md) <br/>
-

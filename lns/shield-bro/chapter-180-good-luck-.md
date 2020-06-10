@@ -162,8 +162,6 @@ As he was positioned to eat me, he picks me up in his teeth and tries to bite do
 "Get off!" (Naofumi)<br/>
 I grab his fangs and wrench them open with all my strength. I fall to the ground.<br/>
 Good, this finally seems like a battle we can fight.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-179-a-mass-of-klesha.md](./chapter-179-a-mass-of-klesha.md) | [chapter-181-choral-magic.md](./chapter-181-choral-magic.md) <br/>
-

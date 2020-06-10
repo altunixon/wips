@@ -147,8 +147,6 @@ Atlas seems happy as she hugs the doll.<br/>
 It seems this doll is a suitable replacement for me.<br/>
 Now she can spend the entire night with ‘me’.<br/>
 Is what I think as I leave more presents for the two of them and leave the house.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-381-the-christmas-of-the-shield-hero-part-4.md](./chapter-381-the-christmas-of-the-shield-hero-part-4.md) | [chapter-383-the-christmas-of-the-shield-hero-part-6.md](./chapter-383-the-christmas-of-the-shield-hero-part-6.md) <br/>
-

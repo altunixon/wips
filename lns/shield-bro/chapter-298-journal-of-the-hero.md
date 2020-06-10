@@ -133,8 +133,6 @@ If I had information like them, perhaps I would have mistakenly challenged the S
 …? Something’s bugging me, but… I can’t tell what it is.<br/>
 It’s like something’s stuck in my throat.<br/>
 But it feels like the sort of thing I won’t figure out if I keep thinking about it.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-297-the-land-of-houou.md](./chapter-297-the-land-of-houou.md) | [chapter-299-the-last-of-the-seven-stars.md](./chapter-299-the-last-of-the-seven-stars.md) <br/>
-

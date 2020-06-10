@@ -226,8 +226,6 @@ The main stuff is here, huh?<br/>
 The remaining slaves’ stuff are pretty similar.<br/>
 Except, just like Firo’s, many of them are pretty dirty.<br/>
 At dinner, I inform them that I did the surprise inspection and caution them.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-263-surprise-inspection.md](./chapter-263-surprise-inspection.md) | [chapter-265-late-night-combat.md](./chapter-265-late-night-combat.md) <br/>
-

@@ -93,6 +93,5 @@ Tact collapsed from Fohl and my Two Platon attack. [T/N: ツープラトン攻�
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-330-an-ordinary-person.md](./chapter-330-an-ordinary-person.md) | [chapter-332-a-kitsune-has-seven-forms,-and-a-tanuki,-eight.md](./chapter-332-a-kitsune-has-seven-forms,-and-a-tanuki,-eight.md) <br/>
-

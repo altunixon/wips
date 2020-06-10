@@ -180,6 +180,5 @@ Raphtalia drew the sword on her back and took a stance, facing me of all things.
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-277-the-new-seven-deadly-sins.md](./chapter-277-the-new-seven-deadly-sins.md) | [chapter-279-floating-sky-fortress.md](./chapter-279-floating-sky-fortress.md) <br/>
-

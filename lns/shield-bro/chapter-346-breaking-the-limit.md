@@ -200,8 +200,6 @@ Transformation… are the modifications the strange me left behind still active?
 That’s how it went.<br/>
 Honestly, we’re becoming quite strong.<br/>
 It seems I can count on our non-hero forces as well.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-345-remorse.md](./chapter-345-remorse.md) | [chapter-347-coronation.md](./chapter-347-coronation.md) <br/>
-

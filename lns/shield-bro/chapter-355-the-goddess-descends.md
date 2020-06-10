@@ -186,8 +186,6 @@ In the area above Medea’s hand, a black, glass-like ball manifests… the pers
 "That’s–"<br/>
 Everyone else is the same.<br/>
 The deceased Queen stands there, holding up a folding fan to cover her mouth.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-354-a-sky-dyed-crimson.md](./chapter-354-a-sky-dyed-crimson.md) | [chapter-356-leveling.md](./chapter-356-leveling.md) <br/>
-

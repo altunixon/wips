@@ -152,8 +152,6 @@ I’ve heard some women like to imagine boys who cross-dress, but what do they t
 "This can’t be… I mean, what’s the point of separating man and woman anyways!? I don’t even know anymore!" (Kiel)<br/>
 Author note (TL: The Real one)<br/>
 Kiel wasn’t meant to be an important character, however the personality I gave him overlapped with another male character I planned to make down the road, so I decided to give ‘him’ a little… quirk.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-136-midnight-snack.md](./chapter-136-midnight-snack.md) | [chapter-138-same-sex-only.md](./chapter-138-same-sex-only.md) <br/>
-

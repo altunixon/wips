@@ -204,8 +204,6 @@ If the target of your revenge doesn’t plan on repenting at all, isn’t it bet
 Isn’t that right, Witch?<br/>
 But these thoughts are dangerous.<br/>
 If I go too far, I’ll get devoured by a curse, so I should stop.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-327-looking-aside.md](./chapter-327-looking-aside.md) | [chapter-329-gleipnir-rope.md](./chapter-329-gleipnir-rope.md) <br/>
-

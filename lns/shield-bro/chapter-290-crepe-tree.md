@@ -245,6 +245,5 @@ I understand it. I’d feel the same if there was a copycat who resembled me.<br
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-289-limited-time-offer.md](./chapter-289-limited-time-offer.md) | [chapter-291-dragon-faith.md](./chapter-291-dragon-faith.md) <br/>
-

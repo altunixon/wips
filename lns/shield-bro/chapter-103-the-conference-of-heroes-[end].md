@@ -220,8 +220,6 @@ From here to the end of the meeting, I don’t really remember.<br/>
 What followed was a long stream of verbal abuse.<br/>
 Shadow tried to get the meeting back under control, but it was already way past the point of no return.<br/>
 The first one to get fed up and leave was Itsuki. Ren soon followed. Finally, Motoyasu drudged off.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-102-the-conference-of-heroes-[during].md](./chapter-102-the-conference-of-heroes-[during].md) | [chapter-105-weapon-copy.md](./chapter-105-weapon-copy.md) <br/>
-

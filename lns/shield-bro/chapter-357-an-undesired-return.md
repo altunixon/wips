@@ -249,8 +249,6 @@ Ponko, Rafuko… there’s already a Raph-chan.<br/>
 "If we get troubled, we’ll think of one. Right now, I think Raphtalia’s fine. Then let’s go." (Naofumi)<br/>
 "Y-yes." (Raphtalia)<br/>
 We walk through the town before arriving at my house.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-356-leveling.md](./chapter-356-leveling.md) | [chapter-358-returning-home.md](./chapter-358-returning-home.md) <br/>
-

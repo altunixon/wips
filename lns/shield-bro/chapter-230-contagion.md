@@ -135,8 +135,6 @@ Itsuki doesn’t even have to be anywhere near the village.<br/>
 "Ha! Just go eat a crepe covered in dirt!" (Naofumi)<br/>
 From my bad habits, an angry line escaped my mouth. The line of a cheap villain.<br/>
 I really shouldn’t be provoking her right now.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-229-multiple-culprits.md](./chapter-229-multiple-culprits.md) | [chapter-231-miscalculations.md](./chapter-231-miscalculations.md) <br/>
-

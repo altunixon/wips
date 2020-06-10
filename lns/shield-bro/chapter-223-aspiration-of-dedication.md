@@ -208,6 +208,5 @@ Even now, I don’t understand Gaelion’s reason for hiding.<br/>
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-222-game-knowledge.md](./chapter-222-game-knowledge.md) | [chapter-224-fiance.md](./chapter-224-fiance.md) <br/>
-

@@ -198,8 +198,6 @@ I guess that would be difficult.<br/>
 "Fufufu, first, I’ll need to get strong enough to take down the next Filo Rial Queen." (Gaelion)<br/>
 Gaelion lets out an evil laugh. He seems to understand that he’s no match for his rival.<br/>
 Well, like that, I ended my visit to Rat’s lab.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-261-esper.md](./chapter-261-esper.md) | [chapter-263-surprise-inspection.md](./chapter-263-surprise-inspection.md) <br/>
-

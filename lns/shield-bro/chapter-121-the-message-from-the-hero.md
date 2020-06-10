@@ -137,8 +137,6 @@ And the Reson squad leader points deeper into the mountains.<br/>
 "Everyone, Follow the Hero of the Shield’s lead!" (Army person)<br/>
 "SIR YES SIR" (Entire army)<br/>
 We continue to drive off the familiars and proceed to the cave the Recon Squad found.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-120-stalling-for-time_bijd18Ub.md](./chapter-120-stalling-for-time_bijd18Ub.md) | [chapter-122-exploration.md](./chapter-122-exploration.md) <br/>
-

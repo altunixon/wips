@@ -255,8 +255,6 @@ I can’t call this power my own.<br/>
 The only thing I can really brag about since coming to this world is my knowledge of the language.<br/>
 But that’s common sense to a large part of the population, so it’s nothing special.<br/>
 To draw the Hero of the sword out, Gaelion became the bait.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-192-a-masked-man_XhLRjW8L.md](./chapter-192-a-masked-man_XhLRjW8L.md) | [chapter-194-dragon-s-sanctuary.md](./chapter-194-dragon-s-sanctuary.md) <br/>
-

@@ -208,8 +208,6 @@ I hope there isn’t too much of a difference in constitution.<br/>
 "Yes" (Lemo Kid)<br/>
 Like a mother, Rafatalia wipes the Lumo Child’s mouth and begins feeding it.<br/>
 It’s quite a peaceful scene.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-146-beastmen.md](./chapter-146-beastmen.md) | [chapter-148-failed-creation.md](./chapter-148-failed-creation.md) <br/>
-

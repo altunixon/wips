@@ -180,8 +180,6 @@ Continue doing your part as my convenient pawn.<br/>
 "Yeah. And for your sake, let’s just say that Itsuki was being used, and that the fault lies with the people who manufactured those daggers." (Naofumi)<br/>
 Is it a legendary weapon?  Is it one of the Seven Star Weapons? Its abilities seem to be high.<br/>
 And Rishia owes me quite a few favors.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-244-justice-vs-justice.md](./chapter-244-justice-vs-justice.md) | [chapter-246-revolution.md](./chapter-246-revolution.md) <br/>
-

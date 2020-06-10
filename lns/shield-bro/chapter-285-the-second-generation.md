@@ -217,8 +217,6 @@ How selfish a bird.<br/>
 "Ah, Naofumi-sama…" (Atlas)<br/>
 As always, Atlas is sleeping near me.<br/>
 Fohl failed in dragging her away.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-284-the-battle-for-the-second-tower.md](./chapter-284-the-battle-for-the-second-tower.md) | [chapter-286-war-reversal.md](./chapter-286-war-reversal.md) <br/>
-

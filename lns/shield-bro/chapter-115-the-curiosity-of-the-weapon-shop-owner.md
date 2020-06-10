@@ -163,8 +163,6 @@ But by stats alone, my Defense is now 4 times what is was when I got back to the
 Yesterday, I let myself get attacked by all sorts of monsters, and I didn’t even feel anything.<br/>
 … However, I myself never let damage get through to me to begin with.<br/>
 After leaving the Old Man’s store, I go the Castle’s courtyard to experiment.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-114-meteor-shield.md](./chapter-114-meteor-shield.md) | [chapter-116-blue-sand-sound_yKxDvt01.md](./chapter-116-blue-sand-sound_yKxDvt01.md) <br/>
-

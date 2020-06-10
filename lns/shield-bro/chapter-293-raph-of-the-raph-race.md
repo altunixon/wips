@@ -152,6 +152,5 @@ And so, I returned home after talking with two of the women whose ages were on t
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-292-a-new-sort-of-carriage.md](./chapter-292-a-new-sort-of-carriage.md) | [chapter-294-collect-・-wall-・-ball.md](./chapter-294-collect-・-wall-・-ball.md) <br/>
-

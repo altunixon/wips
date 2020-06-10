@@ -213,6 +213,5 @@ Rishia are reading a book that she took out of nowhere. She is a hardworking per
 I began compounding for the preparation of my next plan. While at it, I went and checked the level of all slaves. It seem the average level that they raised to is 15。Their status all rise as well. Judging from Raphtalia’s growth pattern, I want to raise the level of them even for those that are unsuitable to combat to at least 30.<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-134-balloon-shield.md](./chapter-134-balloon-shield.md) | [chapter-135-edited-version_XehGmJ4C.md](./chapter-135-edited-version_XehGmJ4C.md) <br/>
-

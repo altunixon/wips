@@ -208,8 +208,6 @@ Right… the Bitch Goddess killed them herself. That was the scene she showed us
 There was no instant death.<br/>
 The pain of their bodies crumbling to pieces. Fear. Despair. Regret. She made a show of all of them.<br/>
 The expression of those betrayed by those they trusted. Their thoughts… Seeing all of them, the Goddess of all Bitches held a pleasant expression, and let out a ridiculing laugh.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-371-proxy.md](./chapter-371-proxy.md) | [chapter-373-a-pair-of-powers.md](./chapter-373-a-pair-of-powers.md) <br/>
-

@@ -132,6 +132,5 @@ That was until… there was a disturbance in the neighbouring town the next day.
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-224-fiance.md](./chapter-224-fiance.md) | [chapter-226-abnormality.md](./chapter-226-abnormality.md) <br/>
-

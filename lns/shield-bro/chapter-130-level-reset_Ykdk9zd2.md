@@ -212,6 +212,5 @@ The interaction is considerably different from before. <br/>
 I'm aware that I’m staring back and inspecting him. <br/>
 He's a bit childish but.....my evaluation of him rose a little.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-129-social-standing.md](./chapter-129-social-standing.md) | [chapter-131-where-we-met.md](./chapter-131-where-we-met.md) <br/>
-

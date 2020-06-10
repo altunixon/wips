@@ -182,8 +182,6 @@ If I leave it to Raphtalia, who seems strict on public morals, I think I’ll fi
 "Well, from here on out, I’ll be doing my morning warm up, and then I’m going to make breakfast. Won’t you accompany me?" (Naofumi)<br/>
 "Understood." (Raphtalia)<br/>
 And so, Raphtalia joined me in my daily routine, and I resumed my work.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-260-growing-worse.md](./chapter-260-growing-worse.md) | [chapter-262-lab-visit.md](./chapter-262-lab-visit.md) <br/>
-

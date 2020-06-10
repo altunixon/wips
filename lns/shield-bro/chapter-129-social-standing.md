@@ -128,8 +128,6 @@ Trash points his finger and tries to advance on us as we leave the throne room.<
 But the soldiers surrounding him succeed in restraining him.<br/>
 He can’t even talk to me anymore. The Queen does good work.<br/>
 Is that man really one of the Seven Star Heroes? That’s definitely a lie.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-128-a-hero-s-treatment_PR1Uu28w.md](./chapter-128-a-hero-s-treatment_PR1Uu28w.md) | [chapter-130-level-reset_Ykdk9zd2.md](./chapter-130-level-reset_Ykdk9zd2.md) <br/>
-

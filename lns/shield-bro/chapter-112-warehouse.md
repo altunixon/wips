@@ -148,6 +148,5 @@ To answer those feelings, I clearly say.<br/>
 Naofumi:"Then, become my slave."<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-111-the-king-i-can-see-as-nothing-but-a-fool.md](./chapter-111-the-king-i-can-see-as-nothing-but-a-fool.md) | [chapter-113-a-way-to-become-stronger.md](./chapter-113-a-way-to-become-stronger.md) <br/>
-

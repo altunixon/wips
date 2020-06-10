@@ -800,6 +800,5 @@ This bit might not be of any worth, but the one who sold out the accessory merch
 　ともあれ、こうして盗賊から奪った宝で懐を温めた俺達の行商は続いていく。 <br/>
 　どうでも良い補足かもしれないが、アクセサリー商が乗っている情報を盗賊に売った商人組合員がいたそうなのだが、後に粛清されたらしい。
 <br/>
-<br/>
+<br/> <br/>
 [chapter-035-rumors-of-our-hero_1gXK85Zh.md](./chapter-035-rumors-of-our-hero_1gXK85Zh.md) | [chapter-037-magical-study_JjS4VuLQ.md](./chapter-037-magical-study_JjS4VuLQ.md) <br/>
-

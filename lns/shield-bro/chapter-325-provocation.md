@@ -149,8 +149,6 @@ For argument’s sake, she should be much higher than Firo in level, but… Firo
 When I say as such, Tact completely falls for my provocations.<br/>
 "Of course! Let’s start the battle we were certain to win from the start!" (Tact)<br/>
 And everyone started their own battles.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-324-the-king-of-wisdom.md](./chapter-324-the-king-of-wisdom.md) | [chapter-326-x.md](./chapter-326-x.md) <br/>
-

@@ -237,6 +237,5 @@ A big black shadow stretched its arm towards me. <br/>
  <br/>
 Naofumi: "UWAAAAAAAAAAAAAAAAAAAAAAAH"
 <br/>
-<br/>
+<br/> <br/>
 [chapter-042-the-village-of-plague_4SqRZHzS.md](./chapter-042-the-village-of-plague_4SqRZHzS.md) | [chapter-044-shield-of-rage_maLEJtNn.md](./chapter-044-shield-of-rage_maLEJtNn.md) <br/>
-

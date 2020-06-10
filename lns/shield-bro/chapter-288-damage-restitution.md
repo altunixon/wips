@@ -304,8 +304,6 @@ I mean, it’s true. I feel kinda tired.<br/>
 "Ah, yes, yes." (Naofumi)<br/>
 Anyways, it seems Fohl became Raphtalia’s younger brother (Follower).<br/>
 … But I think her real age is lower than his.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-287-research-results.md](./chapter-287-research-results.md) | [chapter-289-limited-time-offer.md](./chapter-289-limited-time-offer.md) <br/>
-

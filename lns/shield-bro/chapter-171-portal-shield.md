@@ -138,6 +138,5 @@ That’s why the other heroes didn’t use carriages.<br/>
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-170-trash-and-hakuko_QmkDLfEf.md](./chapter-170-trash-and-hakuko_QmkDLfEf.md) | [chapter-172-training.md](./chapter-172-training.md) <br/>
-

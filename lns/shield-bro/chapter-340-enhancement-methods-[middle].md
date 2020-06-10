@@ -165,8 +165,6 @@ Next is… Protector, a method that eliminates the chance of failure for the Ref
 The amount of money we waste is tremendous!<br/>
 Screw this, you bourgeoisie!<br/>
 Though it’s useful, this isn’t some goddamn Freemium.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-339-enhancement-methods-[beginning].md](./chapter-339-enhancement-methods-[beginning].md) | [chapter-341-enhancement-methods-[end].md](./chapter-341-enhancement-methods-[end].md) <br/>
-

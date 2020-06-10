@@ -303,6 +303,5 @@ I wonder what the other heroes would say. <br/>
 ""Yay~!"" <br/>
 "Okay!"
 <br/>
-<br/>
+<br/> <br/>
 [chapter-059-firo-s-secret_LX5DR78b.md](./chapter-059-firo-s-secret_LX5DR78b.md) | [chapter-061-persuasion_JQ6NKR7n.md](./chapter-061-persuasion_JQ6NKR7n.md) <br/>
-

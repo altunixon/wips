@@ -165,6 +165,5 @@ Naofumi: "The others-"<br/>
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-228-brainwashing.md](./chapter-228-brainwashing.md) | [chapter-230-contagion.md](./chapter-230-contagion.md) <br/>
-

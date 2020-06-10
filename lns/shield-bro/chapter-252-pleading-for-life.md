@@ -147,8 +147,6 @@ Like this, I finally cut my long ties with Witch… It was so abrupt that it se
 <br/>
 (Note: "I just realized. Did Naofumi just invent AVs [adult videos] for this world?"<br/>
 -Psychronia)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-251-bloodline-of-heroes.md](./chapter-251-bloodline-of-heroes.md) | [chapter-253-yes-man.md](./chapter-253-yes-man.md) <br/>
-

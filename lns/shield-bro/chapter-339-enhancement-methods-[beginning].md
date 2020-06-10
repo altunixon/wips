@@ -150,6 +150,5 @@ It would be bothersome in various ways so I diverted the conversation.<br/>
 <br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-338-one-who-claimed-to-be-god.md](./chapter-338-one-who-claimed-to-be-god.md) | [chapter-340-enhancement-methods-[middle].md](./chapter-340-enhancement-methods-[middle].md) <br/>
-

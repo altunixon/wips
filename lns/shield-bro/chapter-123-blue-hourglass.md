@@ -206,6 +206,5 @@ Shadow:"Roger degojaru."<br/>
 We postpone the battle against the spirit turtle’s heart and withdraw.<br/>
 <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-122-exploration.md](./chapter-122-exploration.md) | [chapter-124-heart-of-the-spirit-turtle.md](./chapter-124-heart-of-the-spirit-turtle.md) <br/>
-

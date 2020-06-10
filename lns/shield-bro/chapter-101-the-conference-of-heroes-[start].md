@@ -206,8 +206,6 @@ I will let this opportunity slide.<br/>
 "Okay." (Naofumi)<br/>
 "Yes, Yes." (Motoyasu)<br/>
 None of these people are repenting, are they.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-100-hot-springs_F3umyv3i.md](./chapter-100-hot-springs_F3umyv3i.md) | [chapter-102-the-conference-of-heroes-[during].md](./chapter-102-the-conference-of-heroes-[during].md) <br/>
-

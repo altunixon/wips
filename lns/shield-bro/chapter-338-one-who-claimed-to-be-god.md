@@ -117,8 +117,6 @@ As if we could spread information like that.<br/>
 And so, because we have plenty of Legendary Heroes and Vassals at work here, it seems we’ve been given a bit of an extension on the time until the next wave, based on the time recorded on Melromark’s hourglass.<br/>
 We’ll have to set out to deal with other countries’ waves, but there are plenty of things we’ll have to do first.<br/>
 We learn that some even more troublesome things are lying around less than half a day after we transfer back to the castle.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-337-world-assimilation.md](./chapter-337-world-assimilation.md) | [chapter-339-enhancement-methods-[beginning].md](./chapter-339-enhancement-methods-[beginning].md) <br/>
-

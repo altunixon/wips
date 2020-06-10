@@ -169,8 +169,6 @@ But to use Revelation level magic, is she trying to kill me?<br/>
 "Master, let’s go to Melty’s place as well" (Firo)<br/>
 "…Yes, lets." (Naofumi)<br/>
 This village is dangerous. We fly in the direction of castle.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-382-the-christmas-of-the-shield-hero-part-5.md](./chapter-382-the-christmas-of-the-shield-hero-part-5.md) | [chapter-384-the-christmas-of-the-shield-hero-conclusion.md](./chapter-384-the-christmas-of-the-shield-hero-conclusion.md) <br/>
-

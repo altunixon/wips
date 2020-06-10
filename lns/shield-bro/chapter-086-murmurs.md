@@ -1,4 +1,4 @@
-[chapter-085-the-companions-of-the-spear-hero.md](./chapter-085-the-companions-of-the-spear-hero.md) | [chapter-087-the-spear-hero-&amp;-my-companions.md](./chapter-087-the-spear-hero-&amp;-my-companions.md) <br/>
+[chapter-085-the-companions-of-the-spear-hero.md](./chapter-085-the-companions-of-the-spear-hero.md) | [chapter-087-the-spear-hero-&-my-companions.md](./chapter-087-the-spear-hero-&-my-companions.md) <br/>
 <br/>
 Apologies for the end part, I got extremely confused. It was just Woman1 imitating Motoyasu.<br/>
 Chapter 86<br/>
@@ -169,6 +169,5 @@ With such feelings, we finished the demon hunt and returned to the main island.<
 Compared to what I imagined would happen, it was unexpectedly decent.<br/>
 <br/>
 <br/>
-<br/>
-[chapter-085-the-companions-of-the-spear-hero.md](./chapter-085-the-companions-of-the-spear-hero.md) | [chapter-087-the-spear-hero-&amp;-my-companions.md](./chapter-087-the-spear-hero-&amp;-my-companions.md) <br/>
-
+<br/> <br/>
+[chapter-085-the-companions-of-the-spear-hero.md](./chapter-085-the-companions-of-the-spear-hero.md) | [chapter-087-the-spear-hero-&-my-companions.md](./chapter-087-the-spear-hero-&-my-companions.md) <br/>

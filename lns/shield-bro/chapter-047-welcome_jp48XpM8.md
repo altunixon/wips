@@ -248,6 +248,5 @@ Raphtalia: "So that's what you mean...... It's nothing" <br/>
 I don't understand Raphtalia sometimes. <br/>
 Well, either way it's decided.
 <br/>
-<br/>
+<br/> <br/>
 [chapter-046-exit-by-a-kick,-again_RV2qA2Td.md](./chapter-046-exit-by-a-kick,-again_RV2qA2Td.md) | [chapter-048-accusations-of-identity-fraud_MhnD62cv.md](./chapter-048-accusations-of-identity-fraud_MhnD62cv.md) <br/>
-

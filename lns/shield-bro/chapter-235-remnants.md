@@ -171,8 +171,6 @@ On my orders, my comrades nod.<br/>
 The Three Hero Church remnants use the brainwashed people as shields to retreat further into the church, and we eventually lose sight of them.<br/>
 Of course, we tried to pursue, but there were too many enemies.<br/>
 "Damn… Running is all they’re good at." (Naofumi)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-234-mob-mentality.md](./chapter-234-mob-mentality.md) | [chapter-236-demon-lord-of-the-shield.md](./chapter-236-demon-lord-of-the-shield.md) <br/>
-

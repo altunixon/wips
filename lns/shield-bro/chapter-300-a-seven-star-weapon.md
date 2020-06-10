@@ -168,8 +168,6 @@ But in a game I know of, it’s the strongest weapon. (TL: Perhaps Castlevania)<
 <br/>
 <br/>
 <br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-299-the-last-of-the-seven-stars.md](./chapter-299-the-last-of-the-seven-stars.md) | [chapter-301-the-eve-of-houou.md](./chapter-301-the-eve-of-houou.md) <br/>
-

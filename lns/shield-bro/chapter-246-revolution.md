@@ -142,8 +142,6 @@ If we keep dispelling the brainwashing, their forces will be lower than expected
 "I think she’s holed up at the top of the castle." (Soldier)<br/>
 "Then we’ll head there." (Naofumi)<br/>
 Taking the soldiers with us, we head towards the Queen.<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-245-awakening.md](./chapter-245-awakening.md) | [chapter-247-the-castle-town-riot.md](./chapter-247-the-castle-town-riot.md) <br/>
-

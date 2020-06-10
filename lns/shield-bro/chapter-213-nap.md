@@ -140,8 +140,6 @@ That’s a bit much, I told the Queen.<br/>
 Well, it’s not like he’s repenting anything. He probably just wants to show Firo that he’s starting over for her sake.<br/>
 "After that, how should I say this. Up until that point, things proceeded relatively smoothly, but after that, the Hero of the Spear began to take increasingly troublesome action regarding the Filo Rials within the castle…" (Queen)<br/>
 "Ha?" (Naofumi)<br/>
-Share this:TwitterFacebookLike this:Like Loading... <br/>
 <br/>
-<br/>
+<br/> <br/>
 [chapter-212-love-hunter_XjQMyz4y.md](./chapter-212-love-hunter_XjQMyz4y.md) | [chapter-214-the-revolutionary-faction.md](./chapter-214-the-revolutionary-faction.md) <br/>
-

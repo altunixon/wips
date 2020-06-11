@@ -108,11 +108,11 @@ Wait, where was Trash during all of this?<br/>
 He is staring at me with an irritated expression.<br/>
 Is he under surveillance, and unable to approach me?<br/>
 As I think this… I notice he is wearing a collar.  (TL: What sort of play is this?)<br/>
-"___!"(Trash)<br/>
+"`___`!"(Trash)<br/>
 Whenever he tries to speak, the collar seems to glow.<br/>
 It appears to rapidly tighten. Can I laugh?<br/>
 I think I will laugh.<br/>
-"_______!!" (Trash)<br/>
+"`_______`!!" (Trash)<br/>
 He seems furious.<br/>
 But the collar shuts him up whenever he tries to scream.<br/>
 I give a cynical smile.<br/>
@@ -123,7 +123,7 @@ Rafatalia says in a stern tone.<br/>
 "I understand, but today I’m tired. Let’s go back to our room and rest." (Naofumi)<br/>
 When I woke up today, it had already been past noon. The days are passing by too quickly.<br/>
 "See ya, Trash of the world. Your bitch of a daughter’s situation is uncertain, and the other heroes are yet to be found. You will be forever remembered as the Foolish King who led 3 of the 4 heroes to their demise. Good for you, you’ll be famous." (Naofumi)<br/>
-"_______!!!!" (Trash)<br/>
+"`_______`!!!!" (Trash)<br/>
 Trash points his finger and tries to advance on us as we leave the throne room.<br/>
 But the soldiers surrounding him succeed in restraining him.<br/>
 He can’t even talk to me anymore. The Queen does good work.<br/>

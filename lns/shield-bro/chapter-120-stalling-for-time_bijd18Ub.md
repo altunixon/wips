@@ -6,13 +6,13 @@ Stalling for Time <br/>
 “Understood. Then, operation start!” (random soldier) <br/>
 “Roger that. Everyone! We're going!” (shield) <br/>
 “Okay” (raphtalia) <br/>
-“Oka~y” (filo) <br/>
+“Oka\~y” (filo) <br/>
 “I'll do my best!” (rishia) <br/>
  <br/>
 Ans thus Filo and I faced the Spirit Turtle for another assault. <br/>
 During that time, Raphtalia, Rishia and half of the Allied forces circled around the Spirit Turtle's back to mount it. <br/>
  <br/>
-“Together with Master~” (filo) <br/>
+“Together with Master\~” (filo) <br/>
  <br/>
 Filo let me ride on her in good humour, and ran towards the Spirit Turtle. <br/>
 Such a fearless kid. <br/>
@@ -179,7 +179,7 @@ The Spirit Turtle spat out its lightning attack and I changed to the Wrath Shiel
 And then, the Spirit Turtle's blackened leg regenerated again and it attempted to stomp on us. <br/>
  <br/>
 “Now's the time!” (shield) <br/>
-“Oka~y!” (filo) <br/>
+“Oka\~y!” (filo) <br/>
  <br/>
 Filo retreated back at a high speed and I stopped Spirit Turtle's trampling with the Wrath Shield, then started running towards its face. <br/>
 Dark Curse Burning S activated and black flames coiled around with me as the centre. <br/>
@@ -231,7 +231,7 @@ Well, this situation is the fault of those other heroes. <br/>
  <br/>
 The familiars surrounding me were blown away by a tornado <br/>
  <br/>
-“I'm back~!” (filo) <br/>
+“I'm back\~!” (filo) <br/>
 “How was it?” (shield) <br/>
 “They're hurrying but said to hang in there for a bit longer” (filo) <br/>
 “I see.......” (shield) <br/>

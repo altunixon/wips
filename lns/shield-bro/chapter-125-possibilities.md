@@ -24,7 +24,7 @@ The casualties are great, but we will still be able to carry out the mission.<br
 By this pattern…<br/>
 The Spirit turtle’s heart begins releasing the magic energy it has stored up.<br/>
 I rush in front and hold up my shield to deflect the blasts of energy.<br/>
-"_____________!" (Spirit Turtle)<br/>
+"`_____________`!" (Spirit Turtle)<br/>
 "Gu-…" (Naofumi)<br/>
 The output is even higher than before.<br/>
 The white masses the heart had released are now re-assimilating with it to increase the output.<br/>
@@ -52,7 +52,7 @@ I look behind me and see Firo waving happily. She looks slightly more inflated t
 Firo faces the heart and opens her mouth. Something comes out.<br/>
 I think it is the air that she sucked into her body.<br/>
 A sphere of pressurized air flies towards the heart.<br/>
-"_______!!!" (Spirit Turtle)<br/>
+"`_______`!!!" (Spirit Turtle)<br/>
 The turtle hastily deploys a magic barrier around its heart, as if it sensed the dangers presented by Firo’s attack.<br/>
 The familiars, as if protecting the organ, fly head on into the ball of air.<br/>
 But the sphere merely sucks in any monster that gets close, and continues to fly at the heart.<br/>
@@ -66,7 +66,7 @@ The turtle is currently focused on healing the damage caused by Firo’s attack,
 This is the end!<br/>
 「Large Scale Covenant Spell: ‘Magic Sealing’!」<br/>
 Ribbons appear from the magic circle,and begin encircling the heart, which has almost finished repairing itself.<br/>
-"____________!?" (Spirit Turtle)<br/>
+"`____________`!?" (Spirit Turtle)<br/>
 Badump… badump… ba… dump… ba… (TL: If you have a better onomatopoeia, be my guest.)<br/>
 The beating sound of the heart gets fainter, and eventually fades into nothingness.<br/>
 The monsters outside seem to have also stopped. From the next room, I can hear some noise.<br/>
@@ -117,7 +117,7 @@ I cast support magic on the party. The two rush forward.<br/>
 「Hakke Destiny Slash」 (Rafatalia)<br/>
 (TL: Hakke, Japanese pronounciation for Bagua http://en.wikipedia.org/wiki/Bagua)<br/>
 Forward! This may be rash, but there are no other options.<br/>
-"_________!?" (Spirit Turtle)<br/>
+"`_________`!?" (Spirit Turtle)<br/>
 The two fighters rush the Heart of the Spirit Turtle. The turtle tries to summon familiars to protect it.<br/>
 But those two are putting all their magic remaining into this strike. The familiars have no effect.<br/>
 There is a grotesque sound. The heart has been pierced.<br/>
@@ -128,7 +128,7 @@ I observe the heart. Just as when it had been sealed, the beating has stopped. D
 Most of the arteries around it have been reduced to scraps of flesh. The heart itself has a large hole in the center.<br/>
 If it could recover from this, it would truly be immortal.<br/>
 …badump.<br/>
-___!?<br/>
+`___`!?<br/>
 Before my very eyes, the arteries restore themselves and the hole begins to close.<br/>
 "Wha…" (Rafatalia)<br/>
 "What tenacity…" (Naofumi)<br/>

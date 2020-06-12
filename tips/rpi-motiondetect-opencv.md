@@ -1,7 +1,7 @@
 ### Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox 
 by [Adrian Rosebrock](https://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/) on June 1, 2015
 
-### Before we start, you’ll need:
+### Prerequisites
 Let’s go ahead and get the prerequisites out of the way. <br/>
 I am going to assume that you already have a Raspberry Pi and camera board. <br/>
 You should also already have OpenCV installed on your Raspberry Pi and be able to access your Raspberry Pi video stream using OpenCV. <br/>
@@ -13,8 +13,9 @@ If you don’t already have my latest **imutils** package installed, you’ll wa
 ```bash
 pip install --upgrade imutils
 ```
+**NOTE**: imutils is just used for image resizing, you could use Pil or other image utility package for the same purpose 
 
-#### Installing picamera.
+### Installing picamera.
 Before installing picamera, be sure to activate our virtual environment:
 Accessing the Raspberry Pi Camera with OpenCV and Python
 ```bash
@@ -32,6 +33,7 @@ While the standard **picamera** module provides methods to interface with the ca
 Remember, when using Python bindings, OpenCV represents images as NumPy arrays — and the array sub-module allows us to obtain NumPy arrays from the Raspberry Pi camera module .<br/>
 Assuming that your install finished without error, you now have the picamera module (with NumPy array support) installed. <br/>
 
+### Optional
 And if you’re interested in having your home surveillance system upload security photos to your Dropbox, you’ll also need the **dropbox** package: 
 ```bash
 pip install --upgrade dropbox

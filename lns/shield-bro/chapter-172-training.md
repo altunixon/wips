@@ -24,7 +24,7 @@ So were they fine if they had trained their body?<br/>
 Level raising was a completely different category. Compared to training one’s body, that was.<br/>
 Unlike simply recieving divine protection from stats, if one trains, they should have no problems with most negative conditions.<br/>
 Or perhaps I should say that these two had been doing such self-training.<br/>
-Raphtalia also did something similar, but the lost stats from the Level Reset was compensated for by strengthening with training so there was no loss. [T/N: Naofumi only got the growth correction after Raphtalia was ~Lv25 and he’s talking about that part not being boosted by the correction – Raphtalia rejected the reset so no extra bonus.]<br/>
+Raphtalia also did something similar, but the lost stats from the Level Reset was compensated for by strengthening with training so there was no loss. \[T/N: Naofumi only got the growth correction after Raphtalia was \~Lv25 and he’s talking about that part not being boosted by the correction – Raphtalia rejected the reset so no extra bonus.\]<br/>
 In short, the ones who needed stretchers were those who specialised in magic or had been power-levelling and were now bedridden.<br/>
 The method of employing a young noble or adventurer and only raising one’s level.<br/>
 You’d expect a certain extent of effectiveness and the guys from my village also raised their levels in a similar manner so it’s not a bad technique.<br/>
@@ -40,7 +40,7 @@ When I become a full-fledged member of society, always walking with a strange bo
 This kind of thinking is dangerous. I haven’t even returned yet so there’s no point in me having such expectations.<br/>
 Even if the shield remains attatched, I should think about it when the time comes.<br/>
 "You guys, I’ll have you level up as soon as we return." (naofumi)<br/>
-"Yes, Yes~" (sadina)<br/>
+"Yes, Yes\~" (sadina)<br/>
 "I know that." (fohl)<br/>
 I conveyed as such to Sadina and Fohl and we had a favourable return from our trip.<br/>
 It has been just over a day since we departed.<br/>
@@ -94,7 +94,7 @@ When she came to this village among the slaves, her initial level was 10.<br/>
 …..She was a complicated person.<br/>
 The dust cloud cleared and I could see the baby dragon’s figure.<br/>
 ….His whole body was a ball with some dragon parts attached.<br/>
-He absorbed all sorts of things… He looked like that Poyo but with bat wings and a lizard’s tail. [T/N: Poyo is an orange, round cat and main character of the series Poyopoyo Kansatsu Nikki.] <br/>
+He absorbed all sorts of things… He looked like that Poyo but with bat wings and a lizard’s tail. \[T/N: Poyo is an orange, round cat and main character of the series Poyopoyo Kansatsu Nikki.\] <br/>
 What is this?<br/>
 Firo also had a figure similar to this before.<br/>
 There’s no way he’ll become huge just like this, right?<br/>
@@ -126,7 +126,7 @@ Ugh… disgusting.<br/>
 "As if I know! You’ve never had that kind of behaviour." (naofumi)<br/>
 "But that way of playing is Firo’s!" (firo)<br/>
 "I don’t know." (naofumi)<br/>
-"Hmph~!" (firo)<br/>
+"Hmp\h~!" (firo)<br/>
 Firo ran away angrily.<br/>
 Jeez, what was she so dissatisfied about.<br/>
 Speaking of which, she also became sullen when I played with the new Philorial.<br/>
@@ -170,7 +170,7 @@ Atla inquired of Firo. Firo responded with a nod.<br/>
 "It’s okay." (firo)<br/>
 "Kyua!" (gaerion)<br/>
 Gaerion also raised his paw as if announcing his participation. [T/N: What do you call a dragon’s arm?]<br/>
-"No~!" (firo)<br/>
+"No\~!" (firo)<br/>
 Sticking her tongue out provokingly, Firo rejected Gaerion’s company.<br/>
 "Then head to somewhere with appropriate monsters with the carriage…." (naofumi)<br/>
 "Ah, I’ll be levelling in the ocean so don’t worry about me." (sadina)<br/>
@@ -200,16 +200,16 @@ I feel like Philorials are more peaceful and weak but….how is it in the wild?<
 They did have the same levels…If that’s the case, it can’t be helped.<br/>
 Besides, Firo’s spartan course is difficult, which is perfect for Fohl.<br/>
 "Then Firo." (naofumi)<br/>
-"Wha~t?" (firo)<br/>
+"Wha\~t?" (firo)<br/>
 "Go train Fohl spartanly at the highest difficulty you can manage and raise his level rapidly." (naofumi)<br/>
 "Ok!" (firo)<br/>
 "Of all things, what are you talking ab―" (fohl)<br/>
 Fohl idiotically clung to Firo’s back as he rode her.<br/>
-"We’ll be going now Master~!" (firo)<br/>
+"We’ll be going now Master\~!" (firo)<br/>
 "Ah, off you go." (naofumi)<br/>
 "Wh-what’s with this guy’s feathers! Don’t fall out! Don’t fall out! Ah, Atlaaaaaaa―" (fohl)<br/>
 Firo ran around noisily.<br/>
-Firo’s feathers were also mysterious. They could hold onto riders and made a strange song. [T/N: like how grasshoppers make music]<br/>
+Firo’s feathers were also mysterious. They could hold onto riders and made a strange song. \[T/N: like how grasshoppers make music\]<br/>
 And just like that, I could no longer hear Fohl’s voice.<br/>
 "We’ll be taking our leave now." (atla)<br/>
 "Work hard." (naofumi)<br/>
@@ -223,7 +223,7 @@ I pointed to Gaerion and explained my reasoning.<br/>
 In this village, it’s rare that someone would want to fight monsters and level up together with me.<br/>
 However if you think about fighting in the waves, it’s important know how to cooperate with me, as I can only defend.<br/>
 Actually, right now only Raphtalia and Firo have experience fighting with me, but following the plan to a certain extent would mean I should have to participate in battles too.<br/>
-All the same, if we went out to fight the waves together without being able to cooperate, there would have been no meaning in creating this village. [T/N: Naofumi created the village to form a private army to fight the waves but if they don’t cooperate, it’s the same as fighting with the random soldiers.]<br/>
+All the same, if we went out to fight the waves together without being able to cooperate, there would have been no meaning in creating this village. \[T/N: Naofumi created the village to form a private army to fight the waves but if they don’t cooperate, it’s the same as fighting with the random soldiers.\]<br/>
 "Come back before nightfall." (naofumi)<br/>
 "I got it, big bro." (kiel)<br/>
 And just like this I saw the levelling party off and resumed work in the village.<br/>

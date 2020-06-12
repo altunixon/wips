@@ -9,11 +9,6 @@ I’ll also assume that you have already read and familiarized yourself with las
 Finally, if you want to upload your home security photos to your personal Dropbox, you’ll need to register with the Dropbox Core API to obtain your public and private API keys. <br/>
 Having Dropbox API access it not a requirement for this tutorial, just a little something extra that’s nice to have. <br/>
 Other than that, we just need to pip-install a few extra packages. <br/>
-If you don’t already have my latest **imutils** package installed, you’ll want to grab that from GitHub or install/update it via
-```bash
-pip install --upgrade imutils
-```
-**NOTE**: imutils is just used for image resizing, you could use Pil or other image utility package for the same purpose 
 
 ### Installing picamera.
 Before installing picamera, be sure to activate our virtual environment:
@@ -34,6 +29,12 @@ Remember, when using Python bindings, OpenCV represents images as NumPy arrays �
 Assuming that your install finished without error, you now have the picamera module (with NumPy array support) installed. <br/>
 
 ### Optional
+If you don’t already have my latest **imutils** package installed, you’ll want to grab that from GitHub or install/update it via
+```bash
+pip install --upgrade imutils
+```
+**NOTE**: imutils is just used for image resizing, you could use PIL or other image utility package for the same purpose. <br/>
+
 And if you’re interested in having your home surveillance system upload security photos to your Dropbox, you’ll also need the **dropbox** package: 
 ```bash
 pip install --upgrade dropbox

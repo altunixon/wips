@@ -10,12 +10,12 @@ The next morning.<br/>
 "Come to think of it, the messenger knight isn’t here." (naofumi)<br/>
 I didn’t see the female messenger knight. Where did she go?<br/>
 Raphtalia, Rishia and some of the slaves were taken to a training camp by the Granny.<br/>
-Gaerion was playing with Atla and Taniko…….. [T/N: Which is better Gaelion or Gaerion?]<br/>
+Gaerion was playing with Atla and Taniko…….. \[T/N: Which is better Gaelion or Gaerion?\]<br/>
 *Growl*……..<br/>
 Gaerion complained of hunger.<br/>
 His consumption of the Bioplant’s fruit was so fast, its production couldn’t keep up.<br/>
 "Then you guys go hunting again today." (naofumi)<br/>
-"Oka~y." (taniko)<br/>
+"Oka\~y." (taniko)<br/>
 "Kyua!" (gaerion)<br/>
 "We’ll be going." (atla)<br/>
 "Atla! I’m going too." (fohl)<br/>
@@ -28,7 +28,7 @@ Well, isn’t it fine.<br/>
 "You’re not a monster, Gaerion!" (taniko)<br/>
 And so they left, with such a hubbub.<br/>
 I’m glad that they seem to be having fun.<br/>
-"Well I guess I’ll also go hunting in the ocean~ I wanted to raise my level anyway." (sadina)<br/>
+"Well I guess I’ll also go hunting in the ocean\~ I wanted to raise my level anyway." (sadina)<br/>
 Sadina said that naturally, and headed to the ocean.<br/>
 Now then, I should also go do some land management.<br/>
 The villagers had my instructions, and it became relatively deserted in the daytime.<br/>

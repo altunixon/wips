@@ -42,7 +42,7 @@ Firo stares out Motoyasu as she sings. She also begins dancing.<br/>
 Just looking at her seems to give me energy. It sounds like a song from that one anime with a transforming plane. (TL: According to the comments, this is a Macross reference. I’m off to go watch it.)<br/>
 The song ends, and Firo goes back to Motoyasu’s side.<br/>
 "Please, just ignore me." (Motoyasu)<br/>
-"Ye~s" (Firo)<br/>
+"Ye\~s" (Firo)<br/>
 Is what she says. She starts rummaging through the various items she received.<br/>
 "Eat this. It always gives me energy." (Firo)<br/>
 Motoyasu finally takes the food and flowers presented to him.<br/>
@@ -123,7 +123,7 @@ Why did she approach him even though she hated him?<br/>
 But the medicine was too potent for Motoyasu.<br/>
 He’s going to become annoying.<br/>
 "Next time you see him, tell him the lines I taught you in advance." (Naofumi)<br/>
-"Yes~" (Firo)<br/>
+"Yes\~" (Firo)<br/>
 "Well then, let’s get breakfast and prepare to depart." (Naofumi)<br/>
 I open the door to the room.<br/>
 "Good Morning, dear father-in-law." (Motoyasu)<br/>

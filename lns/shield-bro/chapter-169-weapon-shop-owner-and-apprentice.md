@@ -2,13 +2,13 @@
 <br/>
 I feel like my translations seem to keep getting worse…but everyone probably can’t tell because they compare it to all the machine translations 😐<br/>
 Anyway~ thank you for all your patience (:<br/>
-I’ll be editing 170~172 and fixing them up before I re-post them on Ohanashimi.<br/>
+I’ll be editing 170\~172 and fixing them up before I re-post them on Ohanashimi.<br/>
 The weapon shop’s apprentice<br/>
 "Yaaahhhhhh!" (firo)<br/>
 "Firo-taaa―….." (motoyasu)<br/>
 I saw Motoyasu off with a sigh as he flew off into space for the third time today.<br/>
 He’ll probably arrive ahead of us with his transfer skill, but she did well.<br/>
-"As I thought, being with the Hero of the Shield-sama is entertaining~" (sadina)<br/>
+"As I thought, being with the Hero of the Shield-sama is entertaining\~" (sadina)<br/>
 Sadina cackled with laughter at the sight of Motoyasu flying into space.<br/>
 I feel like she was always laughing, but was that just my imagination?<br/>
 Even Fohl screamed in the beginning. [T/N: When he first saw Motoyasu go flying]<br/>

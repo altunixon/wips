@@ -211,7 +211,8 @@ delta = |background_model – current_frame|
 
 <img src="https://pyimagesearch.com/wp-content/uploads/2015/05/frame_delta_example.jpg">
 Figure 3: An example of the frame delta, the difference between the averaged frames and the current frame. <br/>
-We can then threshold this delta to find regions of our image that contain substantial difference from the background model — these regions thus correspond to “motion” in our video stream:
+We can then threshold this delta to find regions of our image that contain substantial difference from the background model — these regions thus correspond to “motion” in our video stream: <br/>
+
 ```python
     # threshold the delta image, dilate the thresholded image to fill
     # in holes, then find contours on thresholded image

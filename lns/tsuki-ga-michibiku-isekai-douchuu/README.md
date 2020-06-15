@@ -47,9 +47,10 @@ foreach ($R in $A) {
         if ($cell -ne $null) {
             $L = ($y[$cell].split(':'))
             $T = $L[1].PadLeft(3 , ' ')
-            $row += ($cell.ToString().PadLeft(3 , ' ') + ' | ' + $T + ' | [@' + $L[0] + '](' + $L[0] + ') | ')
+            $lnk = '[@' + $L[0] + '](' + $L[0] + ')'
+            $row += ($cell.ToString().PadLeft(3 , ' ') + ' | ' + $T + ' | ' + $lnk + ' | ')
         } else {
-            $row += '| | | '
+            $row += '    |     | ' + $(' ' * $lnk.Length) + ' | '
         }
     }
     Write-Host $row

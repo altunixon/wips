@@ -17,7 +17,7 @@ $y = ($x.Split([Environment]::NewLine, [StringSplitOptions]::RemoveEmptyEntries)
 $I = $($y.Length - 1)
 $C = 3 # column
 $R = [int]($I / $C)
-$H = "| No. | Cnt | Link |" + $(' | | |'  * $( $C - 1)) + "`n|" + $('----:|----:|:------------------------|' * $C)
+$H = "| No. | Cnt | Link    |" + $(' =3= | =3= | ===7=== |'  * $( $C - 1)) + "`n|" + $('----:|----:|:--------|' * $C)
 
 # split array horizontally
 $A = @()
@@ -40,19 +40,24 @@ if ($I -gt $B) {
 }
 
 # draw table
-Write-Host $H
+$D = $H + "`n"
+# Write-Host $H
+$refer = "`n`n`n"
 foreach ($R in $A) {
     $row = '| '
     foreach ($cell in $R) {
         if ($cell -ne $null) {
             $L = ($y[$cell].split(':'))
             $T = $L[1].PadLeft(3 , ' ')
-            $lnk = '[@' + $L[0] + '](' + $L[0] + ')'
+            $lnk = '[@' + $L[0].split('./')[2] + ']'
+            $refer += $lnk + ': ' + $L[0] + "`n"
             $row += ($cell.ToString().PadLeft(3 , ' ') + ' | ' + $T + ' | ' + $lnk + ' | ')
         } else {
             $row += '    |     | ' + $(' ' * $lnk.Length) + ' | '
         }
     }
-    Write-Host $row
+    $D += $row + "`n"
 }
+$D += $refer
+Write-Host $D
 ```

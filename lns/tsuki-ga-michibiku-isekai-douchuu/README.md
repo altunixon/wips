@@ -4,20 +4,25 @@ ls -1 | xargs -I {} sed -i '/__ATA\.cmd\.push/,/\}\);/d' "{}"
 ```
 #### TOC Generator
 ```powershell
-$x="./c018.md:2
-./c048.md:1
-./c065.md:1
-./c293.md:1
-./c297.md:2
-./c302.md:2
-./extra_48.md:1"
+$x="./c075.md:31
+./c076.md:43
+./c077.md:57
+./c152.md:17
+./c153.md:137
+./c158.md:61
+./c159.md:70
+./c163.md:46
+./c168.md:58
+./c268.md:27
+./c269.md:14
+./c271.md:18"
 
 $y = ($x.Split([Environment]::NewLine, [StringSplitOptions]::RemoveEmptyEntries))
 
 $I = $($y.Length - 1)
 $C = 3 # column
 $R = [int]($I / $C)
-$H = "| No. | Cnt | Link    |" + $(' =3= | =3= | ===7=== |'  * $( $C - 1)) + "`n|" + $('----:|----:|:--------|' * $C)
+$H = "| No. | Cnt | Link    |" + $(' === | === |  =====  |'  * $( $C - 1)) + "`n|" + $('----:|----:|:--------|' * $C)
 
 # split array horizontally
 $A = @()
@@ -60,4 +65,6 @@ foreach ($R in $A) {
 }
 $D += $refer
 Write-Host $D
+
+Set-Content -Path 'C:\Users\70252921\Desktop\FPT\NOTES\toc.txt' -Value $D
 ```

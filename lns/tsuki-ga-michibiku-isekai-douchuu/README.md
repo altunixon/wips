@@ -66,5 +66,5 @@ foreach ($R in $A) {
 $D += $refer
 Write-Host $D
 
-Set-Content -Path 'C:\Users\70252921\Desktop\FPT\NOTES\toc.txt' -Value $D
+Set-Content -Path './toc.txt' -Value $D
 ```

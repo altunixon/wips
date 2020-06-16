@@ -1,0 +1,107 @@
+<br/>
+I could’ve finished the whole chapter, I really could’ve done that. But my mind can’t take it anymore for tonight.<br/>
+Nonetheless, a promise is a promise. Two chapters in December. One chapter before New Year’s Eve. I had to release something. So here you go. Here’s half of the chapter. Consider it the prologue or something, since it’s practically the early chapter of Volume 3.<br/>
+The rest of the chapter will be released in the upcoming days. I’d like to finish by the 1st, but there’s a good chance that you won’t see it until the 4th.<br/>
+To those who’d prefer me to release full chapters instead, don’t worry, I won’t make this a habit.<br/>
+Enjoy.<br/>
+ <br/>
+P.S. I couldn’t get over it. Oof.<br/>
+Sychev.<br/>
+<br/>
+ <br/>
+Chapter XX – The Girl of the White Birch Forest (1/2)<br/>
+The Federal Monarchy of St. Gallen, one of the great four countries of the continent, is also known as the "Country of Woods and Soldiers".<br/>
+The vital points of the country are torn by a black forest, where all kinds of trees would embrace its scattered plains, where its lords reside, from all sides. Its transient union has only been going for the last two hundred years, which makes the country a remarkably young one, even among the history of the continent.<br/>
+With the Heidebreicht Dynasty of the Great Kingdom of Grandonburg, the house that founded its capital in the Eastern Plains, Gallerien, as the head of the federation, a system was placed to arbitrate the interests of the federated medium and small-sized states and the aristocrats under their banner. It must be said that the risk of running such system is that the country would be much more brittle, even compared to its neighboring country Arquell, where its centralists and its decentralists are currently quarrelling.<br/>
+However, St. Gallen sees a certain level of stability, and its influence ranks alongside the other great powers. What is the source of that?<br/>
+—- It is their strength.<br/>
+In the continent of Ithuselah, where many creatures that pose a threat to humanity, like monsters or demihumans, still remain, forests are where magical beings reside. Forests are where evil insects, magical beasts, undead, and demons run rampant,  and demons – they’re literally a nest of devils. The ancestors of the people of the great eastern power that is St. Gallen settled in these forested lands, and stood their ground in the conflicts against fellow humans while they waged their struggle for survival against the monsters.<br/>
+And their history of endless conflict gave birth to a martial country where the strongest great king would rule over its princes. A powerhouse which, while held in contempt by the other countries as a land of savages and the unsophisticated, could never be made light of in terms of strength. Such is the Federal Monarchy of St. Gallen.<br/>
+However, while the strength of the people who live there has increased, it doesn’t mean that the demons there have grown weaker.<br/>
+—- The rule of the jungle reigns supreme, it’s all a survival of the fittest.<br/>
+Does the life that has been polished by the severe laws of nature shines for the very reason that it is in a state of a fierce struggle? As humans cut down trees and clear the forests, the monsters that live in the remaining sea of trees get even stronger. Sometimes they would eat the invading humans, other times they’d eat their fellow forest-dwelling brethren over a territory struggle. It’s like a curse, handed down to them over and over again since time immemorial.<br/>
+Humans would fight their fellow humans, humans and monsters would fight each other, monsters would fight their fellow monsters.<br/>
+A country spread over a quiet forest, yet coloured by the history of conflicts, St. Gallen.<br/>
+In this land where many unexplored places still remain, numerous powerful monsters continue to live.<br/>
+ <br/>
+<br/>
+ <br/>
+Bow in one hand, and quiver on the back. Follow the game, and run through the trees. She’d go through the woods like the blowing wind, and surely that way the branches would never raise a sound. This moment of gallantly hunting was, more than anything, the most joyous moment for her.<br/>
+Despite what the adults back in her village said, this was something she couldn’t let go of.<br/>
+‘Besides, this is for everyone’s sake’. Verche gave the elevating spice-like feeling of guilt behind her thoughts such an excuse. If she was hunting the beasts that wreak havoc and disturb the tranquility of the forest, then it could be said that she was there to protect the forest’s harmony and peace. And thus, it could also be said that she was fulfilling her duty to her clan.<br/>
+As she was thinking so, her long ears twitched as it sensed the sign of an approaching game. The girl was, indeed, an elf. The length of her ears were different than the humans’, and her skin had a beautifully fair complexion to it. Her bow-and-arrow carrying arms and ground-traversing legs were slender and as supple as an antelope. Save for her excitement-tinged perfectly round eyes, she looked like the image that the people of the world would conjure if they were asked to imagine how an Elven girl would look like.<br/>
+Normally, Elves don’t have a taste for blood. Battles would upset the well-ordered forest that they maintain. However, the young Verche, who was about to reach a hundred years old in age, didn’t fit the trope. While the other daughters of the clan were learning craftsmanship and embroidery, she made merry and hunted with the boys’ clique instead. Moreover, she could also bring down game twice the size of an average man. There was also that one time when she brought down a bear all by herself.<br/>
+She was certainly an eccentric one. The gossips in her village would backbite her, saying things like "probably the blood of a human got mixed in there". She also had people who said that she was such a savage they couldn’t believe that she was a fellow elf. But unfortunately, her ears were as long as the other people, and she was even proud with how fine the shape of her ears were. And every time the other people would say that to her, she’d refute with these words,<br/>
+‘This is also one way of being an elf.’<br/>
+‘Elves are beings of nature’. She’d follow the rights in that course and correct the wrongs. That meant that sometimes her heart would rage like a storm, and she would thrash her adversaries hard like a thunder. For her, one of the aspect of being ‘natural’ was being able to express such things.<br/>
+TL Note: "Nature" and "Natural" has the same kanji.<br/>
+ <br/>
+It was never Verche’s intention to imitate the tree-cutting, forest-burning humans who would just kill senselessly. It was just that she brought up her name before anyone else when the village said that they were in need of a hunter, and she’d also hunt particular big games only. She took pride in being a protector of the forest where she was born and the village where she grew up. The fact that the people around her couldn’t understand this was the source of her frustration.<br/>
+‘………….. There it is!’<br/>
+She caught the shadow of her game in front of her and licked her lips. That particular conduct had also got her chided by the adults, citing that it was immodest, but never once did she try to fix that habit.<br/>
+Her game for that day was a large wild boar that recently wandered into the forest. It had severely destroyed several flock of medicinal wildflowers, probably due to extreme starvation. Among humans, the ones known as "adventurers" would also come occasionally to the village’s outskirts to pick rare herbs. However, they’d normally leave about three out of ten in case that they need to collect them another time. In that respect, this boar was more ill-natured than humans.<br/>
+To Verche, this boar was an unacceptable invader. There were calls in the village for a massive hunt to bring it down. No formal order had been issued yet, but it was just a matter of time until they actually issued one. So she slipped out of the village under the pretense of practicing her archery, and then the large boar came to complement what she had partly expected.<br/>
+‘Well, apparently its intuition is better than I thought.’<br/>
+As if it caught whiff of Verche’s thirst for blood, it started to flee at full speed. Despite of its size, it turned out that it was as timid as a cow, but indeed, that very sensitiveness was necessary for beings that reside in the forests.<br/>
+"…… But, you’re still too slow."<br/>
+For Virche of the Witte clan, this white birch forest was her very own territory. The large boar might have shown her its absurdly healthy legs, but if she were to predict its escape route and make it there ahead, then it’d be easy to catch up to it. The animals known as ‘boars’ actually do worry over the little things more than one would’ve thought. It may be said that it’s in their temperament to avoid the unknown. If they were to be chased, they’d definitely follow a certain route since they were afraid of straying into places they’re not familiar of. And through prior observations, and the surrounding terrain, Verche had already figured out its escape route. If she were to take the path through the dense grove of trees, which was difficult for the boar to take, then going ahead and cutting its escape route wouldn’t be that hard.<br/>
+Sure enough, Verche, who changed her course and cut through the woods, found the boar facing sideways in a clearance in the grove of trees. It was just as she had calculated. But no matter that she could overtake it, it was impossible for her to just charge directly at that giant figure with her full force and put her own self in there. The best policy here was to aim for the game’s tender spot and shoot it in the flank from the sideways.<br/>
+She immediately took an arrow, nock, and shot. For Elves, bows and arrows – which they had already grown accustomed to in their childhoods, are like an extension of their limbs. Not to say that Verche’s archery skills were already known to be remarkably good, even among the youth in her village. If an ordinary person were to see her shot from the sidelines, they’d feel that the just as she reaches for her quiver….. at that time, an arrow would’ve already been shot before they knew it.<br/>
+—– The boar raised a shriek.<br/>
+"……. It’s stubborn."<br/>
+The game, who had just gotten shot, kept running as it swung its head in agony. Elven bows are one kind of a magic tool. If one were to get hit by an arrow shot from these bows and become careless, that arrow would pierce even deeper into them. And to think that the boar could still do that even though it was hit with one of those arrows, it appeared that its stubbornness was as large as its body size.<br/>
+Verche jumped out from the trees to the beast’s path. And then shot consecutively at the escaping boar.<br/>
+The first arrow, the second, the third – all of them hit the mark. But they were shallow hits. They weren’t enough to kill it. Its thighs were shot, so its speed fell, but the game was still running away. Verche felt irritated at her own inexperience while she admired her opponent’s survival ability. Now, her entire soul wanted to bring it down and make that strong existence part of her flesh and blood.<br/>
+"I won’t let you escape—–!"<br/>
+The Elven girl decided to pursue after the bleeding game until the bitter end.<br/>
+ <br/>
+<br/>
+ <br/>
+After that, the boar ran around for another half an hour before it fell. Meeting one’s end as the escape miserably ends, buttocks swinging, all while lying down on the soil and covered with mud, would surely seem like an ugly death to any other people. But a hunter would never think so. Especially Elves who reside in the forests. It had lived the life given by Mother Nature, and it had met its end through a fierce struggle. Such is nature – its sanctity made people bow their heads, and its numbing beauty, overflowing.<br/>
+"Cough…… You were a splendid piece of game."<br/>
+With her face flushed by the fatigue from the pursuit and excitement, the enraptured Verche muttered so. Her hatred towards the lying boar for the destruction it had wrought upon the forest had already vanished like the mist. She fixed her hair that got stuck on her cheek due to her sweat, then she knelt beside the boar’s remains to pray for it.<br/>
+To return its soul to the earth in peace, to thank the forest for having gifted her the great grace of provisions.<br/>
+That’s right, provisions. While it might be unexpected, Elves do eat meat. But since they prefer to keep the forest as it is, they can’t farm their stocks as doing so might damage the forest. Thus, the only opportunity where they could get meat is through hunting. And they must have a certain feeling of sensibility when they eat the meat. Whether it was acceptable to eat meat in public was a different matter entirely. For Elves, being profoundly modest is a virtue.<br/>
+"But what should I do now…."<br/>
+After she finished her prayers, she played around with the tip of her ear as she pondered. How exactly would she report this to the people in her village? After all, she just went ahead and took it down on her own while the elders were still in deliberation whether to hunt it down or not. It seemed that she was in for a day-long scolding. And if things were to go that way, it was possible that the meat of the splendid game that she had hunted with great pains might not be allowed to enter her mouth at all.<br/>
+After all, the adults in her village did not sustain themselves by eating the mist. They’d spin their words to preach the taboo of killing and extol the concept of modesty, but behind those words, they’d still wish for meat. It wouldn’t be strange for them to take the meat from Verche while telling her, ‘This is your punishment’. Verche didn’t want that. First of all, it was her who had brought down this giant game. She just had to secure her share of this somehow. She pondered on a way to do just that.<br/>
+‘Better yet, why don’t I just hog the meat all to myself instead?’, she thought, but she later shook her head, saying ‘no, no’.  She was being too immodest there. Elves who would feel ashamed of their avarice like her exist as well. And on top of all of that, this stunning meat would rot before she could finish it all by herself. Then why didn’t she just leave this splendid beast to rot? Out of the question. As a hunter, that was more unbearable for her than having her meat stolen.<br/>
+"Maybe I should bring Chaga in…."<br/>
+For some reason, the kindred youth who’d usually come with her to hunt, despite having inferior archery skills, floated into her mind. Chaga was a strange man. He was so faint-hearted, so timid to the point that his face would turn pale even at the mere sight of a game being drained of its blood. And his muscle strength was even inferior to her, a woman. Nevertheless, whenever Verche would go out with a bow, he’d always say ‘I’ll accompany you’ without fail. He was always a drag to her, and he didn’t seem to enjoy hunting at all. But why would he always come with her to hunt? Verche still couldn’t understand what he had been thinking up until now.<br/>
+However, he did in fact hear most of her requests, and among the boys’ clique he had the best looks too. Chaga and his friends would surely be on board if she were to tell them ‘Let’s divide this meat and eat to our heart’s content’. After all, when it came to fine meats, the elders-centered adults would definitely relish upon it the moment they got it, and that was why the young ones, who’d just gaze at the sight from the sidelines, always starve for the chance to enjoy meat for themselves.<br/>
+‘It’s a good idea’, she thought. ‘In this occasion, it wouldn’t be bad to leave the the adults out of this and have the youths eat up to their heart’s content.’ By not providing the honourable elders of the Elves their share, she did think that she’d do the game a disservice. However, it would instead nurture the promising youngsters who will support the village in the future, so it should be able to at least tolerate that.<br/>
+While thinking an extremely selfish thought about the game that she brought down, she raised her face.<br/>
+It was at that time.<br/>
+"Eh……?"<br/>
+Perhaps because she was too absorbed in her thoughts in regards of taking down the game and what to do after that, she hadn’t noticed the peculiarities in her surrounding, until now.<br/>
+The trunks of the surrounding trees were dark, and the leaves that grew from their branches were so dark as well, it could almost be mistaken as black-coloured. It wasn’t the white, light-coloured, bright, motherly white birch forest. It was another forest that enclosed it. It was the great woods of St. Gallen that the humans would call the "Black Forest" — a den of monsters and beasts.<br/>
+<br/>
+<br/>
+            __ATA.cmd.push(function() {<br/>
+                __ATA.initVideoSlot('atatags-370373-5ee89c41a39ec', {<br/>
+                    sectionId: '370373',<br/>
+                    format: 'inread'<br/>
+                });<br/>
+            });<br/>
+        <br/>
+ <br/>
+<br/>
+				__ATA.cmd.push(function() {<br/>
+					__ATA.initDynamicSlot({<br/>
+						id: 'atatags-26942-5ee89c41a3a29',<br/>
+						location: 120,<br/>
+						formFactor: '001',<br/>
+						label: {<br/>
+							text: 'Advertisements',<br/>
+						},<br/>
+						creative: {<br/>
+							reportAd: {<br/>
+								text: 'Report this ad',<br/>
+							},<br/>
+							privacySettings: {<br/>
+								text: 'Privacy settings',<br/>
+							}<br/>
+						}<br/>
+					});<br/>
+				});<br/>
+			Share this:TwitterFacebookLike this:Like Loading... <br/>

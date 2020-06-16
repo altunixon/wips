@@ -9,6 +9,7 @@
         "sevens-ln": "wordpress",
         "the-death-mage-who-doesnt-want-a-fourth-time": "wordpress_2",
 		"hakai-no-miko": "wordpress_hakai",
+        "ouroboros-record-circus-of-oubeniel": "yamitranslations",
         "tsuki-ga-michibiku-isekai-douchuu": "wordpress",
         "the-strange-adventure-of-a-broke-mercenary": "wordpress",
         "hazure-skill-mapping-wo-te-ni-shita-ore-wa-saikyou-party-to-tomo-ni-dungeon-ni-idomu": "blogspot",
@@ -49,6 +50,10 @@
     "shintranslations": {
         "article": "//div[contains(@class, \"entry-content\")]",
         "transit": "//a[text()[contains(., \"Continue reading\")]]"
+    },
+    "yamitranslations": {
+        "article": "//div[contains(@class, \"entry-content\")]",
+        "transit": "//a[text()[contains(., \"Chapter \")]]"
     },
     "blogspot": {
         "article": "//div/div[@class=\"post\"]",

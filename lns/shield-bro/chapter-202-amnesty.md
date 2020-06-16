@@ -50,7 +50,7 @@ And because that country had a catastrophe…..in the end there were still benef
 "The Heroes’ legends are mostly spoken of with benevolence, the legends of the heroes exist in many countries…depending on the country, they could be deified, with bad deeds being blamed on an imposter." (Queen)<br/>
 Speaking of which, even in my world, the great men of the past were really….actually, I haven’t heard much about them.<br/>
 Research would reveal that there were countless examples of being unexpectedly useless or lacking common sense.<br/>
-Not to mention that compared to my world, news in this world was at least 1~2 steps behind so the heroes’ actual situations were unexpectedly unknown.<br/>
+Not to mention that compared to my world, news in this world was at least 1\~2 steps behind so the heroes’ actual situations were unexpectedly unknown.<br/>
 "And besides….with respect to the waves, there is information about the unnecessary influence of the heroes and the damage this time being witnessed, and the necessity of the heroes being reviewed and invites being planned." (Queen)<br/>
 "If a hero was killed with that kind of motive….you could probably hide it, but what would happen?" (Naofumi)<br/>
 "We would investigate their survival using the equipment used during the summoning. Although we’ve already handed it back to Foburei…." (Queen)<br/>
@@ -116,7 +116,7 @@ Alta was also able to be influenced by Firo’s ahoge.<br/>
 When I asked Fitoria, using Firo as a proxy, she said that the divine protection of the dragon fragment was also engaged so it was hard for her to engage or something….<br/>
 With this, our war power rose.<br/>
 "Now then Firo." (Naofumi)<br/>
-"Wha~t?" (Firo)<br/>
+"Wha\~t?" (Firo)<br/>
 "Take the Future Queen Melty and Atla to―" (Naofumi)<br/>
 "Naofumi….If you don’t stop it, I’ll get mad." (Melty)<br/>
 "Yeah, yeah, aren’t you always mad….I get it so stop with the magic." (Naofumi)<br/>

@@ -107,7 +107,7 @@ And surely Shuu and Sumire also understood that. But even with that understandin
 「No, I have not even a bit of regret. I don’t even think that I’m mistaken. I decided to do what I did with the resolve against everything.」<br/>
 「Yep. That’s how it has to be. But Hajime, that way of doing things won’t work in Japan you know?」<br/>
 「I know. The journey that I started with the determination to kill all the guys antagonizing me is over already. That’s why I too have to change my way of living. Well, I might at least do something like planting trauma to those who stand in my way though.」<br/>
-「I see, then that’s fine. Even if Hajime’s heart has grown to become unreluctant in killing people, reasoning and emotion still pro~perly exist inside Hajime. Then, that’s fine. It’s just as Shuu said, if Hajime actually steps on the wrong path, we are going to take you back even if we have to spank you, and take the responsibility together with you.」<br/>
+「I see, then that’s fine. Even if Hajime’s heart has grown to become unreluctant in killing people, reasoning and emotion still pro\~perly exist inside Hajime. Then, that’s fine. It’s just as Shuu said, if Hajime actually steps on the wrong path, we are going to take you back even if we have to spank you, and take the responsibility together with you.」<br/>
 「Kaa-san……」<br/>
 Hajime thought, even when he had obtained the power to slaughter even god, but as expected, he was still no match against his father and mother. And then, he recalled his beloved daughter that he obtained in the other world, and he keenly felt how he was still lacking as a father.<br/>
 Shuu and Sumire gently patted Hajime who was closing his eyes quietly. If they actually saw Hajime murdering someone with their own eyes, there was no way they wouldn’t be shaken. Perhaps it would become a trauma for them. Perhaps they wouldn’t be able to give him their words unhesitatingly like this.<br/>
@@ -134,7 +134,7 @@ Actually, right now Yue was at the school building that Hajime attended before. 
 And then, after the classmates returned to their own homes one after another, Yue and the others proposed to stay at the school. It was so they wouldn’t hinder Hajime’s reunion with his parents.<br/>
 Naturally, Shuu and Sumire who didn’t know about that circumstances could only face each other in wonderment about their son who continued to talk towards empty air――they stiffened right after that.<br/>
 With a distortion, the space right beside Hajime suddenly formed a vortex, and then it formed an ellipse shape right after that, and then a moment later a familiar scenery――a place that seemed to be a classroom of a school could be seen.<br/>
-「A, Any**ere, Door?」(TN: Reference to anywhere door from Doraemon)<br/>
+「A, Any\*\*ere, Door?」(TN: Reference to anywhere door from Doraemon)<br/>
 「E, eh? Wai-, this is just too fantasy so suddenly!」<br/>
 While Shuu and Sumire were greatly flustered, Yue’s face peeked out with a plop from inside the gate. Those crimson eyes were wandering through the room with deep interest, and then those eyes narrowed joyfully when they captured Shuu and Sumire, at the end of which those eyes turned to Hajime and wordlessly inquired 「It’s fine to enter?」<br/>
 「Welcome, to the Nagumo household. Come in without reservation.」<br/>
@@ -190,7 +190,7 @@ To those impressions, Hajime said a sentence.<br/>
 Hajime’s expression turned speechless.<br/>
 Shuu and Sumire who returned from their reminiscence called with wide grins at their son’s family who were flirting and frolicking in a sense at the morning dining table.<br/>
 「Which reminds me, Hajime. You are going to meet with Kaori-chan and the others today, right? You are not going to be late?」<br/>
-「Aa~, it will be at past noon, so there is no problem.」<br/>
+「Aa\~, it will be at past noon, so there is no problem.」<br/>
 「Shizuku-chan will also come, right? What about Ai-chan?」<br/>
 「It seems that Shizuku will come together with Kaori, but Aiko, I think she can come, but perhaps she will be late. She has her work and also her position after all.」<br/>
 Hajime shrugged, while Sumire lowered her eyebrow in sympathy thinking 「Ai-chan also has it hard eh.」<br/>
@@ -199,7 +199,7 @@ Today Hajime had the plan of having dinner with everyone, including Kaori and th
 「That’s right. Or rather, if the houses reconstruction is finished, it’s okay for them to live here instead you know? Isn’t it the best when the house is lively and merry?」<br/>
 「……The girls themselves don’t really mind that……rather, they seem to want to come normally, but their families don’t seem to approve. Well, that’s the sensible decision.」<br/>
 At the corner of his mind, Hajime recalled the time when he met the family of Kaori and Shizuku while shrugging.<br/>
-「H~mm, there is that. Well, just tell them that Kaa-san will welcome them anytime. Also……fufu. I won’t mind if you are going to stay over tonight you know?」<br/>
+「H\~mm, there is that. Well, just tell them that Kaa-san will welcome them anytime. Also……fufu. I won’t mind if you are going to stay over tonight you know?」<br/>
 「Debauchery party eh! What a terrifying child even as my son.」<br/>
 「You are noisy. I told you already I’m going to come home normally. Really, Tou-san and Kaa-san are……」<br/>
 Hajime’s expression turned somewhat tired right from the morning. The wives from another world watched over that exchange between parent and child smilingly.<br/>

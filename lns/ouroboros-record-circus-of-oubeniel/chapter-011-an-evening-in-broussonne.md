@@ -1,3 +1,4 @@
+[chapter-010-the-alchemists-theory-of-state-enrichment.md](./chapter-010-the-alchemists-theory-of-state-enrichment.md) | [chapter-012-gleaning-former-part.md](./chapter-012-gleaning-former-part.md) <br/>
 <br/>
 TL: Sychev<br/>
 A bit of a trigger warning, block the next line if you feel you have one<br/>
@@ -213,31 +214,4 @@ As he gazed outside the window, there was crescent hanging on the sky. The young
 ‘—– Aaaand, that’s what my brother is thinking about at this time, probably."<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c3b750fd', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c3b75160',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-010-the-alchemists-theory-of-state-enrichment.md](./chapter-010-the-alchemists-theory-of-state-enrichment.md) | [chapter-012-gleaning-former-part.md](./chapter-012-gleaning-former-part.md) <br/>

@@ -1,3 +1,4 @@
+[chapter-020-the-girl-of-the-white-birch-forest-2-2.md](./chapter-020-the-girl-of-the-white-birch-forest-2-2.md) | [chapter-022-harvest-moon-2-2.md](./chapter-022-harvest-moon-2-2.md) <br/>
 <br/>
 This chapter was a bitch to translate. A very bad case at that. Can’t believe I spent all that time edging on being insane just because of lemmas and irregular grammar. Well done sensei.<br/>
 Next chapter should be released somewhere before my wedding.<br/>
@@ -409,31 +410,4 @@ If things turned out poorly, it was possible for her to spend her nights like th
 ————- Of course, that was not meant to be.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c434af92', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c434b046',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-020-the-girl-of-the-white-birch-forest-2-2.md](./chapter-020-the-girl-of-the-white-birch-forest-2-2.md) | [chapter-022-harvest-moon-2-2.md](./chapter-022-harvest-moon-2-2.md) <br/>

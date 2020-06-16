@@ -1,3 +1,4 @@
+[chapter-017-tullius-oubeniel-and-the-key-of-secrets.md](./chapter-017-tullius-oubeniel-and-the-key-of-secrets.md) | [chapter-019-five-obstinate.md](./chapter-019-five-obstinate.md) <br/>
 <br/>
 Just in time for my connecting flight.<br/>
 As I mentioned previously, I’ll be in rural Japan for the next few days.<br/>
@@ -323,31 +324,4 @@ Due scratches his head with a troubled look. Probably, he’s concerned that thi
 Apparently, Due will be staying there for a little while longer.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c3ff326e', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c3ff32f3',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-017-tullius-oubeniel-and-the-key-of-secrets.md](./chapter-017-tullius-oubeniel-and-the-key-of-secrets.md) | [chapter-019-five-obstinate.md](./chapter-019-five-obstinate.md) <br/>

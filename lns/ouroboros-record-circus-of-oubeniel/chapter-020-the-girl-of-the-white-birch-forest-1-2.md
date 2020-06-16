@@ -1,3 +1,4 @@
+[chapter-019-five-obstinate.md](./chapter-019-five-obstinate.md) | [chapter-020-the-girl-of-the-white-birch-forest-2-2.md](./chapter-020-the-girl-of-the-white-birch-forest-2-2.md) <br/>
 <br/>
 I could’ve finished the whole chapter, I really could’ve done that. But my mind can’t take it anymore for tonight.<br/>
 Nonetheless, a promise is a promise. Two chapters in December. One chapter before New Year’s Eve. I had to release something. So here you go. Here’s half of the chapter. Consider it the prologue or something, since it’s practically the early chapter of Volume 3.<br/>
@@ -77,31 +78,4 @@ Perhaps because she was too absorbed in her thoughts in regards of taking down t
 The trunks of the surrounding trees were dark, and the leaves that grew from their branches were so dark as well, it could almost be mistaken as black-coloured. It wasn’t the white, light-coloured, bright, motherly white birch forest. It was another forest that enclosed it. It was the great woods of St. Gallen that the humans would call the "Black Forest" — a den of monsters and beasts.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c41a39ec', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c41a3a29',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-019-five-obstinate.md](./chapter-019-five-obstinate.md) | [chapter-020-the-girl-of-the-white-birch-forest-2-2.md](./chapter-020-the-girl-of-the-white-birch-forest-2-2.md) <br/>

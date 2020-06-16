@@ -1,3 +1,4 @@
+[chapter-009-the-third-woman.md](./chapter-009-the-third-woman.md) | [chapter-011-an-evening-in-broussonne.md](./chapter-011-an-evening-in-broussonne.md) <br/>
 <br/>
 TL: Sychev<br/>
 Thank you for your patience. My laptop’s back, so the release frequency should return to normal.<br/>
@@ -185,31 +186,4 @@ After I saw her disappearing without a sound, I return my gaze to the mud golem 
 That giant of a magical beast is doing its duty autonomously, according to its master’s order.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c3ac3f14', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c3ac3fbc',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-009-the-third-woman.md](./chapter-009-the-third-woman.md) | [chapter-011-an-evening-in-broussonne.md](./chapter-011-an-evening-in-broussonne.md) <br/>

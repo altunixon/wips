@@ -1,3 +1,4 @@
+[chapter-021-his-and-her-circumstances.md](./chapter-021-his-and-her-circumstances.md) | [chapter-022-harvest-moon-first-half.md](./chapter-022-harvest-moon-first-half.md) <br/>
 <br/>
 Slept longer than I should’ve have.<br/>
 Do your thing Deskie. On it, guv.<br/>
@@ -196,31 +197,4 @@ The woman, ignoring the pain and anguish that was occuring in the tragedy below 
 Her callous scorn melted in the night sky, without anyone noticing.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c450fdf8', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c450fe7c',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-021-his-and-her-circumstances.md](./chapter-021-his-and-her-circumstances.md) | [chapter-022-harvest-moon-first-half.md](./chapter-022-harvest-moon-first-half.md) <br/>

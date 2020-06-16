@@ -1,3 +1,4 @@
+[chapter-022-harvest-moon-2-2.md](./chapter-022-harvest-moon-2-2.md) | [chapter-023-like-the-falling-rain-in-the-forest.md](./chapter-023-like-the-falling-rain-in-the-forest.md) <br/>
 <br/>
 It’s 3/5 of Chapter 22 done. That meant 3/5 of my promise kept. Apparently my wife believes that honeymoon = no devices. You won’t get the rest of the chapter until the next 12 days. Give me one more day to recover. Which meant the second half will be released at the 14th of April.<br/>
 If you’re worried that your reading experience will be disturbed by the chapter split. Don’t worry. The other half of the chapter is about another character entirely. Something to do with Opus-05.<br/>
@@ -253,31 +254,4 @@ As she trembled with fear, Verche finally was able to comprehend the meaning of 
  <br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c445e2db', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c445e324',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-022-harvest-moon-2-2.md](./chapter-022-harvest-moon-2-2.md) | [chapter-023-like-the-falling-rain-in-the-forest.md](./chapter-023-like-the-falling-rain-in-the-forest.md) <br/>

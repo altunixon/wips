@@ -1,3 +1,4 @@
+[chapter-016-party-night.md](./chapter-016-party-night.md) | [chapter-018-soul-mixing.md](./chapter-018-soul-mixing.md) <br/>
 <br/>
 From Sychev: Apologies for the one-week delay. I had wanted to finish this arc (which ends in chapter 19) before November, but unfortunately I got stuck several times during this chapter’s translation. On the brighter side, it seems that Shalvation had started the translation for the newest volume of Dungeon Defense. Seeing that most of you who read this story read that as well, I hope that you didn’t run out of reading materials last week.<br/>
 For you who don’t read Dungeon Defense. I’d recommend you to read it. I’d say you’ll either hate it or love it. But if you like this story, I suppose there’s a high chance that you may like it.<br/>
@@ -392,31 +393,4 @@ Of course, that includes the research for my long-desired immortality as well.<b
 There’s just a lot of things I have to do.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c3f205a2', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c3f20628',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-016-party-night.md](./chapter-016-party-night.md) | [chapter-018-soul-mixing.md](./chapter-018-soul-mixing.md) <br/>

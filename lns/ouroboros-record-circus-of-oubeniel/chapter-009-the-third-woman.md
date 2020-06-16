@@ -1,3 +1,4 @@
+[chapter-008-oubeniel-the-invader.md](./chapter-008-oubeniel-the-invader.md) | [chapter-010-the-alchemists-theory-of-state-enrichment.md](./chapter-010-the-alchemists-theory-of-state-enrichment.md) <br/>
 <br/>
 TL: Sychev<br/>
 Frankly, this was a painful chapter to translate. Not because of its length, but because of the staggering amount of idioms, expressions, kendo terminology, jargons and slangs. I had to bother a friend of mine, Orihara Rurei, a few times so I could finish this chapter’s translation. Special thanks to her. You’re awesome.<br/>
@@ -422,31 +423,4 @@ It was an oath that was heard only by the moon outside their window.<br/>
 ——- True to those words, the woman’s name would remain only in the man’s chest.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c39f22f6', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c39f2413',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-008-oubeniel-the-invader.md](./chapter-008-oubeniel-the-invader.md) | [chapter-010-the-alchemists-theory-of-state-enrichment.md](./chapter-010-the-alchemists-theory-of-state-enrichment.md) <br/>

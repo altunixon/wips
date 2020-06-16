@@ -1,3 +1,4 @@
+[chapter-011-an-evening-in-broussonne.md](./chapter-011-an-evening-in-broussonne.md) | [chapter-013-gleaning-latter-part.md](./chapter-013-gleaning-latter-part.md) <br/>
 <br/>
 TL: Sychev<br/>
 There was a TL error in chapter 6<br/>
@@ -378,31 +379,4 @@ Laubert engraved that in his mind.<br/>
 ………. But all that was for naught.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c3bed3db', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c3bed47e',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-011-an-evening-in-broussonne.md](./chapter-011-an-evening-in-broussonne.md) | [chapter-013-gleaning-latter-part.md](./chapter-013-gleaning-latter-part.md) <br/>

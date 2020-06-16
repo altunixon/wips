@@ -1,3 +1,4 @@
+[chapter-018-soul-mixing.md](./chapter-018-soul-mixing.md) | [chapter-020-the-girl-of-the-white-birch-forest-1-2.md](./chapter-020-the-girl-of-the-white-birch-forest-1-2.md) <br/>
 <br/>
 This is the end of Book 2 in the LN.<br/>
 Next chapter in on the 31th, just before the new year’s.<br/>
@@ -360,31 +361,4 @@ Now that my do-well follower has said that, I’ll make sure that I’ll be care
  <br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c40e7cac', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c40e7d57',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-018-soul-mixing.md](./chapter-018-soul-mixing.md) | [chapter-020-the-girl-of-the-white-birch-forest-1-2.md](./chapter-020-the-girl-of-the-white-birch-forest-1-2.md) <br/>

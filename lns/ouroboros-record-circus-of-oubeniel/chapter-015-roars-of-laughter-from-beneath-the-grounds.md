@@ -1,3 +1,4 @@
+[chapter-014-the-fourth-misfit.md](./chapter-014-the-fourth-misfit.md) | [chapter-016-party-night.md](./chapter-016-party-night.md) <br/>
 <br/>
 Warning: Latter part of the chapter haven’t been edited/TLC-ed yet. Will do it when I’m free from work.<br/>
 FRET NOT! Deskie may be late, but he edits! It should be fully edited now.<br/>
@@ -239,31 +240,4 @@ Like during that time with Charl, she said so without overlooking her apprehensi
  <br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89b4f2e74f', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89b4f2e7b6',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-014-the-fourth-misfit.md](./chapter-014-the-fourth-misfit.md) | [chapter-016-party-night.md](./chapter-016-party-night.md) <br/>

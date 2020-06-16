@@ -1,3 +1,4 @@
+[chapter-012-gleaning-former-part.md](./chapter-012-gleaning-former-part.md) | [chapter-014-the-fourth-misfit.md](./chapter-014-the-fourth-misfit.md) <br/>
 <br/>
 TL: Sychev<br/>
 This chapter was one of the easiest chapters to translate… But, I might need a co-translator so I can get a second opinion for the chapters ahead. Please consider applying. Thank you.<br/>
@@ -240,31 +241,4 @@ Laubert nodded.<br/>
 Even as he held on to his vague fear, for some reason he legs wasn’t moving to take him to his escape. And so, Jean-Jacques Laubert silently watched his acquaintance as the door swallowed him in.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c3cc21d3', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c3cc2225',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-012-gleaning-former-part.md](./chapter-012-gleaning-former-part.md) | [chapter-014-the-fourth-misfit.md](./chapter-014-the-fourth-misfit.md) <br/>

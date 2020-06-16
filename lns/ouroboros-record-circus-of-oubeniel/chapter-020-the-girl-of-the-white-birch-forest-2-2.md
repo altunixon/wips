@@ -1,3 +1,4 @@
+[chapter-020-the-girl-of-the-white-birch-forest-1-2.md](./chapter-020-the-girl-of-the-white-birch-forest-1-2.md) | [chapter-021-his-and-her-circumstances.md](./chapter-021-his-and-her-circumstances.md) <br/>
 <br/>
 Will ask Deskie to proofread. Ha, it’s done! <br/>
 By the way, thank you for the guy who proofread the last two chapters for me too. I’ll ask him to implement your changes as well.<br/>
@@ -226,31 +227,4 @@ What she brought to the table was some trifling topics, but Drei would seriously
 And then before Verche realised it, the night had already grown deep in the Black Forest.<br/>
 <br/>
 <br/>
-            __ATA.cmd.push(function() {<br/>
-                __ATA.initVideoSlot('atatags-370373-5ee89c4237828', {<br/>
-                    sectionId: '370373',<br/>
-                    format: 'inread'<br/>
-                });<br/>
-            });<br/>
-        <br/>
- <br/>
-<br/>
-				__ATA.cmd.push(function() {<br/>
-					__ATA.initDynamicSlot({<br/>
-						id: 'atatags-26942-5ee89c4237886',<br/>
-						location: 120,<br/>
-						formFactor: '001',<br/>
-						label: {<br/>
-							text: 'Advertisements',<br/>
-						},<br/>
-						creative: {<br/>
-							reportAd: {<br/>
-								text: 'Report this ad',<br/>
-							},<br/>
-							privacySettings: {<br/>
-								text: 'Privacy settings',<br/>
-							}<br/>
-						}<br/>
-					});<br/>
-				});<br/>
-			Share this:TwitterFacebookLike this:Like Loading... <br/>
+[chapter-020-the-girl-of-the-white-birch-forest-1-2.md](./chapter-020-the-girl-of-the-white-birch-forest-1-2.md) | [chapter-021-his-and-her-circumstances.md](./chapter-021-his-and-her-circumstances.md) <br/>

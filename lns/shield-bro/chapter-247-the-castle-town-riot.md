@@ -38,7 +38,7 @@ It’s probably one of my slaves.<br/>
 I see. So they’ve pushed the Queen back all the way here.<br/>
 I’ll be able to increase my fighting force.<br/>
 "Firo, Atlas!" (Naofumi)<br/>
-"Yes~." (Firo)<br/>
+"Yes\~." (Firo)<br/>
 "As you command!" (Atlas)<br/>
 We break down the door and peer inside.<br/>
 And for some reason, we find the slaves tied up lying on the floor.<br/>
@@ -158,7 +158,7 @@ Or is that common sense for animals?<br/>
 "Continue taking down the Zombies and gather them in one place. Help anyone who hasn’t been brainwashed." (Naofumi)<br/>
 "Understood, Father! Now, my Angels, onwards!" (Motoyasu)<br/>
 "KUE!" (Filo Rials)<br/>
-"Ya~y!" (Filo Rials)<br/>
+"Ya\~y!" (Filo Rials)<br/>
 Later, this incident came to be known as the Witch’s Rebellion… not. It actually came to be known as the Melromark Holy Bird Riot.<br/>
 But, that doesn’t really matter to me.<br/>
 I get on Firo, and she begins running.<br/>
@@ -170,7 +170,7 @@ The Weapon Shop enters my field of vision.<br/>
 … Is the Old Man alright? I don’t want to find him as an enemy later.<br/>
 I want to believe he’s okay. I’ll check quickly.<br/>
 "Firo, stop by the Weapon shop." (Naofumi)<br/>
-"Oka~y." (Firo)<br/>
+"Oka\~y." (Firo)<br/>
 I carefully scan the inside of the dark store.<br/>
 The shelves… Have been cleared of all weapons.<br/>
 "Old Man… Are you here?" (Naofumi)<br/>
@@ -194,7 +194,7 @@ He may be loitering around somewhere.<br/>
 Anyways, why is this adventurer here?<br/>
 I’ll leave it as one of the mysteries of Zombies.<br/>
 "Okay, we’re starting again." (Naofumi)<br/>
-"Ye~s!" (Firo)<br/>
+"Ye\~s!" (Firo)<br/>
 And so, we pass through the Castle Town gate that was supposed to be barred during the night. We run across the plains, barely illuminated by the rising sun.<br/>
 <br/>
 [chapter-246-revolution.md](./chapter-246-revolution.md) | [chapter-248-raising-an-army.md](./chapter-248-raising-an-army.md) <br/>

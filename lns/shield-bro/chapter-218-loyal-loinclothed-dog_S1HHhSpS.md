@@ -130,7 +130,7 @@ I don’t know what she was thinking, Kiel transformed into a dog and started ea
 “You’re going to get a stomach-ache!” (slave) <br/>
 “Let me go! It’s something Nii-chan made with great care. I’m not going to let it go to waste.” (Kiel) <br/>
 “That’s no good! Didn’t Onii-chan say not to eat stuff that has fallen on the ground.” (slave) <br/>
-“Even so, I’m going to eat it! Out of my way! I can’t reach the crepe! Uwa~aaaahhhhhhhh!” (Kiel) <br/>
+“Even so, I’m going to eat it! Out of my way! I can’t reach the crepe! Uwa\~aaaahhhhhhhh!” (Kiel) <br/>
  <br/>
 This Kiel, even while being restrained her eyes dart wildly around, and one of her hand stretches out to the splattered crepe. <br/>
 Ah…… did I put in something addicting? <br/>
@@ -179,7 +179,7 @@ Because it can’t get more sickening than Motoyasu attaching ‘-kun’ to Ren�
  <br/>
 “What’s this about “true love”!?” (Ren) <br/>
 “Ahー…… to make it easy for you to understand, just like Witch whispered to you when you were down…… and our foolish bird gave him words of encouragement afterwards. Rather than an owner, I who is the foster parent is considered to be the father-in-law.” (Naofumi) <br/>
-“Ha~a…… I’m not sure I understand it well, but he seems happy.” (Ren) <br/>
+“Ha\~a…… I’m not sure I understand it well, but he seems happy.” (Ren) <br/>
  <br/>
 Ren analyzes Motoyasu, who was laughing merrily while touching the Filo Rials. <br/>
  <br/>

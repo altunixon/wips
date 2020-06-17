@@ -23,8 +23,8 @@
     - Click Finish on the "Completing the Xming Setup Wizard" window. 
   Your Windows desktop is now equipped to display X11-based graphical applications remotely. 
 - Cygwin .ssh/config
-```
-Host x
-    Hostname 192.168.1.1
-    ForwardX11 yes
-```
+  ```
+  Host x
+      Hostname 192.168.1.1
+      ForwardX11 yes
+  ```

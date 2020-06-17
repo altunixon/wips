@@ -98,7 +98,7 @@ That’s a concept that the Three Heroes Church and the Revolutionary faction wo
 "The enemy numbers are too great. At this rate, we can tie all of them up, but it will take too long." (Ren)<br/>
 "I see…" (Naofumi)<br/>
 Even if the people I brought along also fight, it will still take a long time.<br/>
-"Naofumi-cha~n." (Sadina)<br/>
+"Naofumi-cha\~n." (Sadina)<br/>
 … Ah, right. Sadina was with us.<br/>
 "Hey… Sadina. Do you have a way to take out the overflowing mass of brainwashed children and put out the fire all at once?" (Naofumi)<br/>
 "Leave it to me! Everyone!" (Sadina)<br/>
@@ -107,7 +107,7 @@ Perhaps because she brought along more people this time, I can feel the magic in
 Ah, this person is comparable to Firo in useful abilities.<br/>
 Hm? Firo?<br/>
 "Firo, mobilize the other Filo Rials to cast Choral Magic as well!" (Naofumi)<br/>
-"Got it~! N… Nn…" (Firo)<br/>
+"Got it\~! N… Nn…" (Firo)<br/>
 Firo cleared her throat and began singing.<br/>
 And in response to that, the other Filo Rials in the area began chirping.<br/>
 "Naofumi-chan, go evacuate the children who aren’t brainwashed." (Sadina)<br/>
@@ -155,7 +155,7 @@ Just raising one’s level doesn’t change sustained injury, fatigue, or hunger
 Firo states her opinion.<br/>
 It seems the other Filo Rials agree.<br/>
 "Just shut up and go." (Naofumi)<br/>
-"Oka~y…" (Firo)<br/>
+"Oka\~y…" (Firo)<br/>
 "Is Melty alright?" (Naofumi)<br/>
 "Yeah. Melty-chan is strong, so she’s fine." (Firo)<br/>
 "I see. Well, she was strong enough to blow away my house." (Naofumi)<br/>

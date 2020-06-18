@@ -107,7 +107,7 @@ Ah, Raphtalia, Firo, and Melty are also here, albeit on the women’s side.<br/>
 Atlas was going to come as well, but Fohl stopped her.<br/>
 An onsen is perfect if you want to rest your body and mind.<br/>
 I had just washed my body and was about to step in, when Firo jumps over the hedge separating the two baths with Melty on her back.<br/>
-"Master~ Let’s bathe together again~" (Firo)<br/>
+"Master\~ Let’s bathe together again\~" (Firo)<br/>
 "Firo-chan! This is the men’s bath! Naofumi is here, isn’t he!?" (Melty)<br/>
 Melty frantically covers her important places with a towel as she embarrassingly complains to Firo.<br/>
 Firo. You sure brought a troublesome person to a troublesome place.<br/>
@@ -132,7 +132,7 @@ Melty shouts out, but from her towel, a chick emerges as well.<br/>
 I heard about it, but I guess they’re parasitizing off Melty as well.<br/>
 "Look who’s talking!" (Naofumi)<br/>
 "S-shut up!" (Melty)<br/>
-"Ahaha~ Master and Melty are having fun." (Firo)<br/>
+"Ahaha\~ Master and Melty are having fun." (Firo)<br/>
 "We’re not!" (Naofumi & Melty)<br/>
 Dammit, these birds can’t read the mood.<br/>
 "Master, can you wash Firo’s back?" (Firo)<br/>
@@ -153,15 +153,15 @@ After that, it became natural to scold Firo and Kiel, who swam around the male b
 Why do I have to act like a parent and scold these kids when I’m supposed to be relaxing in the onsen?<br/>
 Raphtalia always lectures them not to come over, but they don’t listen.<br/>
 "Look, you’re all clean now." (Naofumi)<br/>
-"Ya~y."(Firo)<br/>
+"Ya\~y."(Firo)<br/>
 I pour a bucket of hot water on her to wash away the bubbles, and Firo shakes her entire body like a dog to dry herself. Water droplets fly everywhere.<br/>
-"Master, thank you~. Is Firo clean?" (Firo)<br/>
+"Master, thank you\~. Is Firo clean?" (Firo)<br/>
 "If you doubt it, then wash yourself." (Naofumi)<br/>
 "Bu-" (Firo)<br/>
 Firo pouts, and Melty refuses to take her body out of the water.<br/>
 The bath is as lively as ever.<br/>
 "Then I’m going to be soaking for a while, so you guys better return to the women’s bath." (Naofumi)<br/>
-"Got~ it." (Firo)<br/>
+"Got\~ it." (Firo)<br/>
 I get in the water again to cure my curse, when Firo changes to Filo Rial form and sits next to me.<br/>
 She’s floating. (ED: LOL)<br/>
 Is she some sort of water bird? Though, Firo can swim.<br/>

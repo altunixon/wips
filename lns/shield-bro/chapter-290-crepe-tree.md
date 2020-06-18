@@ -102,18 +102,18 @@ What’s with that.<br/>
 That mystery was established at noon the next day.<br/>
 When Firo told us drowsily, having finished her one-day date.<br/>
 "Hey Firo." (Naofumi)<br/>
-"Huh~… wha~t?" (Firo)<br/>
+"Huh\~… wha\~t?" (Firo)<br/>
 "Subordinate Number One’s behaviour is weird. Isn’t she aiming for your position?" (Naofumi)<br/>
 "What do you mean~?" (Firo)<br/>
 I point to her number one subordinate who was staring at me from in hiding.<br/>
-"Ah, Piyo-chan? It’s alright~ That was, you know~ just her madly in love with Master~" (Firo)<br/>
+"Ah, Piyo-chan? It’s alright\~ That was, you know\~ just her madly in love with Master\~" (Firo)<br/>
 "……." (Naofumi)<br/>
 So that guy was called Piyo.<br/>
 I had forgotten her real name. I feel like I’ve even been told before though.<br/>
 Or rather, Hey.<br/>
 "…..Wait, you’re saying something very omnious." (Naofumi)<br/>
 "That’s right. Why is that child madly in love?" (Raphtalia)<br/>
-"You see~ it was after Firo became able to fly. Master, you see. You told me to go abduct Piyo-chan so I brought her, and then.. Master, Piyo-chan―" (Firo)<br/>
+"You see\~ it was after Firo became able to fly. Master, you see. You told me to go abduct Piyo-chan so I brought her, and then.. Master, Piyo-chan―" (Firo)<br/>
 "Wh-what did he do?" (Raphtalia)<br/>
 I also nodded to Raphtalia’s question.<br/>
 I’m worried about what it means by that cutesy kid becoming so clingy.<br/>
@@ -141,10 +141,10 @@ That is to say, it was already broadcasted…<br/>
 Eh? Is this a metaphor?<br/>
 Was I raped by Subordinate Number One or something?<br/>
 "Firo, was I assaulted by Subordinate Number One?" (Naofumi)<br/>
-"Trying to conceive children? You’re wrong~" (Firo)<br/>
+"Trying to conceive children? You’re wrong\~" (Firo)<br/>
 Apparently I’m wrong.<br/>
 Or I should say, don’t talk about conceiving children.<br/>
-"Firo also wants to be caressed like that~ ….I was envious….. to say something similar, it’s like the feeling he had when Master stroked the little Onee-chan today, almost to the point of ecstasy~" (Firo) [T/N: Little Onee-chan = Raph Species]<br/>
+"Firo also wants to be caressed like that\~ ….I was envious….. to say something similar, it’s like the feeling he had when Master stroked the little Onee-chan today, almost to the point of ecstasy\~" (Firo) [T/N: Little Onee-chan = Raph Species]<br/>
 "Naofumi-sama? When did you…." (Raphtalia)<br/>
 Geh…..<br/>
 Actually, I was stroking the concealed Raph.<br/>
@@ -160,7 +160,7 @@ It’s a case of reversed anger. [T/N: Being angry at someone who would normally
 As I expected, it’s better than stroking her tail. [T/N: Raphtalia doesn’t want her tail stroked no matter what.]<br/>
 I don’t know which is proving fortunate.<br/>
 "Then how do I make Subordinate Number 1 be obedient?" (Naofumi)<br/>
-"I think it’ll be fine if you did it for a while, Piyo-chan~? About Master, I said before that Firo’s love is different." (Firo)<br/>
+"I think it’ll be fine if you did it for a while, Piyo-chan\~? About Master, I said before that Firo’s love is different." (Firo)<br/>
 "Ah, right." (Naofumi)<br/>
 "But stroke me occasionally." (Firo)<br/>
 Sigh…Filorials are very weird.<br/>

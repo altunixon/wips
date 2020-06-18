@@ -199,10 +199,10 @@ When I think about it, it’s an inevitable result.<br/>
 Nevertheless, Firo’s punishment and Motoyasu’s reward, huh…..<br/>
 Alright!<br/>
 "Firo." (Naofumi)<br/>
-"Wha~t?" (Firo)<br/>
+"Wha\~t?" (Firo)<br/>
 "Go on a date with Motoyasu for the day. You must always stay within thirty metres of him." (Naofumi)<br/>
 I activate the Monster Crest and made it so she would suffer if she violated it.<br/>
-"No~!" (Firo)<br/>
+"No\~!" (Firo)<br/>
 "Really, Father-in-Law?!" (Motoyasu)<br/>
 Motoyasu’s eyes shine!<br/>
 Don’t bring your face so close, it’s disgusting.<br/>
@@ -213,15 +213,15 @@ Motoyasu’s three followers protest while releasing bloodlust.<br/>
 I don’t care. If this much isn’t done then it won’t be a reward nor a punishment!<br/>
 Motoyasu untied the rope Firo was bound with.<br/>
 When he does, Firo struggles and starts flying in the sky.<br/>
-"No~! Master, save me!" (Firo)<br/>
+"No\~! Master, save me!" (Firo)<br/>
 "Sorry. I’m not in a situation where I can defend you." (Naofumii)<br/>
 I’m the one who gave the punishment though.<br/>
-"NOOooo~!" (Firo)<br/>
+"NOOooo\~!" (Firo)<br/>
 Flapping her wings, Firo flew at quite a fast speed.<br/>
 She barely stopped within thirty metres.<br/>
 "Hahaha, is it a rendezvous in the sky? Firo-tan!" (Motoyasu)<br/>
 Motoyasu ran and chased after her.<br/>
-"Don’t come near~!!" (Firo)<br/>
+"Don’t come near\~!!" (Firo)<br/>
 Firo fled while flying.<br/>
 Is that a date?<br/>
 It’s fine since Motoyasu seems very delighted.<br/>

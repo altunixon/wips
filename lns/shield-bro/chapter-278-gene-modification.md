@@ -45,7 +45,7 @@ A list of the equipment and materials required for the modification appears.<br/
 ….It seems I’ll be able to cater with a large quantity of things from Rato’s laboratory.<br/>
 Let’s immediately confiscate the things in Rato’s laboratory.<br/>
 I headed towards the village at a quick pace.<br/>
-"Ah, it’s Master~ Welcome back." (Firo)<br/>
+"Ah, it’s Master\~ Welcome back." (Firo)<br/>
 "Oh, if it isn’t Firo. What’s up?" (Naofumi)<br/>
 Firo, who is one of the monsters that submissively obeys me, comes to greet me together with the slaves.<br/>
 I have faith in these guys to some extent.<br/>
@@ -75,10 +75,10 @@ Firo and the slaves let our their voices en masse, looking dumbfounded.<br/>
 I’m a little shocked that they’re surprised about something on this level, but they seem delighted so it doesn’t feel bad.<br/>
 "Can we eat this?" (Firo)<br/>
 "Of course." (Naofumi)<br/>
-"""Ya~y!""" (Slaves)<br/>
+"""Ya\~y!""" (Slaves)<br/>
 Firo and the slaves each picked up a piece of bread and started eating.<br/>
-"Delicious~" (Kiel)<br/>
-"It doesn’t have as much flavour as Master’s cooking but it’s yummy~" (Firo)<br/>
+"Delicious\~" (Kiel)<br/>
+"It doesn’t have as much flavour as Master’s cooking but it’s yummy\~" (Firo)<br/>
 It seems everyone is satisfied.<br/>
 Then let’s head to the next destination.<br/>
 "Nii-chan! Can’t you make a Crepe Tree?" (Kiel)<br/>

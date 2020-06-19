@@ -62,7 +62,7 @@ Yes, I can understand their feelings.<br/>
 Though it seems that everyone has accepted that I look like a villain.<br/>
 "Really? I think Aniki should be a bit more…" (Fohl)<br/>
 "I think you’re wrong. I think it’s how he’s good at looking after others." (Ren)<br/>
-"Ara? Onee-san likes this Naofumi-chan too~♥" (Sadina)<br/>
+"Ara? Onee-san likes this Naofumi-chan too\~♥" (Sadina)<br/>
 The peanut gallery should shut up.<br/>
 I don’t care what you find good about me.<br/>
 "Now then, your final hope… let me steal it from you." (Naofumi)<br/>
@@ -90,7 +90,7 @@ Oh right, Fohl was the Hero selected by the Gauntlet, so that’s natural.<br/>
 "Wah? What is it?"<br/>
 Light rains down on Raphtalia and Firo.<br/>
 "This is… a Hammer?" (Raphtalia)<br/>
-"What’s this? Claws~?" (Firo)<br/>
+"What’s this? Claws\~?" (Firo)<br/>
 Yes. It seems that Raphtalia and Firo were selected by those I called my brethren.<br/>
 Their names vanish from the list of slaves and monsters under my control.<br/>
 "W-what foolishness is this!? To steal a weapon from Tact!? Return it at once!" (Kitsune Woman)<br/>
@@ -102,7 +102,7 @@ The second Raphtalia’s hammer hits the nine-tails, lightning strikes down.<br/
 Along with the Kitsune woman’s scream, I heard a splattering sound.<br/>
 "Uwah…"<br/>
 It appears that Raphtalia has smashed that woman’s head.<br/>
-"Rafu~."<br/>
+"Rafu\~."<br/>
 Raph-chan, who had been covering his ears from the monsterous sound, made a pose of victory.<br/>
 I believe the other end happened at the same time.<br/>
 "Die! Filo Rial Queen Candidate!"<br/>

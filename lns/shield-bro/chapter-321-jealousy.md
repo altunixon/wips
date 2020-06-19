@@ -174,14 +174,14 @@ I drive Sadina away by flicking my hand, and ask Raphtalia once more.<br/>
 "Got it." (Naofumi)<br/>
 Raphtalia prepares herself, and I go to get Imya.<br/>
 We walk to the small boat anchored at the coast.<br/>
-"Rafu~?" (Raph-chan)<br/>
+"Rafu\~?" (Raph-chan)<br/>
 I continue thinking as I rub Raph-chan.<br/>
 He can change shape to be identical to Raphtalia, right?<br/>
 In the future, will I be doing various indecent things with Raphtalia?<br/>
 What should I do if she tells me I’m no good at it? I pause my hand on Raph-chan’s head.<br/>
 Should I… gain experience with the villagers?<br/>
 Just thinking it makes me want to kill myself.<br/>
-"Ta~li~?" (Raph-chan)<br/>
+"Ta\~li\~?" (Raph-chan)<br/>
 In that respect, an identical model may make for a good test subject.<br/>
 Raphtalia’s weak points are…<br/>
 "… Naofumi-sama? What are you thinking as you pat Raph-chan?" (Raphtalia)<br/>
@@ -198,7 +198,7 @@ Sadina leads us to a hilly area.<br/>
 "Here is it." (Sadina)<br/>
 What was there, was a small hole… but it was strangely deep.<br/>
 It’s size is around…<br/>
-"Rafu~?" (Raph-chan)<br/>
+"Rafu\~?" (Raph-chan)<br/>
 Yep, just enough to fit Raph-chan, and its depth is.. it’s too dark to tell.<br/>
 "Raphtalia." (Naofumi)<br/>
 "Ah, yes." (Raphtalia)<br/>
@@ -208,7 +208,7 @@ Just how far does it go?<br/>
 I see, so this is why we needed a Lemo.<br/>
 Normally, I would have ignored this, but this might be the result of the other me’s research.<br/>
 I can’t have some strange creature popping up, and causing havoc.<br/>
-"Rafu~?" (Raph-chan)<br/>
+"Rafu\~?" (Raph-chan)<br/>
 "Imya, can you dig around for a bit?" (Naofumi)<br/>
 "Y-yes!" (Imya)<br/>
 Imya responds twice to my question, and nods. She begins casting magic.<br/>
@@ -239,7 +239,7 @@ I praise Imya as she gets out of the hole, and brushes the dirt off of her body.
 "Eh? N-no…" (Imya)<br/>
 "I see." (Naofumi)<br/>
 I’ll have to circle the village, and ask slowly.<br/>
-"Ta~li~?" (Raph-chan)<br/>
+"Ta\~li\~?" (Raph-chan)<br/>
 "So where did you come from?" (Naofumi)<br/>
 I ask Raph-chan once more.<br/>
 … He’s pointing to the hole. But it was quite obvious.<br/>

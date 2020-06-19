@@ -33,7 +33,7 @@ Ignoring Motoyasu, we begin examining the inside of the ruins.<br/>
 And the reason I voiced my opinion on sanitation was because the narrow passages of the abandoned temple were littered with trash-like items.<br/>
 Is the abundance of shiny items among them because these guys are birds?<br/>
 I remember the pile of goods Firo collected in the past and labeled as her treasure.<br/>
-"Wa~ It’s sparkl~y" (Firo)<br/>
+"Wa\~ It’s sparkl\~y" (Firo)<br/>
 Yep, this place has gone to the birds. It’s pretty much the same.<br/>
 This appears to be Fitoria’s nest.<br/>
 The miscellaneous shiny items range from rare gems to cheap crystals.<br/>
@@ -53,7 +53,7 @@ If we find anything nice, we’ll have to recover it and analyze it, so we have 
 "Then, let’s split up and start cleaning!"<br/>
 I really should have taken the villagers with me.<br/>
 Well, we started cleaning Fitoria’s nest, and this and that happens.<br/>
-"This is~? It’s shiny, and pretty, you know. Was it called a crystal?" (Firo)<br/>
+"This is\~? It’s shiny, and pretty, you know. Was it called a crystal?" (Firo)<br/>
 "It’s trash! What’s more, it’s already been used up." (Naofumi)<br/>
 "Um, was this a rare gem? Naofumi, what should I do with it?" (Ren)<br/>
 "Keep it. We’ll sort through them later." (Naofumi)<br/>

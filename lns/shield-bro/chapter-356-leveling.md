@@ -134,7 +134,7 @@ If the others had enough output to overcome a god’s defense… then I should b
 For me, it felt as if the world had just stopped.<br/>
 And in that stagnant world, Medea was the only one moving.<br/>
 "With defense of your level, it’s impossible." (Medea)<br/>
-________!<br/>
+\_\_\_\_\_\_\_\_!<br/>
 "Let’s see. 100% Deadly Aim, 100% Death, "Infinity Destroyer". Yep, you’re dead." (Medea)<br/>
 (TL: Deadly Aim is the ESPer skill that’s a level above Itsuki’s described in chapter 261)<br/>
 White, and black. Red was also mixed in. An infinite amount of lines circle.<br/>
@@ -211,15 +211,15 @@ Why I’m saying this, even I don’t know… Ah, so that’s how it is.<br/>
 What’s with this? While I kept saying this and that, didn’t I actually like this world quite a bit?<br/>
 "Everyone. My power was barely able to banish three of the Evil Heroes from this world, and to the gap between dimensions…"<br/>
 And Like that, I dies meaninglessly. I was ripped appart without even leaving anything to bury.<br/>
-――<br/>
-――――<br/>
-――――――<br/>
+\―\―<br/>
+\―\―\―\―<br/>
+\―\―\―\―\―\―<br/>
 After sinking into deep darkness, my conscious resurfaced.<br/>
 My mind was faint, as if I had just become a ghost.<br/>
 The sound of pages flipping, and a slight dusty scent.<br/>
 It was so quiet, and yet so nostalgic, I began to remember all I had forgotten.<br/>
 This is…<br/>
-"_____!"<br/>
+"\_\_\_\_\_!"<br/>
 Eh?<br/>
 My voice works.<br/>
 What is this? My eyes had been closed.<br/>

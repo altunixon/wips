@@ -120,15 +120,15 @@ Trash nods to himself, as he begins asking Rat various questions.<br/>
 "An interesting thought. I’ll test it out, but I ask you not to expect too much." (Rat)<br/>
 On Trash’s proposition, Rat takes out a diagram.<br/>
 I’ll have to pray that this will increase our forces however much it may…<br/>
-"Rafu~?" (Raph-chan)<br/>
+"Rafu\~?" (Raph-chan)<br/>
 Oh? Raph-chan found me, and ran over.<br/>
 Why can I tell? His voice is the one most similar to Raphtalia’s.<br/>
 Though it’’s a bit more childish.<br/>
 I guess it’s like the voice of Raphtalia when I got her long ago.<br/>
-"Ta~li~?" (Raph-chan)<br/>
+"Ta\~li\~?" (Raph-chan)<br/>
 He seems to be worried about my injuries.<br/>
 "I’m fine. Don’t worry about it. You’re the one who set up the barrier magic, so I thank you." (Naofumi)<br/>
-"Li~ya!" (Raph-chan)<br/>
+"Li\~ya!" (Raph-chan)<br/>
 "… Naofumi-sama… please don’t play around too much." (Raphtalia)<br/>
 As I began petting Raph-chan all over, Raphtalia cautions me with an embarrassed expression.<br/>
 Her reaction is interesting, so I want to continue, but since Raphtalia’s saying it, I really should stop.<br/>
@@ -138,7 +138,7 @@ Her reaction is interesting, so I want to continue, but since Raphtalia’s sayi
 "I’ve seen it on the previous battlefield, There are a few variations of it, right?" (Trash)<br/>
 "Yeah, the monsters of my village personally asked for modifications. They became new sorts of Raphs." (Naofumi)<br/>
 "I see…" (Trash)<br/>
-"Rafu~?" (Raph-chan)<br/>
+"Rafu\~?" (Raph-chan)<br/>
 "He also wants to be used in battle. If you’re lacking manpower, go ahead and make use of them." (Naofumi)<br/>
 Honestly, the levels of Melromark’s soldiers are low in comparison to Faubley’s.<br/>
 In close quarters, they would be at quite a disadvantage.<br/>

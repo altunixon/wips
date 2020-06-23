@@ -433,10 +433,10 @@ def pix_main(urls):
                     and len(u.strip()) > 0]
                 )
             else:
+                list_cache = text_cache(expire=1800)
+                # list_cache.insert(book_file, raw_urls)
                 raw_urls.extend(pix_home.list_following(
                     book_file, reverse=False, limit=console_args.following_limit))
-                list_cache = None
-                # list_cache.insert(book_file, raw_urls)
     else:
         list_cache = None
         if len(raw_urls) == 0:

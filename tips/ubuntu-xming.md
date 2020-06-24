@@ -1,14 +1,24 @@
-#### Ubuntu side:
-- Set X11 display
+### Ubuntu side:
+- Enable sshd X11 forwarding
   ```bash
-  export DISPLAY=localhost:0.0
+  vim /etc/sshd/sshd_conf
   ```
-- Install X11-apps
+  ```
+  X11Forwarding     yes
+  X11DisplayOffset  10
+  X11UseLocalhost   yes
+  # this last keyword-argument pair maybe needed on AIX
+  XAuthLocation     /usr/bin/X11/xauth
+  # Due to a bug in OpenSSH: disabling (or badly configuring) IPv6 on Linux/Unix can mess up X-Forwarding. 
+  # You may therefore need to also add this to sshd_config to force IPv4
+  AddressFamily     inet
+  ```
+- Optional: Install X11-apps
   ```bash
   sudo apt-get update
   sudo apt-get install x11-apps
   ```
-#### Windows side: 
+### Windows side: 
 - Install Xming [(Centos)](https://wiki.centos.org/HowTos/Xming) <br/>
   The Xming Installer is suitable for Windows 10/8/7/Vista/XP Desktops as well as Windows Server 2012/2008/2003. <br/>
   Steps: 

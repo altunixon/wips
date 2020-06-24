@@ -7,8 +7,8 @@
   X11Forwarding     yes
   X11DisplayOffset  10
   X11UseLocalhost   yes
-  # this last keyword-argument pair maybe needed on AIX
-  XAuthLocation     /usr/bin/X11/xauth
+  # this last keyword-argument pair maybe needed on AIX, safe to disable if you only use x11 in a closed network
+  # XAuthLocation   /usr/bin/X11/xauth
   # Due to a bug in OpenSSH: disabling (or badly configuring) IPv6 on Linux/Unix can mess up X-Forwarding. 
   # You may therefore need to also add this to sshd_config to force IPv4
   AddressFamily     inet
@@ -36,5 +36,6 @@
   ```
   Host x
       Hostname 192.168.1.1
-      ForwardX11 yes
+      # ForwardX11 yes
+      ForwardX11Trusted yes
   ```

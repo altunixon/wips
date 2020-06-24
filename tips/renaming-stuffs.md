@@ -1,14 +1,13 @@
 ### Rename the kets
 ```bash
-find ./ -type d -maxdepth 1 -regextype sed -regex '^\(C[0-9]{1,2}\).*'
-find ./ -type d -maxdepth 1 -regextype sed -regex '^\(C[0-9]{1,2}\).*' | head -n 5 | sed -n '/^\.\/\((C[0-9]{1,2})\)/\1/p')
+ls -1 | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p'
 ```
 ```bash
 IFS=$'\r\n'
 CUR=$(pwd)
-for X in $(find ./ -type d -maxdepth 1 -regextype sed -regex '^\(C[0-9]{1,2}\).*'); do
-K=$(echo "$X" | sed -n '/^\.\/\((C[0-9]{1,2})\)/\1/p')
-cd "$X" && rnpa -p "${X## }" -s "_" /*
+for X in $(ls -1); do
+K=$(echo "$X" | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p')
+cd "$X" && /home/alt/bin-sh/rnpa -p "${K## }" -s "_" ./*
 cd "$CUR"
 done
 ```

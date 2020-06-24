@@ -64,7 +64,7 @@ case $trem_mode in
                         echo -e "${trem_key}|${trem_dst}\n" >> $path_mapfile
                     ;;
                 esac
-            fi
+            fi*:wq******
         else
             echo -e "${trem_key}|${trem_dst}\n" >> $path_mapfile
         fi
@@ -77,13 +77,14 @@ case $trem_mode in
         warning_empty $trem_mode "KEY" $trem_key
         trem_maps=($(grep "${trem_key}" "$path_mapfile"))
         if [ ${#trem_maps[@]} -gt 1 ]; then
+            grep -n "${trem_key}" "$path_mapfile"
             trem_li=$((${#trem_maps[@]} - 1))
             echo -e "Multiple [$trem_key] Match:"
             for map_ln in $(seq 0 $trem_li); do
                 # ??? might be wrong
                 echo -e "[$map_ln]: '${trem_maps[map_ln]}'"
             done
-            read -p "Choose [0-${trem_li}] to continue: " map_choice
+            read -p "Choose [0-${trem_li}], Default [0]: " map_choice
             case $map_choice in
                 [0-9]*) trem_map_chosen="${trem_maps[map_choice]}";;
                 *) trem_map_chosen="${trem_maps[0]}";;

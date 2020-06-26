@@ -12,7 +12,7 @@ There were well-informed people that had confirmed the news.<br/>
 "I heard that their opponent was the hero Jerome from Marie Quatre army!"<br/>
 The tavern was a place where intelligence was exchanged due to the large flow of people. People gathered after hearing this news.<br/>
 "Is it a civil war or a rebellion?"<br/>
-"No~pe, prince Auguste gave up his inheritance rights and recommended the 4th princess instead! Hence, Prince Latreille sent the First Army but was defeated!"<br/>
+"No\~pe, prince Auguste gave up his inheritance rights and recommended the 4th princess instead! Hence, Prince Latreille sent the First Army but was defeated!"<br/>
 "Even if they are the Black Knight Order, that’s too unbelievable!"<br/>
 "That’s because in Marie Quate Army, there is the strategist Regis. People who witnessed the fight said that he seemed to use magic to set the wetland ablaze, trapping the knights in the fire."<br/>
 "Magic, is it?... … That might be true as he commanded only 2000 people to conquer Volk Fortress."<br/>
@@ -42,7 +42,7 @@ He was Germain.<br/>
 Germain kneeled down.<br/>
 His shoulders was trembling non-stop.<br/>
 Latreille shook the glass and tasted the wine.<br/>
-"Punishment? Have you committed any crime~?"<br/>
+"Punishment? Have you committed any crime\~?"<br/>
 "... I,I, because I wanted to make up for my loss, I mobilised the First Army."<br/>
 "Ahh, it seems there is that. Not only that, the First Army was defeated. The whole capital are discussing about this. Huhu, that strategist really is a demon."<br/>
 "I have betrayed… B,betrayed Your Highness’ trust in me."<br/>
@@ -63,7 +63,7 @@ The empty glass was filled to the brim once more.<br/>
 "How is it, Germain? The colour of the wine after spilling and before spilling is different, and the taste is also different, right?"<br/>
 "... I,it’s different."<br/>
 "Isn’t it? Just that is it necessary to throw away the wine glass because some a glass of wine was spilled? What we should do now, is to pour new wine into the glass. Do you understand that, Germain? Please do not forget that both you and I are on the same boat."<br/>
-"O,oooooooh~~~~"<br/>
+"O,oooooooh\~\~\~\~"<br/>
 Germain was moved to tears.<br/>
 Latreille just shook the glass, looking out of the window to the shimmering street light.<br/>
 ### Chapter 6 The Queen's Navy <br/>
@@ -72,12 +72,12 @@ Volk Fortress<br/>
 After lunch, Regis was going to the commander’s room while holding intelligence report.<br/>
 The door to the room was half-opened.<br/>
 Humming could be heard coming from the inside.<br/>
-"Hmm~ hmm~"<br/>
+"Hmm\~ hmm\~"<br/>
 Regis looked into the room from the gap, a brown eyed, brown haired maid was currently wiping the desk.<br/>
 She was singing while doing a turn happily.<br/>
 She is still cleaning with such a cheery mood. Ah, it feels like it will be troublesome if I enter now.<br/>
 "..."<br/>
-"Hmm~ La la la~ Regis~ love to peep~"<br/>
+"Hmm\~ La la la\~ Regis\~ love to peep\~"<br/>
 "W,wait?! Couldn’t you say a word if you know that I’m here?"<br/>
 "Ara, you’re here, good afternoon, Regis."<br/>
 "... … Why are you pretending that you just noticed me… …"<br/>
@@ -122,7 +122,7 @@ The distance between their face was very close, Regis could see his own reflecti
 Clarisse is really a beauty, Regis thought.<br/>
 Regis could felt Clarisse’s breathing.<br/>
 A passionate voice came out from Clarisse’s mouth.<br/>
-"Huhu~, it’s fine, right? Regis, are you prepared?"<br/>
+"Huhu\~, it’s fine, right? Regis, are you prepared?"<br/>
 "... That… … I never once thought that you will want to kiss someone like me."<br/>
 "That, can I take it as a yes?"<br/>
 Regis fell into deep thoughts.<br/>
@@ -167,7 +167,7 @@ As both of them were the type that like to stay at home, both Regis and Felicia 
 Altina who saw this development lightly elbowed Regis.<br/>
 "Regis, that, do you like to fish?"<br/>
 "Eh? Fishing??! That…"<br/>
-"Haa~!!!! So, you're one of those that prefers them younger!?"<br/>
+"Haa\~!!!! So, you're one of those that prefers them younger!?"<br/>
 "... Please calm down Altina, think before you say anything, please have a seat there."<br/>
 "Hmph."<br/>
 Don, Jerome put the shortsword on the table and said,<br/>

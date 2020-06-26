@@ -128,7 +128,7 @@ There was a scene in which the princess jumped down to the<br/>
 courtyard from the ‘Atlas Room’.<br/>
 Although the room was on the third floor, the height was the<br/>
 same as a normal building, which was about 30 Co (13 m) high.<br/>
- ——Master Florien~<br/>
+ \—\—Master Florien\~<br/>
 That’s impossible?!?!<br/>
 I suppose that in the novel, the princess had a foothold<br/>
 like a footrest below the window. However, the situation right now is that<br/>
@@ -164,7 +164,7 @@ Eddie used his hand to lightly support Felicia’s legs and<br/>
 waist, carrying her in a princess-style.<br/>
 Then he jumped down from the third floor with a girl as if<br/>
 he was using the stairs to go down.<br/>
-"Yot~to"<br/>
+"Yot\~to"<br/>
 ——Almost effortlessly.<br/>
 Regis stared at the pair who had landed safely after jumping<br/>
 out of the window.<br/>
@@ -189,21 +189,21 @@ can use it to reduce the landing speed."<br/>
 for me… Seems like I won’t be descending from here. Altina, although it was<br/>
 short, I won’t ever forget the time I spent with you… Ahh, if I‘m killed<br/>
 instantly, then I can’t say that I won’t  forget, it’s just a few days after all… Eh,<br/>
-that, wait, Altina~? What are you doing?..."<br/>
+that, wait, Altina\~? What are you doing?..."<br/>
 Altina removed the Grand Tonnerre Quatre from her back, kept<br/>
 it in the scabbard and tossed it out of the window.<br/>
 A loud sound could be heard from the ground.<br/>
 "Okay, now it’s your turn, Regis."<br/>
 "W,what are you planning to do? I can’t, I'm absolutely<br/>
-unable to go down, no~"<br/>
+unable to go down, no\~"<br/>
 Altina carried Regis from his waist, using both of her hands<br/>
 to support his back and knees.<br/>
 "Don’t speak and close your eyes… Ah, that… that, hugging me<br/>
 tightly is fine."<br/>
-"No!~"<br/>
+"No!\~"<br/>
 Altina also princess-carried Regis and jumped out of the<br/>
 window.<br/>
-Huu~~, The sound of the wind rushing by reached his ears.<br/>
+Huu\~\~, The sound of the wind rushing by reached his ears.<br/>
 It felt as if he was floating.<br/>
 Soon, they reached the ground.<br/>
 Regis experienced two impacts.<br/>
@@ -268,15 +268,15 @@ At this point, Felicia also lowered her head and said.<br/>
 "What, it’s just that? Ride with me then."<br/>
 Eddie supported Felicia's waist and helped her onto the<br/>
 horse.<br/>
-"Hyaa!~"<br/>
+"Hyaa!\~"<br/>
 "The horse will kick randomly if you keep moving around."<br/>
-"Eh~~~~~"<br/>
+"Eh\~\~\~\~\~"<br/>
 Felicia swallowed her cries.<br/>
 That was how Felicia got on top of the horse while Eddie sat<br/>
 behind her.<br/>
 Even though it was carrying two people, the horse did not<br/>
 move about as it was trained.<br/>
-"Th~ere there, what a good child. Be it the horse or<br/>
+"Th\~ere there, what a good child. Be it the horse or<br/>
 Felicia, you need to behave."<br/>
 Regis suddenly felt something bad was going to happen.<br/>
 He felt someone grabbing his belt.<br/>
@@ -324,7 +324,7 @@ Regis who had a similar expression looked at Felicia.<br/>
 Although the situation now did not allow them to be slow,<br/>
 the speed was simply terrifying.<br/>
 At this moment, Eddie moved his horse closer to Altina's.<br/>
-"Ahh, that reminds me, Regis~"<br/>
+"Ahh, that reminds me, Regis\~"<br/>
 "...W, wha, what!?"<br/>
 Not only was it shaky on top of the horse, the clatter of<br/>
 hoofs was loud, hence Eddie shouted.<br/>
@@ -361,7 +361,7 @@ families."<br/>
 When Altina shouted, Regis already stuck his body to the<br/>
 horse as close as possible. Altina was leaning on Regis’ back.<br/>
 "...... argh."<br/>
-"Maintain it like this, charge~~~~~~!"<br/>
+"Maintain it like this, charge\~\~\~\~\~\~!"<br/>
 She commanded with the aura of commanding an army of<br/>
 thousands.<br/>
 But in reality, it were only Eddie and Eric.<br/>
@@ -380,7 +380,7 @@ However, there was still 5 knights pointing spears at their<br/>
 direction.<br/>
 Altina released the reins and used her legs to stabilise<br/>
 herself while using Grand Tonnerre Quatre.<br/>
-"Heyaaaa——————!"<br/>
+"Heyaaaa\—\—\—\—\—\—!"<br/>
 The sword and spears clashed.<br/>
 The line of spears was shattered just like that.<br/>
 Altina’s idea of smashing their spears and breaking through<br/>
@@ -398,7 +398,7 @@ rush into the spears, was what Regis thought.<br/>
 Eddie who followed them shouted.<br/>
 "What a convenient sword!"<br/>
 "Do you want to try switching it?"<br/>
-"Haa~! I feel that I won’t be able to lift it, so forget<br/>
+"Haa\~! I feel that I won’t be able to lift it, so forget<br/>
 it."<br/>
 "Ahahaha."<br/>
 This isn’t something worth laughing about, just carrying<br/>
@@ -506,7 +506,7 @@ Latreille’s private army?"<br/>
 capital! That, I firmly believe!"<br/>
 "Then you should carry out your faith! I will not yield no<br/>
 matter my opponent!"<br/>
-"Yes~!"<br/>
+"Yes\~!"<br/>
 It had reached to the point where words were no longer<br/>
 required, Constant ordered the attack.<br/>
 The knights who were still in the muddy area charged.<br/>
@@ -521,8 +521,7 @@ Constant could not<br/>
 believe it and moaned.<br/>
 "...... Those're Jerome’s Black Knights!? Could they be<br/>
 decoys?... Still, with just a mere 500 knights from the countryside? These<br/>
-elite troops of mine will not lose!! Attack~~! Do not let Prince Auguste<br/>
-escape!!"<br/>
+elite troops of mine will not lose!! Attack\~\~! Do not let Prince Auguste escape!!"<br/>
 The enemy once again went on the offensive.<br/>
 At this point, the Black Knights launched fire arrows, their<br/>
 target was the center of the Knights of the White Wolves.<br/>
@@ -586,7 +585,7 @@ This was the technique he used to kill the enemy cavalry<br/>
 during the Siege of Volk Fortress.<br/>
 Constant let go of the reins, holding a sword in each hand,<br/>
 and blocked the attacks.<br/>
-"Ho~ I thought that you would have lost your strength from<br/>
+"Ho\~ I thought that you would have lost your strength from<br/>
 holding wineglasses in the palace all day."<br/>
 "I don't drink!<br/>
 "Pardon me for my mistake. Could it be that's the reason why<br/>
@@ -596,7 +595,7 @@ Constant used his left hand to block the spear while the<br/>
 right hand thrust at Jerome’s heart.<br/>
 "You are looking down on me if you think that using a single<br/>
 hand can ward off my attack."<br/>
-"Ah!~"<br/>
+"Ah!\~"<br/>
 The spear that was deflected suddenly came in again at the<br/>
 same speed as before.<br/>
 However, the strength applied was different.<br/>
@@ -605,7 +604,7 @@ the second was to break it.<br/>
 By the third attack, there would no longer be a sword in his<br/>
 left hand to block with.<br/>
 The white steel armour was punctured.<br/>
-"Gyaha~"<br/>
+"Gyaha\~"<br/>
 "That reminds me, <br/>
 among the 3 knight orders in the first army, what is your ranking? Don’t<br/>
 tell me you are the strongest, if that is so, I’m too disappointed… Eh?"<br/>
@@ -662,15 +661,12 @@ careful."<br/>
   <br/>
 "Was it really necessary to attack with fire?"<br/>
   <br/>
-"Regarding this, think about it, the knight orders are the<br/>
-core of the First Army, hence they are quite prideful. Therefore, the chances<br/>
-of them wanting a fair fight is high, hence using fire on them just come<br/>
-naturally to me."<br/>
+"Regarding this, think about it, the knight orders are the core of the First Army, hence they are quite prideful. 
+Therefore, the chances of them wanting a fair fight is high, hence using fire on them just come naturally to me."<br/>
   <br/>
 "Looks like what Jerome said was true, how despicable."<br/>
   <br/>
-"I believe that using 1000 knights to chase after 5 people<br/>
-on 3 horses isn’t noble either."<br/>
+"I believe that using 1000 knights to chase after 5 people on 3 horses isn’t noble either."<br/>
   <br/>
 "That… indeed."<br/>
   <br/>
@@ -678,9 +674,7 @@ on 3 horses isn’t noble either."<br/>
   <br/>
 "I won’t be able to see the enemy that way."<br/>
   <br/>
-"The situation has already concluded, we should be<br/>
-retreating too. There should be messenger soldiers behind them, so the army<br/>
-will also withdraw.<br/>
+"The situation has already concluded, we should be retreating too. There should be messenger soldiers behind them, so the army will also withdraw."<br/>
   <br/>
 "Just withdraw like this?"<br/>
   <br/>

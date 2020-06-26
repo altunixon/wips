@@ -39,3 +39,4 @@
       # ForwardX11 yes
       ForwardX11Trusted yes
   ```
+### [Trouble with Xming?](http://www.straightrunning.com/XmingNotes/trouble.php)

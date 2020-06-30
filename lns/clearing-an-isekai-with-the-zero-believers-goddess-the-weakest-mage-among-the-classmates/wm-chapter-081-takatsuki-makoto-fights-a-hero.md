@@ -234,6 +234,5 @@ While I looked at the Lightning Hero make a dubious expression for a second.<br/
 The words of Noah-sama resonate in me.<br/>
 I let my anger sweep me, and use Spirit Magic.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-080-takatsuki-makoto-heads-to-the-highland-castle.md](./wm-chapter-080-takatsuki-makoto-heads-to-the-highland-castle.md) | [wm-chapter-082-takatsuki-makoto-overdoes-it.md](./wm-chapter-082-takatsuki-makoto-overdoes-it.md) <br/>

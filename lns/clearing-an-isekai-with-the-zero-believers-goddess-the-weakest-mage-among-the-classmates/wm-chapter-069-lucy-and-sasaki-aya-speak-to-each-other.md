@@ -206,6 +206,5 @@ Lucy and Sa-san apparently went shopping for the whole day.<br/>
 "The two always get along so well", Nina-san says with a smile.<br/>
  I should have gone with them.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-068-takatsuki-makoto-explores-the-capital-of-horun.md](./wm-chapter-068-takatsuki-makoto-explores-the-capital-of-horun.md) | [wm-chapter-070-takatsuki-makoto-heads-to-the-royal-castle-again.md](./wm-chapter-070-takatsuki-makoto-heads-to-the-royal-castle-again.md) <br/>

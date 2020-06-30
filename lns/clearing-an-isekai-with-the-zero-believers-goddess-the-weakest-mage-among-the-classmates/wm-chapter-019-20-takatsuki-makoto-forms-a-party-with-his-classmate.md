@@ -232,6 +232,5 @@ Looks like we are close to the deepest part of this facility.<br/>
 The alarm of Detection has been noisy for a while now.<br/>
 There was a monster as big as the Griffon of before lying down there.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-018-even-a-gentle-close-friend-can-sometimes-get-mad.md](./wm-chapter-018-even-a-gentle-close-friend-can-sometimes-get-mad.md) | [wm-chapter-021-the-gatekeeper-beast-1.md](./wm-chapter-021-the-gatekeeper-beast-1.md) <br/>

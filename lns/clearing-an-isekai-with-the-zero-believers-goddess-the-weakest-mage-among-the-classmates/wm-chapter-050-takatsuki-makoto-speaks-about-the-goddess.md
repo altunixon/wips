@@ -154,6 +154,5 @@ This is that.<br/>
 The event where I listen to the Goddess’s request.<br/>
 "Sakurai-kun, should I help out?" (Makoto)<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-049-sasaki-aya-meets-her-bitter-enemy-again.md](./wm-chapter-049-sasaki-aya-meets-her-bitter-enemy-again.md) | [wm-chapter-051-yokoyama-saki-doesnt-trust-her-classmate.md](./wm-chapter-051-yokoyama-saki-doesnt-trust-her-classmate.md) <br/>

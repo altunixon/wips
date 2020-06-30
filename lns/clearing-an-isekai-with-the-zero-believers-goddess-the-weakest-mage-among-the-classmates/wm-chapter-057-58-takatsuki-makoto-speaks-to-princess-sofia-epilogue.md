@@ -228,6 +228,5 @@ I kneeled in front of Noah-sama and, while making eye contact, I answered her.<b
 The smile of Noah-sama was radiant. <br/>
 And in this way, I officially became the Apostle of the Evil God Noah, aiming to overturn the world together.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-056-takatsuki-makoto-speaks-to-the-great-sage.md](./wm-chapter-056-takatsuki-makoto-speaks-to-the-great-sage.md) | [wm-chapter-059-sasaki-aya-is-guided-in-the-city-of-makkaren.md](./wm-chapter-059-sasaki-aya-is-guided-in-the-city-of-makkaren.md) <br/>

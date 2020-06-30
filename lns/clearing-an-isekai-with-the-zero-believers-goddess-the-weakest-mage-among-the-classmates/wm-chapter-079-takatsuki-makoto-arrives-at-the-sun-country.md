@@ -251,6 +251,5 @@ Fuji-yan says with a hard to describe face.<br/>
 It is a country that feels as if there’s a lot going on in it.<br/>
 While thinking this, we passed by the first gate of the city, and advanced to the next district…<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-078-takatsuki-makoto-talks-to-the-devilkin.md](./wm-chapter-078-takatsuki-makoto-talks-to-the-devilkin.md) | [wm-chapter-080-takatsuki-makoto-heads-to-the-highland-castle.md](./wm-chapter-080-takatsuki-makoto-heads-to-the-highland-castle.md) <br/>

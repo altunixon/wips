@@ -274,6 +274,5 @@ The voice of the cold Princess Sofia responded.<br/>
 We were hearing things, huh.<br/>
 I gave my greeting to the soldier-san and returned to where my friends are.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-074-the-fujiwara-company-is-popular-in-the-capital.md](./wm-chapter-074-the-fujiwara-company-is-popular-in-the-capital.md) | [wm-chapter-076-epilogue-third-arc.md](./wm-chapter-076-epilogue-third-arc.md) <br/>

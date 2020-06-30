@@ -214,6 +214,5 @@ It is the ‘amusement quarters’ of men and women.<br/>
 As if I would know such foreign world knowledge!<br/>
 The Water Temple didn’t teach me that!<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-057-58-takatsuki-makoto-speaks-to-princess-sofia-epilogue.md](./wm-chapter-057-58-takatsuki-makoto-speaks-to-princess-sofia-epilogue.md) | [wm-chapter-060-lucy-feels-affection-towards-takatsuki-makoto.md](./wm-chapter-060-lucy-feels-affection-towards-takatsuki-makoto.md) <br/>

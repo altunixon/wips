@@ -127,6 +127,5 @@ We 3 move back, and watch over him.<br/>
 "Then, I will be counting on you, Spirit-sans. [Water Magic: Yamata no Orochi]." (Makoto)<br/>
 —At that instant, a monster was born.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-050-takatsuki-makoto-speaks-about-the-goddess.md](./wm-chapter-050-takatsuki-makoto-speaks-about-the-goddess.md) | [wm-chapter-052-takatsuki-makoto-fights-with-the-taboo-dragons.md](./wm-chapter-052-takatsuki-makoto-fights-with-the-taboo-dragons.md) <br/>

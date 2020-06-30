@@ -257,6 +257,5 @@ Last time and this time, they were the ones who came to us.<br/>
 Just like in the past, in a lighthearted manner.<br/>
 The members are completely different from that time in 3rd year of elementary school, but this kind of stuff doesn’t sound bad.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-084-takatsuki-makoto-is-the-taste-of-the-great-sage.md](./wm-chapter-084-takatsuki-makoto-is-the-taste-of-the-great-sage.md) | [wm-chapter-086-takatsuki-makoto-explores-the-capital-7th-district.md](./wm-chapter-086-takatsuki-makoto-explores-the-capital-7th-district.md) <br/>

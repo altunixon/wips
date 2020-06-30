@@ -174,6 +174,5 @@ I became a Silver Rank, and as celebration, Lucas-san and the Skewer Stall Boss 
 Mary-san was teasing me as always, and Jean announced: ‘I will catch up to you in an instant, got it?!’.<br/>
 And so, we once again departed from Makkaren.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-061-meeting-with-the-goddess.md](./wm-chapter-061-meeting-with-the-goddess.md) | [wm-chapter-063-takatsuki-makoto-heads-to-the-capital.md](./wm-chapter-063-takatsuki-makoto-heads-to-the-capital.md) <br/>

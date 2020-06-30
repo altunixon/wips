@@ -254,6 +254,5 @@ Lucy swings her staff, and the burning boulders are shot, taking out the harpies
 <br/>
 Ear-piercing shrieks echo into the dungeon.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-046-we-prepare-for-the-boss-battle.md](./wm-chapter-046-we-prepare-for-the-boss-battle.md) | [wm-chapter-049-sasaki-aya-meets-her-bitter-enemy-again.md](./wm-chapter-049-sasaki-aya-meets-her-bitter-enemy-again.md) <br/>

@@ -261,6 +261,5 @@ Her hand is cold.<br/>
 In the past, when she checked me with her Skill, I remember thinking that it was pretty cold.<br/>
 "This is payment for the troubles, Spirit User. Give me your blood." <br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-082-takatsuki-makoto-overdoes-it.md](./wm-chapter-082-takatsuki-makoto-overdoes-it.md) | [wm-chapter-084-takatsuki-makoto-is-the-taste-of-the-great-sage.md](./wm-chapter-084-takatsuki-makoto-is-the-taste-of-the-great-sage.md) <br/>

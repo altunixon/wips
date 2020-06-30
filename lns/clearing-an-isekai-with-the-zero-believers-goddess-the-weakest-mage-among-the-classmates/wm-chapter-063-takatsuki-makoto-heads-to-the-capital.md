@@ -143,6 +143,5 @@ I intended this to be a serious talk, but the two of them are the same as always
 Next time when I have an important talk, I should tell these two immediately without worrying about it.<br/>
 That’s how I felt after this.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-062-fuji-yan-begins-a-new-business.md](./wm-chapter-062-fuji-yan-begins-a-new-business.md) | [wm-chapter-064-takatsuki-makoto-arrives-at-the-capital-horun.md](./wm-chapter-064-takatsuki-makoto-arrives-at-the-capital-horun.md) <br/>

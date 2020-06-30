@@ -252,6 +252,5 @@ Princess Noel didn’t know how to respond to that.<br/>
 She had slightly cold eyes.<br/>
 Hm? Did I say something weird?<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-086-takatsuki-makoto-explores-the-capital-7th-district.md](./wm-chapter-086-takatsuki-makoto-explores-the-capital-7th-district.md) | [wm-chapter-088-takatsuki-makoto-listens-to-the-past-talk-of-princess-noel.md](./wm-chapter-088-takatsuki-makoto-listens-to-the-past-talk-of-princess-noel.md) <br/>

@@ -131,6 +131,5 @@ But…<br/>
 It should be clear one day.<br/>
 What is the true wish (order) of the Goddess.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-024-the-long-past-story-of-the-giant.md](./wm-chapter-024-the-long-past-story-of-the-giant.md) | [wm-chapter-026-27-takatsuki-makoto-is-at-his-stagnation-phase.md](./wm-chapter-026-27-takatsuki-makoto-is-at-his-stagnation-phase.md) <br/>

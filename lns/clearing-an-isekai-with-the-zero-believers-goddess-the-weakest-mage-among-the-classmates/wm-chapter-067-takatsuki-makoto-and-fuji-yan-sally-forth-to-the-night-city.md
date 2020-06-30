@@ -208,6 +208,5 @@ It is about to get pretty late already.<br/>
 Today was fun too.<br/>
 I would learn about what happens later when tomorrow comes.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-066-takatsuki-makoto-speaks-with-the-hero.md](./wm-chapter-066-takatsuki-makoto-speaks-with-the-hero.md) | [wm-chapter-068-takatsuki-makoto-explores-the-capital-of-horun.md](./wm-chapter-068-takatsuki-makoto-explores-the-capital-of-horun.md) <br/>

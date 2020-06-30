@@ -346,6 +346,5 @@ Something is rushing here at an incredible speed.<br/>
 Emily screams.<br/>
 What’s coming here is a Danger Level: High monster, a Griffon.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-010-takatsuki-makoto-trains-with-lucy.md](./wm-chapter-010-takatsuki-makoto-trains-with-lucy.md) | [wm-chapter-013-14-vs-griffon.md](./wm-chapter-013-14-vs-griffon.md) <br/>

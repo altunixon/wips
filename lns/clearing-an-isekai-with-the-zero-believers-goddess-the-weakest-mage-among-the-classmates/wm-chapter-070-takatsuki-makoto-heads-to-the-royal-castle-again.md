@@ -153,6 +153,5 @@ When I was thinking about how to calm him down…<br/>
 "Reporting! Monsters have appeared in the city!" <br/>
 A loud voice that stopped the party resonated in the venue.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-069-lucy-and-sasaki-aya-speak-to-each-other.md](./wm-chapter-069-lucy-and-sasaki-aya-speak-to-each-other.md) | [wm-chapter-071-burning-capital-1.md](./wm-chapter-071-burning-capital-1.md) <br/>

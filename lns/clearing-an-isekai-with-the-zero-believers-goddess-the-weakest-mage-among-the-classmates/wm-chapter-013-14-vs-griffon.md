@@ -283,6 +283,5 @@ This method is no good anymore.<br/>
 I thought it would work well though…<br/>
 …The world went dark.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-011-12-vs-rampaging-bison.md](./wm-chapter-011-12-vs-rampaging-bison.md) | [wm-chapter-015-takatsuki-makoto-gets-the-goddesss-divine-protection.md](./wm-chapter-015-takatsuki-makoto-gets-the-goddesss-divine-protection.md) <br/>

@@ -127,6 +127,5 @@ They are wearing equipment several times better-looking and expensive-looking th
 It is not like I am jealous, okay?<br/>
 Don’t tell me this is the good meeting you were talking about, Goddess-sama.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-033-takatsuki-makoto-challenges-laberintos-first-day.md](./wm-chapter-033-takatsuki-makoto-challenges-laberintos-first-day.md) | [wm-chapter-035-sasaki-aya-gets-used-to-the-life-in-the-dungeon.md](./wm-chapter-035-sasaki-aya-gets-used-to-the-life-in-the-dungeon.md) <br/>

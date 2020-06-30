@@ -183,6 +183,5 @@ The sharp claws of the harpy boss tore me up.<br/>
 I died.<br/>
 It was irritating that my second life would end within cold ice. <br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-039-takatsuki-makoto-meets-a-dragon.md](./wm-chapter-039-takatsuki-makoto-meets-a-dragon.md) | [wm-chapter-041-takatsuki-makoto-encounters-%e2%97%8b%e2%97%8b.md](./wm-chapter-041-takatsuki-makoto-encounters-%e2%97%8b%e2%97%8b.md) <br/>

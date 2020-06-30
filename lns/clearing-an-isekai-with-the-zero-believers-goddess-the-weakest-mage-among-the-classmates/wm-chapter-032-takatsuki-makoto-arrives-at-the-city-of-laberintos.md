@@ -170,6 +170,5 @@ When I turn around, I see wild-looking adventurers standing there and grinning.<
 Aah, because I have been together with Lucy-san often, I forgot about it but…Lucy-san wears thinly, so she stands out.<br/>
 We’ve got some troublemakers on us.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-031-sasaki-aya-is-a-lamia.md](./wm-chapter-031-sasaki-aya-is-a-lamia.md) | [wm-chapter-033-takatsuki-makoto-challenges-laberintos-first-day.md](./wm-chapter-033-takatsuki-makoto-challenges-laberintos-first-day.md) <br/>

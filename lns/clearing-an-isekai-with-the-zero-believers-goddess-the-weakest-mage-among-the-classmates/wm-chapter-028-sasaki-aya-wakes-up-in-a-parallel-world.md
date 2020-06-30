@@ -89,6 +89,5 @@ But before losing consciousness, I faintly understood.<br/>
 I have become a snake…<br/>
 A snake monster.<br/>
 Aah, God.<br/>
-Isn’t this way too much?Previous Chapter l Next Chapter <br/>
-<br/> <br/>
+Isn’t this way too much?Previous Chapter l Next Chapter <br/> <br/>
 [wm-chapter-026-27-takatsuki-makoto-is-at-his-stagnation-phase.md](./wm-chapter-026-27-takatsuki-makoto-is-at-his-stagnation-phase.md) | [wm-chapter-029-takatsuki-makoto-is-stopped-in-his-journey.md](./wm-chapter-029-takatsuki-makoto-is-stopped-in-his-journey.md) <br/>

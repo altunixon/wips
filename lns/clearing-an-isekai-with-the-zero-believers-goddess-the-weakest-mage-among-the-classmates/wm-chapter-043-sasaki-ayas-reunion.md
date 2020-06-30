@@ -163,6 +163,5 @@ My Detection is only detecting weak monsters.<br/>
 We managed to escape from Laberintos in one day.<br/>
 When we left the dungeon, the night had already gone by, and the morning sun was rising.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-042-takatsuki-makotos-reunion.md](./wm-chapter-042-takatsuki-makotos-reunion.md) | [wm-chapter-044-45-reunion-with-fuji-yan.md](./wm-chapter-044-45-reunion-with-fuji-yan.md) <br/>

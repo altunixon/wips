@@ -135,6 +135,5 @@ Lucy mutters.<br/>
 No one of the adventurers could react to it.<br/>
 "All dragons are Calamity Designations after all. Run away at full force on sight", is what Lucas-san explained to me at the guild stalls.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-036-37-labyrinths-bar.md](./wm-chapter-036-37-labyrinths-bar.md) | [wm-chapter-039-takatsuki-makoto-meets-a-dragon.md](./wm-chapter-039-takatsuki-makoto-meets-a-dragon.md) <br/>

@@ -168,6 +168,5 @@ I should switch my view and begin searching for my specialty that is water magic
 "…Fumu, fumu, fumu, fumu…what?! Is something like that possible?! We can use that!" (Fujiwara)<br/>
 Looks like it was a viable idea.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-060-lucy-feels-affection-towards-takatsuki-makoto.md](./wm-chapter-060-lucy-feels-affection-towards-takatsuki-makoto.md) | [wm-chapter-062-fuji-yan-begins-a-new-business.md](./wm-chapter-062-fuji-yan-begins-a-new-business.md) <br/>

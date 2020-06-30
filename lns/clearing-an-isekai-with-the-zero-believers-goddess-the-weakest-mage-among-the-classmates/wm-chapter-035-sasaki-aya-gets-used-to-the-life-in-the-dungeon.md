@@ -152,6 +152,5 @@ I probably let it get to my head.<br/>
 I didn’t notice.<br/>
 The fact that, at some point in time, Elder Sister-sama was looking at me with eyes of envy.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-034-takatsuki-makoto-fights-the-minotaur.md](./wm-chapter-034-takatsuki-makoto-fights-the-minotaur.md) | [wm-chapter-036-37-labyrinths-bar.md](./wm-chapter-036-37-labyrinths-bar.md) <br/>

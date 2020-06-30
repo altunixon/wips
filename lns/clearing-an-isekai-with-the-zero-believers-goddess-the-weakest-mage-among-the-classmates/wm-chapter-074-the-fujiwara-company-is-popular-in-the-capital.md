@@ -207,6 +207,5 @@ Aah, but Fuji-yan is a noble, so…is what I spaced out thinking when…<br/>
 Princess Sofia says straight.<br/>
 …Huh?<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-073-after-the-chaos.md](./wm-chapter-073-after-the-chaos.md) | [wm-chapter-075-takatsuki-makoto-makes-a-choice.md](./wm-chapter-075-takatsuki-makoto-makes-a-choice.md) <br/>

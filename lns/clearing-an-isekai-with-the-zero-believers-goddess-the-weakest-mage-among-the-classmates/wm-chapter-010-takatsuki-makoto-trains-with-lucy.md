@@ -203,6 +203,5 @@ What’s not the usual is that there were people who spoke to the troublemaker m
 The ones who spoke to us were Jean and Emily.<br/>
 The former party of Lucy.<br/>
  Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-009-my-first-comrade.md](./wm-chapter-009-my-first-comrade.md) | [wm-chapter-011-12-vs-rampaging-bison.md](./wm-chapter-011-12-vs-rampaging-bison.md) <br/>

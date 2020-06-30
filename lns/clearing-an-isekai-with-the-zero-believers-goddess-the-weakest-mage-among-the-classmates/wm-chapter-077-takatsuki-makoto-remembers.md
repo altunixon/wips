@@ -284,6 +284,5 @@ We are inside a room, so I can’t use big magic.<br/>
 …I am sleepy.<br/>
 I at some point in time also fell asleep in the bed.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-076-epilogue-third-arc.md](./wm-chapter-076-epilogue-third-arc.md) | [wm-chapter-078-takatsuki-makoto-talks-to-the-devilkin.md](./wm-chapter-078-takatsuki-makoto-talks-to-the-devilkin.md) <br/>

@@ -252,6 +252,5 @@ While I was thinking that.<br/>
 "Oi oi oi! And here I was wondering who it is. Isn’t that the Trash Hero of the Water Country?! What are you doing in the Highland Castle?!" <br/>
 An ear-ringing voice resonated.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-079-takatsuki-makoto-arrives-at-the-sun-country.md](./wm-chapter-079-takatsuki-makoto-arrives-at-the-sun-country.md) | [wm-chapter-081-takatsuki-makoto-fights-a-hero.md](./wm-chapter-081-takatsuki-makoto-fights-a-hero.md) <br/>

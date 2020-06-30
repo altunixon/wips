@@ -249,6 +249,5 @@ There’s nothing really interesting about it though.<br/>
 Sakurai-kun responds with a smile.<br/>
 Eh? What story is that?<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-083-takatsuki-makoto-meets-the-great-sage-sama-again.md](./wm-chapter-083-takatsuki-makoto-meets-the-great-sage-sama-again.md) | [wm-chapter-085-sakurai-ryosukes-memory.md](./wm-chapter-085-sakurai-ryosukes-memory.md) <br/>

@@ -246,6 +246,5 @@ Then, even though the schedule has been changed quite a bit, we are about to ret
 The biggest country of the continent, the Highland Kingdom’s capital.<br/>
 To the place that’s said to be the center of this world.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-077-takatsuki-makoto-remembers.md](./wm-chapter-077-takatsuki-makoto-remembers.md) | [wm-chapter-079-takatsuki-makoto-arrives-at-the-sun-country.md](./wm-chapter-079-takatsuki-makoto-arrives-at-the-sun-country.md) <br/>

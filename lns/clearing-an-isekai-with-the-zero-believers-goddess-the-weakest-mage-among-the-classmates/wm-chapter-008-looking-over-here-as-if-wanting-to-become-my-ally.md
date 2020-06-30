@@ -345,6 +345,5 @@ I offer my right hand to Lucy.<br/>
 Lucy grabs my hand with strength and shows a wide smile.<br/>
 And in this way, I obtained my first comrade since coming to this world.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-007-the-nickname-of-takatsuki-makoto-is-lame.md](./wm-chapter-007-the-nickname-of-takatsuki-makoto-is-lame.md) | [wm-chapter-009-my-first-comrade.md](./wm-chapter-009-my-first-comrade.md) <br/>

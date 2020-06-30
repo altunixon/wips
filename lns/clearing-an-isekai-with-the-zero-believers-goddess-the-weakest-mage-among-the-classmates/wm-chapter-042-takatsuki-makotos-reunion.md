@@ -162,6 +162,5 @@ But it isn’t attacking at all.<br/>
 The monster in front of me had her eyes wide open as if it were surprised.<br/>
 "Takatsuki-kun…?" <br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-041-takatsuki-makoto-encounters-%e2%97%8b%e2%97%8b.md](./wm-chapter-041-takatsuki-makoto-encounters-%e2%97%8b%e2%97%8b.md) | [wm-chapter-043-sasaki-ayas-reunion.md](./wm-chapter-043-sasaki-ayas-reunion.md) <br/>

@@ -291,6 +291,5 @@ Today is a day with a lot of choices, huh.<br/>
 Sa-san smiles with a troubled expression.<br/>
 We head to the underground canals of Symphonia.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-088-takatsuki-makoto-listens-to-the-past-talk-of-princess-noel.md](./wm-chapter-088-takatsuki-makoto-listens-to-the-past-talk-of-princess-noel.md) | [wm-chapter-090-the-capitals-underground-canals.md](./wm-chapter-090-the-capitals-underground-canals.md) <br/>

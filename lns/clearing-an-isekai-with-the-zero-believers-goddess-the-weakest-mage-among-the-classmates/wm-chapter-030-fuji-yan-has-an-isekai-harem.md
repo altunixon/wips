@@ -162,6 +162,5 @@ Lucy was getting excited like a child.<br/>
 Honestly speaking, I also want to act merry like her.<br/>
 We enjoyed the short sky travel.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-029-takatsuki-makoto-is-stopped-in-his-journey.md](./wm-chapter-029-takatsuki-makoto-is-stopped-in-his-journey.md) | [wm-chapter-031-sasaki-aya-is-a-lamia.md](./wm-chapter-031-sasaki-aya-is-a-lamia.md) <br/>

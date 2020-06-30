@@ -303,6 +303,5 @@ He ignored the voice of Princess Noel, and without making eye contact with me, h
 There was no pressure in that figure of his compared to the first time I met him.<br/>
 The back of the retreating Geralt-san had sorrow seeping out of it. <br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-081-takatsuki-makoto-fights-a-hero.md](./wm-chapter-081-takatsuki-makoto-fights-a-hero.md) | [wm-chapter-083-takatsuki-makoto-meets-the-great-sage-sama-again.md](./wm-chapter-083-takatsuki-makoto-meets-the-great-sage-sama-again.md) <br/>

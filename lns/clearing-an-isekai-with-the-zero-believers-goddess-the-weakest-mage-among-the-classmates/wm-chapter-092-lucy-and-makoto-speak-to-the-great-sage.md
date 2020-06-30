@@ -225,6 +225,5 @@ Fuji-yan and Chris-san ran to my side.<br/>
 Fuji-yan gives me a letter.<br/>
 It was an invitation from the 9th District’s mafia, the Castor Family’s young boss, Peter Castor.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-091-takatsuki-makoto-speaks-with-the-highland-nobles.md](./wm-chapter-091-takatsuki-makoto-speaks-with-the-highland-nobles.md) | [wm-chapter-093-takatsuki-makoto-is-invited-by-the-mafia.md](./wm-chapter-093-takatsuki-makoto-is-invited-by-the-mafia.md) <br/>

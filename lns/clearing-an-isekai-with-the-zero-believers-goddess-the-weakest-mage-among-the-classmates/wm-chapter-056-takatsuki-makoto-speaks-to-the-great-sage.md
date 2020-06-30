@@ -173,6 +173,5 @@ I was spacing out with a blank head.<br/>
 "Takatsuki-sama, there’s a guest", Nina-san pokes my shoulder.<br/>
 The one there was the Water Oracle, the Princess of Rozes, Sofia Rozes. <br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-055-takatsuki-makotos-comrades-are-flabbergated-by-him.md](./wm-chapter-055-takatsuki-makotos-comrades-are-flabbergated-by-him.md) | [wm-chapter-057-58-takatsuki-makoto-speaks-to-princess-sofia-epilogue.md](./wm-chapter-057-58-takatsuki-makoto-speaks-to-princess-sofia-epilogue.md) <br/>

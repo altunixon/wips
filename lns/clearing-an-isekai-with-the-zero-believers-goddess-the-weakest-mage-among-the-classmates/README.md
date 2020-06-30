@@ -10,9 +10,8 @@ for i in $(ls *.htm); do n=$(echo $i | awk -F '-' '{printf("%03d", $3)}'); o=$(e
 ```bash
 sed -i '/__ATA.cmd.push/,/TwitterFacebook/d' *.md
 ```
-### add navigate
+### nav
 ```bash
-nav_pre="[Table of Contents](./toc.md)"
 chp_lst=($(ls -1 *chapter-*.md))
 n_f=$((${#chp_lst[@]} - 1))
 for n_i in $(seq 0 $n_f); do
@@ -26,4 +25,8 @@ for n_i in $(seq 0 $n_f); do
     echo -e "${nav_pre} | ${nav_nex} <br/>\n$(cat $chp_now) <br/>\n${nav_pre} | ${nav_nex} <br/>" > "$chp_now"
     nav_pre="[$chp_now](./$chp_now)"
 done
+```
+### rip nav
+```bash
+ls -1 *chapter-*.md | xargs -I {} sed -i '/\[.*chapter-/d' "{}"
 ```

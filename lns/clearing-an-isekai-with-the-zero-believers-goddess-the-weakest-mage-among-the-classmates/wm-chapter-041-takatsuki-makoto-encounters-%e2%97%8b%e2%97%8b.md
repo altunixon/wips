@@ -150,6 +150,5 @@ Giving me such a messed up option! <br/>
 "O-Okay." (Lucy)<br/>
 I held the hand of Lucy, and took a stance with my dagger once again.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-040-the-tragedy-of-sasaki-aya.md](./wm-chapter-040-the-tragedy-of-sasaki-aya.md) | [wm-chapter-042-takatsuki-makotos-reunion.md](./wm-chapter-042-takatsuki-makotos-reunion.md) <br/>

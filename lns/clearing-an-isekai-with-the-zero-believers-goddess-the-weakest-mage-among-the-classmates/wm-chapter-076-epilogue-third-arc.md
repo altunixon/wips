@@ -183,6 +183,5 @@ Hm?<br/>
 I kind of heard a laugh?<br/>
 Am I hearing things?<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-075-takatsuki-makoto-makes-a-choice.md](./wm-chapter-075-takatsuki-makoto-makes-a-choice.md) | [wm-chapter-077-takatsuki-makoto-remembers.md](./wm-chapter-077-takatsuki-makoto-remembers.md) <br/>

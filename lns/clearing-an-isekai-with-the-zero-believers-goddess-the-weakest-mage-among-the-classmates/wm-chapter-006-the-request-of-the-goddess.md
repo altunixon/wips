@@ -319,6 +319,5 @@ I feel like I heard someone say that.<br/>
 Goddess, you are watching me too much.<br/>
 I erased the sound of my footsteps, and silently creeped my way to 1 goblin.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-005-takatsuki-makoto-reunites-with-his-friend.md](./wm-chapter-005-takatsuki-makoto-reunites-with-his-friend.md) | [wm-chapter-007-the-nickname-of-takatsuki-makoto-is-lame.md](./wm-chapter-007-the-nickname-of-takatsuki-makoto-is-lame.md) <br/>

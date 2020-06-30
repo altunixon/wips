@@ -261,6 +261,5 @@ E-Eh? <br/>
 Wait, did I overdo it?<br/>
 ...It ended up in a fire.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-008-looking-over-here-as-if-wanting-to-become-my-ally.md](./wm-chapter-008-looking-over-here-as-if-wanting-to-become-my-ally.md) | [wm-chapter-010-takatsuki-makoto-trains-with-lucy.md](./wm-chapter-010-takatsuki-makoto-trains-with-lucy.md) <br/>

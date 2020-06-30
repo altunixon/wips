@@ -122,6 +122,5 @@ What should I do…? Would it be better to not meet the Great Sage?<br/>
 "Great Sage-sama, it is the captain of the 7th division, Sakurai. I have brought the Spirit User, Takatsuki-kun." (Sakurai)<br/>
 Sakurai-kun’s call is directed to the inside of the tent.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-054-takatsuki-makoto-speaks-with-the-princess.md](./wm-chapter-054-takatsuki-makoto-speaks-with-the-princess.md) | [wm-chapter-056-takatsuki-makoto-speaks-to-the-great-sage.md](./wm-chapter-056-takatsuki-makoto-speaks-to-the-great-sage.md) <br/>

@@ -249,6 +249,5 @@ After saying this, Noah-sama disappears.<br/>
 But it smells like an adventure.<br/>
 The next place to go has been decided.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-087-takatsuki-makoto-learns-about-the-dark-and-light-of-highland.md](./wm-chapter-087-takatsuki-makoto-learns-about-the-dark-and-light-of-highland.md) | [wm-chapter-089-takatsuki-makoto-explores-the-capital-9th-district.md](./wm-chapter-089-takatsuki-makoto-explores-the-capital-9th-district.md) <br/>

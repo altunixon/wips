@@ -152,6 +152,5 @@ He shakes my hand.<br/>
 Ah, I decided without consulting with Lucy. Is that okay?<br/>
 Oh well, it should be fine.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-017-the-first-spirit-user.md](./wm-chapter-017-the-first-spirit-user.md) | [wm-chapter-019-20-takatsuki-makoto-forms-a-party-with-his-classmate.md](./wm-chapter-019-20-takatsuki-makoto-forms-a-party-with-his-classmate.md) <br/>

@@ -128,6 +128,5 @@ Even when I activated [Clear Mind], it was at the moment when I was already pani
 After that, Jean was also fuming too.<br/>
 Previous Chapter l Next Chapter<br/>
  <br/>
-<br/>
 <br/> <br/>
 [wm-chapter-016-the-secret-of-lucy.md](./wm-chapter-016-the-secret-of-lucy.md) | [wm-chapter-018-even-a-gentle-close-friend-can-sometimes-get-mad.md](./wm-chapter-018-even-a-gentle-close-friend-can-sometimes-get-mad.md) <br/>

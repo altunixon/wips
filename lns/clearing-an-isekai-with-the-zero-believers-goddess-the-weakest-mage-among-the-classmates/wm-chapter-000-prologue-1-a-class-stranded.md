@@ -1,4 +1,4 @@
-[Table of Contents](./toc.md) | [wm-chapter-001-takatsuki-makoto-is-way-too-weak.md](./wm-chapter-001-takatsuki-makoto-is-way-too-weak.md) <br/>
+[wm-chapter-093-takatsuki-makoto-is-invited-by-the-mafia.md](./wm-chapter-093-takatsuki-makoto-is-invited-by-the-mafia.md) | [wm-chapter-001-takatsuki-makoto-is-way-too-weak.md](./wm-chapter-001-takatsuki-makoto-is-way-too-weak.md) <br/>
 <br/>
 TLN: Hey guys, Reigokai here!<br/>
 A new story is here! Yay!! :DD!<br/>
@@ -153,6 +153,5 @@ Is this that?<br/>
 What I have seen in movies and anime? <br/>
 …An Isekai.<br/>
 Next Chapter<br/>
-<br/>
 <br/> <br/>
-[Table of Contents](./toc.md) | [wm-chapter-001-takatsuki-makoto-is-way-too-weak.md](./wm-chapter-001-takatsuki-makoto-is-way-too-weak.md) <br/>
+[wm-chapter-093-takatsuki-makoto-is-invited-by-the-mafia.md](./wm-chapter-093-takatsuki-makoto-is-invited-by-the-mafia.md) | [wm-chapter-001-takatsuki-makoto-is-way-too-weak.md](./wm-chapter-001-takatsuki-makoto-is-way-too-weak.md) <br/>

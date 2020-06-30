@@ -163,6 +163,5 @@ I take a stance with the dagger of the Goddess as if praying.<br/>
 It has gotten Grand Labyrinth-like.<br/>
 I watch the Minotaur approach, as blue lights circle around the area…<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-032-takatsuki-makoto-arrives-at-the-city-of-laberintos.md](./wm-chapter-032-takatsuki-makoto-arrives-at-the-city-of-laberintos.md) | [wm-chapter-034-takatsuki-makoto-fights-the-minotaur.md](./wm-chapter-034-takatsuki-makoto-fights-the-minotaur.md) <br/>

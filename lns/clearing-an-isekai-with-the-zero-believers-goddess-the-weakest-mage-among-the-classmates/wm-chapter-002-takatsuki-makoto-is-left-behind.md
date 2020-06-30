@@ -212,6 +212,5 @@ Thanks to the Savior, we are in this era now.<br/>
 There’s no classmates anymore.<br/>
 I am now the last one of the 1-A class.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-001-takatsuki-makoto-is-way-too-weak.md](./wm-chapter-001-takatsuki-makoto-is-way-too-weak.md) | [wm-chapter-003-takatsuki-makoto-leaves-the-temple.md](./wm-chapter-003-takatsuki-makoto-leaves-the-temple.md) <br/>

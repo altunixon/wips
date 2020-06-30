@@ -198,6 +198,5 @@ He taught me a variety of things that will help me out.<br/>
 "…Now then, farewell." <br/>
 The giant disappears inside the ground.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-023-takatsuki-makoto-faces-the-giant.md](./wm-chapter-023-takatsuki-makoto-faces-the-giant.md) | [wm-chapter-025-epilogue.md](./wm-chapter-025-epilogue.md) <br/>

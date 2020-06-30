@@ -217,6 +217,5 @@ Even when I had Clear Mind on, my heart was banging hard.<br/>
 This is bad, from all the seductions until now, that was the one that shook my heart the most.<br/>
 …Let’s just accept it as my reward for working hard.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-072-burning-capital-2.md](./wm-chapter-072-burning-capital-2.md) | [wm-chapter-074-the-fujiwara-company-is-popular-in-the-capital.md](./wm-chapter-074-the-fujiwara-company-is-popular-in-the-capital.md) <br/>

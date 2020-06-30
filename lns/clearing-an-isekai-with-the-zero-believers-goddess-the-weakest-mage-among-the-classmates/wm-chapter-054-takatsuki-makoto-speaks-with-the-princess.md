@@ -102,6 +102,5 @@ I lowered my head lightly to Princess Noel and Sakurai-kun.<br/>
 And without meeting eyes with Princess Sofia and the knight at her side, I left the place.<br/>
 Hmm, did I mess up there?<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-053-sakurai-ryousuke-fights-with-the-taboo-dragon.md](./wm-chapter-053-sakurai-ryousuke-fights-with-the-taboo-dragon.md) | [wm-chapter-055-takatsuki-makotos-comrades-are-flabbergated-by-him.md](./wm-chapter-055-takatsuki-makotos-comrades-are-flabbergated-by-him.md) <br/>

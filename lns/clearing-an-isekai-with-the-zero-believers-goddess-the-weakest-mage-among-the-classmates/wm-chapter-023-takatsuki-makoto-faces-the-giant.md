@@ -192,6 +192,5 @@ Aah, my adventure has ended here…<br/>
 "Wait!" <br/>
 What resonated was the voice of the Goddess from the heavens.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-022-the-gatekeeper-beast-2.md](./wm-chapter-022-the-gatekeeper-beast-2.md) | [wm-chapter-024-the-long-past-story-of-the-giant.md](./wm-chapter-024-the-long-past-story-of-the-giant.md) <br/>

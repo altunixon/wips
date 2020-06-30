@@ -141,6 +141,5 @@ The giant eyes look down at us.<br/>
 A shining giant that is one size bigger than the Ogre I fought before was looking at us and…smiled.<br/>
 Ah…this is a bad pattern.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-021-the-gatekeeper-beast-1.md](./wm-chapter-021-the-gatekeeper-beast-1.md) | [wm-chapter-023-takatsuki-makoto-faces-the-giant.md](./wm-chapter-023-takatsuki-makoto-faces-the-giant.md) <br/>

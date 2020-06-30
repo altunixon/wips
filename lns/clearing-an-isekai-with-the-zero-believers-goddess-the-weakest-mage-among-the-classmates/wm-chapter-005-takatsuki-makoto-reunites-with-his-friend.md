@@ -305,6 +305,5 @@ It seems like it was incredibly hard for him to say it, but he finally spoke.<br
 "…"<br/>
 It looks like I have become the believer of an Evil God.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-004-takatsuki-makoto-meets-the-goddess.md](./wm-chapter-004-takatsuki-makoto-meets-the-goddess.md) | [wm-chapter-006-the-request-of-the-goddess.md](./wm-chapter-006-the-request-of-the-goddess.md) <br/>

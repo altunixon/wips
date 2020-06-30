@@ -157,6 +157,5 @@ I feel like she isn’t just talking about how she doesn’t want me to be injur
 Lucy raises her head and mutters.<br/>
 "It is probably because of the demon blood inside me…" (Lucy)<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-013-14-vs-griffon.md](./wm-chapter-013-14-vs-griffon.md) | [wm-chapter-016-the-secret-of-lucy.md](./wm-chapter-016-the-secret-of-lucy.md) <br/>

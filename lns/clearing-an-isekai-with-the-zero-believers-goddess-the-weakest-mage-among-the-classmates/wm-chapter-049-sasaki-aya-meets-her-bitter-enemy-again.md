@@ -161,6 +161,5 @@ Without worrying about me who was trying to separate from him, Takatsuki-kun cau
 (I have avenged you, Mother-sama, older sisters, my siblings…) (Aya)<br/>
 I place my head on Takatsuki-kun’s shoulder and close my eyes.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-047-48-takatsuki-makoto-finds-the-harpys-nest.md](./wm-chapter-047-48-takatsuki-makoto-finds-the-harpys-nest.md) | [wm-chapter-050-takatsuki-makoto-speaks-about-the-goddess.md](./wm-chapter-050-takatsuki-makoto-speaks-about-the-goddess.md) <br/>

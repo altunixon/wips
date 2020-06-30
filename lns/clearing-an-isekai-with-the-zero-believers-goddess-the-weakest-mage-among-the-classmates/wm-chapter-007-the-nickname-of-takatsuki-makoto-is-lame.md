@@ -304,6 +304,5 @@ I heard the fed up voice from the Goddess.<br/>
 I am sorry. <br/>
 I want to act cool.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-006-the-request-of-the-goddess.md](./wm-chapter-006-the-request-of-the-goddess.md) | [wm-chapter-008-looking-over-here-as-if-wanting-to-become-my-ally.md](./wm-chapter-008-looking-over-here-as-if-wanting-to-become-my-ally.md) <br/>

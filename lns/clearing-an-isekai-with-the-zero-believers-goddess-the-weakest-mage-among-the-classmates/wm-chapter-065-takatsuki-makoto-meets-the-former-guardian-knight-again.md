@@ -164,6 +164,5 @@ In other words, this boy is…<br/>
 Lucy raises a voice of shock.<br/>
 So he really is a prince.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-064-takatsuki-makoto-arrives-at-the-capital-horun.md](./wm-chapter-064-takatsuki-makoto-arrives-at-the-capital-horun.md) | [wm-chapter-066-takatsuki-makoto-speaks-with-the-hero.md](./wm-chapter-066-takatsuki-makoto-speaks-with-the-hero.md) <br/>

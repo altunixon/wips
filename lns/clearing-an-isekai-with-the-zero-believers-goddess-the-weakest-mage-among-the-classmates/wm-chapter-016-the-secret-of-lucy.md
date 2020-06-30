@@ -140,6 +140,5 @@ What should I do about Lucy who is for some reason in a bad mood?<br/>
 She ran off.<br/>
 It was really hard to console Lucy that day at dinner, or more like, in her heavy drinking.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-015-takatsuki-makoto-gets-the-goddesss-divine-protection.md](./wm-chapter-015-takatsuki-makoto-gets-the-goddesss-divine-protection.md) | [wm-chapter-017-the-first-spirit-user.md](./wm-chapter-017-the-first-spirit-user.md) <br/>

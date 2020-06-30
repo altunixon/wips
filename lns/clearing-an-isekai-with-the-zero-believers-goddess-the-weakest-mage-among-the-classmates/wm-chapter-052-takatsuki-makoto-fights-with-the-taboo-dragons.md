@@ -123,6 +123,5 @@ His shine is increasing more and more.<br/>
 This is the Light Hero Skill, huh.<br/>
 I leave the rest to you, Sakurai-kun.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-051-yokoyama-saki-doesnt-trust-her-classmate.md](./wm-chapter-051-yokoyama-saki-doesnt-trust-her-classmate.md) | [wm-chapter-053-sakurai-ryousuke-fights-with-the-taboo-dragon.md](./wm-chapter-053-sakurai-ryousuke-fights-with-the-taboo-dragon.md) <br/>

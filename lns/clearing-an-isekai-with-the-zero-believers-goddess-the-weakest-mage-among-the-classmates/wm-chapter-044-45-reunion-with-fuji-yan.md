@@ -292,6 +292,5 @@ Lucy pinches my cheek and I brush it off lightly with my hand.<br/>
 Now then, it has mostly been decided.<br/>
 "Alright then, let’s begin moving." (Makoto)<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-043-sasaki-ayas-reunion.md](./wm-chapter-043-sasaki-ayas-reunion.md) | [wm-chapter-046-we-prepare-for-the-boss-battle.md](./wm-chapter-046-we-prepare-for-the-boss-battle.md) <br/>

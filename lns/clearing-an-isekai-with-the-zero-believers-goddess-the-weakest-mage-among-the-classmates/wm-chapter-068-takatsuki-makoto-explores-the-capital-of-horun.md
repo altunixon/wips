@@ -170,6 +170,5 @@ It…should be okay.<br/>
 I undid the transformation and returned to the inn.<br/>
 Let’s not transform into strangers without thinking.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-067-takatsuki-makoto-and-fuji-yan-sally-forth-to-the-night-city.md](./wm-chapter-067-takatsuki-makoto-and-fuji-yan-sally-forth-to-the-night-city.md) | [wm-chapter-069-lucy-and-sasaki-aya-speak-to-each-other.md](./wm-chapter-069-lucy-and-sasaki-aya-speak-to-each-other.md) <br/>

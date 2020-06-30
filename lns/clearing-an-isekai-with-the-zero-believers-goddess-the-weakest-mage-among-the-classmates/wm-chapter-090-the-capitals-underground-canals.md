@@ -251,6 +251,5 @@ Looks like the Goddess Ira-sama is popular not only to merchants but the mafia a
 In the end, we returned to the inn without getting a clue about the Snake Church.<br/>
 What was waiting for me after returning was an order to head to the Highland Castle.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-089-takatsuki-makoto-explores-the-capital-9th-district.md](./wm-chapter-089-takatsuki-makoto-explores-the-capital-9th-district.md) | [wm-chapter-091-takatsuki-makoto-speaks-with-the-highland-nobles.md](./wm-chapter-091-takatsuki-makoto-speaks-with-the-highland-nobles.md) <br/>

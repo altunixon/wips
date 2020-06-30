@@ -310,6 +310,5 @@ We enter the private room of a restaurant closeby. <br/>
 Fuji-yan lowered his voice and checked his surroundings first before saying:<br/>
 "Nina-dono, Takki-dono, please listen calmly. It seems like the 7th and 8th District demi-humans are planning a big scale rebellion mainly focused in beastkin." (Fuji)<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-085-sakurai-ryosukes-memory.md](./wm-chapter-085-sakurai-ryosukes-memory.md) | [wm-chapter-087-takatsuki-makoto-learns-about-the-dark-and-light-of-highland.md](./wm-chapter-087-takatsuki-makoto-learns-about-the-dark-and-light-of-highland.md) <br/>

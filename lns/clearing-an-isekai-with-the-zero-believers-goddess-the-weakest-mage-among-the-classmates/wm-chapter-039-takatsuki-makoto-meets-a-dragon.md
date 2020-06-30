@@ -101,6 +101,5 @@ It looks like she had a bad time.<br/>
 "Please help me… I will do anything you want to repay you…" <br/>
 That girl asks for our help with a feeble voice.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-038-takatsuki-makoto-challenges-laberintos-second-day.md](./wm-chapter-038-takatsuki-makoto-challenges-laberintos-second-day.md) | [wm-chapter-040-the-tragedy-of-sasaki-aya.md](./wm-chapter-040-the-tragedy-of-sasaki-aya.md) <br/>

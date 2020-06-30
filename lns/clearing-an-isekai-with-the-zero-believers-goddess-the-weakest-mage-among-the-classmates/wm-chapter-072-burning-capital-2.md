@@ -291,6 +291,5 @@ Yup yup, looking at two cute girls cuddling warms my heart.<br/>
 We moved through the city carefully, and returned to the inn.<br/>
 Haah, it was tiring this time around, Goddess-sama.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-071-burning-capital-1.md](./wm-chapter-071-burning-capital-1.md) | [wm-chapter-073-after-the-chaos.md](./wm-chapter-073-after-the-chaos.md) <br/>

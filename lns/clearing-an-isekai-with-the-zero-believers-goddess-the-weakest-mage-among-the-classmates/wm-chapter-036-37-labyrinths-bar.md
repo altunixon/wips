@@ -227,6 +227,5 @@ When we changed directions, they would imitate us.<br/>
 "We are being followed." (Makoto)<br/>
 Previous Chapter l Next Chapter<br/>
  <br/>
-<br/>
 <br/> <br/>
 [wm-chapter-035-sasaki-aya-gets-used-to-the-life-in-the-dungeon.md](./wm-chapter-035-sasaki-aya-gets-used-to-the-life-in-the-dungeon.md) | [wm-chapter-038-takatsuki-makoto-challenges-laberintos-second-day.md](./wm-chapter-038-takatsuki-makoto-challenges-laberintos-second-day.md) <br/>

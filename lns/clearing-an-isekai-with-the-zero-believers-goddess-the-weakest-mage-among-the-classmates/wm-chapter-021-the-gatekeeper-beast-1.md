@@ -135,6 +135,5 @@ The shine of the crystal walls and ceiling reflect on the surface of the water a
 The Chimera was glaring at us a few ways away.<br/>
 Okay, let’s do this.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-019-20-takatsuki-makoto-forms-a-party-with-his-classmate.md](./wm-chapter-019-20-takatsuki-makoto-forms-a-party-with-his-classmate.md) | [wm-chapter-022-the-gatekeeper-beast-2.md](./wm-chapter-022-the-gatekeeper-beast-2.md) <br/>

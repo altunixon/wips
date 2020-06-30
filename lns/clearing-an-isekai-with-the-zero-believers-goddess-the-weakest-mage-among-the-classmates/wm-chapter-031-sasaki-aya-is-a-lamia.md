@@ -154,6 +154,5 @@ When I returned, everyone praised me for defeating a harpy in my first hunt.<br/
 No, I am not happy at all! <br/>
 What’s with this wo~rld?! <br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-030-fuji-yan-has-an-isekai-harem.md](./wm-chapter-030-fuji-yan-has-an-isekai-harem.md) | [wm-chapter-032-takatsuki-makoto-arrives-at-the-city-of-laberintos.md](./wm-chapter-032-takatsuki-makoto-arrives-at-the-city-of-laberintos.md) <br/>

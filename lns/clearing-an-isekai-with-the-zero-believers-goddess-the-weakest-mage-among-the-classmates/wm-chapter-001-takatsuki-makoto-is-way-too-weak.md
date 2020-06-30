@@ -308,6 +308,5 @@ It really throws me off.<br/>
 The difficulty balance is way too bad.<br/>
 Isekais are trash games…<br/>
 Previous Chapter l Next Chapter <br/>
-<br/>
 <br/> <br/>
 [wm-chapter-000-prologue-1-a-class-stranded.md](./wm-chapter-000-prologue-1-a-class-stranded.md) | [wm-chapter-002-takatsuki-makoto-is-left-behind.md](./wm-chapter-002-takatsuki-makoto-is-left-behind.md) <br/>

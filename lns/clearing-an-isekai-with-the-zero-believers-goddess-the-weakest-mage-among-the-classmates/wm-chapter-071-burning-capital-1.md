@@ -205,6 +205,5 @@ This scream…I have heard it somewhere before.<br/>
 "Taboo…Giant…" <br/>
 The mutter of someone reached my ears.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-070-takatsuki-makoto-heads-to-the-royal-castle-again.md](./wm-chapter-070-takatsuki-makoto-heads-to-the-royal-castle-again.md) | [wm-chapter-072-burning-capital-2.md](./wm-chapter-072-burning-capital-2.md) <br/>

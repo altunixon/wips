@@ -134,6 +134,5 @@ I heard the low retort of Lucy. Ignore.<br/>
 Prince Leonard really looked like nothing other than a pretty girl when he said this with a smile.<br/>
 We gave our thanks to Prince Leonard, and left the Rozes Castle.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-065-takatsuki-makoto-meets-the-former-guardian-knight-again.md](./wm-chapter-065-takatsuki-makoto-meets-the-former-guardian-knight-again.md) | [wm-chapter-067-takatsuki-makoto-and-fuji-yan-sally-forth-to-the-night-city.md](./wm-chapter-067-takatsuki-makoto-and-fuji-yan-sally-forth-to-the-night-city.md) <br/>

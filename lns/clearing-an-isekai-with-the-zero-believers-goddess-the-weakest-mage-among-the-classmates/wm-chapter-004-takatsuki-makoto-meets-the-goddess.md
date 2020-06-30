@@ -319,6 +319,5 @@ Okay, next place.<br/>
 The place I am heading to now is the Fujiwara Shop that I heard from the merchant of.<br/>
 Right, my classmate Fuji-yan already has his own store.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-003-takatsuki-makoto-leaves-the-temple.md](./wm-chapter-003-takatsuki-makoto-leaves-the-temple.md) | [wm-chapter-005-takatsuki-makoto-reunites-with-his-friend.md](./wm-chapter-005-takatsuki-makoto-reunites-with-his-friend.md) <br/>

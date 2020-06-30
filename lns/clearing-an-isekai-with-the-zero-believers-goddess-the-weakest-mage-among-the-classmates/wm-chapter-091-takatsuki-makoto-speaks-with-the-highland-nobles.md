@@ -203,6 +203,5 @@ I see off Princess Sofia who is going up to the royalty floor where Princess Noe
 (Now that I think about it, maybe Lucy is still at the place of the Great Sage-sama?) (Makoto)<br/>
 I have been keeping my distance because of fear of getting my blood sucked, but since I have the chance, maybe I should go train?<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-090-the-capitals-underground-canals.md](./wm-chapter-090-the-capitals-underground-canals.md) | [wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md](./wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md) <br/>

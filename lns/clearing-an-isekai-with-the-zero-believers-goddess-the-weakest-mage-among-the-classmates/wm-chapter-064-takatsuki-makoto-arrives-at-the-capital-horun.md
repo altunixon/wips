@@ -153,6 +153,5 @@ I was suddenly called.<br/>
 When I turned around, the one there was the former guardian knight of the Water Oracle.<br/>
 Hm? Wasn’t he fired?<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-063-takatsuki-makoto-heads-to-the-capital.md](./wm-chapter-063-takatsuki-makoto-heads-to-the-capital.md) | [wm-chapter-065-takatsuki-makoto-meets-the-former-guardian-knight-again.md](./wm-chapter-065-takatsuki-makoto-meets-the-former-guardian-knight-again.md) <br/>

@@ -204,6 +204,5 @@ The elf acquaintances of Lucy were all friendly.<br/>
 They weren’t the isolated and unfriendly type that I imagined they would be.<br/>
 Also, the old lady elf gave me a mountain-like amount of fruits, and it was really hard to bring them back.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-059-sasaki-aya-is-guided-in-the-city-of-makkaren.md](./wm-chapter-059-sasaki-aya-is-guided-in-the-city-of-makkaren.md) | [wm-chapter-061-meeting-with-the-goddess.md](./wm-chapter-061-meeting-with-the-goddess.md) <br/>

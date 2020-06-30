@@ -308,6 +308,5 @@ That’s just how unearthly that beauty of hers was.<br/>
 That girl smiles.<br/>
 "A Goddess." <br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-002-takatsuki-makoto-is-left-behind.md](./wm-chapter-002-takatsuki-makoto-is-left-behind.md) | [wm-chapter-004-takatsuki-makoto-meets-the-goddess.md](./wm-chapter-004-takatsuki-makoto-meets-the-goddess.md) <br/>

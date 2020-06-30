@@ -122,6 +122,5 @@ The big shot of the Sun Country from before shouted in a loud voice.<br/>
 The adventurers of the Labyrinth City all turned over here at the same time.<br/>
 Eeh…this really cools down the alcohol in my system…<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-052-takatsuki-makoto-fights-with-the-taboo-dragons.md](./wm-chapter-052-takatsuki-makoto-fights-with-the-taboo-dragons.md) | [wm-chapter-054-takatsuki-makoto-speaks-with-the-princess.md](./wm-chapter-054-takatsuki-makoto-speaks-with-the-princess.md) <br/>

@@ -373,6 +373,5 @@ Eeh…<br/>
 She gave me quite the specific instruction…<br/>
 Previous Chapter l Next Chapter<br/>
  <br/>
-<br/>
 <br/> <br/>
 [wm-chapter-025-epilogue.md](./wm-chapter-025-epilogue.md) | [wm-chapter-028-sasaki-aya-wakes-up-in-a-parallel-world.md](./wm-chapter-028-sasaki-aya-wakes-up-in-a-parallel-world.md) <br/>

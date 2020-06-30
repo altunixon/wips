@@ -148,6 +148,5 @@ The rock that was burning with fire magic scorched the ground.<br/>
 Alone with Aya, huh.<br/>
 After finishing training…we finished the day with fuzzy feelings still in my heart.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-044-45-reunion-with-fuji-yan.md](./wm-chapter-044-45-reunion-with-fuji-yan.md) | [wm-chapter-047-48-takatsuki-makoto-finds-the-harpys-nest.md](./wm-chapter-047-48-takatsuki-makoto-finds-the-harpys-nest.md) <br/>

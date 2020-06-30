@@ -234,6 +234,5 @@ In the end, Mary-san, Lucy, and I drank till morning in Mary-san’s apartment.�
 Accurately speaking, I knocked myself out after drinking for one hour though.<br/>
 My head…<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
 [wm-chapter-028-sasaki-aya-wakes-up-in-a-parallel-world.md](./wm-chapter-028-sasaki-aya-wakes-up-in-a-parallel-world.md) | [wm-chapter-030-fuji-yan-has-an-isekai-harem.md](./wm-chapter-030-fuji-yan-has-an-isekai-harem.md) <br/>

@@ -1,4 +1,4 @@
-[wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md](./wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md) | [Table of Contents](./toc.md) <br/>
+[wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md](./wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md) | [wm-chapter-094-095-takatsuki-makoto-speaks-to-the-boss-of-the-mafia.md](./wm-chapter-094-095-takatsuki-makoto-speaks-to-the-boss-of-the-mafia.md) <br/>
 <br/>
 Castor Family.<br/>
 They are one of the three biggest mafia of Highland.<br/>
@@ -212,6 +212,5 @@ But what draws my eyes the most is…<br/>
 The middle-aged man that is sitting in the middle of the black suit group, wearing expensive-looking clothes and extravagant accessories.<br/>
 There’s a big scar on his face.<br/>
 Previous Chapter l Next Chapter<br/>
-<br/>
 <br/> <br/>
-[wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md](./wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md) | [Table of Contents](./toc.md) <br/>
+[wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md](./wm-chapter-092-lucy-and-makoto-speak-to-the-great-sage.md) | [wm-chapter-094-095-takatsuki-makoto-speaks-to-the-boss-of-the-mafia.md](./wm-chapter-094-095-takatsuki-makoto-speaks-to-the-boss-of-the-mafia.md) <br/>

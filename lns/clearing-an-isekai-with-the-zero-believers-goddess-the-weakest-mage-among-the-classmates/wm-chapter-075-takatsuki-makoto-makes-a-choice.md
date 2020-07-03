@@ -59,7 +59,7 @@ Princess Sofia is way too kind! <br/>
 What is going on? <br/>
 It is just that…<br/>
 "I will consider it." (Makoto)<br/>
-~ A few days after ~<br/>
+\~ A few days after \~<br/>
 "I thought about it carefully, but I think I will refuse." (Makoto)<br/>
 Yeah, it is impossible.<br/>
 That would be way too rude…<br/>
@@ -239,7 +239,7 @@ I have to tell her this.<br/>
 Hm? She seems somewhat displeased.<br/>
 Did I say something bad? <br/>
 I didn’t, did I?<br/>
-(Haah~.) (Noah)<br/>
+(Haah\~.) (Noah)<br/>
 Noah-sama?<br/>
 "Leo wanted to talk with you. It seems like you have been called to the Sun Country, Highland, but you still have time till your fixed date, right? Please stay here for a while." (Sofia)<br/>
 "O-Okay." (Makoto)<br/>

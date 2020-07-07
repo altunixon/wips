@@ -19,9 +19,7 @@
         "the-new-gate": "shintranslations",
         "my-death-flags-show-no-sign-of-ending": "wordpress",
 		"wortenia-senki": "wordpress",
-        "isekai-yururi-kikou-raising-children-while-being-an-adventurer": {
-            "article": "//div[@class=\"entry-inner\"]"
-        }
+		"the-world-is-overflowing-with-monster-im-taking-a-liking-to-this-life": "nobles_js"
     },
     "overbin": {
         "list": "/media/alt/bad/wips/lns/overlord-ln/0bin.txt"
@@ -59,5 +57,9 @@
     "blogspot": {
         "article": "//div/div[@class=\"post\"]",
         "transit": null
-    }
+    },
+	"nobles_js": {
+		"article": "//div[contains(@id, \"chapter-content\")]",
+        "transit": null
+	}
 }

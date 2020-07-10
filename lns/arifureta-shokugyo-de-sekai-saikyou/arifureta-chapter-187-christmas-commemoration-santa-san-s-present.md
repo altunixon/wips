@@ -32,7 +32,7 @@ Just as could be expected from a worker at a large-scale theme park, her talking
 Hajime tilted his head at the call of Myuu above his lap who was looking up over her shoulder at Hajime while he was fixing the position of her Santa hat that had shifted. Myuu was asking her papa cheerfully.<br/>
 「If the shark-san attacks, that onee-san will be the one who defeats it nano?」<br/>
 「Yeah, I guess. She will shot it with that rifle to protect us.」<br/>
-「Hm~mm」<br/>
+「Hm\~mm」<br/>
 When Myuu heard what Hajime said, she began to stare fixedly at the onee-san. The onee-san smiled pleasantly toward the gaze of the cute Santa-san, and she waved her hand a bit. As expected from an onee-san of a theme park. Her zero yen smile was also super first class.<br/>
 But, if it was a normal child they would be a bit embarrassed before hiding in the shadow of their parent, or they would smile back normally, but in this scene Myuu’s reaction was……<br/>
 「Fuh」<br/>
@@ -44,7 +44,7 @@ However, the boat suddenly shook as though something had pushed it up from below
 「Go on, Myuu. You too go there.」<br/>
 「Yes nano.」<br/>
 A group of little kids fired the rifle given to them by the onee-san looking nervous, or possibly excited. Myuu also joined into that group.<br/>
-「……Uu~n, how unexpected desu. If it’s Myuu-chan, she should know already about more than the real thing, doesn’t she?」<br/>
+「……Uu\~n, how unexpected desu. If it’s Myuu-chan, she should know already about more than the real thing, doesn’t she?」<br/>
 Shia tilted her head even while pleasantly watching Myuu who was making merry at the imitation shark. Myuu was different from normal children because she knew about real monsters of the sea and also about the struggle for life. Yet Myuu’s figure, which was seriously looking excited with this regardless of all that, was a bit strange.<br/>
 「Fufu. Of course Myuu understands what is going on. But, the strange amusement of a dangerous experience with guaranteed safety caused Myuu to feel that it’s something unusual and interesting instead.」<br/>
 「……Nn. Recently she’s been getting engrossed in battle games, this is a little bit troubling.」<br/>
@@ -57,7 +57,7 @@ Hearing what Kaori pointed out, Shizuku readied a single-lens reflex camera. The
 Normally the onee-san would gently teach the kid the way of holding the rifle and also help prop up the kid. Then by aiming at the timing when the shark jumped out, she would say「It’s now! Fire!」where sparks would scatter from the shark’s body and mouth, giving a show as though the shark had been shot.<br/>
 But, the small Santa who received the rifle was a super little girl that had become thoroughly familiar with gunpowder smoke, sparks, and firearms in another world. Furthermore, right now she was a trained little girl that had been forged by her all cheat onee-san and her demon king papa.<br/>
 Therefore, the moment Myuu received the rifle, she twirled it with a familiar motion and shouldered it on her shoulder before turning her gaze to the water surface. The hands of the onee-san that were going to support the little child were wandering about in the air. That figure which was shouldering a long rifle was strangely looking appropriate on the miniskirt Santa little girl, which caused the eyes of the visitors to blink. Shizuku released the camera shutter. Consecutively.<br/>
-「Err, I wonder, what is your name young miss~?」<br/>
+「Err, I wonder, what is your name young miss\~?」<br/>
 With a professional spirit, the onee-san asked her name.<br/>
 「It’s Myuu. I am six years old. A woman of the sea.」<br/>
 「……S, so it’s Myuu-chan! Yoosh, Myuu-chan, if we advance just a little bit more we should be able to escape, so let’s do our best and drive away the scary shark, okay?」<br/>
@@ -88,7 +88,7 @@ But, that gloominess too was immediately cleared up.<br/>
 *shan shan shan shan* Clear bell sounds could be heard. Everyone seemed to think that it was a sound from the parade, but that sound was getting larger which caused the people to go「Hmm?」while tilting their head. Yes, the sound of the bells that were growing increasingly audible was coming from up above.<br/>
 As though they were guided by an unknown source the people began to look above, and over there was,<br/>
 「Ah, that’s Santa-san-」<br/>
-A boy somewhere pointed while raising his voice. Following where the boy pointed the people looked up, and they raised their voices with「Eh, lies, it’s flying!?」, or「Re, reindeer? The real thing!?」「Ama~zing!!」and so on.<br/>
+A boy somewhere pointed while raising his voice. Following where the boy pointed the people looked up, and they raised their voices with「Eh, lies, it’s flying!?」, or「Re, reindeer? The real thing!?」「Ama\~zing!!」and so on.<br/>
 Yes, at where the boy was pointing, there was the appearance of reindeer pulling a sleigh that Santa Claus was riding, gliding through the sky.<br/>
 The normally impossible supernatural phenomenon was something that should make anyone scream, but this place was a country of dreamers. A fantasy world decorated with the unreal and extraordinary. Therefore, everyone was thinking that it was the theme park’s production, their shock was gradually turning into cheers. The staff, whom were doing the parade, were looking up open-mouthed, but the people who were looking up were to busy to notice that.<br/>
 Before long, Santa Claus, who was riding through the starry sky of the holy night, was swiveling down as though going down through a spiraling staircase that was drawn midair. And then, the sleigh slowly approached the crowd.<br/>
@@ -126,7 +126,7 @@ After Santa corrected Myuu like that, he further fished into his white present b
 「Also this, "Pikko Piko Hammeeer"」<br/>
 「Pikko Piko Hammeeer!!!」<br/>
 「"This is Weapon Desu".」<br/>
-「This is Weapon De~su!」<br/>
+「This is Weapon De\~su!」<br/>
 「We also cannot forget this one, "Muuramasa" and――」<br/>
 「Muuramasa!!」<br/>
 「"Kotetsuu".」<br/>
@@ -150,7 +150,7 @@ Thank you very much too for the thoughts, opinions, and reports about misspelli
 Even though today is Christmas, Shirakome that is a villager of loneliness village suddenly got an idea and wrote this.<br/>
 If you like, please read it together with a Christmas cake by yourself.<br/>
 Shirakome had chocolate cake.<br/>
-Tomorrow too, I’ll update as usual you know~<br/>
+Tomorrow too, I’ll update as usual you know\~<br/>
 <br/>
 Previous   Table of Content   Next<br/>
 Bagikan ini:TwitterFacebookLike this:Like Loading... <br/> <br/>

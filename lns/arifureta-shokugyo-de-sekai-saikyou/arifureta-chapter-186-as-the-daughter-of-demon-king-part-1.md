@@ -4,28 +4,28 @@ Arifureta After – As the Daughter of Demon King    Part 1<br/>
 <br/>
 In the middle of the night, in a room inside the Nagumo household, *tap tap* the small sound of a keyboard being tapped and the light of the display that faintly illuminated the room were spreading.<br/>
 With a notebook PC being placed beside the pillow, and a posture of lying down with both elbows supporting the upper body, the one who was moving her small legs backward and forward in the air while staying up late was, the princess of the Nagumo family――Myuu. It has already been five years since she arrived in this world. Currently, the ten-year-old Myuu was still small statured as usual, but it appeared that the factor of "beautiful" had slightly entered into her "cuteness".<br/>
-At the end of the sentences that she spoke there was still "~nano" attached, the person herself was aware of it and wanted to fix that habit, but even with that she had become a person of firm character that was like a big sister as could be seen from how she had been given an individual room like this.<br/>
+At the end of the sentences that she spoke there was still "\~nano" attached, the person herself was aware of it and wanted to fix that habit, but even with that she had become a person of firm character that was like a big sister as could be seen from how she had been given an individual room like this.<br/>
 Although her mother and big sisters seemed to still worry about her because of her similarity with her father that often stayed up late and forgot the time completely due to the subculture. (TN: The subculture here might be talking about the otaku culture, maybe.)<br/>
-"Nn~. So, Na-chan will also participate in that ceremony nano?"<br/>
+"Nn\~. So, Na-chan will also participate in that ceremony nano?"<br/>
 "That’s right. I will sing a hymn as a member of the choir."<br/>
 When Myuu wrote a question by operating the keyboard *tap tap*, the chat partner Na-chan (real name, Natalia) replied back like that. This girl seemed to be a girl of the same age as Myuu, a ten-year-old that claimed she was living in America. The two of them got to know each other by chance through the heartwarming net game they played, and sometimes they even contacted each other like this outside the game. This girl was a friend of Myuu’s.<br/>
 By the way, Myuu’s language capability was helped by Hajime’s handmade artifact that was inserted with "Language Comprehension" (exclusive for Myuu, provided with voice recognition and letter projection), with this Myuu could not only comprehend languages all over the world, but she could even comprehend ancient languages. Even now she was actually chatting using English.<br/>
-"Choir huuuh~. That’s amazing nano."<br/>
+"Choir huuuh\~. That’s amazing nano."<br/>
 "Is that so? I think in my country there are a lot of children that enter the choir though."<br/>
 "Then, Na-chan’s country will be fine even if the apostles attack anytime then nano. If the country people mobilize altogether and hit hard with the sacred song, you will be able to shave off the apostle’s status by ninety percent. They will become just a mere wooden doll nano."<br/>
 "I’m sorry, Myuu. I don’t understand what Myuu saying here……"<br/>
 Of course, it was natural that she didn’t understand.<br/>
 Now then, according to their talk today, it appeared that on Sunday Natalia would accompany her parents (who seemed to be fairly high officials) to a large ceremony where government officials would be gathering. There, it seemed that a chorus of hymn would be done by a choir that was comprised of the ceremony participants’ children, so Natalia would also participate in the choir.<br/>
 However, from Natalia’s viewpoint, there would be nothing that she could really do there other than sing the hymn. At the buffet party after the end of the ceremony, the children had to wait while their parents were having "adult talk (long time)". Natalia didn’t have any friends there that she was particularly close to, and there was also her parents’ instruction to get along with the children of such-and-such families. It seemed it made her feel constrained and gloomy.<br/>
-"A~a~, if only Myuu will also attend this party."<br/>
+"A\~a\~, if only Myuu will also attend this party."<br/>
 "You can use this chance to become friends with the other children, right?"<br/>
 "I don’t wanna. Even if I get along with them, if the person is actually a child of a family that is in opposition against father, it will be awkward……there is also some children among the older ones that will come to talk to me because of the instruction of their family, you know? I don’t want to become friends with those kinds of children."<br/>
 "Muu, you sound like a noble."<br/>
 "Ahaha, what are you saying? Myuu saying that makes it sound like you know some noble. By any chance, is Myuu from Britain?"<br/>
 "No, Myuu is a sea dweller race."<br/>
-"Ahahaha, I always heard you say that, but, what kind of people are this sea dweller race~~"<br/>
+"Ahahaha, I always heard you say that, but, what kind of people are this sea dweller race\~\~"<br/>
 "We are the women of the sea."<br/>
-"Ahahaha~"<br/>
+"Ahahaha\~"<br/>
 Perhaps feeling that the way Myuu talked was amusing, words that expressed laughter were listed on the display screen. Natalia who seemed to calm down after a while wrote a sentence that seemed to be pleading with her unique friend who obviously had a different atmosphere and rhythm compared to her normal school friends.<br/>
 "Hey, Myuu. I wonder, can you talk with me like this during the party?"<br/>
 It seemed that the ceremony would be in the afternoon, so even thinking about the time zone difference Myuu would be able to become her talking partner. However, if seeing the figure of a young girl who didn’t properly participate in the party while earnestly playing with her smartphone in the corner, in the end just what would the family and also the surrounding think about Natalia……<br/>
@@ -50,7 +50,7 @@ But, it was at that time,<br/>
 Natalia was startled and turned her gaze toward the direction of the voice that suddenly came to her. There, the one who spoke a line like a certain skirt chaser was unexpectedly a cute girl about the same age as her.<br/>
 No, it was a beautiful girl to the degree that the word of cute felt a little lacking for her.<br/>
 Emerald blond hair that looked fluffy and smooth, and clear jade eyes that looked mystical. Faint pink lips and dreamy rose colored cheeks. That figure which was wearing a dress with a gentle green tone was like a fairy that came out of a fairytale. That faint mischievous smile which had a close resemblance with a Cheshire cat somewhere despite her gentle look also spurred on that imagination.<br/>
-After a while being in a daze, or possibly being enraptured, Natalia who was staring at that emerald fairy girl saw how that girl was peering into her wonderingly「Nn~?」which caused her to return to her senses with a ‘hah’.<br/>
+After a while being in a daze, or possibly being enraptured, Natalia who was staring at that emerald fairy girl saw how that girl was peering into her wonderingly「Nn\~?」which caused her to return to her senses with a ‘hah’.<br/>
 「E, err, you are, who?」<br/>
 「Muu, that’s mean. Even though I came here because Na-chan said that you are lonely.」<br/>
 「E, e? Na-chan? E?」<br/>
@@ -191,7 +191,7 @@ By the way, the total number of the children inside the room was nine. Every one
 「I, I see. Yep, I see……」<br/>
 For some reason, Emile felt like he was hearing excessively graphic sound effects, but he did his best in ignoring it.<br/>
 「But, in that case then it seems that it will be all the better to not do anything uncalled for then. If within thirty more minutes our whereabouts will get find out, then let’s not do anything dangerous. Myuu-chan too, it seemed that you did something like pretending to sleep but it’s no good to do risky things, you know?」<br/>
-「It will be fine. Nn~, Emile is kind nano.」<br/>
+「It will be fine. Nn\~, Emile is kind nano.」<br/>
 「-, no, no such thing, though……」<br/>
 Myuu smiled sweetly at Emile who was worrying for her even in this kind of situation. The youth Emile noticed that something was shot through inside him. 「Aa~, Emile is getting red!」or「Emile, you actually like Myuu don’t you!」and so on, jeering characteristic of children was breaking out from the others seeing Emile’s face.<br/>
 Natalia’s gaze was rapidly growing sharper. It was to the level that made one doubt whether this girl was really a ten-year-old!<br/>
@@ -217,10 +217,10 @@ Emile-kun’s first love was showered with blows.<br/>
 The surrounding children cackled. Natalia was hugging Myuu’s arm while making an expression of「Serves you right!!」. Natalia’s character was in danger of crumbling.<br/>
 Amidst that, a blond girl looking slightly older than Myuu was asking with sparkling bright eyes, as expected it seemed that love stories being the favorite food of any girl were a common point that was shared by all worlds.<br/>
 「Hey hey, Myuu-chan. Then, when will you confess to your papa?」<br/>
-「Nn~, confess? Nn~」<br/>
-Myuu tilted her head a little, then after showing a thinking gesture「Nn~」, her eyes slowly narrowed.<br/>
+「Nn\~, confess? Nn\~」<br/>
+Myuu tilted her head a little, then after showing a thinking gesture「Nn\~」, her eyes slowly narrowed.<br/>
 「If it’s confession then Myuu does it every day. Every day, Myuu says Myuu love papa nano.」<br/>
-「Ee~, your papa won’t get it like that you know, absolutely~」<br/>
+「Ee\~, your papa won’t get it like that you know, absolutely\~」<br/>
 「Nope. Papa is sharp so he understands. But, Myuu is still little, so papa is not thinking of Myuu like that nano……that’s why……」<br/>
 「That’s why?」<br/>
 The girls’ eyes were sparkling with their heart beating fast, Emile was being crushed under a tragic feeling, Natalia was staring at Myuu with a complicated expression, and the boys were directing their grin at such an Emile. Amidst all those, Myuu……<br/>

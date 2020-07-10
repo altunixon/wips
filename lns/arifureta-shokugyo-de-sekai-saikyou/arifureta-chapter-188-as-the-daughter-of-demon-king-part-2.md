@@ -37,7 +37,7 @@ A masked group of nearly thirty people that was fully armed was lying in wait wh
 Myuu didn’t answer the question of the man who seemed to be the leader of the armed group, instead, she ran her gaze around the surroundings. The place they came out to appeared to be a huge warehouse. If it was normal, there should be a lot of material put in each container that was placed in here.<br/>
 The nose of Myuu who was a sea dweller race sensed the smell of salt, from there she understood that this place was adjacent with a harbor (she understood that from the beginning already though). Yes, this place was a warehouse district to deposit the luggage of cargo ships.<br/>
 Right now they were in a warehouse that was jointly established with the management building at the corner of that district. However, inside that warehouse was quite a good amount of strict security. Not to mention the dozens of armed people, there were also a lot of heavy weapons and a lot of computers for the command room lined up. In addition to that, there were also things like an armored vehicle that was in the middle of being camouflaged and a vehicle that looked like an ice cream truck on the outside but it had a gatling gun and so on attached on the inside.<br/>
-「Uu~n, from the weaponry and the hostage-taking, I have imagined that by some chance it might be like this but……as expected, you all are not mere kidnappers, but a terrorist group nano.」<br/>
+「Uu\~n, from the weaponry and the hostage-taking, I have imagined that by some chance it might be like this but……as expected, you all are not mere kidnappers, but a terrorist group nano.」<br/>
 「Just what the hell are you? A bodyguard prepared by the government?」<br/>
 The terrorist leader was recalling a kid soldier of his own country in the back of his mind while speaking out his conjecture. Be that as it may, it was hard to believe the fact that a single girl like this was able to beat up his organization’s soldiers, and he was also concerned from where this girl got her weapon.<br/>
 By all rights, this girl was an irregular existence, someone like Myuu whose identity they couldn’t confirm should be quickly killed, but her abnormality made this leader question her.<br/>
@@ -81,7 +81,7 @@ Without distinction of enemy or ally, all the humans stiffened.<br/>
 「If you want to stop Myuu, then at least prepare apostles of god in double digit numbers before speaking, nano.」<br/>
 「Wwha-, wha-」<br/>
 Myuu smiled fearlessly at the agitated leader while giving her order.<br/>
-「Everyoneee~, kill them nano!」<br/>
+「Everyoneee\~, kill them nano!」<br/>
 "Aye aye, Ma’am–!!" As though saying something like that, the demon rangers saluted smartly with adoration, then in the next moment, *gashun* their weapons deployed with mechanical sounds.<br/>
 The curbstomp began on the terrorist who was threatening their princess.<br/>
 The two gatling guns that were attached to one body turned everything inside the warehouse into mere trash while the small missile pods attached on the shoulders rained down missiles like a meteor shower and turned the area into a sea of crimson all the way until it reached the outside of the warehouse.<br/>
@@ -168,13 +168,13 @@ The receiving phone was Hajime’s smartphone. Hajime was smiling warmly by reca
 "Papaa! Right now, it seems that the world is in a pinch, so I want help nano!"<br/>
 「……Yes?」<br/>
 The first sentence of his daughter’s that came out from the smartphone caused Hajime to spontaneously leak out an idiotic sounding voice. Yue, Shia, Tio, Remia, Kaori, Shizuku, Aiko, Liliana, Shuu, and then Sumire who were relaxing in the living room went「Oh?」and directed their attention to the conversation. Hajime turned the voice to speaker mode and then he asked just what she meant.<br/>
-"Uu~n, see, when Myuu arrived at the party I was then kidnapped by terrorists. At the place where Myuu was kidnapped, Myuu acted rashly. As the result of Myuu having a talk with terrorist-san’s son, it turned out that the world is in a pinch. Right now that’s how it is nano."<br/>
+"Uu\~n, see, when Myuu arrived at the party I was then kidnapped by terrorists. At the place where Myuu was kidnapped, Myuu acted rashly. As the result of Myuu having a talk with terrorist-san’s son, it turned out that the world is in a pinch. Right now that’s how it is nano."<br/>
 「I see, I can understand……not-! Just what were you doing that it became something like that……」<br/>
 "Because Myuu is papa’s daughter nano."<br/>
 「「「「「「「「「「I see, I get it.」」」」」」」」」」」<br/>
 Yue and others nodded deeply at Myuu’s words. While staring at them all with reproachful eyes, Hajime changed his expression quietly.<br/>
 「So? What do you want papa to do? I don’t really get it, but Myuu had annihilated the kidnappers. right? Of course, I’ll cover it up, but where do you want papa, papa and everyone else to go and what do you want us to do?」<br/>
-"Ehehe~, as expected from Myuu’s papa nano. Myuu loves papa nano."<br/>
+"Ehehe\~, as expected from Myuu’s papa nano. Myuu loves papa nano."<br/>
 Myuu hadn’t given any satisfactory explanation, but Hajime comprehended only the important points and left behind the trivial circumstances while asking for Myuu’s wish. Hearing that Myuu replied in a joyful voice. Since Myuu was an infant she had been straight with her expressions of love like this, but recently, perhaps it was just Hajime’s feeling, it felt like there was a charm that was excessively filled into her voice.<br/>
 When Hajime took a glance at "all the onee-san", for some reason, all of them gave him a thumbs up at once. Hajime could only smile faintly.<br/>
 After that, Hajime used the compass and determined the locations of terrorism that were currently happening. He left the house sitting to Sumire and the others before using the crystal key to teleport to the locations all over the world.<br/>

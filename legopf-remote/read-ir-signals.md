@@ -12,8 +12,8 @@
   dtoverlay=lirc-rpi
   ```
   As for where the [GPIO] pin 18 is:
-    ![40-pin GPIO header](https://github.com/altunixon/wips/new/master/legopf-remote/gpio-40-pin-header.png)
-    ![40-pin GPIO number](https://github.com/altunixon/wips/new/master/legopf-remote/gpio-40-pin-number.png)
+    ![40-pin GPIO header](https://github.com/altunixon/wips/blob/master/legopf-remote/gpio-40-pin-header.png)
+    ![40-pin GPIO number](https://github.com/altunixon/wips/blob/master/legopf-remote/gpio-40-pin-number.png)
 - Reboot. </br>
   Then use a program called mode2 to make sure you can read from the remote at all, </br>
   after first making sure the lirc daemon isn't running: 

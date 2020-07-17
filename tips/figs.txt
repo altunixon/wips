@@ -1,0 +1,25 @@
+wget https://bandai-a.akamaihd.net/bc/img/model/xl/1000126541_{1..10}.jpg
+rnpa -p 'Portrait.Of.Piratesワンピース“LIMITED EDITION”ネフェルタリ・ビビ Ver.BB_02' -i ' ' 1000126541_*
+
+https://p-bandai.jp/item/item-1000131877/
+https://p-bandai.jp/item/item-1000129108/
+https://p-bandai.jp/item/item-1000128215/
+https://p-bandai.jp/item/item-1000128130/
+https://p-bandai.jp/item/item-1000128129/
+https://p-bandai.jp/item/item-1000127575/
+https://p-bandai.jp/item/item-1000125621/
+https://p-bandai.jp/item/item-1000123228/
+https://p-bandai.jp/item/item-1000123227/
+https://p-bandai.jp/item/item-1000123226/
+https://p-bandai.jp/item/item-1000122481/
+https://p-bandai.jp/item/item-1000120835/
+https://p-bandai.jp/item/item-1000118103/
+https://p-bandai.jp/item/item-1000124032/
+https://p-bandai.jp/item/item-1000112752/
+https://p-bandai.jp/item/item-1000110405/
+https://p-bandai.jp/item/item-1000110400/
+https://p-bandai.jp/item/item-1000110399/
+https://p-bandai.jp/item/item-1000104921/
+https://p-bandai.jp/item/item-1000104254/
+https://p-bandai.jp/item/item-1000102911/
+

@@ -5,6 +5,7 @@ ls -1 | grep '^(C[0-9]{1,2})'
 ls -1 | grep '^(C[0-9]{1,2})' | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p'
 ls -1 | grep '^(C[0-9]{1,2})' | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p'
 Z=$(ls -1 | grep '^(C[0-9]{1,2})' | head -n 1 | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
+echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
 Z=${Z%% }; Z=${Z## }; echo "$Z"
 ```
 #### Cooking with uranium

@@ -17,8 +17,7 @@ K=$(echo "$X" | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p')
 cd "$X" && /home/alt/bin-sh/rnpa -p "${K## }" -s "_" ./*
 cd "$CUR"
 Y=$(echo "$X" | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
-Y="${Y# }"
-Y="${Y% }"
+Y=$(echo "$Y" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//')
 mv --no-clobber -v "$X" "$Y"
 done
 ```

@@ -1,10 +1,10 @@
 ### Rename the kets
 #### Test
 ```bash
-ls -1 | grep '^(C[0-9]{1,2})'
-ls -1 | grep '^(C[0-9]{1,2})' | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p'
-ls -1 | grep '^(C[0-9]{1,2})' | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p'
-Z=$(ls -1 | grep '^(C[0-9]{1,2})' | head -n 1 | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
+ls -1 | grep -E '^\(C[0-9]{1,2}\)'
+ls -1 | grep -E '^\(C[0-9]{1,2}\)' | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p'
+ls -1 | grep -E '^\(C[0-9]{1,2}\)' | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p'
+Z=$(ls -1 | grep -E '^\(C[0-9]{1,2}\)' | head -n 1 | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
 echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
 Z=${Z%% }; Z=${Z## }; echo "$Z"
 ```
@@ -12,7 +12,7 @@ Z=${Z%% }; Z=${Z## }; echo "$Z"
 ```bash
 IFS=$'\r\n'
 CUR=$(pwd)
-for X in $(ls -1 | grep '^(C[0-9]{1,2})'); do
+for X in $(ls -1 | grep -E '^\(C[0-9]{1,2}\)'); do
 K=$(echo "$X" | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p')
 cd "$X" && /home/alt/bin-sh/rnpa -p "${K## }" -s "_" ./*
 cd "$CUR"

@@ -44,7 +44,8 @@ Flash image to sdcard with yout preferred program
     PARTUUID=ed8acfca-02  /               ext4    defaults,noatime  0       1
     ```
     Set **PARTUUID=ed8acfca-02** to **external hdd's** partition id.
-  - Backup then modify **sdcard's** boot config cmdline.txt
+  - Backup then modify **sdcard's** boot config cmdline.txt </br>
+    Note: on Ubuntu might be located under **/boot/firmware/cmdline.txt**
     ```bash
     sudo cp /media/$USER/rpi-sdcard/boot/cmdline.{txt,sd}
     sudo vim /media/$USER/rpi-sdcard/boot/cmdline.txt
@@ -83,5 +84,5 @@ Flash image to sdcard with yout preferred program
   Preferred method is mounting both sdcard and external hdd since migrating from a non active os is much more stable
 
 ### Other Sources:
-[Adafruit Guide](https://cdn-learn.adafruit.com/downloads/pdf/external-drive-as-raspberry-pi-root.pdf)
+[Adafruit Guide](https://cdn-learn.adafruit.com/downloads/pdf/external-drive-as-raspberry-pi-root.pdf) </br>
 [Rpi forum Sticky](https://www.raspberrypi.org/forums/viewtopic.php?t=44177)

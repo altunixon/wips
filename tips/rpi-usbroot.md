@@ -85,4 +85,5 @@ Flash image to sdcard with yout preferred program
 
 ### Other Sources:
 [Adafruit Guide](https://cdn-learn.adafruit.com/downloads/pdf/external-drive-as-raspberry-pi-root.pdf) </br>
-[Rpi forum Sticky](https://www.raspberrypi.org/forums/viewtopic.php?t=44177)
+[Rpi forum Sticky](https://www.raspberrypi.org/forums/viewtopic.php?t=44177) </br>
+[Rpi forum UASP Hdd adapter quirk](https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=245931) </br>

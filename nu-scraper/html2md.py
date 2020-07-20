@@ -19,7 +19,7 @@ def html2md(text_html, **kargs):
     # soup_text = soup_html.get_text()
     # soup_text = re.sub('(\t|\s+)?\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
     soup_text = re.sub('\n\s*\n', '\n', soup_html.get_text())
-    # decompose broke mercenary wordads c131
+    soup_text = soup_text.replace('~', '\~')
     soup_text = soup_text.replace('\n', '<br/>\n')
     if link_ref is not None:
         return '[{desc}]({refer})\n<br/>{md}'.format(

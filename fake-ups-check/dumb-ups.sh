@@ -2,11 +2,13 @@
 
 set -u -e
 
+IFS=$'\r\n'
 check_act=${1:-halp}
 check_addr=${2:-}
+check_recovery=${3:-}
 check_log="/tmp/connection-status.log"
 act_inb4=""
-act_wait=1
+act_wait=3
 check_internet="https://www.google.com/"
 
 help_msg="Usage:\n\t$0 <shutdown|reboot> <ip_address|internet|gateway>\n"
@@ -17,8 +19,8 @@ function logger() {
     echo "$(date) $log_msg" | tee -a "$check_log"
 }
 
-function act_check() {
-    $check_res=${1:-}
+function act_do() {
+    check_res=${1:-}
     if [ ! -z $check_res ] && [ $check_res -ne 0 ]; then
         logger "[ERRO] Check connection to [$check_addr] Failed (Exit=${check_res}), next action: [$check_act]"
         if [ ! -z "$act_inb4" ]; then
@@ -36,6 +38,7 @@ function act_check() {
             ;;
             *)
                 echo -e "Unknown Action [${check_act}]\n${help_msg}"
+                exit 1
             ;;
         esac
     else
@@ -43,21 +46,46 @@ function act_check() {
     fi
 }
 
+fucntion act_delay() {
+    check_cmd=${1:-}
+    if [ ! -z $check_cmd ]; then
+        $check_cmd
+        check_exit=$?
+    else
+        echo -e "Invalid check CMD [${check_cmd}]\n${help_msg}"
+        exit 3
+    fi
+    case $check_recovery in
+        y|Y|yes|Yes)
+            sleep $(($act_wait * 120))
+            $check_cmd
+            act_do $?
+        ;;
+        *)
+            act_do $check_exit
+        ;;
+    esac
+}
+
 case $check_addr in
     [0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})
-        ping -c 4 $check_addr &> /dev/null
-        act_check $?
+        act_delay "ping -c 4 $check_addr &> /dev/null"
+        # ping -c 4 $check_addr &> /dev/null
+        # act_do $?
     ;;
     gateway|gw)
         check_gw=$(ip -4 route list 0/0 | cut -d ' ' -f 3)
-        ping -c 4 $check_gw &> /dev/null
-        act_check $?
+        act_delay "ping -c 4 $check_gw &> /dev/null"
+        # ping -c 4 $check_gw &> /dev/null
+        # act_do $?
     ;;
     internet)
-        wget -q --spider "$check_internet" &> /dev/null
-        act_check $?
+        act_delay "wget -q --spider "$check_internet" &> /dev/null"
+        # wget -q --spider "$check_internet" &> /dev/null
+        # act_do $?
     ;;
     *)
         echo -e "Unknown destination [${check_act}]\n${help_msg}"
+        exit 2
     ;;
 esac

@@ -1,6 +1,6 @@
 ### USAGE
 ```bash
-ups-ping.sh <IP_ADDR> <DELAY_MINUTES> [recovery]
+dumb-ups.sh <ERROR_ACTION> <IP_ADDRESS|internet|gateway> <DELAY_MINUTES> <RECOVERY_FLAG>
 ```
 
 ### DESCRIPTION

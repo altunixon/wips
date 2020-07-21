@@ -109,8 +109,8 @@ Flash image to sdcard with yout preferred program
   ```
   These errors may also appear due to poor power quality or overloading the Pi's maximum 1.2A downstream USB port current, </br>
   but if they persist when using a powered hub then they are genuine UAS issues. 
-- All UAS drives must support mass-storage as a fallback option. </br>
-  The kernel can be told to ignore the UAS interface of a device and just use mass-storage, </br>
+- All UAS drives by design must support mass-storage as a fallback option. </br>
+  Thus the kernel can be told to ignore the UAS interface of a device and just use mass-storage, </br>
   the usb-storage driver has a "quirks" option for this purpose. </br>
   As UAS is built-in to the kernel to allow the root filesystem to be installed on an SSD, </br>
   the quirk needs to go into cmdline.txt as a module parameter. </br>
@@ -156,7 +156,9 @@ Flash image to sdcard with yout preferred program
   usb-storage.quirks=0123:4567:u,2109:0715:u dwc_otg.lpm_enable=0 console=tty1 root=PARTUUID=ed8acfca-02 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait
   ```
 - Save file and reboot
-- Unverified approach: </br>
+- ~Unverified approach:~ Retracted, since you boot from sdcard with the pi and the refer to the root partition, </br>
+  adding below option to the destination root partition is ineffective in this particular use case. </br>
+  This fix should still be applicable to other not referred from boot config external uas device.</br>
   Add device to blacklist [Ubuntu forum](https://ubuntuforums.org/showthread.php?t=2307662)
   ```bash
   echo 'options usb-storage quirks=357d:7788:u' | sudo tee -a /etc/modprobe.d/blacklist_uas_357d.conf

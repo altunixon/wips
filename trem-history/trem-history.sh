@@ -129,7 +129,7 @@ case $trem_mode in
             trem_key=$(echo "$map_line" | awk -F '|' '{print $1}')
             trem_dst=$(echo "$map_line" | awk -F '|' '{print $2}')
             check_file=$(warning_nofile $trem_key 'SOFT')
-            if [ "$check_file" -ne 'NULL' ]; then
+            if [ "$check_file" != 'NULL' ]; then
                 ${trem_alias[@]} "${trem_dst}" ./*${trem_key}*
                 [ $? -eq 0 ] && recycle_torrent "${trem_key}" || echo -e "[ERRO] AUTOPLAY Failed"
             else

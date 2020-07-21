@@ -9,18 +9,44 @@ msg_help="Usage:\n\t$0 <ls> [keyword]\n\t$0 <add> <dest> <keyword>\n\t$0 <replay
 
 function warning_empty() {
     if [ -z $3 ]; then
-        echo -e "Should not try running [$1] with Empty $2"
+        echo -e "[ERRO] Should not try running [$1] with Empty $2"
         echo -e "$msg_help"
         exit 10
     fi
 }
 
+function warning_nofile() {
+    file_count=$(ls -1 ./*"${1}"* | wc -l)
+    file_quit=${2:-HARD}
+    if [ $file_count -le 0 ]; then
+        case $file_quit in
+            SOFT|soft)
+                echo -n 'NULL'
+            ;;
+            *)
+                echo -e "[WARN] Could not found any file matching [${1}] with: ls ./*'${1}'*"
+                exit 404
+            ;;
+        esac
+    else
+        [ "$file_quit" == 'SOFT' ] && echo -n "$file_count"
+    fi
+}
+
 function recycle_torrent() {
     if [ -d "$trem_recycle" ]; then
-        mv -f ./*"${1}"* "${trem_recycle%%/}/"
+        mv -v -f ./*"${1}"* "${trem_recycle%%/}/"
     else
-        echo -e "RecycleBin: '${trem_recycle}'\nMaybe cleanup by hand?: rm ./*\"${1}\"*"
+        echo -e "[WARN] RecycleBin: '${trem_recycle}' is Missing\nMaybe cleanup by hand?: rm ./*\"${1}\"*"
         # rm ./*"${1}"*
+    fi
+}
+
+function undo_recycle() {
+    if [ -d "$trem_recycle" ]; then
+        mv --no-clobber -v "${trem_recycle%/}/"*"${1}"* ./
+    else
+        echo -e "[WARN] RecycleBin: '${trem_recycle}' is Missing\nMaybe restore by hand?: mv ${trem_recycle}/*\"${1}\"* ./"
     fi
 }
 
@@ -43,6 +69,7 @@ case $trem_mode in
         warning_empty $trem_mode "DEST" $trem_dst
         trem_key=${3:-}
         warning_empty $trem_mode "KEY" $trem_key
+        warning_nofile $trem_key 'HARD'
         if [ $(grep "${trem_key}" $path_mapfile | wc -l) -gt 0 ]; then
             # probly should check for multiple match, single match will have to do for now
             trem_map=$(grep -m 1 "$trem_key" "$path_mapfile")
@@ -64,7 +91,7 @@ case $trem_mode in
                         echo -e "${trem_key}|${trem_dst}\n" >> $path_mapfile
                     ;;
                 esac
-            fi*:wq******
+            fi
         else
             echo -e "${trem_key}|${trem_dst}\n" >> $path_mapfile
         fi
@@ -78,13 +105,11 @@ case $trem_mode in
         trem_maps=($(grep "${trem_key}" "$path_mapfile"))
         if [ ${#trem_maps[@]} -gt 1 ]; then
             grep -n "${trem_key}" "$path_mapfile"
-            trem_li=$((${#trem_maps[@]} - 1))
             echo -e "Multiple [$trem_key] Match:"
-            for map_ln in $(seq 0 $trem_li); do
-                # ??? might be wrong
+            for map_ln in ${!trem_maps[@]}; do
                 echo -e "[$map_ln]: '${trem_maps[map_ln]}'"
             done
-            read -p "Choose [0-${trem_li}], Default [0]: " map_choice
+            read -p "Choose [0-${#trem_maps[@]}], Default [0]: " map_choice
             case $map_choice in
                 [0-9]*) trem_map_chosen="${trem_maps[map_choice]}";;
                 *) trem_map_chosen="${trem_maps[0]}";;
@@ -94,6 +119,7 @@ case $trem_mode in
         fi
         trem_key=$(echo "$trem_map_chosen" | awk -F '|' '{print $1}')
         trem_dst=$(echo "$trem_map_chosen" | awk -F '|' '{print $2}')
+        warning_nofile $trem_key 'HARD'
         ${trem_alias[@]} "${trem_dst}" ./*"${trem_key}"*
         [ $? -eq 0 ] && recycle_torrent "${trem_key}" || echo -e "[ERRO] REPLAY '$trem_key' Failed"
     ;;
@@ -102,8 +128,13 @@ case $trem_mode in
         for map_line in $(cat "$path_mapfile"); do
             trem_key=$(echo "$map_line" | awk -F '|' '{print $1}')
             trem_dst=$(echo "$map_line" | awk -F '|' '{print $2}')
-            ${trem_alias[@]} "${trem_dst}" ./*${trem_key}*
-            [ $? -eq 0 ] && recycle_torrent "${trem_key}" || echo -e "[ERRO] AUTOPLAY Failed"
+            check_file=$(warning_nofile $trem_key 'SOFT')
+            if [ "$check_file" -ne 'NULL' ]; then
+                ${trem_alias[@]} "${trem_dst}" ./*${trem_key}*
+                [ $? -eq 0 ] && recycle_torrent "${trem_key}" || echo -e "[ERRO] AUTOPLAY Failed"
+            else
+                echo -e "[WARN] Skip autoplay for keyword [$trem_key] since there are no file match in current dir."
+            fi
         done
     ;;
     *)

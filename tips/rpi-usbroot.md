@@ -88,7 +88,7 @@ Flash image to sdcard with yout preferred program
 [Rpi forum Sticky](https://www.raspberrypi.org/forums/viewtopic.php?t=44177) </br>
 
 ### Potential issue: Slow external drive speed due to [UASP Hdd adapter quirk](https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=245931)
-####The most common symptoms of a misbehaving UAS device are
+#### The most common symptoms of a misbehaving UAS device are
 - Extremely slow performance - in the kilobytes per second range
 - Frequent disconnects-reconnects of the device with the desktop repeatedly displaying the "removable medium inserted" dialogue box
 - The kernel message log (dmesg) reports errors relating to a UAS device that look like this: 

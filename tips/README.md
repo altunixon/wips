@@ -2,13 +2,13 @@
 ```bash
 echo "if [ $STY = '' ] && [ $SSH_TTY != '' ] && [ $SSH_TTY = "/dev/pts/0" ]; then screen -xR; fi" >> ~/.bashrc
 ```
-### Disable/Enable lightdm []
+### Disable/Enable lightdm
 ```bash
 alias lightdm-disable="sudo systemctl disable lightdm.service"
 alias lightdm-enable="sudo dpkg-reconfigure lightdm"
 ```
 Debian still uses SysVinit, but supports interoperability with systemd through a nifty little program called systemd-sysv-generator. </br>
-Thus, after you removed lightdm service file, it cant be enable simply with "systemctl enable lightdm.service" </br>
+Thus, after you removed lightdm service file, it can't be enable simply with "systemctl enable lightdm.service" </br>
 but require "dpkg-reconfigure lightdm" to rebuild service file with lightdm post install instead.
 
 ### DYI Route 53 dynamic DNS \[[Lambda server-less dns update]\]

@@ -1,3 +1,28 @@
+### Patching
+- Create a diff patch file
+  ```bash
+  diff -u $file_2b_patched $file_bleeding_edge > patch_file.diff
+  ```
+  The -u (unified) option tells diff to also list some of the un-modified text lines from before and after each of the changed sections. <br/>
+  These lines are called context lines. <br/>
+  They help the patch command locate precisely where a change must be made in the original file.
+- Patching file
+  ```bash
+  patch -u $file_2b_patched -i patch_file.diff
+  ```
+  The -u (unified) option lets patch know that the patch file contains unified context lines. <br/>
+  In other words, we used the -u option with diff, so we use the -u option with patch. <br/>
+  The -i (input) option tells patch the name of the patch file to use. <br/>
+  If all goes well, there’s a single line of output telling you patch is patching the file.
+- Extra
+  Apply patch with backup
+  ```bash
+  patch -u -b $file_2b_patched -i patch_file.diff
+  ```
+  We can instruct patch to make a backup copy of patched files before they are changed by using the -b (backup) option. <br/>
+  The file is patched as before, with no visible difference in the output. <br/>
+  However, if you look into the working folder, you’ll see that file called "${file_2b_patched}.orig" has been created.
+
 ### Bashrc
 ```bash
 alias hg="history | grep -i"

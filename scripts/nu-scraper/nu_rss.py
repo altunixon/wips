@@ -134,6 +134,10 @@ if __name__ == '__main__':
             dest = 'path_json', type = str, 
             default = os.path.join(path_base, 'watched.json'), 
             help = 'JSON Datastore')
+        parser.add_argument('-d', '--dump', 
+            dest = 'path_dump', type = str, 
+            default = None, 
+            help = 'Dump rss response to text file.')
         parser.add_argument('-w', '--wait', 
             dest = 'time_wait', type = int, 
             default = 3, 
@@ -189,6 +193,13 @@ if __name__ == '__main__':
         rss_url = conf_list["rss"]
         rss_feed = feedparser.parse(rss_url)
         for rss_update in rss_feed.entries:
+            # Dump if no-clobber
+            if console_args.path_dump is not None and not os.path.isfile(console_args.path_dump):
+                with open(console_args.path_dump, 'a+') as dump_fd:
+                    json.dump(rss_update, dump_fd, ensure_ascii=False, indent=4, sort_keys=True)
+            else:
+                pass
+            
             rss_desc = rss_update['title']
             rss_chapter = chapter_name(rss_update['title'])
             # rss_chapter = rss_update['title'].split()[-1].strip()

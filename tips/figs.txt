@@ -34,6 +34,9 @@ i=$(echo "${x%/}" | awk -F 'item-' '{print $NF}')
 p="https://bandai-a.akamaihd.net/bc/img/model/xl/${i}_"
 cat /tmp/figs.html | tr 'img' '\n' | grep "$p"
 
+#### todo
+check rnpa clobber option
+
 #### main
 for x in ${y[@]}; do
     i=$(echo "${x%/}" | awk -F 'item-' '{print $NF}')

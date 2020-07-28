@@ -4,6 +4,7 @@
         "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
         "i-became-the-strongest-with-the-failure-frame": "wordpress_2",
         "isekai-tensei-soudouki": "wordpress_soudouki",
+		"kochugunshikan-boukensha-ni-naru": "lightnovelstranslations",
         "okami-wa-nemuranai": "wordpress",
         "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
         "sevens-ln": "wordpress",
@@ -46,6 +47,10 @@
         "article": "//div[contains(@class, \"entry-content\")]",
         "transit": "//a[text()[contains(., \"wordpress\")]]"
     },
+	"lightnovelstranslations": {
+		"article": "//div[contains(@class, \"entry-content\")]",
+		"transit": "//a[text()[contains(., \"CLICK HERE TO READ\")]]"
+	},
     "shintranslations": {
         "article": "//div[contains(@class, \"entry-content\")]",
         "transit": "//a[text()[contains(., \"Continue reading\")]]"

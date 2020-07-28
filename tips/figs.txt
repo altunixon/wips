@@ -1,7 +1,7 @@
 wget https://bandai-a.akamaihd.net/bc/img/model/xl/1000126541_{1..10}.jpg
 rnpa -p 'Portrait.Of.Piratesワンピース“LIMITED EDITION”ネフェルタリ・ビビ Ver.BB_02' -i ' ' 1000126541_*
 
-https://p-bandai.jp/item/item-1000131877/
+y=( https://p-bandai.jp/item/item-1000131877/
 https://p-bandai.jp/item/item-1000129108/
 https://p-bandai.jp/item/item-1000128215/
 https://p-bandai.jp/item/item-1000128130/
@@ -21,5 +21,26 @@ https://p-bandai.jp/item/item-1000110400/
 https://p-bandai.jp/item/item-1000110399/
 https://p-bandai.jp/item/item-1000104921/
 https://p-bandai.jp/item/item-1000104254/
-https://p-bandai.jp/item/item-1000102911/
+https://p-bandai.jp/item/item-1000102911/ )
 
+#### install cmdline html parser
+sudo apt-get install html-xml-utils
+
+#### test
+x="https://p-bandai.jp/item/item-1000123227/"
+curl "$x" > /tmp/figs.htm
+cat /tmp/figs.html | hxselect -s '\n' -c  'title'
+i=$(echo "${x%/}" | awk -F 'item-' '{print $NF}')
+p="https://bandai-a.akamaihd.net/bc/img/model/xl/${i}_"
+cat /tmp/figs.html | tr 'img' '\n' | grep "$p"
+
+#### main
+for x in ${y[@]}; do
+    i=$(echo "${x%/}" | awk -F 'item-' '{print $NF}')
+    p="https://bandai-a.akamaihd.net/bc/img/model/xl/${i}_"
+    curl $x > /tmp/figs.html
+    t=$(cat /tmp/figs.html | hxselect -s '\n' -c  'title' 2>/dev/null)
+    n=$(cat /tmp/figs.html | tr 'img' '\n' | grep "$p" | wc -l)
+    wget --no-clobber "$p"{1..$n}.jpg
+    rnpa -p "$t" -i " " "${i}_"*
+done

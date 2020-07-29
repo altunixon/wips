@@ -6,12 +6,6 @@ from browsers.scraper_lxml import html_scraper
 
 if __name__ == '__main__':
     try:
-        path_base = os.path.dirname(os.path.realpath(__file__))
-        browser_sel = SeleniumBrowser(
-            capability='chrome@localhost:4445', 
-            driver_bin='/usr/bin/chromedriver'
-        )
-
         import argparse
         parser = argparse.ArgumentParser(description = 'Scraping Arguments.')
         parser.add_argument('url', nargs = '*',
@@ -32,6 +26,13 @@ if __name__ == '__main__':
             default = 3, 
             help = 'Wait for page to load before reading source HTML.')
         console_args = parser.parse_args()
+
+        path_base = os.path.dirname(os.path.realpath(__file__))
+        browser_sel = SeleniumBrowser(
+            capability='chrome@localhost:4445',
+            driver_bin='/usr/bin/chromedriver'
+        )
+
         if len(console_args.url) > 0:
             url_haz_javascript = console_args.url[0]
             browser_sel.get(url_haz_javascript, read=False, wait=console_args.time_wait)

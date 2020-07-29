@@ -31,7 +31,7 @@ class SeleniumBrowser():
         self.proxy   = options.pop('proxy', None)
         self.proxyDict = None \
             if self.proxy is None \
-            else {"http": self.proxy, "https": self.proxy, "ftp": self.proxy,} \
+            else {"http": self.proxy, "https": self.proxy, "ftp": self.proxy,}
 
         self.driver = self.init_browser(
             self.capability, 
@@ -53,13 +53,13 @@ class SeleniumBrowser():
         )
 
     def init_browser(self, br_capability, **options):
-        private     = options.pop('private', False)
-        off_screen  = options.pop('hide', False)
-        head_less   = options.pop('headless', False)
-        verbose     = options.pop('verbose', True)
-        proxyDict   = options.pop('proxy', None)
-        window_size = options.pop('window', '640x480')
-        chrome_extension = options.pop('extension', None)
+        private     = options.get('private', False)
+        off_screen  = options.get('hide', False)
+        head_less   = options.get('headless', False)
+        verbose     = options.get('verbose', True)
+        proxyDict   = options.get('proxy', None)
+        window_size = options.get('window', '640x480')
+        chrome_extension = options.get('extension', None)
         ostype_nt   = True \
             if os.name == 'nt' or 'cygwin' in system().lower() \
             else False
@@ -76,10 +76,9 @@ class SeleniumBrowser():
             firefox_prof.set_preference("devtools.jsonview.enabled", False)
             firefox_prof.set_preference('network.proxy.Kind', 'Direct')
             firefox_opts = webdriver.FirefoxOptions()
+            # firefox_opts.add_argument('-verbose')
             if head_less:
                 firefox_opts.add_argument('-headless')
-            else:
-                pass
             if proxyDict is not None:
                 driver = webdriver.Firefox(
                     executable_path = web_driver, 
@@ -101,15 +100,11 @@ class SeleniumBrowser():
             web_driver = self.driver_bin if self.driver_bin is not None else driver_bin_chrom
             #os.environ["webdriver.chrome.driver"] = web_driver
             chrome_useropts = webdriver.ChromeOptions()
-            
+            # chrome_useropts.add_argument('--verbose')
             if off_screen:
                 chrome_useropts.add_argument('--window-position="-1920,-1080"')
-            else:
-                pass
             if private:
                 chrome_useropts.add_argument('--incognito')
-            else:
-                pass
             if head_less:
                 chrome_useropts.add_argument('--headless')
                 chrome_useropts.add_argument('--disable-gpu')
@@ -274,7 +269,11 @@ class SeleniumBrowser():
 
     def read(self, url=None, **options):
         # read_wait = int(options.pop('wait', 0))
-        read_dump = options.pop('dump', None)
+        read_dump = options.get('dump', None)
+        read_reload = options.get('reload', False)
+        if read_reload:
+            self.driver.refresh()
+            print ('RELOAD', self.driver.current_url)
         if url is None or url == self.driver.current_url:
             html_text = self.driver.page_source
         else:

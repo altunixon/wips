@@ -63,8 +63,8 @@
         "article": "//div/div[@class=\"post\"]",
         "transit": null
     },
-	"nobles_js": {
-		"article": "//div[contains(@id, \"chapter-content\")]",
+    "nobles_js": {
+        "article": "//div[contains(@id, \"chapter-content\")]",
         "transit": null
-	}
+    }
 }

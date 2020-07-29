@@ -119,10 +119,6 @@ if __name__ == '__main__':
     try:
         path_base = os.path.dirname(os.path.realpath(__file__))
         path_conf = os.path.join(path_base, 'list.json')
-        browser_sel = SeleniumBrowser(
-            capability='chrome@localhost:4445', 
-            driver_bin='/usr/bin/chromedriver'
-        )
 
         import argparse
         parser = argparse.ArgumentParser(description = 'Scraping Arguments.')
@@ -134,7 +130,7 @@ if __name__ == '__main__':
             dest = 'path_json', type = str, 
             default = os.path.join(path_base, 'watched.json'), 
             help = 'JSON Datastore')
-        parser.add_argument('-d', '--dump', 
+        parser.add_argument('--dump', 
             dest = 'path_dump', type = str, 
             default = None, 
             help = 'Dump rss response to text file.')
@@ -143,6 +139,12 @@ if __name__ == '__main__':
             default = 3, 
             help = 'Wait time in-between curls')
         console_args = parser.parse_args()
+
+        browser_sel = SeleniumBrowser(
+            capability='chrome@localhost:4445',
+            # capability='chrome',
+            driver_bin='/usr/bin/chromedriver'
+        )
 
         # Set various wait times
         wait_boiler = namedtuple('WaitTime', ['low', 'medium', 'high'])
@@ -160,6 +162,7 @@ if __name__ == '__main__':
             )
         # Load/Init JSON
         conf_list = json2dict(path_conf)
+        # print (conf_list)
         # Config format: { "template1": {"redirect", "article"}, "template2": {"redirect", "article"}, "list": {"name": {"redirect", "article"}, } }
         series_watch = {}
         if os.path.isfile(path_conf):
@@ -189,7 +192,6 @@ if __name__ == '__main__':
                 data_watched[x] = {}
             else:
                 pass
-
         rss_url = conf_list["rss"]
         rss_feed = feedparser.parse(rss_url)
         for rss_update in rss_feed.entries:

@@ -10,7 +10,8 @@ patch_name="$(echo -n "$file_2b_patch" | awk -F '/' '{print $NF}')"
 
 if [ -f $file_2b_patch ] && [ -f $file_be_latest ]; then
     patch_file="/tmp/${patch_name}.patch"
-    diff -u $file_2b_patch $file_be_latest > "$patch_file"
+    diff -u $file_2b_patch $file_be_latest | tee "$patch_file"
+    echo "Copy: $patch_file => ${patch_name}.patch"
     cp --no-clobber -v "$patch_file" ./${patch_name}.patch && \
         patch -u -b $file_2b_patch -i $patch_file || \
         echo "Patch file '${patch_name}.patch' already exists in current directory, refuse to patch."

@@ -79,8 +79,8 @@ case $trem_mode in
         warning_empty $trem_mode "DEST" $trem_dst
         trem_key=${3:-}
         warning_empty $trem_mode "KEY" $trem_key
-        warning_nofile 'HARD' $trem_key
-        if [ $(grep "${trem_key}" $path_mapfile | wc -l) -gt 0 ]; then
+        check_nofile=$(warning_nofile 'HARD' $trem_key)
+        if [ $(grep "${trem_key}" $path_mapfile | wc -l) -gt 0 ] && [ "$check_nofile" != 'NULL' ]; then
             # probly should check for multiple match, single match will have to do for now
             trem_map=$(grep -m 1 "$trem_key" "$path_mapfile")
             mapd_key=$(echo "$trem_map" | awk -F '|' '{print $1}')
@@ -129,7 +129,7 @@ case $trem_mode in
         fi
         trem_key=$(echo "$trem_map_chosen" | awk -F '|' '{print $1}')
         trem_dst=$(echo "$trem_map_chosen" | awk -F '|' '{print $2}')
-        warning_nofile 'HARD' $trem_key
+        check_nofile=$(warning_nofile 'HARD' $trem_key)
         ${trem_alias[@]} "${trem_dst}" ./*"${trem_key}"*
         [ $? -eq 0 ] && recycle_torrent "${trem_key}" || echo -e "[ERRO] REPLAY '$trem_key' Failed"
     ;;
@@ -138,8 +138,8 @@ case $trem_mode in
         for map_line in $(cat "$path_mapfile"); do
             trem_key=$(echo "$map_line" | awk -F '|' '{print $1}')
             trem_dst=$(echo "$map_line" | awk -F '|' '{print $2}')
-            check_file=$(warning_nofile 'SOFT' $trem_key)
-            if [ "$check_file" != 'NULL' ]; then
+            check_nofile=$(warning_nofile 'SOFT' $trem_key)
+            if [ "$check_nofile" != 'NULL' ]; then
                 ${trem_alias[@]} "${trem_dst}" ./*${trem_key}*
                 [ $? -eq 0 ] && recycle_torrent "${trem_key}" || echo -e "[ERRO] AUTOPLAY Failed"
             else

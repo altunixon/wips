@@ -4,33 +4,23 @@
         "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
         "i-became-the-strongest-with-the-failure-frame": "wordpress_2",
         "isekai-tensei-soudouki": "wordpress_soudouki",
-		"kochugunshikan-boukensha-ni-naru": "lightnovelstranslations",
+        "kochugunshikan-boukensha-ni-naru": "lightnovelstranslations",
         "okami-wa-nemuranai": "wordpress",
         "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
         "sevens-ln": "wordpress",
         "the-death-mage-who-doesnt-want-a-fourth-time": "wordpress_2",
-		"hakai-no-miko": "wordpress_hakai",
-        "ouroboros-record-circus-of-oubeniel": "yamitranslations",
+        "hakai-no-miko": "wordpress_hakai",
         "tsuki-ga-michibiku-isekai-douchuu": "wordpress",
-		"clearing-an-isekai-with-the-zero-believers-goddess-the-weakest-mage-among-the-classmates": "wordpress",
+        "clearing-an-isekai-with-the-zero-believers-goddess-the-weakest-mage-among-the-classmates": "wordpress",
         "the-strange-adventure-of-a-broke-mercenary": "wordpress",
         "hazure-skill-mapping-wo-te-ni-shita-ore-wa-saikyou-party-to-tomo-ni-dungeon-ni-idomu": "blogspot",
         "ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita": "wordpress_2",
         "manuke-fps": "wordpress",
         "the-new-gate": "shintranslations",
         "my-death-flags-show-no-sign-of-ending": "wordpress",
-		"wortenia-senki": "wordpress",
-		"the-world-is-overflowing-with-monster-im-taking-a-liking-to-this-life": "nobles_js"
+        "wortenia-senki": "wordpress",
+        "the-world-is-overflowing-with-monster-im-taking-a-liking-to-this-life": "nobles_js"
     },
-    "overbin": {
-        "list": "/media/alt/bad/wips/lns/overlord-ln/0bin.txt"
-    },
-    "overlord": {
-        "type": "reddit",
-        "button": "//button[text()[contains(., \"Click to see spoiler\")]",
-        "article": "//a[contains(@href, \"0bin.net\")]",
-        "transit": "//pre"
-	},
     "wordpress": {
         "article": "//div[contains(@class, \"entry-content\")]",
         "transit": null

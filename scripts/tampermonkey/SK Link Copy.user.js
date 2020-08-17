@@ -45,7 +45,7 @@ function clear_list() {\
         var ret_val = true; //Set OFF as default
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if (key === 68) {
+            if (key === 68) { //D key
                 if (ret_val) {
                     document.getElementById("copy_status").textContent = " < Link Copy Mode [ON] > ";
                     ret_val = false;
@@ -66,7 +66,7 @@ function clear_list() {\
             if (!ret_val) {
                 event.preventDefault();
                 copied_links++;
-                var copied_href = 'https://chan.sankakucomplex.com' + $(this).attr("href") + '\r\n';
+                var copied_href = location.protocol + '//' + location.host + $(this).attr("href") + '\r\n';
                 var t = document.createTextNode(copied_href);
                 document.getElementById("copy_list").appendChild(t);
                 document.getElementById("copy_status").textContent = " < Links Copied [" + copied_links + "] Click to Copy > ";
@@ -76,6 +76,7 @@ function clear_list() {\
             else {
                 if ($(this).attr("href").indexOf('/show/') != -1) {
                     window.open($(this).attr("href"), '_blank');
+                    focus();
                 }
                 else {
                     window.open($(this).attr("href"), '_self');

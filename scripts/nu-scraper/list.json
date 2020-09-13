@@ -4,7 +4,6 @@
         "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
         "i-became-the-strongest-with-the-failure-frame": "wordpress_2",
         "isekai-tensei-soudouki": "wordpress_soudouki",
-        "kochugunshikan-boukensha-ni-naru": "lightnovelstranslations",
         "okami-wa-nemuranai": "wordpress",
         "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
         "sevens-ln": "wordpress",
@@ -13,13 +12,13 @@
         "tsuki-ga-michibiku-isekai-douchuu": "wordpress",
         "clearing-an-isekai-with-the-zero-believers-goddess-the-weakest-mage-among-the-classmates": "wordpress",
         "the-strange-adventure-of-a-broke-mercenary": "wordpress",
-        "hazure-skill-mapping-wo-te-ni-shita-ore-wa-saikyou-party-to-tomo-ni-dungeon-ni-idomu": "blogspot",
         "ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita": "wordpress_2",
         "manuke-fps": "wordpress",
         "the-new-gate": "shintranslations",
         "my-death-flags-show-no-sign-of-ending": "wordpress",
         "wortenia-senki": "wordpress",
-        "the-world-is-overflowing-with-monster-im-taking-a-liking-to-this-life": "nobles_js"
+        "the-world-is-overflowing-with-monster-im-taking-a-liking-to-this-life": "nobles_js",
+        "isekai-apocalypse-mynoghra": "blogspot_isekaimynoghra"
     },
     "wordpress": {
         "article": "//div[contains(@class, \"entry-content\")]",
@@ -55,6 +54,10 @@
     },
     "nobles_js": {
         "article": "//div[contains(@id, \"chapter-content\")]",
+        "transit": null
+    },
+    "blogspot_isekaimynoghra": {
+        "article": "//div[contains(@id, \"post-body\")]",
         "transit": null
     }
 }

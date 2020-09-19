@@ -49,7 +49,7 @@ function clear_list() {\
         var ret_val = true; //Set OFF as default
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if(key === 68) {
+            if(key === 68) { // press d
                 if (ret_val) {
                     document.getElementById("copy_status").textContent = " < Link Copy Mode [ON] > ";
                     ret_val = false;
@@ -63,8 +63,8 @@ function clear_list() {\
 
         document.addEventListener('keydown',
             function(e) {
-                var key = e.keyCode || e.which; // press g
-                if(key === 71) {
+                var key = e.keyCode || e.which;
+                if(key === 71) { // press g
                     if (!ret_val) {
                         event.preventDefault();
                         var copyText = document.getElementById("copy_list");

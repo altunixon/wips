@@ -18,7 +18,8 @@
         "my-death-flags-show-no-sign-of-ending": "wordpress",
         "wortenia-senki": "wordpress",
         "the-world-is-overflowing-with-monster-im-taking-a-liking-to-this-life": "nobles_js",
-        "isekai-apocalypse-mynoghra": "blogspot_isekaimynoghra"
+        "isekai-apocalypse-mynoghra": "blogspot_isekaimynoghra",
+        "i-woke-up-piloting-the-strongest-starship-so-i-became-a-space-mercenary": "wordpress_lightnovelstranslations"
     },
     "wordpress": {
         "article": "//div[contains(@class, \"entry-content\")]",
@@ -36,7 +37,7 @@
         "article": "//div[contains(@class, \"entry-content\")]",
         "transit": "//a[text()[contains(., \"wordpress\")]]"
     },
-	"lightnovelstranslations": {
+	"wordpress_lightnovelstranslations": {
 		"article": "//div[contains(@class, \"entry-content\")]",
 		"transit": "//a[text()[contains(., \"CLICK HERE TO READ\")]]"
 	},

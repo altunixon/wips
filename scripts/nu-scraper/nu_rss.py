@@ -133,7 +133,7 @@ if __name__ == '__main__':
         parser.add_argument('--dump', 
             dest = 'path_dump', type = str, 
             default = None, 
-            help = 'Dump rss response to text file.')
+            help = 'Dump rss response to file, decides text format via extension, .txt|.*=raw(XML), .json=JSON, .htm|.html=HTML.')
         parser.add_argument('-w', '--wait', 
             dest = 'time_wait', type = int, 
             default = 3, 
@@ -194,14 +194,22 @@ if __name__ == '__main__':
                 pass
         rss_url = conf_list["rss"]
         rss_feed = feedparser.parse(rss_url)
-        for rss_update in rss_feed.entries:
-            # Dump if no-clobber
-            if console_args.path_dump is not None and not os.path.isfile(console_args.path_dump):
-                with open(console_args.path_dump, 'a+') as dump_fd:
-                    json.dump(rss_update, dump_fd, ensure_ascii=False, indent=4, sort_keys=True)
+
+        rss_dump = console_args.path_dump
+        if rss_dump is not None and not os.path.isfile(rss_dump):
+            dump_format = os.path.splitext(rss_dump).lower()
+            if dump_format.startswith('.htm'):
+                dump_text = 'INSERT HTML HERE'
+            elif dump_format.startswith('.json'):
+                dump_text = 'INSERT JSON HERE'
             else:
-                pass
-            
+                dump_text = BeautifulSoup(browser_sel.read(rss_url, 'lxml-xml')).prettify()
+            with open(rss_dump, 'w+') as dump_fd:
+                dump_fd.write(dump_text)
+        else:
+            pass
+
+        for rss_update in rss_feed.entries:
             rss_desc = rss_update['title']
             rss_chapter = chapter_name(rss_update['title'])
             # rss_chapter = rss_update['title'].split()[-1].strip()

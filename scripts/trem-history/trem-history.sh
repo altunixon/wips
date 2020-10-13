@@ -22,7 +22,7 @@ function warning_nofile() {
             if [ $# -le 1 ]; then
                 echo -n 'NULL'
             else
-                file_count=$(ls -1 ./*"${2}"* | wc -l)
+                file_count=$(ls -1 ./*"${2}"* 2>/dev/null | wc -l)
                 if [ $file_count -le 0 ]; then echo -n 'NULL'; else echo -n "$file_count"; fi
             fi
         ;;

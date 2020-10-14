@@ -20,7 +20,8 @@ function dimensions() {
     case $ss_retv in
         w) echo -n "$ss_dimensions" | cut -d 'x' -f 1 ;;
         h) echo -n "$ss_dimensions" | awk -d 'x' -f 2 ;;
-        *) echo -n "$ss_dimensions"
+        crop) echo -n "$(echo $ss_dimensions | awk -F 'x' '{print "crop="$1":"$2}')" ;;
+        *) echo -n "$ss_dimensions" ;;
     esac
 }
 
@@ -45,39 +46,44 @@ else
         vid_res=$(dimensions "$temp_img")
         vid_w=$(echo "$vid_res" | cut -d 'x' -f 1)
         vid_h=$(echo "$vid_res" | cut -d 'x' -f 2)
+        read -n 1 -p "Debug ScreenShot ORIG: '${temp_img}' [${vid_w}:${vid_h}" dummyinput
         # begin the screenshot trimming process, starting with adding right stripes to screenshot
         # mogrify -gravity East -background green -splice 5x0 -background red -splice 5x0 "$temp_img"
-        # Trim Left(West)
+        # Trim Left(West) by adding two solid 5px bar of differrent color to the East side, 
+        # the trim function will trim West and one of the added bar, which will then be trimmed with the chop function 
         mogrify -gravity East -background green -splice 5x0 -background red -splice 5x0 -trim -fuzz $trim_fuzz -chop 5x0 "$temp_img"
         ss_geo_w1=$(dimensions "$temp_img" w)
+        # Get starting X coordinates
         ss_geo_x1=$((vid_w - ss_geo_w1))
-        # Trim Right(East), prevent trim north, south
+        read -n 1 -p "Debug ScreenShot TRIM West: '${temp_img}' [${ss_geo_w1}=>${ss_geo_x1}]" dummyinput
+        # Trim Right(East), prevent trim north, south by adding a 5px green bar to the West side so in actuallity, this is trim East & West
         mogrify -gravity West -background green -splice 5x0 -trim -fuzz $trim_fuzz "$temp_img"
+        read -n 1 -p "Debug ScreenShot TRIM East: '${temp_img}', Keep North & South" dummyinput
         # mogrify -trim -fuzz $trim_fuzz "$temp_img"
         # ss_geo_w2=$(dimensions "$temp_img" w)
         # ss_geo_x2=$((ss_geo_x1 + ss_geo_w2))
-        # Trim North
+        # Trim North by adding a solid color bar to the South, this prevents South side from being trimmed, since the solid color bar will be trimmed instead.
         mogrify -gravity South -background green -splice 5x0 -trim -fuzz $trim_fuzz "$temp_img"
         ss_geo_h1=$(dimensions "$temp_img" h)
+        # get starting Y coordinates
         ss_geo_y1=$((vid_h - ss_geo_h1))
+        read -n 1 -p "Debug ScreenShot TRIM North: '${temp_img}' [${ss_geo_h1}=>${ss_geo_y1}]" dummyinput
         # Trim South
         mogrify -trim -fuzz $trim_fuzz "$temp_img"
         # ss_geo_h2=$(dimensions "$temp_img" h)
         # ss_geo_y2=$((ss_geo_y1 + ss_geo_h2))
         crop_size=$(dimensions "$temp_img")
+        # Get crop area dimensions
         crop_w=$(echo "$crop_size" | cut -d 'x' -f 1)
         crop_h=$(echo "$crop_size" | cut -d 'x' -f 2)
+        read -n 1 -p "Debug ScreenShot TRIM South: '${temp_img}' Crop Dimensions [${crop_w}:${crop_h}]" dummyinput
         # ffmpeg crop format: upper left coordinates x:y => crop area dimensions w:h
         crop_area="crop=${ss_geo_x1}:${ss_geo_y1}:${crop_w}:${crop_h}"
         # Trim screenshot img
         # mogrify -trim -fuzz $trim_fuzz "$temp_img"
-        # Detect final dimensions
-        # ss_geo=$(identify "$temp_img" | awk '{print $3}')
-        # ss_w=$(echo "$ss_geo" | awk -F 'x' '{print $1}')
-        # ss_h=$(echo "$ss_geo" | awk -F 'x' '{print $2}')
-        # Crop video to final dimensions
+        # Crop video to final dimensions (Centering)
+        # crop_area=$(dimensions "$temp_img" crop)
         echo -e "Trim: '$v_base' [$vid_res] => [$crop_area]"
-        # ffmpeg -i "$temp_vid" -filter:v "crop=$ss_w:$ss_h" -c:a copy "$v_out"
         ffmpeg -hide_banner -i "$temp_vid" -vf "$crop_area" "$v_out"
         # Cleanup temp files
         rm "$temp_img" "$temp_vid"

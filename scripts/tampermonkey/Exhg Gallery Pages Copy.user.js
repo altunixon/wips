@@ -49,11 +49,11 @@ function clear_list() {\
             var key = e.keyCode || e.which;
             // press d
             if(key === 68) {
+                var text_field = document.getElementById("copy_list");
                 if (ret_val) {
                     //$("a").css("pointer-events", "none");
                     console.log("Copy Mode [ON]");
                     document.getElementById("copy_status1").textContent = " < Copy Mode [ON] > ";
-                    var text_field = document.getElementById("copy_list");
                     if ( ! text_field.innerHTML && ! window.location.href.includes("?p=") ) {
                         var h = document.createTextNode(window.location.href + ' pages=');
                         text_field.appendChild(h);
@@ -61,9 +61,11 @@ function clear_list() {\
                     ret_val = false;
                 }
                 else {
-                    //$("a").css("pointer-events", "unset");
-                    console.log("Copy Mode [OFF]");
-                    document.getElementById("copy_status1").textContent = " < Copy Mode [OFF] > ";
+                    text_field.select();
+                    document.execCommand("copy");
+                    text_field.blur();
+                    console.log("Id: copy_list [COPIED]");
+                    document.getElementById("copy_status1").textContent = " < Link Copy Mode [OFF] > ";
                     ret_val = true;
                 }
             }
@@ -85,7 +87,7 @@ function clear_list() {\
 
         document.addEventListener('keydown',
             function(e) {
-                var key = e.keyCode || e.which; // press f
+                var key = e.keyCode || e.which; // press F
                 if(key === 70) {
                     var pg_hsl = document.createTextNode('-');
                     document.getElementById("copy_list").appendChild(pg_hsl);
@@ -94,7 +96,7 @@ function clear_list() {\
         );
         document.addEventListener('keydown',
             function(e) {
-                var key = e.keyCode || e.which; // press e
+                var key = e.keyCode || e.which; // press E
                 if(key === 82) {
                     var pg_hsl = document.createTextNode(',');
                     document.getElementById("copy_list").appendChild(pg_hsl);
@@ -103,13 +105,13 @@ function clear_list() {\
         );
         document.addEventListener('keydown',
             function(e) {
-                var key = e.keyCode || e.which; // press c
+                var key = e.keyCode || e.which; // press C
                 if(key === 67) { clear_list(); }
             }
         );
         document.addEventListener('keydown',
             function(e) {
-                var key = e.keyCode || e.which; // press g
+                var key = e.keyCode || e.which; // press G
                 if(key === 71) { $('td[onclick="document.location=this.firstChild.href"]').click(); }
             }
         );

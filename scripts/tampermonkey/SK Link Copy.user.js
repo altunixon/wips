@@ -43,9 +43,13 @@ function clear_list() {\
         jQuery('body').prepend(copy_element);
         var copied_links = 0;
         var ret_val = true; //Set OFF as default
+        var sk_prefix = location.protocol + '//' + location.host;
+        var sk_next = $("#paginator > div.pagination").attr("next-page-url")
+        var sk_now = location.search
+
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if (key === 68) { //D key
+            if (key === 68) { // D
                 if (ret_val) {
                     document.getElementById("copy_status").textContent = " < Link Copy Mode [ON] > ";
                     ret_val = false;
@@ -62,11 +66,41 @@ function clear_list() {\
             }
         }, false);
 
+        document.addEventListener('keydown', function(e) {
+            var key = e.keyCode || e.which;
+            if (key === 70) { // F
+                if (!ret_val) {
+                    var all_posts = '### ' + sk_now + '\r\n';
+                    $("div.content > div > span.thumb").find("a").each( function() {
+                        all_posts += sk_prefix + $(this).attr("href") + '\r\n';
+                        copied_links++;
+                    } );
+                    var t = document.createTextNode(all_posts);
+                    document.getElementById("copy_list").appendChild(t);
+                    document.getElementById("copy_status").textContent = " < Links Copied [" + copied_links + "] Click to Copy > ";
+                    console.log("Copied: " + all_posts);
+                }
+            }
+        }, false);
+
+        document.addEventListener('keydown', function(e) {
+            var key = e.keyCode || e.which;
+            if (key === 71) { // G
+                var copyText = document.getElementById("copy_list");
+                copyText.select();
+                document.execCommand("copy");
+                copyText.blur();
+                if (sk_next != sk_now) {
+                    window.open(sk_next, '_self')
+                }
+            }
+        }, false);
+
         $("a").click(function(event) {
             if (!ret_val) {
                 event.preventDefault();
                 copied_links++;
-                var copied_href = location.protocol + '//' + location.host + $(this).attr("href") + '\r\n';
+                var copied_href = sk_prefix + $(this).attr("href") + '\r\n';
                 var t = document.createTextNode(copied_href);
                 document.getElementById("copy_list").appendChild(t);
                 document.getElementById("copy_status").textContent = " < Links Copied [" + copied_links + "] Click to Copy > ";
@@ -76,7 +110,6 @@ function clear_list() {\
             else {
                 if ($(this).attr("href").indexOf('/show/') != -1) {
                     window.open($(this).attr("href"), '_blank');
-                    focus();
                 }
                 else {
                     window.open($(this).attr("href"), '_self');

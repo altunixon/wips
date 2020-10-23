@@ -112,7 +112,13 @@ function clear_list() {\
         document.addEventListener('keydown',
             function(e) {
                 var key = e.keyCode || e.which; // press G
-                if(key === 71) { $('td[onclick="document.location=this.firstChild.href"]').click(); }
+                if(key === 71) {
+                    var text_field = document.getElementById("copy_list");
+                    text_field.select();
+                    document.execCommand("copy");
+                    text_field.blur();
+                    $('td[onclick="document.location=this.firstChild.href"]').click();
+                }
             }
         );
 

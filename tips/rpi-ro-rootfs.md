@@ -13,7 +13,7 @@ Sources: </br>
 - Cleanup unneeded packages and/or packages that will need writing access to the root filesystem, </br>
   If these were not installed in the first place then just skip this step:
   ```bash
-  sudo apt-get remove --purge triggerhappy logrotate dphys-swapfile
+  sudo apt-get remove --purge triggerhappy logrotate
   sudo apt-get remove --purge wolfram-engine anacron xserver-common lightdm
   sudo apt-get autoremove --purge
   # Disable display service (run in init 3, multiuser commandline mode)
@@ -38,6 +38,7 @@ Sources: </br>
   sudo swapoff -a
   sudo dphys-swapfile swapoff
   sudo systemctl disable dphys-swapfile.service
+  sudo apt-get remove --purge dphys-swapfile
   ```
   Edit **"/boot/cmdline.txt"** and add the following three words at the end of the line: **fastboot noswap ro**
   ```bash

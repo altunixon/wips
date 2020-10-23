@@ -43,9 +43,10 @@ function clear_list() {\
         jQuery('#ptb').prepend(copy_element);
         var copied_links = 0;
         var ret_val = true; //Set OFF as default
+
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if(key === 68) {
+            if(key === 68) { // D
                 if (ret_val) {
                     //$("a").css("pointer-events", "none");
                     //console.log("Link Copy Mode [ON]");
@@ -53,8 +54,11 @@ function clear_list() {\
                     ret_val = false;
                 }
                 else {
-                    //$("a").css("pointer-events", "unset");
-                    //console.log("Link Copy Mode [OFF]");
+                    var copyText = document.getElementById("copy_list");
+                    copyText.select();
+                    document.execCommand("copy");
+                    copyText.blur();
+                    console.log("Id: copy_list [COPIED]");
                     document.getElementById("copy_status").textContent = " < Link Copy Mode [OFF] > ";
                     ret_val = true;
                 }

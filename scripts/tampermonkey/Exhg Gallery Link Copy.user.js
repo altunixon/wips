@@ -39,7 +39,7 @@ function clear_list() {\
 };\
 </script>';
 
-        jQuery('.ptb').append(copy_element);
+        jQuery('.dp > a:contains("Front Page")').parent().before(copy_element);
         var copied_links = 0;
         var ret_val = true; //Set OFF as default
 

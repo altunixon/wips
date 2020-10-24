@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Exhg Gallery Pages Copy
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      0.2
+// @description  try to take over the pork!
 // @author       You
 // @require      http://code.jquery.com/jquery-3.3.1.slim.min.js
 // @match        *://exhentai.org/g/*
@@ -47,7 +47,7 @@ function clear_list() {\
         /* https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes */
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            // press d
+            // press D
             if(key === 68) {
                 var text_field = document.getElementById("copy_list");
                 if (ret_val) {
@@ -66,12 +66,13 @@ function clear_list() {\
                     text_field.blur();
                     console.log("Id: copy_list [COPIED]");
                     document.getElementById("copy_status1").textContent = " < Link Copy Mode [OFF] > ";
+                    document.getElementById("copy_status2").textContent = " < Page Copied [" + copied_links + "] Click to View > ";
                     ret_val = true;
                 }
             }
         }, false);
 
-        $('td[onclick="document.location=this.firstChild.href"]').click(
+        $(".ptb > td[onclick='document.location=this.firstChild.href']:contains('>')").click(
             function(event) {
                 if (!ret_val) {
                     event.preventDefault();
@@ -117,7 +118,7 @@ function clear_list() {\
                     text_field.select();
                     document.execCommand("copy");
                     text_field.blur();
-                    $('td[onclick="document.location=this.firstChild.href"]').click();
+                    $(".ptb > td[onclick='document.location=this.firstChild.href']:contains('>')").click();
                 }
             }
         );

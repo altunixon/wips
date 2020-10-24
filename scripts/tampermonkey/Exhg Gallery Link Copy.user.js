@@ -1,13 +1,12 @@
 // ==UserScript==
 // @name         Exhg Gallery Link Copy
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @require      http://code.jquery.com/jquery-3.3.1.slim.min.js
-// @description  try to take over the world!
+// @description  try to take over the pork!
 // @author       You
-// @match        https://exhentai.org/tag/*
-// @match        https://exhentai.org/*_search*
-// @match        https://e-hentai.org/tag/*
+// @match        https://exhentai.org
+// @match        https://exhentai.org/?*
 // @grant        none
 // ==/UserScript==
 
@@ -40,7 +39,7 @@ function clear_list() {\
 };\
 </script>';
 
-        jQuery('#ptb').prepend(copy_element);
+        jQuery('.ptb').append(copy_element);
         var copied_links = 0;
         var ret_val = true; //Set OFF as default
 
@@ -64,6 +63,32 @@ function clear_list() {\
                 }
             }
         }, false);
+
+        document.addEventListener('keydown',
+            function(e) {
+                var key = e.keyCode || e.which;
+                if(key === 71) { // press G
+                    var text_field = document.getElementById("copy_list");
+                    text_field.select();
+                    document.execCommand("copy");
+                    text_field.blur();
+                    $(".ptb > td[onclick='document.location=this.firstChild.href']:contains('>')").click();
+                }
+            }
+        );
+
+        document.addEventListener('keydown',
+            function(e) {
+                var key = e.keyCode || e.which;
+                if(key === 65) { // press A
+                    var text_field = document.getElementById("copy_list");
+                    text_field.select();
+                    document.execCommand("copy");
+                    text_field.blur();
+                    $(".ptb > td[onclick='document.location=this.firstChild.href']:contains('<')").click();
+                }
+            }
+        );
 
         $("a").click(function(event) {
             if (!ret_val) {

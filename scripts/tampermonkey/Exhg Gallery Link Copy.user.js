@@ -72,7 +72,7 @@ function clear_list() {\
                     text_field.select();
                     document.execCommand("copy");
                     text_field.blur();
-                    $(".ptb > td[onclick='document.location=this.firstChild.href']:contains('>')").click();
+                    $("td[onclick='document.location=this.firstChild.href']:contains('>')").click();
                 }
             }
         );
@@ -85,7 +85,7 @@ function clear_list() {\
                     text_field.select();
                     document.execCommand("copy");
                     text_field.blur();
-                    $(".ptb > td[onclick='document.location=this.firstChild.href']:contains('<')").click();
+                    $("td[onclick='document.location=this.firstChild.href']:contains('<')").click();
                 }
             }
         );

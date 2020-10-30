@@ -16,7 +16,6 @@ function dimensions() {
     ss_retv=${2:-both}
     ss_tmpf=${3:-$temp_res}
     ss_dimensions=$(identify "$temp_img" | awk '{print $3}')
-    fi
     case $ss_retv in
         w) echo -n "$ss_dimensions" | cut -d 'x' -f 1 ;;
         h) echo -n "$ss_dimensions" | awk -d 'x' -f 2 ;;

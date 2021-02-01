@@ -1,3 +1,9 @@
+### Windows Show Product Key
+```cmd
+wmic path softwarelicensingservice get OA3xOriginalProductKey
+powershell "(Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey"
+```
+
 ### Patching
 - Create a diff patch file
   ```bash

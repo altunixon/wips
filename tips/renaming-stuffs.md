@@ -1,10 +1,20 @@
 ### Rename the kets
-#### Test
+#### Test (FOR GODS SAKE! PLEASE DO THIS FIRST)
+COMIKET
 ```bash
 ls -1 | grep -E '^\(C[0-9]{1,2}\)'
 ls -1 | grep -E '^\(C[0-9]{1,2}\)' | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p'
 ls -1 | grep -E '^\(C[0-9]{1,2}\)' | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p'
 Z=$(ls -1 | grep -E '^\(C[0-9]{1,2}\)' | head -n 1 | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
+echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
+Z=${Z%% }; Z=${Z## }; echo "$Z"
+```
+COMIC1 & Others
+```bash
+ls -1 | grep -E '^\('
+ls -1 | grep -E '^\(' | sed -nE 's/(^\(.*\)) ?.*/\1/p'
+ls -1 | grep -E '^\(' | sed -nE 's/(^\(.*\)) ?(.*)/\1/p'
+Z=$(ls -1 | grep -E '^\(' | head -n 1 | sed -nE 's/(^\(.*\)) ?(.*)/\1/p')
 echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
 Z=${Z%% }; Z=${Z## }; echo "$Z"
 ```
@@ -19,23 +29,24 @@ cd "$CUR"
 Y=$(echo "$X" | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
 Y=$(echo "$Y" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//')
 mv --no-clobber -v "$X" "$Y"
+echo "mv '$Y' '$x'" >> /tmp/CXX_undo.txt
 done
 ```
-### img no-clobber
+### Find duplicate image by ID (the dumb way)
 ```bash
 for Y in ${@}; do
     N=${Y##*/}
     case $N in
-        [A-Za-z]*-[0-9]*[0-9]-*)
+        [A-Za-z]*-[0-9]*[0-9]-*) # HF
         D=$(echo "$N" | awk -F '-' '{print $2}')
         ;;
-        [0-9]*)
+        [0-9]*) # Pixiv?
         D=$(echo "$N" | awk -F '_' '{print $1}')
         ;;
-        [a-z]*" "[0-9]*_*)
+        [a-z]*" "[0-9]*_*) # Twitter?
         D=$(echo "$N" | awk '{print $NF}' | awk -F '_' '{print $1}')
         ;;
-        *)
+        *) # Everything Else
         D="$N"
         ;;
     esac
@@ -45,7 +56,7 @@ for Y in ${@}; do
     if [ $(ls -1 *"$D"* | wc -l) -lt 0 ]; then
         echo "DUPLICATE"
     else
-        echo "SAFE"
+        echo "UNIQ"
     fi
 done
 ```

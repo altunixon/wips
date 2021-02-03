@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import requests, os, re, json, feedparser, time
-from lxml import html
+from lxml import html, etree
 from bs4 import BeautifulSoup
 from collections import namedtuple
 from helpers.str_helper import urlPrefixer, string_sanitizer
@@ -119,6 +119,7 @@ if __name__ == '__main__':
     try:
         path_base = os.path.dirname(os.path.realpath(__file__))
         path_conf = os.path.join(path_base, 'list.json')
+        path_xslt = os.path.join(path_base, 'rss.xslt')
 
         import argparse
         parser = argparse.ArgumentParser(description = 'Scraping Arguments.')
@@ -198,14 +199,24 @@ if __name__ == '__main__':
         rss_dump = console_args.path_dump
         if rss_dump is not None and not os.path.isfile(rss_dump):
             dump_format = os.path.splitext(rss_dump).lower()
+            dump_text = None
             if dump_format.startswith('.htm'):
-                dump_text = 'INSERT HTML HERE'
+                if os.path.isfile(path_xslt):
+                    xslt_doc = etree.parse(path_xslt)
+                    xslt_transformer = etree.XSLT(xslt_doc)
+                    source_doc = etree.fromstring(browser_sel.read(rss_url, 'lxml-xml'))
+                    output_doc = xslt_transformer(source_doc)
+                    dump_text = str(output_doc)
+                    # output_doc.write("output-toc.html", pretty_print=True)
+                else:
+                    print ('[DUMP] rss.xslt file does not exists, unable to dump as HTML')
             elif dump_format.startswith('.json'):
-                dump_text = 'INSERT JSON HERE'
+                pass
             else:
                 dump_text = BeautifulSoup(browser_sel.read(rss_url, 'lxml-xml')).prettify()
-            with open(rss_dump, 'w+') as dump_fd:
-                dump_fd.write(dump_text)
+            if dump_text is not None:
+                with open(rss_dump, 'w+') as dump_fd:
+                    dump_fd.write(dump_text)
         else:
             pass
 

@@ -74,11 +74,11 @@ def chapter_transit(chapter_landing, **kargs):
                 landing_html, refer = chapter_landing, tag_content = xpath_article
             )['tag_content']
             landing_md = html2md(landing_text[0], refer=chapter_landing, desc=landing_desc)
-            return '%s\n<br/>\n%s' % (
-                landing_md, 
-                chapter_md(landing_redirect[0], article=xpath_article, 
-                    desc='Article' if  article_desc is None else 'Article: %s' % article_desc)
-            )
+            chapter_text = ''
+            chapter_desc = 'Article' if  article_desc is None else 'Article: %s' % article_desc
+            for chapter_redirect in landing_redirect:
+                chapter_text += chapter_md(chapter_redirect, article=xpath_article, desc=chapter_desc) + '\n<br/>\n'
+            return '%s\n<br/>\n%s' % (landing_md, chapter_text)
         else:
             return chapter_md(chapter_landing, article=xpath_article, desc=landing_desc)
     else:

@@ -15,8 +15,10 @@ trem-history autoplay <path|cwd>
 ```
 
 ### MapFile format
+```csv
 bolze|/media/nfs/mounts-hub/bolze
 SHIS|/media/nfs/mounts-hub/z-ton
+```
 
 ### Search map file
 -m 1, --max-count, stop reading a file after 1 matching line

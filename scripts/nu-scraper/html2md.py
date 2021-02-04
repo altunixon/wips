@@ -4,26 +4,27 @@
 from bs4 import BeautifulSoup
 import sys, re
 
+elem_ads = [("div", {'class': 'sharedaddy'}), ("div", {'id': 'jp-post-flair'})]
+
 def html2md(text_html, **kargs):
     link_ref = kargs.get('refer', None)
     link_desc = kargs.get('desc', 'Link')
     soup_features = kargs.pop('features', 'lxml')
     soup_html = BeautifulSoup(text_html, features=soup_features)
     # kill all script and style elements
-    for x in soup_html.find_all("div", {'class': 'sharedaddy'}):
-        x.decompose() # broke merc
-    for x in soup_html.find_all("div", {'id': 'jp-post-flair'}):
-        x.decompose()
+    for x in elem_ads:
+        for y in soup_html.find_all(*x)
+            y.decompose()
     for soup_script in soup_html(["ins", "script", "style"]):
         soup_script.decompose() # rip it out
     # soup_text = soup_html.get_text()
     # soup_text = re.sub('(\t|\s+)?\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
-    soup_text = re.sub('\n\s*\n', '\n', soup_html.get_text()) # multi line linebreak to one
+    soup_text = re.sub('\n\s*<br/>\n', '<br/>\n', soup_html.get_text(separator="<br/>\n")) # multi line linebreak to one
     soup_text = soup_text.replace('~', '\~')
-    soup_text = soup_text.replace('\n', '<br/>\n') # normal linebreak to md style
-    soup_text = soup_text.replace('.\n', '.<br/>\n') # might work, might not
-    soup_text = soup_text.replace('"\n', '"<br/>\n')
-    soup_text = soup_text.replace("'\n", "'<br/>\n")
+    # soup_text = soup_text.replace('\n', '<br/>\n') # normal linebreak to md style
+    # soup_text = soup_text.replace('.\n', '.<br/>\n') # might work, might not
+    # soup_text = soup_text.replace('"\n', '"<br/>\n')
+    # soup_text = soup_text.replace("'\n", "'<br/>\n")
     if link_ref is not None:
         return '[{desc}]({refer})\n<br/>{md}'.format(desc=link_desc, refer=link_ref, md=soup_text)
     else:

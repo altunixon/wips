@@ -13,7 +13,7 @@ def html2md(text_html, **kargs):
     soup_html = BeautifulSoup(text_html, features=soup_features)
     # kill all script and style elements
     for x in elem_ads:
-        for y in soup_html.find_all(*x)
+        for y in soup_html.find_all(*x):
             y.decompose()
     for soup_script in soup_html(["ins", "script", "style"]):
         soup_script.decompose() # rip it out

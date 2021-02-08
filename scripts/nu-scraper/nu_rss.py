@@ -140,13 +140,11 @@ if __name__ == '__main__':
             default = 3, 
             help = 'Wait time in-between curls')
         console_args = parser.parse_args()
-
+        
         browser_sel = SeleniumBrowser(
             capability='chrome@localhost:4445',
-            # capability='chrome',
             driver_bin='/usr/bin/chromedriver'
         )
-
         # Set various wait times
         wait_boiler = namedtuple('WaitTime', ['low', 'medium', 'high'])
         if console_args.time_wait < 10:

@@ -33,11 +33,7 @@ class SeleniumBrowser():
             if self.proxy is None \
             else {"http": self.proxy, "https": self.proxy, "ftp": self.proxy,}
 
-        self.driver = self.init_browser(
-            self.capability, 
-            **options, 
-            proxy = self.proxyDict
-        )
+        self.driver = self.init_browser(self.capability, **options, proxy=self.proxyDict)
         # Set page load wait time        
         self.driver.implicitly_wait(self.wait)
         # External downloader

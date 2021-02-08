@@ -1,3 +1,8 @@
+### Windows Show Product Key
+```cmd
+wmic path softwarelicensingservice get OA3xOriginalProductKey
+powershell "(Get-WmiObject -query 'select * from SoftwareLicensingService').OA3xOriginalProductKey"
+```
 ### Screen auto attach ONLY if login from ssh and is the first connection /dev/pts/0
 ```bash
 echo "if [ $STY = '' ] && [ $SSH_TTY != '' ] && [ $SSH_TTY = "/dev/pts/0" ]; then screen -xR; fi" >> ~/.bashrc

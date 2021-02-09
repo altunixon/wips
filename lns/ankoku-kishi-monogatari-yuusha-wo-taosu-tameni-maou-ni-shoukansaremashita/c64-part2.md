@@ -1,7 +1,7 @@
-[Ankoku Kishi Monogatari ~Yuusha wo Taosu Tameni Maou ni Shoukansaremashita~ c64 part2](https://foxaholic.com/novel/ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita/chapter-64-2/)
+[Ankoku Kishi Monogatari \~Yuusha wo Taosu Tameni Maou ni Shoukansaremashita\~ c64 part2](https://foxaholic.com/novel/ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita/chapter-64-2/)
 <br/><br/>
 Chapter 64.2 : Moonlight’s Goddess<br/>
-Naturally, I had no intention of preaching to those h*rlots, since they’re the followers of Ishtar’s faith, just like me.<br/>
+Naturally, I had no intention of preaching to those h\*rlots, since they’re the followers of Ishtar’s faith, just like me.<br/>
 Ishtar-sama, who advocated for the freedom of love, was the Goddess of Harlots and Dancers.<br/>
 I entered the dark alley as I pondered over the matter. I figured some drunkard would’ve fallen asleep along this dark alley.<br/>
 Upon walking into the dark alley, three men stood in my way. I was about to turn around upon seeing that things were about to become dangerous, but then, a tall and burly man sealed my path of escape.<br/>
@@ -20,7 +20,7 @@ The man’s smile turned into a vulgar sneer.<br/>
 I heaved a sigh as I gripped on the handle of the curved sword sheathed at my hip.<br/>
 I’m quite confident about my fighting abilities. From the way that they move, I can tell that they’re just some average Joes. Knocking them down would be easy peasy. But, the problem was taking care of the aftermath.<br/>
 「My bad. I’m not someone that’ll be your playing mate.」<br/>
-They might just be some penniless hooligan freedom fighters that couldn’t afford to buy a h*rlot. They’re just the lowest of the low, bottom of the rung people who couldn’t fight monsters and only targeted civilians that looked weaker than them. Honestly, trying to talk to them was simply an idiotic thing to do.<br/>
+They might just be some penniless hooligan freedom fighters that couldn’t afford to buy a h\*rlot. They’re just the lowest of the low, bottom of the rung people who couldn’t fight monsters and only targeted civilians that looked weaker than them. Honestly, trying to talk to them was simply an idiotic thing to do.<br/>
 I ran towards the wall on the side.<br/>
 「WUT?!!!」<br/>
 I ignored the man’s scream. I kept running on the wall, jumped and then landed behind the tall man with a somersault. I didn’t stop there and continued to just run away, leaving that back alley behind.<br/>
@@ -56,8 +56,8 @@ Different from Oudith-sama, Ishtar-sama’s believers weren’t restricted by a 
 「Really? Could it be that you’re actually selling y-」<br/>
 「I’m not doing that. You should know about that too, Nii-san. I’m a member of a troupe. I’m aiming to become a leading actor.」<br/>
 I turned around to face my brother as I walked backwards.<br/>
-A child raised in Ishtar-sama’s temple had to leave the temple once they reached adulthood. Most women chose to become h*rlots, but I didn’t choose that path.<br/>
-Ishtar-sama was the Goddess of h*rlots, but her faith didn’t decree that every woman under her faith had to follow that path. Instead, they could choose to become an actor or actress.<br/>
+A child raised in Ishtar-sama’s temple had to leave the temple once they reached adulthood. Most women chose to become h\*rlots, but I didn’t choose that path.<br/>
+Ishtar-sama was the Goddess of h\*rlots, but her faith didn’t decree that every woman under her faith had to follow that path. Instead, they could choose to become an actor or actress.<br/>
 Ishtar-sama was also the Goddess of dancers, which included dancers, actors, and actresses under that. That’s why, as the believer of Ishtar-sama’s faith, I chose the path of becoming an actress.<br/>
 I was able to join the 「Donkey’s Ears」 troupe since Leader Midas recognized my talent in dancing. This time, the leader has even entrusted me with the main role when we perform in the Alphos theatre. It’s a leading role for a famous story too.<br/>
 Though I feel bad for Ainoe-neesan, I really wanted to be in a leading role.<br/>

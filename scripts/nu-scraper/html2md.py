@@ -19,12 +19,10 @@ def html2md(text_html, **kargs):
         soup_script.decompose() # rip it out
     # soup_text = soup_html.get_text()
     # soup_text = re.sub('(\t|\s+)?\n+', '\n', soup_html.get_text(), re.MULTILINE) # WTF no break!?
-    soup_text = re.sub('\n\s*<br/>\n', '<br/>\n', soup_html.get_text(separator="<br/>\n")) # multi line linebreak to one
+    # soup_text = re.sub('\n\s*<br/>\n', '<br/>\n', soup_html.get_text(separator="<br/>\n")) # too aggresive line breaking, works for okami thou
+    soup_text = re.sub(r'\n+', '\n', soup_html.get_text(separator="n")) # Less agressive line breaking?
+    soup_text = soup_text.replace('\n', '<br/>\n') # normal linebreak to md style
     soup_text = soup_text.replace('~', '\~')
-    # soup_text = soup_text.replace('\n', '<br/>\n') # normal linebreak to md style
-    # soup_text = soup_text.replace('.\n', '.<br/>\n') # might work, might not
-    # soup_text = soup_text.replace('"\n', '"<br/>\n')
-    # soup_text = soup_text.replace("'\n", "'<br/>\n")
     if link_ref is not None:
         return '[{desc}]({refer})\n<br/>{md}'.format(desc=link_desc, refer=link_ref, md=soup_text)
     else:

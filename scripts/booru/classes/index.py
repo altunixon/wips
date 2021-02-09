@@ -37,9 +37,11 @@ class page():
 
     def get_views(self, index_url, **options):
         view_verbose = options.get('verbose', True)
+        paginator_ignores = options.get('ignores', set([]))
         view_returns = {
             'views': None, 
             'next': None, 
+            'list': None, 
             'code404': False, 
             'vcount': 0, 
         }
@@ -51,18 +53,19 @@ class page():
                 refer=index_url,
                 uniq=True,
                 verbose=view_verbose)
-            view_returns['views'] = spider_macro.sanic(
-                viewsspider, href = self.xpath_view
-            )['href']
-            if self.xpath_next is None:
-                if self.xpath_list is None:
-                    view_returns['next'] = None
-                else:
-                    view_returns['next'] = self.info_scraper(
-                        viewsspider, self.xpath_list, -1)
+            view_returns['views'] = spider_macro.sanic(viewsspider, href=self.xpath_view)['href']
+            if self.xpath_list is None:
+                view_returns['list'] = None
+                view_default = None
             else:
-                view_returns['next'] = self.info_scraper(
-                    viewsspider, self.xpath_next, -1)
+                view_returns['list'] = self.info_scraper(viewsspider, self.xpath_list)
+                view_default = next(filter(lambda x: x not in paginator_ignores, view_returns['list']))
+            if self.xpath_next is None:
+                view_returns['next'] = view_default
+            else:
+                view_returns['next'] = self.info_scraper(viewsspider, self.xpath_next, -1)
+                if view_returns['next'] is None:
+                    view_returns['next'] = view_default
             view_returns['vcount'] = len(view_returns['views'])
         else:
             view_returns['code404'] = True
@@ -74,10 +77,7 @@ class page():
     # ^
     # Feed String (URL), Dict (xpaths), return Dict
     def info_scraper(self, scrapespider, scrape_xpath, scrape_item = None):
-        scrape_list = spider_macro.sanic(
-            scrapespider, 
-            href = scrape_xpath
-        )['href']
+        scrape_list = spider_macro.sanic(scrapespider, href=scrape_xpath)['href']
         if len(scrape_list) > 0:
             if scrape_item is None:
                 return scrape_list

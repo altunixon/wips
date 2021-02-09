@@ -194,7 +194,6 @@ def main(page_url, path_workdir, page_config, **options):
     }
     landing_page = index_page.get_landing(page_url)
     current_page = page_url
-    downloaded_indexes = set([])
     if not landing_page.code404 or landing_page.vcount > 0:
         # CHECK LAZY
         if console_args.lazy:
@@ -235,12 +234,13 @@ def main(page_url, path_workdir, page_config, **options):
         else:
             lazy_finish = False
         # print ('Lazy:', lazy_finish)
+        downloaded_indexes = set([])
         if not lazy_finish:
             while current_page is not None:
                 if current_page == page_url:
                     current_page_obj = landing_page
                 else:
-                    current_page_obj = index_page.get_views(current_page)
+                    current_page_obj = index_page.get_views(current_page, ingnores=downloaded_indexes)
                 download_returns['total'] += current_page_obj.vcount
                 my_printer('info', 
                     'INDEX [CHCK] - Url: "%s" (%s Imgs)', 

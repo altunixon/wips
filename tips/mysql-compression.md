@@ -19,7 +19,7 @@ SELECT table_schema
 - my.cnf:
   - innodb_file_per_table = ON
   - innodb_file_format = Barracuda
-  - [innodb_page_size = 16384](https://mariadb.com/kb/en/innodb-system-variables/#innodb_page_size)
+  - [innodb_page_size = 8192](https://mariadb.com/kb/en/innodb-system-variables/#innodb_page_size)
   - optimizer_search_depth = 0
   - [innodb_buffer_pool_size = 134217728](https://mariadb.com/kb/en/innodb-system-variables/#innodb_buffer_pool_size)
 - Enable columns compression

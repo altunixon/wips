@@ -37,12 +37,12 @@ SELECT table_schema
     
     | innodb_page_size | FILE_BLOCK_SIZE | KEY_BLOCK_SIZE |
     |-----------------:|----------------:|---------------:|
-    |            16384 |            2048 |              2 |
+    |              8KB |            2048 |              2 |
     
     For available compression combinations, refer to [**Table 14.3 Combinations for Compressed Tables**](https://dev.mysql.com/doc/refman/5.7/en/general-tablespaces.html)<br/>
     For more information, refer to [**InnoDB Compression Tuning**](https://dev.mysql.com/doc/refman/5.7/en/innodb-compression-tuning.html), Section: General Tablespace Row Format Support
     ```sql
-    CREATE TABLE gsum_sum (view VARCHAR(32) PRIMARY KEY, save TEXT) ROW_FORMAT=COMPRESSED KEY_BLOCK_SIZE=8;
+    CREATE TABLE gsum_sum (view VARCHAR(32) PRIMARY KEY, save TEXT) ROW_FORMAT=COMPRESSED KEY_BLOCK_SIZE=2;
     ```
   - Optional, Enable InnoDB with [**Transparent Page Compression**](https://dev.mysql.com/doc/refman/5.7/en/innodb-page-compression.html)
     ```sql
@@ -66,6 +66,11 @@ SELECT table_schema
 - Stop container
   ```bash
   docker stop mariadb
+  ```
+- Edit my.cnf (use 8KB or 8192 if not working)
+  ```bash
+  [mysqld]
+  innodb_page_size = 8KB
   ```
 - Backup & delete current data folder
   ```bash

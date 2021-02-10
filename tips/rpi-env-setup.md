@@ -1,8 +1,8 @@
-### Hostname
+### Hostname / timezone / locale
 ```bash
 sudo apt-get update
 sudo apt-get install -y vim screen
-cat <<EOT >> ~/.vimrc
+cat << EOT >> ~/.vimrc
 
 set mouse-=a
 set tabstop=4
@@ -17,6 +17,17 @@ sudo sed -i 's/raspberrypi/'"$newhost"'/g' /etc/hosts
 ls -l /etc/localtime
 sudo unlink /etc/localtime
 sudo ln -s /usr/share/zoneinfo/Asia/Tokyo /etc/localtime
+sudo raspi-config nonint do_change_locale 'en_US.UTF-8'
+```
+### tmpfs
+```bash
+cat << EOT >> /etc/fstab
+tmpfs   /tmp        tmpfs    defaults,noatime,nosuid,size=128m    0 0
+tmpfs   /var/tmp    tmpfs    defaults,noatime,nosuid,size=32m     0 0
+tmpfs   /var/log    tmpfs    defaults,noatime,nosuid,mode=0755,size=128m  0 0
+tmpfs   /var/run    tmpfs    defaults,noatime,nosuid,mode=0755,size=8m    0 0
+tmpfs   /var/spool/mqueue    tmpfs    defaults,noatime,nosuid,mode=0700,gid=12,size=32m    0 0
+EOT
 ```
 ### User add
 ```bash
@@ -39,7 +50,7 @@ passwd root
   ```
   Soft disable (driver blacklist)
   ```bash
-  cat <<EOT >> /etc/modprobe.d/brcm-blacklist.conf
+  cat << EOT >> /etc/modprobe.d/brcm-blacklist.conf
   blacklist brcmfmac
   blacklist brcmutil
   EOT
@@ -72,7 +83,7 @@ python3 -m venv --copies --upgrade-deps ~/py3-venv
 ### Extra
 Useful aliases (pi specific)
 ```bash
-cat <<EOT >> ~/.bash_aliases
+cat << EOT >> ~/.bash_aliases
 
 alias pi-temp="vcgencmd measure_temp"
 alias pi-lowv="vcgencmd get_throttled"
@@ -80,6 +91,19 @@ alias cpu-temp="echo $(($(</sys/class/thermal/thermal_zone0/temp)/1000)) c"
 
 EOT
 ```
+Generating Ed25519 Key
+```bash
+ssh-keygen -o -a 128 -t ed25519 -f ~/.ssh/id_ed25519 -C "$USER@$HOSTNAME"
+```
+- -o: Save the private-key using the new OpenSSH format rather than the PEM format.</br>
+  Actually, this option is implied when you specify the key type as ed25519.</br>
+- -a: It’s the numbers of KDF (Key Derivation Function) rounds.</br>
+  Higher numbers result in slower passphrase verification, </br>
+  increasing the resistance to brute-force password cracking should the private-key be stolen.</br>
+- -t: Specifies the type of key to create, in our case the Ed25519.</br>
+- -f: Specify the output key file.</br>
+- -C: An option to specify a comment.
+
 ### ~~Check TRIM for SSD [jeffgeerling]~~ might brick usb flash drive!! → ABANDONNED
 ```bash
 sudo fstrim -v /

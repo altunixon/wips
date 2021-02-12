@@ -7,10 +7,14 @@ from time import time, localtime, strftime
 # only support dictionary data type, which means tables are limit to 2 column
 # flush on table close
 
-class jsondb:
-    def __init__(self, **options):
+class json_table:
+    def __init__(self, table_dict, **options):
+        self.table_name = "PLACEHOLDER"
+
+class json_db:
+    def __init__(self, db_root, **options):
+        self.db_root = db_root
         self.db_meltdown = options.get('meltdown', True)
-        self.db_root = options.get('db', None)
         if self.db_root is not None:
             if path.isdir(self.db_root):
                 self.db_tables = {}
@@ -35,6 +39,28 @@ class jsondb:
     def timestamp(self):
         table_ctime = time()
         return strftime('{epoch} | %Y-%m-%d %H:%M:%S %z%Z'.format(epoch=table_ctime), localtime(table_ctime))
+    
+    def table_read(self, table_name, **options)):
+        set_dirty = options.get('dirty', None)
+        if table_name not in self.db_tables.keys():
+            return self.table_create(table_name)
+        else:
+            with open(self.db_tables[table_name], 'rt') as fp:
+                table_dict = json.load(fp)
+            if set_dirty is not None:
+                table_dict['dirty'] = int(set_dirty)
+            return table_dict
+        
+    def table_insert(self, table_dict, data_key, data_value, **options):
+        mode_update = options.get('update', True)
+        if mode_update or data_key not in table_dict['data'].keys():
+            table_dict['data'][data_key] = data_value
+            table_dict['dirty'] = 1
+        else:
+            pass
+        
+    def table_search(self):
+        return "PLACEHOLDER"
 
     def table_create(self, table_name, **options):
         if table_name not in self.db_tables.keys():
@@ -46,7 +72,7 @@ class jsondb:
                 "data": {},
                 "create_date": table_cdate,
                 "modified_date": table_cdate,
-                "rows": 0
+                "rows": 0,
                 "dirty": 1
             }
             table_file = '{root}/{table}.json'.format(root=self.db_root, table=table_name)

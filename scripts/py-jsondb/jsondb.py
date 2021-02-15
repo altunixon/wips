@@ -70,9 +70,25 @@ class json_db:
     def table_search(self, table_dict, data_match, **options):
         match_exact = options.get('exact', False)
         match_count = options.get('count', False)
+        match_key = match_value = None
         if match_exact:
-            pass
-        return "PLACEHOLDER"
+            if data_match in table_dict['data'].keys():
+                match_key = data_match
+                match_value = table_dict['data'][data_match]
+            else:
+                pass
+        else:
+            for k, v in table_dict['data'].items():
+                if data_match in k:
+                    match_key = k
+                    match_value = v
+                    break
+                else:
+                    pass
+        if match_key is not None:
+            return 1 if match_count else {match_key: match_value}
+        else:
+            return 0 if match_count else None
 
     def table_create(self, table_name, **options):
         if table_name not in self.db_tables.keys():

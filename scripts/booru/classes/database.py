@@ -7,23 +7,9 @@ from classes.utils import gen_viewid
 from helpers.misc import print_log
 
 class checks():
-    def __init__(self, database_sqlx, **options):
-        self.database_object = database_sqlx
+    def __init__(self, database_obj, **options):
+        self.database_object = database_obj
         self.database_verbose = options.pop('verbose', False)
-
-    def run(self, **database_data):
-        #global self.database_object
-        db_table = database_data.pop('table', None)
-        db_amode = database_data.pop('mode', None)
-        if self.database_object is not None \
-        and db_table is not None:
-            if db_table is not None and len(db_table) > 0:
-                return self.database_object.run(
-                    mode  = db_amode, 
-                    table = db_table, 
-                    **database_data)
-        else:
-            return None
 
     def view(self, view_href, view_table, **options):
         check_verbose = options.pop('verbose', self.database_verbose)
@@ -31,10 +17,7 @@ class checks():
             'DbCheckResultSingle', ['skip', 'data', 'count'])
         if self.database_object is not None:
             view_id = options.pop('id', gen_viewid(view_href))
-            view_data = self.run(
-                mode  = 'select row', 
-                table = view_table, 
-                view  = view_id)
+            view_data = self.database_object.select_from(table=view_table, view=view_id)
             view_dlen = len(view_data) if view_data is not None else 0
             if check_verbose:
                 print_log('info', 'CHECK [VSGL] - Table: "%s", Url: "%s", Rows: [%s]', view_table, view_href, view_dlen)
@@ -54,20 +37,14 @@ class checks():
 
     def views(self, index_views, index_table, **options):
         check_verbose = options.pop('verbose', self.database_verbose)
-        check_results = namedtuple(
-            'DbCheckResultMulti', ['skip', 'data', 'count'])
+        check_results = namedtuple('DbCheckResultMulti', ['skip', 'data', 'count'])
         if self.database_object is not None:
             check_count = 0
             check_store = []
             for view_href in index_views:
                 view_id = gen_viewid(view_href)
                 # print(view_id)
-                check_single = self.view(
-                    view_href, 
-                    index_table, 
-                    id=view_id, 
-                    verbose=check_verbose
-                )
+                check_single = self.view(view_href, index_table, id=view_id, verbose=check_verbose)
                 if check_single.skip:
                     check_count += 1
                     check_store.append(check_single.skip)

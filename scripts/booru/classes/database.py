@@ -13,8 +13,7 @@ class checks():
 
     def view(self, view_href, view_table, **options):
         check_verbose = options.pop('verbose', self.database_verbose)
-        check_result = namedtuple(
-            'DbCheckResultSingle', ['skip', 'data', 'count'])
+        check_result = namedtuple('DbCheckResultSingle', ['skip', 'data', 'count'])
         if self.database_object is not None:
             view_id = options.pop('id', gen_viewid(view_href))
             view_data = self.database_object.select_from(table=view_table, view=view_id)
@@ -60,10 +59,6 @@ class checks():
                 )
             else:
                 pass
-            return check_results(
-                skip = check_skip, 
-                data = check_store, 
-                count= check_count
-            )
+            return check_results(skip=check_skip, data=check_store, count=check_count)
         else:
-            return check_results(skip = False, data = None, count = None)
+            return check_results(skip=False, data=None, count=0)

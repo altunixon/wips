@@ -11,6 +11,7 @@ class json_db:
     def __init__(self, db_root, **options):
         self.db_type = 'json'
         self.db_root = db_root
+        self.db_cache = {}
         self.db_meltdown = options.get('meltdown', True)
         if self.db_root is not None:
             if path.isdir(self.db_root):
@@ -32,6 +33,7 @@ class json_db:
             "modified_date": "NUL",
             "rows": 0
         }
+        self.warn_not_cached = lambda x: 'Query table [%s] has not been cached\n%s' % (x, json.dumps(self.db_cache, indent=4))
         
     def timestamp(self):
         table_ctime = time()
@@ -40,13 +42,10 @@ class json_db:
     def read_table(self, table_name, **options):
         set_dirty = options.get('dirty', False)
         if table_name not in self.db_tables.keys():
-            return self.table_create(table_name)
+            self.table_create(table_name)
         else:
             with open(self.db_tables[table_name], 'rt') as fp:
-                table_dict = json.load(fp)
-            if set_dirty:
-                self.db_dirty_tables.add(table_name)
-            return table_dict
+                self.db_cache[table_name] = json.load(fp)
 
     def create_table(self, table_name, **options):
         if table_name not in self.db_tables.keys():
@@ -62,42 +61,45 @@ class json_db:
             }
             table_file = '{root}/{table}.json'.format(root=self.db_root, table=table_name)
             self.db_tables[table_name] = table_file
-            return table_new
+            self.db_cache[table_name] = table_new
         else:
-            return self.table_read(table_name)
+            with open(self.db_tables[table_name], 'rt') as fp:
+                self.db_cache[table_name] = json.load(fp)
     
-    def insert_into(self, table_dict, data_key, data_value, **options):
+    def insert_into(self, table_name, data_key, data_value, **options):
+        assert table_name in self.db_cache.keys(), self.warn_not_cached(table_name)
         mode_update = options.get('update', True)
         data_old = None
-        if data_key in table_dict['data'].keys():
-            data_old = table_dict['data'][data_key]
+        if data_key in self.db_cache[table_name]['data'].keys():
+            data_old = self.db_cache[table_name]['data'][data_key]
         if mode_update or data_old is None:
-            table_dict['data'][data_key] = data_value
-            self.db_dirty_tables.add(table_dict['name'])
+            self.db_cache[table_name]['data'][data_key] = data_value
+            self.db_dirty_tables.add(table_name)
             print ('[JSON DB] INSERT or UPDATE into {table}|{key}: "{value_old}" -> "{value_new}" flag Update={uflag}'.format(
-                table=table_dict['name'], key=data_key, 
+                table=table_name, key=data_key, 
                 value_old=data_old, value_new=data_value, 
                 uflag=mode_update
             ))
         else:
             print ('[JSON DB] IGNORE UPDATE into {table}|{key}: "{value_old}" -> "{value_new}" since Update={uflag}'.format(
-                table=table_dict['name'], key=data_key, 
+                table=table_name, key=data_key, 
                 value_old=data_old, value_new=data_value, 
                 uflag=mode_update
             ))
         
-    def select_from(self, table_dict, data_match, **options):
+    def select_from(self, table_name, data_match, **options):
+        assert table_name in self.db_cache.keys(), self.warn_not_cached(table_name)
         match_exact = options.get('exact', False)
         match_count = options.get('count', False)
-        match_key = match_value = None
+        match_key = match_value = Nonep
         if match_exact:
-            if data_match in table_dict['data'].keys():
+            if data_match in self.db_cache[table_name]['data'].keys():
                 match_key = data_match
-                match_value = table_dict['data'][data_match]
+                match_value = self.db_cache[table_name]['data'][data_match]
             else:
                 pass
         else:
-            for k, v in table_dict['data'].items():
+            for k, v in self.db_cache[table_name]['data'].items():
                 if data_match in k:
                     match_key = k
                     match_value = v
@@ -109,16 +111,23 @@ class json_db:
         else:
             return 0 if match_count else None
 
-    def flush_table(self, table_dict, **options):
-        if table_dict['name'] in self.db_dirty_tables:
-            table_path = self.db_tables[table_dict["name"]]
-            table_dict['rows'] = table_dict['data'].keys().count()
-            table_dict['modified_date'] = self.timestamp()
-            with open(table_path, "w+") as fp:
-                json.dump(table_dict, fp)
-            print ('[JSON DB] Table "%s" Flushed to "%s"' % (table_dict["name"], table_path))
-        else:
-            print ('[JSON DB] Table "%s" is clean, skip flushing to "%s"' % (table_dict["name"], table_path))
-        
+    def flush_cached(self, **options):
+        from_msg = options.get('msg', None)
+        for table_name, table_data in self.db_cache.items():
+            if table_name in self.db_dirty_tables:
+                table_path = self.db_tables[table_name]
+                table_data['rows'] = table_data['data'].keys().count()
+                table_data['modified_date'] = self.timestamp()
+                with open(table_path, "w+") as fp:
+                    json.dump(table_data, fp)
+                print ('[JSON DB] Table "%s" Flushed to "%s"' % (table_name, table_path))
+            else:
+                print ('[JSON DB] Table "%s" is clean, skip flushing to "%s"' % (table_name, table_path))
+        self.db_cache = {}
+        print ('[JSON DB] Cache cleared: %s' % self.db_cache)
+    
+    def __del__(self):
+        self.flush_cached()
+    
         
         

@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import sys, re
 
 elem_ads = [("div", {'class': 'sharedaddy'}), ("div", {'id': 'jp-post-flair'})]
-char_escape = split('~_`{}[]()\\')
+char_escape = '~_`{}[]()\\'.split()
 
 def html2md(text_html, **kargs):
     link_ref = kargs.get('refer', None)

@@ -9,6 +9,7 @@ from time import time, localtime, strftime
 
 class json_db:
     def __init__(self, db_root, **options):
+        self.db_type = 'json'
         self.db_root = db_root
         self.db_meltdown = options.get('meltdown', True)
         if self.db_root is not None:
@@ -36,7 +37,7 @@ class json_db:
         table_ctime = time()
         return strftime('{epoch} | %Y-%m-%d %H:%M:%S %z%Z'.format(epoch=table_ctime), localtime(table_ctime))
     
-    def table_read(self, table_name, **options):
+    def read_table(self, table_name, **options):
         set_dirty = options.get('dirty', False)
         if table_name not in self.db_tables.keys():
             return self.table_create(table_name)
@@ -46,8 +47,26 @@ class json_db:
             if set_dirty:
                 self.db_dirty_tables.add(table_name)
             return table_dict
-        
-    def table_insert(self, table_dict, data_key, data_value, **options):
+
+    def create_table(self, table_name, **options):
+        if table_name not in self.db_tables.keys():
+            table_comment = options.get('comment', None)
+            table_cdate = self.timestamp()
+            table_new = {
+                "name": table_name
+                "comment": table_comment,
+                "data": {},
+                "create_date": table_cdate,
+                "modified_date": table_cdate,
+                "rows": 0
+            }
+            table_file = '{root}/{table}.json'.format(root=self.db_root, table=table_name)
+            self.db_tables[table_name] = table_file
+            return table_new
+        else:
+            return self.table_read(table_name)
+    
+    def insert_into(self, table_dict, data_key, data_value, **options):
         mode_update = options.get('update', True)
         data_old = None
         if data_key in table_dict['data'].keys():
@@ -67,7 +86,7 @@ class json_db:
                 uflag=mode_update
             ))
         
-    def table_search(self, table_dict, data_match, **options):
+    def select_from(self, table_dict, data_match, **options):
         match_exact = options.get('exact', False)
         match_count = options.get('count', False)
         match_key = match_value = None
@@ -90,25 +109,7 @@ class json_db:
         else:
             return 0 if match_count else None
 
-    def table_create(self, table_name, **options):
-        if table_name not in self.db_tables.keys():
-            table_comment = options.get('comment', None)
-            table_cdate = self.timestamp()
-            table_new = {
-                "name": table_name
-                "comment": table_comment,
-                "data": {},
-                "create_date": table_cdate,
-                "modified_date": table_cdate,
-                "rows": 0
-            }
-            table_file = '{root}/{table}.json'.format(root=self.db_root, table=table_name)
-            self.db_tables[table_name] = table_file
-            return table_new
-        else:
-            return self.table_read(table_name)
-    
-    def table_close(self, table_dict, **options):
+    def flush_table(self, table_dict, **options):
         if table_dict['name'] in self.db_dirty_tables:
             table_path = self.db_tables[table_dict["name"]]
             table_dict['rows'] = table_dict['data'].keys().count()

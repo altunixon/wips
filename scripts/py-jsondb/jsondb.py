@@ -33,7 +33,8 @@ class json_db:
             "modified_date": "NUL",
             "rows": 0
         }
-        self.warn_not_cached = lambda x: 'Query table [%s] has not been cached\n%s' % (x, json.dumps(self.db_cache, indent=4))
+        self.warn_not_cached = lambda x: 'Query table [%s] has not been cached\nCurrent Cache:\n%s\n' % \
+            (x, json.dumps(self.db_cache, indent=4))
         
     def timestamp(self):
         table_ctime = time()
@@ -91,7 +92,7 @@ class json_db:
         assert table_name in self.db_cache.keys(), self.warn_not_cached(table_name)
         match_exact = options.get('exact', False)
         match_count = options.get('count', False)
-        match_key = match_value = Nonep
+        match_key = match_value = None
         if match_exact:
             if data_match in self.db_cache[table_name]['data'].keys():
                 match_key = data_match
@@ -111,7 +112,7 @@ class json_db:
         else:
             return 0 if match_count else None
 
-    def flush_cached(self, **options):
+    def flush(self, **options):
         from_msg = options.get('msg', None)
         for table_name, table_data in self.db_cache.items():
             if table_name in self.db_dirty_tables:
@@ -127,7 +128,7 @@ class json_db:
         print ('[JSON DB] Cache cleared: %s' % self.db_cache)
     
     def __del__(self):
-        self.flush_cached()
+        self.flush()
     
         
         

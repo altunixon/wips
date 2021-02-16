@@ -5,7 +5,7 @@ import os
 import mysql.connector
 #from time import sleep
 from helpers.misc import telltime, print_log
-from databases.dldb_sqlweaver import sql_query_templates, FormatDefault, sql_weaver, sql_charset
+from databases.dldb_sqlweaver import sql_query_templates, FormatDefault, sql_weaver
 
 class dldb_mysql():
     def __init__(self, **db_infos):
@@ -37,7 +37,7 @@ class dldb_mysql():
                 user=self.db_user, 
                 password=self.db_pass,
                 database=self.db_name,
-                charset=sql_charset
+                charset='utf8'
             )
             if db_connect_dict.get('fetch_dict', False):
                 self.db_cursor = self.db_connector.cursor(dictionary=True, buffered=True)

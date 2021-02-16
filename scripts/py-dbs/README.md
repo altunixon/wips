@@ -21,15 +21,13 @@ innodb_buffer_pool_size = 134217728
 default-character-set = utf8mb4
 loose-default-character-set = utf8mb4
 EOT
-docker run --detach --name mysql-57 -d mysql:5.7 \
-  -v /media/$USER/ramdisk1/mysql/conf:/etc/mysql/conf.d \
-  -v /media/$USER/ramdisk1/mysql/data:/var/lib/mysql \
-  -e "MYSQL_ROOT_PASSWORD=root" \
-  --user 1033:1033 \
-  --port 3306:3306 \
-  --sysctl net.ipv6.conf.all.disable_ipv6=1 \
-  --character-set-server=utf8mb4 \
-  --collation-server=utf8mb4_unicode_ci
+
+docker run --detach --name mysql-server \
+    --publish '127.0.0.1:3306:3306/tcp' \
+    --volume '/media/alt/ramdisk1/mysql/data:/var/lib/mysql' \
+    --volume '/media/alt/ramdisk1/mysql/conf:/etc/mysql/conf.d' \
+    --env 'MYSQL_ROOT_PASSWORD=root' \
+    mysql:5.7
 ```
 ### Patch
 ```bash

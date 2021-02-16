@@ -25,14 +25,6 @@ class json_db:
             raise Exception('[JSON DB] Database ROOT_PATH jsondb(db="x") has not been defined.')
         self.db_dirty_tables = set([])
         self.db_delete_on_drop = options.get('delete_on_drop', True)
-        self.db_template = {
-            "name": "NOT_NUL",
-            "comment": "NUL",
-            "data": {},
-            "create_date": "NUL",
-            "modified_date": "NUL",
-            "rows": 0
-        }
         self.warn_not_cached = lambda x: 'Query table [%s] has not been cached\nCurrent Cache:\n%s\n' % \
             (x, json.dumps(self.db_cache, indent=4))
         
@@ -65,14 +57,14 @@ class json_db:
         if table_name not in self.db_tables.keys() or not path.isfile(table_file):
             table_cdate = self.timestamp()
             table_new = {
-                "name": table_name
-                "comment": table_comment,
-                "data": {},
-                "key": col_key,
-                "value": col_val,
-                "create_date": table_cdate,
-                "modified_date": table_cdate,
-                "rows": 0
+                'name': table_name,
+                'comment': table_comment,
+                'data': {},
+                'key': col_key,
+                'value': col_val,
+                'create_date': table_cdate,
+                'modified_date': table_cdate,
+                'rows': 0
             }
             self.db_tables[table_name] = table_file
             self.db_cache[table_name] = table_new

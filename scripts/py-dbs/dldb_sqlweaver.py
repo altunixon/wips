@@ -3,6 +3,10 @@
 
 from helpers.misc import print_log
 
+class FormatDefault(dict):
+    def __missing__(self, key):
+        return key
+
 def sql_weaver(template_name, **template_inserts):
     assert template_name in sql_query_templates.keys(), 'SQL_PARSER - Invalid Template: "%s", Values: %s' % (template_name, template_inserts)
     query_template  = sql_query_templates[template_name]

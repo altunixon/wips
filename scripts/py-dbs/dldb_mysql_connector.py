@@ -10,10 +10,11 @@ from databases.dldb_sqlweaver import sql_query_templates, FormatDefault, sql_wea
 
 class dldb_mysql():
     def __init__(self, **db_infos):
-        self.type   = 'mysql'
+        self.type = 'mysql'
         db_connect_dict = db_infos
-        if 'string' in db_infos.keys():
-            for frag in db_infos['string'].split(','):
+        db_connect_str = db_infos.get('string', None)
+        if db_connect_str is not None:
+            for frag in [x for x in db_connect_str.split(',') if len(x.trim()) > 0]:
                 if '=' in frag:
                     k, v = frag.split('=',1)
                     db_connect_dict[k] = v
@@ -22,14 +23,14 @@ class dldb_mysql():
         else:
             pass
         #print(db_connect_dict)
-        self.db_host = db_connect_dict.pop('h', None)
-        self.db_user = db_connect_dict.pop('u', None)
-        self.db_pass = db_connect_dict.pop('p', None)
-        self.db_port = db_connect_dict.pop('port', None)
-        self.db_name = db_connect_dict.pop('database', None)
+        self.db_host = db_connect_dict.get('h', None)
+        self.db_user = db_connect_dict.get('u', None)
+        self.db_pass = db_connect_dict.get('p', None)
+        self.db_port = db_connect_dict.get('port', None)
+        self.db_name = db_connect_dict.get('database', None)
         db_must = (self.db_host, self.db_user, self.db_pass)
         if any(not_db is None for not_db in db_must):
-            print_log('error', 'DLDB [MYSQL] - Connector value error: %s', db_must)
+            print_log ('error', 'DLDB [MYSQL] - Connector value error: %s', db_must)
             raise Exception('MYSQL Connector Value Error:\n%s' % db_infos)
         else:
             self.db_connector = mysql.connector.connect(
@@ -39,13 +40,10 @@ class dldb_mysql():
                 database=self.db_name,
                 charset='utf8'
             )
-            if 'fetch_dict' in db_connect_dict.keys():
-                self.db_cursor  = self.db_connector.cursor(
-                    dictionary=True, 
-                    buffered=True
-                )
+            if db_connect_dict.get('fetch_dict', False):
+                self.db_cursor = self.db_connector.cursor(dictionary=True, buffered=True)
             else:
-                self.db_cursor  = self.db_connector.cursor(buffered=True)
+                self.db_cursor = self.db_connector.cursor(buffered=True)
 
     def exe(self, sql_query, fetch=None):
         try:
@@ -73,24 +71,22 @@ class dldb_mysql():
             schema=self.db_name, 
             **query_data
         )
-        query_fetch = query_parse['fetch']
-        query_final = query_parse['query']
-        if query_final is None or query_mode is None:
+        if query_parse.query is None:
             if verbosity:
-                print_log('error', 'DLDB [MYSQL] - Run: "%s", Query: %s', query_mode, query_final)
+                print_log('error', 'DLDB [MYSQL] - Run: "%s", Query: %s', query_mode, query_parse.query)
             raise Exception('MYSQL No Table name/query mode\n%s' % query_data)
         else:
             if query_dbug:
-                print_log('debug', 'DLDB [MYSQL] - Run: "%s", Query: %s, Fetch: %s', query_mode, query_final, query_fetch)
+                print_log('debug', 'DLDB [MYSQL] - Run: "%s", Query: %s, Fetch: %s', query_mode, query_parse.query, query_parse.fetch)
             try:
-                return self.exe(query_final, query_fetch)
+                return self.exe(query_parse.query, query_parse.fetch)
             except mysql.connector.errors.InterfaceError:
                 #sleep(60)
                 try:
                     self.db_connector.reconnect(attempts=1, delay=60)
-                    return self.exe(query_final, query_fetch)
+                    return self.exe(query_parse.query, query_parse.fetch)
                 except:
-                    if verbosity: print_log('error', 'DLDB [MYSQL] - Run: "%s", Query: %s', query_mode, query_final)
+                    if verbosity: print_log('error', 'DLDB [MYSQL] - Run: "%s", Query: %s', query_mode, query_parse.query)
                     if query_null:
                         return None
                     else:
@@ -102,13 +98,17 @@ class dldb_mysql():
     def create_table(self, **query_data):
         assert query_data.get('table', None) is not None, \
             print_log('error', 'DLDB [MYSQL] - Could not CREATE TABLE with %s', query_data)
+        table_comment = query_data.get('comment', None)
         query_parse = sql_weaver(
             'create table', 
             type=self.type, 
             schema=self.db_name, 
             **query_data
         )
-        self.exe(query_parse['query'], None)
+        create_cmd = query_parse.query if \
+            table_comment is None else \
+            '{cmd} COMMENT="{comment}";'.format(cmd=query_parse.query.strip(';'), comment=table_comment)
+        self.exe(create_cmd, None)
     
     def select_from(self, **query_data):
         assert query_data.get('table', None) is not None, \
@@ -119,7 +119,7 @@ class dldb_mysql():
             schema=self.db_name, 
             **query_data
         )
-        return self.exe(query_parse['query'], query_parse['fetch'])
+        return self.exe(query_parse.query, query_parse.fetch)
     
     def insert_into(self, **query_data):
         assert query_data.get('table', None) is not None, \
@@ -130,7 +130,11 @@ class dldb_mysql():
             schema=self.db_name, 
             **query_data
         )
-        self.exe(query_parse['query'], None)
+        self.exe(query_parse.query, None)
+        
+    def flush(self, **options):
+        # for JSON DB compatibility purpose, doesnt actually do anything
+        return None
 
     #from databases.DLDB [MYSQL]_connector import *
     #h={'h':'127.0.0.1', 'u':'root', 'p':'root', 'database':'mdex'}

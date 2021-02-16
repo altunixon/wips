@@ -99,12 +99,7 @@ class dldb_mysql():
         assert query_data.get('table', None) is not None, \
             print_log('error', 'DLDB [MYSQL] - Could not CREATE TABLE with %s', query_data)
         table_comment = query_data.get('comment', None)
-        query_parse = sql_weaver(
-            'create table', 
-            type=self.type, 
-            schema=self.db_name, 
-            **query_data
-        )
+        query_parse = sql_weaver('create table', type=self.type, schema=self.db_name, **query_data)
         create_cmd = query_parse.query if \
             table_comment is None else \
             '{cmd} COMMENT="{comment}";'.format(cmd=query_parse.query.strip(';'), comment=table_comment)
@@ -113,23 +108,13 @@ class dldb_mysql():
     def select_from(self, **query_data):
         assert query_data.get('table', None) is not None, \
             print_log('error', 'DLDB [MYSQL] - Could not SELECT FROM with %s', query_data)
-        query_parse = sql_weaver(
-            'select row', 
-            type=self.type, 
-            schema=self.db_name, 
-            **query_data
-        )
+        query_parse = sql_weaver('select row', type=self.type, **query_data)
         return self.exe(query_parse.query, query_parse.fetch)
     
     def insert_into(self, **query_data):
         assert query_data.get('table', None) is not None, \
             print_log('error', 'DLDB [MYSQL] - Could not SELECT FROM with %s', query_data)
-        query_parse = sql_weaver(
-            'insert row', 
-            type=self.type, 
-            schema=self.db_name, 
-            **query_data
-        )
+        query_parse = sql_weaver('insert row', type=self.type, **query_data)
         self.exe(query_parse.query, None)
         
     def flush(self, **options):

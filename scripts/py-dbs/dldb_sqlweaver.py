@@ -104,7 +104,7 @@ sql_query_templates = {
     },
     'create table'  : {
         #'mysql'     : "CREATE TABLE IF NOT EXISTS `{table}` ({values}) CHARSET=utf8 COLLATE=utf8_unicode_ci ROW_FORMAT=COMPRESSED KEY_BLOCK_SIZE=4",
-        'mysql'     : "CREATE TABLE IF NOT EXISTS `{table}` ({values}) CHARSET=%s COLLATE=%s ROW_FORMAT=COMPRESSED" % (sql_charset, sql_collate),
+        'mysql'     : "CREATE TABLE IF NOT EXISTS `{table}` ({values}) CHARSET=%s COLLATE=%s ROW_FORMAT=COMPRESSED KEY_BLOCK_SIZE=4" % (sql_charset, sql_collate),
         'sqlite'    : "CREATE TABLE IF NOT EXISTS `{table}` ({values})",
         'inserts'   : '{key} {value}',
         'join'      : ', ',

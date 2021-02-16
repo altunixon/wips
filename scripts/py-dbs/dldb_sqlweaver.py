@@ -82,7 +82,8 @@ def sql_weaver(template_name, **template_inserts):
     query_out = namedtuple('QueryDetails', ['query', 'fetch'])
     return query_out(query_string, query_fetch)
 
-
+sql_charset = 'utf8mb4'
+sql_collate = 'utf8mb4_unicode_ci'
 
 sql_query_templates = {
     'select all'    : {
@@ -103,7 +104,7 @@ sql_query_templates = {
     },
     'create table'  : {
         #'mysql'     : "CREATE TABLE IF NOT EXISTS `{table}` ({values}) CHARSET=utf8 COLLATE=utf8_unicode_ci ROW_FORMAT=COMPRESSED KEY_BLOCK_SIZE=4",
-        'mysql'     : "CREATE TABLE IF NOT EXISTS `{table}` ({values}) CHARSET=utf8 COLLATE=utf8_unicode_ci ROW_FORMAT=COMPRESSED KEY_BLOCK_SIZE=2",
+        'mysql'     : "CREATE TABLE IF NOT EXISTS `{table}` ({values}) CHARSET=%s COLLATE=%s ROW_FORMAT=COMPRESSED KEY_BLOCK_SIZE=2" % (sql_charset, sql_collate),
         'sqlite'    : "CREATE TABLE IF NOT EXISTS `{table}` ({values})",
         'inserts'   : '{key} {value}',
         'join'      : ', ',

@@ -11,10 +11,10 @@ from databases.dldb_sqlweaver import sql_query_templates, FormatDefault, sql_wea
 import sqlite3
 class dldb_sqlite():
     def __init__(self, db_path, **options):
-        self.type           = 'sqlite'
-        self.db_path        = db_path
-        self.db_connector   = sqlite3.connect(db_path)
-        self.fetch_dict     = options.pop('fetch_dict', False)
+        self.type = 'sqlite'
+        self.db_path = db_path
+        self.db_connector = sqlite3.connect(db_path)
+        self.fetch_dict = options.get('fetch_dict', False)
         def dict_factory(cursor, row):
             d = {}
             for idx, col in enumerate(cursor.description):
@@ -23,17 +23,16 @@ class dldb_sqlite():
         self.db_connector.row_factory = sqlite3.Row \
             if not self.fetch_dict \
             else dict_factory
-        self.db_cursor      = self.db_connector.cursor()
-
-
+        self.db_cursor = self.db_connector.cursor()
 
     def exe(self, sqlite_query, fetch=None):
         self.db_cursor.execute(sqlite_query)
         self.db_connector.commit()
         if fetch is not None:
-            return self.db_cursor.fetchone() \
-                if fetch == 'one' \
-                else self.db_cursor.fetchall()
+            if fetch == 'one':
+                return self.db_cursor.fetchone()
+            else:
+                return self.db_cursor.fetchall()
         else:
             return None
 
@@ -61,6 +60,28 @@ class dldb_sqlite():
                     else:
                         self.close()
                         raise
+                        
+    def create_table(self, **query_data):
+        assert query_data.get('table', None) is not None, \
+            print_log('error', 'DLDB [MYSQL] - Could not CREATE TABLE with %s', query_data)
+        query_parse = sql_weaver('create table', type=self.type, **query_data)
+        self.exe(query_parse.query, None)
+
+    def select_from(self, **query_data):
+        assert query_data.get('table', None) is not None, \
+            print_log('error', 'DLDB [MYSQL] - Could not SELECT FROM with %s', query_data)
+        query_parse = sql_weaver('select row', type=self.type, **query_data)
+        return self.exe(query_parse.query, query_parse.fetch)
+
+    def insert_into(self, **query_data):
+        assert query_data.get('table', None) is not None, \
+            print_log('error', 'DLDB [MYSQL] - Could not SELECT FROM with %s', query_data)
+        query_parse = sql_weaver('insert row', type=self.type, **query_data)
+        self.exe(query_parse.query, None)
+
+    def flush(self, **options):
+        # for JSON DB compatibility purpose, doesnt actually do anything
+        return None
 
     def cheat_merge(self, create_table, *mergedbs):
         #from class_dldb import dldb
@@ -85,8 +106,7 @@ class dldb_sqlite():
                     print(merge_q, self.db_cursor.execute(merge_q).fetchall())
             self.db_cursor.execute('DETACH DATABASE toMerge')
         self.db_connector.commit()
-            
-            
+
     def cheat_table_exists(self, table_name):
         check_table_query = "SELECT name FROM sqlite_master WHERE type='table' AND name='%s';" % table_name
         return_data = self.db_cursor.execute(check_table_query).fetchall()

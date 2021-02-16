@@ -76,7 +76,8 @@ class dldb_mysql():
         query_fetch = query_parse['fetch']
         query_final = query_parse['query']
         if query_final is None or query_mode is None:
-            if verbosity: print_log('error', 'DLDB [MYSQL] - Run: "%s", Query: %s', query_mode, query_final)
+            if verbosity:
+                print_log('error', 'DLDB [MYSQL] - Run: "%s", Query: %s', query_mode, query_final)
             raise Exception('MYSQL No Table name/query mode\n%s' % query_data)
         else:
             if query_dbug:
@@ -97,6 +98,39 @@ class dldb_mysql():
                         raise
             except:
                 raise
+    
+    def create_table(self, **query_data):
+        assert query_data.get('table', None) is not None, \
+            print_log('error', 'DLDB [MYSQL] - Could not CREATE TABLE with %s', query_data)
+        query_parse = sql_weaver(
+            'create table', 
+            type=self.type, 
+            schema=self.db_name, 
+            **query_data
+        )
+        self.exe(query_parse['query'], None)
+    
+    def select_from(self, **query_data):
+        assert query_data.get('table', None) is not None, \
+            print_log('error', 'DLDB [MYSQL] - Could not SELECT FROM with %s', query_data)
+        query_parse = sql_weaver(
+            'select row', 
+            type=self.type, 
+            schema=self.db_name, 
+            **query_data
+        )
+        return self.exe(query_parse['query'], query_parse['fetch'])
+    
+    def insert_into(self, **query_data):
+        assert query_data.get('table', None) is not None, \
+            print_log('error', 'DLDB [MYSQL] - Could not SELECT FROM with %s', query_data)
+        query_parse = sql_weaver(
+            'insert row', 
+            type=self.type, 
+            schema=self.db_name, 
+            **query_data
+        )
+        self.exe(query_parse['query'], None)
 
     #from databases.DLDB [MYSQL]_connector import *
     #h={'h':'127.0.0.1', 'u':'root', 'p':'root', 'database':'mdex'}

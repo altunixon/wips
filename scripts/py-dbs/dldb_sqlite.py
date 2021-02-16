@@ -41,20 +41,18 @@ class dldb_sqlite():
         query_dbug = query_data.pop('debug', None)
         query_null = query_data.pop('default', False)
         query_parse = sql_weaver(query_mode, type=self.type, **query_data)
-        query_fetch = query_parse['fetch']
-        query_final = query_parse['query']
-        if query_final is None or query_mode is None:
+        if query_parse.query is None:
             print_log('error', 'DLDB [SQLTE] - Run: "%s", Values: %s', query_mode, query_data)
             exit()
         else:
             if query_dbug is not None:
-                print_log('debug', 'DLDB [SQLTE] - Run: "%s", Values: %s, Fetch: %s', query_mode, query_final, query_fetch)
+                print_log('debug', 'DLDB [SQLTE] - Run: "%s", Values: %s, Fetch: %s', query_mode, query_parse.query, query_parse.fetch)
                 return []
             else:
                 try:
-                    return self.exe(query_final, query_fetch)
+                    return self.exe(query_parse.query, query_parse.fetch)
                 except:
-                    print_log('error', 'DLDB [SQLTE] - Run: "%s", Values: %s, Fetch: %s', query_mode, query_final, query_fetch)
+                    print_log('error', 'DLDB [SQLTE] - Run: "%s", Values: %s, Fetch: %s', query_mode, query_parse.query, query_parse.fetch)
                     if query_null:
                         return None
                     else:

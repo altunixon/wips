@@ -79,7 +79,8 @@ def sql_weaver(template_name, **template_inserts):
         )
         query_string = None
     #print('DEBUG:', query_string, query_fetch)
-    return {'query': query_string, 'fetch': query_fetch}
+    query_out = namedtuple('QueryDetails', ['query', 'fetch'])
+    return query_out(query_string, query_fetch)
 
 
 

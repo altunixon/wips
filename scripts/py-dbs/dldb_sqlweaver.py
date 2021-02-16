@@ -8,81 +8,73 @@ class FormatDefault(dict):
         return key
 
 def sql_weaver(template_name, **template_inserts):
-    if template_name in sql_query_templates.keys():
-        query_template  = sql_query_templates[template_name]
-        query_format    = template_inserts.pop('type', 'mysql')
-        query_command   = query_template[query_format] \
-            if query_template[query_format] is not None \
-            else query_template['mysql']
-        query_table     = template_inserts.pop('table', None)
-        query_schema    = template_inserts.pop('schema', None)
-        query_uniq      = template_inserts.pop('uniq', None)
-        query_fetch     = template_inserts.pop('fetch', query_template['fetch'])
-        if query_table is not None:
-            if query_template['inserts'] is None:
-                query_string = query_command.format_map(
-                    FormatDefault(
-                        table   = query_table, 
-                        schema  = query_schema, 
-                        **template_inserts
+    assert template_name in sql_query_templates.keys(), 'SQL_PARSER - Invalid Template: "%s", Values: %s' % (template_name, template_inserts)
+    query_template  = sql_query_templates[template_name]
+    query_format    = template_inserts.pop('type', 'mysql')
+    query_command   = query_template[query_format] \
+        if query_template[query_format] is not None \
+        else query_template['mysql']
+    query_table     = template_inserts.pop('table', None)
+    query_schema    = template_inserts.pop('schema', None)
+    query_uniq      = template_inserts.pop('uniq', None)
+    query_fetch     = template_inserts.pop('fetch', query_template['fetch'])
+    if query_table is not None:
+        if query_template['inserts'] is None:
+            query_string = query_command.format_map(
+                FormatDefault(
+                    table   = query_table, 
+                    schema  = query_schema, 
+                    **template_inserts
+                )
+            )
+        else:
+            if query_template['join'] is None:
+                insert_names    = ', '.join(template_inserts.keys())
+                insert_values   = ', '.join(
+                    ["'%s'" % template_inserts[b] \
+                    for b in template_inserts.keys()]
+                )
+                query_values = query_template['inserts'].format(
+                    key     = insert_names,
+                    value   = insert_values
+                )
+            else:
+                key_values_pair = []
+                for k, v in template_inserts.items():
+                    key_values_pair.append(
+                        query_template['inserts'].format(
+                            key     = k,
+                            value   = v
+                        )
+                    )
+                query_values = query_template['join'].join(key_values_pair)
+            query_string = query_command.format_map(
+                FormatDefault(
+                    table   = query_table, 
+                    schema  = query_schema, 
+                    values  = query_values
+                )
+            )
+            if query_template['uniq'] and query_uniq is not None:
+                query_tacky = sql_query_templates['tackon uniq']
+                query_tackf = query_tacky[query_format] \
+                    if query_tacky[query_format] is not None \
+                    else query_tacky['mysql']
+                query_string += query_tackf.format(
+                    values = query_tacky['join'].join(
+                        [query_tacky['inserts'].format(key=k, value=v) \
+                            for k, v in template_inserts.items()]
                     )
                 )
             else:
-                if query_template['join'] is None:
-                    insert_names    = ', '.join(template_inserts.keys())
-                    insert_values   = ', '.join(
-                        ["'%s'" % template_inserts[b] \
-                        for b in template_inserts.keys()]
-                    )
-                    query_values = query_template['inserts'].format(
-                        key     = insert_names,
-                        value   = insert_values
-                    )
-                else:
-                    key_values_pair = []
-                    for k, v in template_inserts.items():
-                        key_values_pair.append(
-                            query_template['inserts'].format(
-                                key     = k,
-                                value   = v
-                            )
-                        )
-                    query_values = query_template['join'].join(key_values_pair)
-                query_string = query_command.format_map(
-                    FormatDefault(
-                        table   = query_table, 
-                        schema  = query_schema, 
-                        values  = query_values
-                    )
-                )
-                if query_template['uniq'] and query_uniq is not None:
-                    query_tacky = sql_query_templates['tackon uniq']
-                    query_tackf = query_tacky[query_format] \
-                        if query_tacky[query_format] is not None \
-                        else query_tacky['mysql']
-                    query_string += query_tackf.format(
-                        values = query_tacky['join'].join(
-                            [query_tacky['inserts'].format(key=k, value=v) \
-                                for k, v in template_inserts.items()]
-                        )
-                    )
-                else:
-                    pass
-                query_string += ';'
-        else:
-            print_log(
-                'error', 
-                'SQL_PARSER - Invalid Table: "%s.%s", Values: %s', 
-                query_schema, 
-                query_table, 
-                template_inserts
-            )
-            query_string = None
+                pass
+            query_string += ';'
     else:
         print_log(
             'error', 
-            'SQL_PARSER - Invalid Template: "%s", Values: %s', 
-            template_name, 
+            'SQL_PARSER - Invalid Table: "%s.%s", Values: %s', 
+            query_schema, 
+            query_table, 
             template_inserts
         )
         query_string = None

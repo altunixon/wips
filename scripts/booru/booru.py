@@ -57,17 +57,13 @@ def wrapper_check_lazy(index_table, views_first, views_last, **options):
         )
         return False
 
-def wrapper_prerun(download_table, path_save_current, path_save_old=None):
+def wrapper_prerun(download_table, path_save_current, **options):
     global mech_database
+    path_save_old = options.get('old_path', None)
     # print ('DEBUG', path_save_current)
     MkDirP(path_save_current, old=path_save_old)
     if mech_database is not None:
-        mech_database.run(
-            mode='create table', 
-            table=download_table, 
-            view='VARCHAR(32) PRIMARY KEY', 
-            save='TEXT NOT NULL'
-        )
+        mech_database.create_table(table=download_table, view='VARCHAR(32) PRIMARY KEY', save='TEXT NOT NULL')
     else:
         pass
 
@@ -131,12 +127,7 @@ def do_post(view_url, save_path, table_name, **options):
                     view_url, dlpost_returns['success']
                 )
                 if mech_database is not None:
-                    mech_database.run(
-                        mode='insert row', 
-                        table=table_name, 
-                        view=view_id,
-                        save=image_saveas
-                    )
+                    mech_database.insert_into(table=table_name, view=view_id, save=image_saveas)
                 else:
                     pass
                 dlpost_returns['ok'] = True

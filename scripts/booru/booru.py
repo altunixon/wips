@@ -63,6 +63,7 @@ def wrapper_prerun(download_table, path_save_current, **options):
     # print ('DEBUG', path_save_current)
     MkDirP(path_save_current, old=path_save_old)
     if mech_database is not None:
+        mech_database.flush()
         mech_database.create_table(table=download_table, view='VARCHAR(32) PRIMARY KEY', save='TEXT NOT NULL')
     else:
         pass

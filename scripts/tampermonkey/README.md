@@ -1,3 +1,26 @@
+### Detect Ctrl+Key
+```javascript
+document.addEventListener('keydown', function(event) {
+  if (event.ctrlKey && event.key === 'z') {
+    alert('Undo!');
+  }
+});
+```
+Using event.key greatly simplifies the code, removing hardcoded constants. It has support for IE 9+.</br>
+Additionally, using document.addEventListener means you won’t clobber other listeners to the same event.</br>
+Finally, there is no reason to use window.event. It’s actively discouraged and can result in fragile code.</br>
+Or:
+```javascript
+$(document).keydown(function(e){
+  if( e.which === 89 && e.ctrlKey ){
+     alert('control + y'); 
+  }
+  else if( e.which === 90 && e.ctrlKey ){
+     alert('control + z'); 
+  }          
+});
+```
+### Keycode Table
 | Key  | Code | ==== | ==== | ==== | ==== |
 |----:|:----|----:|:----|----:|:----|
 |  backspace | 8| d | 68| numpad 6 | 102|
@@ -29,10 +52,10 @@
 |  7 | 55| numpad 0 | 96| dash(-) | 189|
 |  8 | 56| numpad 1 | 97| period(.) | 190|
 |  9 | 57| numpad 2 | 98| forward slash(\) | 191|
-|  a | 65| numpad 3 | 99| grave accent(`) | 192|
-|  b | 66| numpad 4 | 100| open bracket([) | 219|
+|  a | 65| numpad 3 | 99| open bracket(\[) | 219|
+|  b | 66| numpad 4 | 100| close bracket(\]) | 221|
 |  c | 67| numpad 5 | 101| back slash(/) | 220|
-|      |     |  close bracket(]) | 221| single quote(') | 222|
+|      |     |  grave accent(\`) | 192| single quote(') | 222|
 
 
 

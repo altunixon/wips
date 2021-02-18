@@ -1,0 +1,64 @@
+{
+    "rss": "https://www.novelupdates.com/rss.php?uid=248411&unq=5e9d78eeb67a4&type=read", 
+    "list": {
+        "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
+        "i-became-the-strongest-with-the-failure-frame": "wordpress_2",
+        "isekai-tensei-soudouki": "wordpress_soudouki",
+        "okami-wa-nemuranai": "wordpress",
+        "sairin-yuusha-no-fukushuu-hanashi": "wordpress",
+        "sevens-ln": "wordpress",
+        "the-death-mage-who-doesnt-want-a-fourth-time": "wordpress_2",
+        "hakai-no-miko": "wordpress_hakai",
+        "tsuki-ga-michibiku-isekai-douchuu": "wordpress",
+        "clearing-an-isekai-with-the-zero-believers-goddess-the-weakest-mage-among-the-classmates": "wordpress",
+        "the-strange-adventure-of-a-broke-mercenary": "wordpress",
+        "ankoku-kishi-monogatari-yuusha-wo-taosu-tameni-maou-ni-shoukansaremashita": "wordpress_2",
+        "manuke-fps": "wordpress",
+        "the-new-gate": "shintranslations",
+        "my-death-flags-show-no-sign-of-ending": "wordpress",
+        "wortenia-senki": "wordpress",
+        "the-world-is-overflowing-with-monster-im-taking-a-liking-to-this-life": "nobles_js",
+        "isekai-apocalypse-mynoghra": "blogspot_isekaimynoghra",
+        "i-woke-up-piloting-the-strongest-starship-so-i-became-a-space-mercenary": "wordpress_lightnovelstranslations"
+    },
+    "wordpress": {
+        "article": "//div[contains(@class, \"entry-content\")]",
+        "transit": null
+    },
+    "wordpress_2": {
+        "article": "//div[@class=\"reading-content\"]",
+        "transit": null
+    },
+	"wordpress_hakai": {
+        "article": "//div[contains(@class, \"entry-content\")]",
+        "transit": "//a[text()[contains(., \"Enjoy~\")]]"
+    },
+    "wordpress_soudouki": {
+        "article": "//div[contains(@class, \"entry-content\")]",
+        "transit": "//a[text()[contains(., \"wordpress\")]]"
+    },
+	"wordpress_lightnovelstranslations": {
+		"article": "//div[contains(@class, \"entry-content\")]",
+		"transit": "//a[text()[contains(., \"CLICK HERE TO READ\")]]"
+	},
+    "shintranslations": {
+        "article": "//div[contains(@class, \"entry-content\")]",
+        "transit": "//a[text()[contains(., \"Continue reading\")]]"
+    },
+    "yamitranslations": {
+        "article": "//div[contains(@class, \"entry-content\")]",
+        "transit": "//a[text()[contains(., \"Chapter \")]]"
+    },
+    "blogspot": {
+        "article": "//div/div[@class=\"post\"]",
+        "transit": null
+    },
+    "nobles_js": {
+        "article": "//div[contains(@id, \"chapter-content\")]",
+        "transit": null
+    },
+    "blogspot_isekaimynoghra": {
+        "article": "//div[contains(@id, \"post-body\")]",
+        "transit": null
+    }
+}

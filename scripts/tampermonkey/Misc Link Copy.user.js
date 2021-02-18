@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Misc Link Copy
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.3
 // @require      http://code.jquery.com/jquery-3.3.1.slim.min.js
-// @description  try to take over the world!
-// @author       You
+// @description  try to take over the pork!
+// @author       Me
 // @match        https://danbooru.donmai.us/*
 // @match        https://www.pornhub.com/*
 // @match        https://sukebei.nyaa.si/*
@@ -47,35 +47,97 @@ function clear_list() {\
         jQuery('body').prepend(copy_element);
         var copied_links = 0;
         var ret_val = true; //Set OFF as default
+        var linkHost = location.host;
+        var linkPrefix = location.protocol + '//' + linkHost;
+        console.log(linkHost);
+        var codeMap = [68, 71, 70];
+        var searchAll = null;
+        var linkNext = null;
+        if (linkHost.indexOf('booru') >= 0) {
+            searchAll = 'article[id*="post_"]';
+            linkNext = $("a#paginator-next").attr("href");
+            codeMap = [67, 86, 88]; // C V X
+        }
+        else if (linkHost.indexOf('nyaa') >= 0) {
+            searchAll = 'table[class*="torrent-list"] > tbody > tr.default > td.text-center';
+            linkNext = $('ul.pagination > li > a[rel="next"]').attr("href");
+            codeMap = [68, 71, 70]; // D G F
+        }
+        else if (linkHost.indexOf('pornhub') >= 0) {
+            searchAll = '#mostRecentVideosSection, #videoCategory > li > .wrap > .phimage';
+            linkNext = $("li.page_next.omega > a.orangeButton").attr("href");
+            codeMap = [68, 71, 70]; // D G F
+        }
+        else {
+        }
+
+        var linkNow = location.search;
+
+        var copyText = document.getElementById("copy_list");
+        var copyStat = document.getElementById("copy_status");
+
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if(key === 68) { // press d
+            if(key === codeMap[0] || key === 32) {
                 if (ret_val) {
-                    document.getElementById("copy_status").textContent = " < Link Copy Mode [ON] > ";
+                    copyStat.textContent = " < Link Copy Mode [ON] > ";
                     ret_val = false;
                 }
                 else {
-                    document.getElementById("copy_status").textContent = " < Link Copy Mode [OFF] > ";
+                    copyText.select();
+                    document.execCommand("copy");
+                    copyText.blur();
+                    console.log("Id: copy_list [COPIED]");
+                    copyStat.textContent = " < Link Copy Mode [OFF] > ";
                     ret_val = true;
                 }
             }
         }, false);
 
-        document.addEventListener('keydown',
-            function(e) {
+        if (!linkNext) {
+            console.log('Function: NextPage Hotkey [' + codeMap[1] + '] Un-Available');
+        }
+        else {
+            document.addEventListener('keydown', function(e) {
                 var key = e.keyCode || e.which;
-                if(key === 71) { // press g
-                    if (!ret_val) {
-                        event.preventDefault();
-                        var copyText = document.getElementById("copy_list");
-                        copyText.select();
-                        document.execCommand("copy");
-                        console.log("Id: copy_list [COPIED]");
+                if (key === codeMap[1]) {
+                    copyText.select();
+                    document.execCommand("copy");
+                    copyText.blur();
+                    if (linkNext != linkNow) {
+                        window.open(linkNext, '_self')
                     }
                 }
-            }
-        );
+            }, false);
+        };
 
+        if (!searchAll) {
+            console.log('Function: CopyAll Hotkey [' + codeMap[2] + '] Un-Available');
+        }
+        else {
+            document.addEventListener('keydown', function(e) {
+                var key = e.keyCode || e.which;
+                if (key === codeMap[2]) { // X
+                    if (!ret_val) {
+                        var all_posts = '### ' + linkNow + '\r\n';
+                        $(searchAll).find('a').each( function() {
+                            var x = $(this).attr("href");
+                            if (x.indexOf('magnet') >= 0) {
+                                all_posts += x + '\r\n';
+                            }
+                            else {
+                                all_posts += linkPrefix + x + '\r\n';
+                            }
+                            copied_links++;
+                        } );
+                        var t = document.createTextNode(all_posts);
+                        copyText.appendChild(t);
+                        copyStat.textContent = " < Links Copied [" + copied_links + "] Click to Copy > ";
+                        console.log("Copied: " + all_posts);
+                    }
+                }
+            }, false);
+        };
         $("a").click(function(event) {
             if (!ret_val) {
                 event.preventDefault();
@@ -83,13 +145,13 @@ function clear_list() {\
                 var copied_href = $(this).attr("href");
                 var t;
                 if (!copied_href.startsWith("magnet:")) {
-                    t = document.createTextNode(window.location.origin + copied_href + " ");
+                    t = document.createTextNode(window.location.origin + copied_href + "\r\n");
                 }
                 else {
-                    t = document.createTextNode(copied_href + " ");
+                    t = document.createTextNode(copied_href + "\r\n");
                 }
-                document.getElementById("copy_list").appendChild(t);
-                document.getElementById("copy_status").textContent = " < Links Copied [" + copied_links + "] Click to Copy > ";
+                copyText.appendChild(t);
+                copyStat.textContent = " < Links Copied [" + copied_links + "] Click to Copy > ";
                 //console.log(copied_href);
                 //return ret_val;
             };

@@ -7,6 +7,7 @@
 // @author       You
 // @match        https://exhentai.org
 // @match        https://exhentai.org/?*
+// @match        https://exhentai.org/tag/*
 // @grant        none
 // ==/UserScript==
 

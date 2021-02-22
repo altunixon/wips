@@ -62,5 +62,4 @@
 - booru.py > from helpers.text_file import keyed_list > list mark comment function keyed_list.comment(list_key, list_line, comment='#')
 - mysqldump (optional: sqlite) to json conversion
 - skbnya external search url, preferable dm2 (very low priority)
-- find wips/lns -type f -mtime -14 -exec rm "{}" \+
-- trim watched.json
+- masamune_shirow/[Masamune Shirow] W TAILS CAT 1_Hs.zip: mismatch between local and central GPF bit 11 ("UTF-8"), continuing with central flag (IsUTF8 = 1)

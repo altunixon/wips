@@ -46,7 +46,7 @@ function clear_list() {\
 
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if(e.shiftKey && key === 68) { // D
+            if(e.shiftKey && key === 68) { // Shift + D to toggle copy mode
                 if (ret_val) {
                     //$("a").css("pointer-events", "none");
                     //console.log("Link Copy Mode [ON]");
@@ -64,6 +64,13 @@ function clear_list() {\
                 }
             }
         }, false);
+        
+        document.addEventListener('keydown',
+            function(e) {
+                var key = e.keyCode || e.which; // press C
+                if(e.shiftKey && key === 67) { clear_list(); }
+            }
+        );
 
         document.addEventListener('keydown',
             function(e) {

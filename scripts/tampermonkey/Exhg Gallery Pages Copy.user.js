@@ -25,6 +25,9 @@ $(document).ready(
 <tr>\
 <td colspan="3"><textarea id="copy_list"></textarea></td>\
 <tr>\
+<tr>\
+<td colspan="3">Usage: [Shift + (D)Toggle/Copy (A)Back (G)Forward (C)lear] and [In Copy Mode: (F)Input- (R)Input,]</td>\
+</tr>\
 </table>\
 </center>\
 <script>\
@@ -88,7 +91,7 @@ function clear_list() {\
         document.addEventListener('keydown',
             function(e) {
                 var key = e.keyCode || e.which; // press F
-                if(e.shiftKey && key === 70) {
+                if(! ret_val && key === 70) {
                     var pg_hsl = document.createTextNode('-');
                     document.getElementById("copy_list").appendChild(pg_hsl);
                 }
@@ -96,8 +99,8 @@ function clear_list() {\
         );
         document.addEventListener('keydown',
             function(e) {
-                var key = e.keyCode || e.which; // press E
-                if(e.shiftKey && key === 82) {
+                var key = e.keyCode || e.which; // press R
+                if(! ret_val && key === 82) {
                     var pg_hsl = document.createTextNode(',');
                     document.getElementById("copy_list").appendChild(pg_hsl);
                 }

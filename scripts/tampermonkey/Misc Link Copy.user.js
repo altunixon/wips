@@ -74,10 +74,12 @@ function clear_list() {\
             codeMap = [68, 71, 70]; // D G F
         }
         else {
+            searchAll = 'article[id*="post_"]';
+            linkNext = $("a#paginator-next").attr("href");
+            codeMap = [68, 71, 70]; // D G F
         }
 
         var linkNow = location.search;
-
         var copyText = document.getElementById("copy_list");
         var copyStat = document.getElementById("copy_status");
 

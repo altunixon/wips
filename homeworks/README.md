@@ -20,14 +20,16 @@
     so it will not misread this as the closing bracket of the list of the excluded characters, but as a literal bracket.
   `
   ```bash
-  ls -1 | grep -E '^\(' | sed -nE 's/(^\([^)]*\)) ?(.*)/\2/p'
+  ls -1 | grep -E '^\('
+  ls -1 | grep -E '^\(' | sed -nE 's/^\(([^)]*)\) ?.*/\1/p; s/[\d128-\d255]/-/g'
+  ls -1 | grep -E '^\(' | sed -nE 's/^\([^)]*\) ?(.*)/\1/p'
   Z=$(ls -1 | grep -E '^\(' | head -n 1 | sed -nE 's/(^\([^)]*\)) ?(.*)/\2/p')
   echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
   Z=${Z%% }; Z=${Z## }; echo "$Z"
   
   IFS=$'\r\n'
   CUR=$(pwd)
-  for X in $(ls -1 | grep -E '^\([^)]*\)'); do
+  for X in $(ls -1 | grep -E '^\([^)]*\) ?'); do
   Y=$(echo "$X" | sed -nE 's/(^\([^)]*\)) ?(.*)/\2/p')
   Y=$(echo "$Y" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//')
   mv --no-clobber -v "$X" "$Y"
@@ -36,5 +38,9 @@
   ```
   `Tl;dr: [^)] = Negative set, match everything that is not ")" close bracket`
   
+### TODOs
+- booru.py > from helpers.text_file import keyed_list > list mark comment function keyed_list.comment(list_key, list_line, comment='#')
+- mysqldump (optional: sqlite) to json conversion
+- skbnya external search url, preferable dm2
   
   

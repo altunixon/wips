@@ -26,7 +26,7 @@ $(document).ready(
 <td colspan="3"><textarea id="copy_list"></textarea></td>\
 <tr>\
 <tr>\
-<td colspan="3">Usage: [Shift + (D)Toggle/Copy (A)Back (G)Forward (C)lear] and [In Copy Mode: (F)Input- (R)Input,]</td>\
+<td colspan="3">Usage: [Universal: Shift + (D)Toggle/Copy (A)Back (G)Forward (C)lear] and [Copy Mode: (F)Input<-> (R)Input<,>]</td>\
 </tr>\
 </table>\
 </center>\

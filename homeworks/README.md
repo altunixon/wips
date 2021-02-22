@@ -39,11 +39,11 @@
   `Tl;dr: [^)] = Negative set, match everything that is not ")" close bracket`
 - Xtract watcher https://linux.die.net/man/1/inotifywait
   ```bash
-  inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %f' ~/Xtracts
-  inotifywait --monitor --recursive --outfile /tmp/xtract_watch.txt --event modify --event move --event create --event delete --format '%:e %f' ~/Xtracts
+  inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %w%f' ~/Xtracts
+  inotifywait --monitor --recursive --outfile /tmp/xtract_watch.txt --event modify --event move --event create --event delete --format '%:e %w%f' ~/Xtracts
   function watcher_start() {
     IFS=$'\r\n'
-    inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %f' --daemon "$1"
+    inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %w%f' --daemon "$1"
     echo $! | tee /tmp/watcher.pid
     watcher_pid=$(cat /tmp/watcher.pid)
     echo "Watcher Process [$watcher_pid]: $(ps -p $watcher_pid -o command) [STARTED]\nUse: 'kill -9 $watcher_pid' or 'watcher_stop' to kill it."

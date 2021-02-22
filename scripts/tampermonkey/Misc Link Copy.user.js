@@ -6,6 +6,7 @@
 // @description  try to take over the pork!
 // @author       Me
 // @match        https://danbooru.donmai.us/*
+// @match        https://yande.re/*
 // @match        https://www.pornhub.com/*
 // @match        https://sukebei.nyaa.si/*
 // @match        https://nyaa.si/*
@@ -28,6 +29,9 @@ $(document).ready(
 </tr>\
 <tr>\
 <td colspan="3"><textarea id="copy_list"></textarea></td>\
+<tr>\
+<tr>\
+<td colspan="3">Usage: Shift + (D)Toggle (G)Forward (F)GetAll</td>\
 <tr>\
 </table>\
 </center>\
@@ -56,7 +60,8 @@ function clear_list() {\
         if (linkHost.indexOf('booru') >= 0) {
             searchAll = 'article[id*="post_"]';
             linkNext = $("a#paginator-next").attr("href");
-            codeMap = [67, 86, 88]; // C V X
+            // codeMap = [67, 86, 88]; // C V X
+            codeMap = [68, 71, 70]; // D G F
         }
         else if (linkHost.indexOf('nyaa') >= 0) {
             searchAll = 'table[class*="torrent-list"] > tbody > tr.default > td.text-center';
@@ -78,7 +83,7 @@ function clear_list() {\
 
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if(key === codeMap[0] || key === 32) {
+            if(e.shiftKey && key === codeMap[0]) { // D
                 if (ret_val) {
                     copyStat.textContent = " < Link Copy Mode [ON] > ";
                     ret_val = false;
@@ -95,12 +100,12 @@ function clear_list() {\
         }, false);
 
         if (!linkNext) {
-            console.log('Function: NextPage Hotkey [' + codeMap[1] + '] Un-Available');
+            console.log('Function: NextPage Hotkey [Shift + ' + codeMap[1] + '] Un-Available');
         }
         else {
             document.addEventListener('keydown', function(e) {
                 var key = e.keyCode || e.which;
-                if (key === codeMap[1]) {
+                if (e.shiftKey && key === codeMap[1]) { // G
                     copyText.select();
                     document.execCommand("copy");
                     copyText.blur();
@@ -112,12 +117,12 @@ function clear_list() {\
         };
 
         if (!searchAll) {
-            console.log('Function: CopyAll Hotkey [' + codeMap[2] + '] Un-Available');
+            console.log('Function: CopyAll Hotkey [Shift + ' + codeMap[2] + '] Un-Available');
         }
         else {
             document.addEventListener('keydown', function(e) {
                 var key = e.keyCode || e.which;
-                if (key === codeMap[2]) { // X
+                if (e.shiftKey && key === codeMap[2]) { // F
                     if (!ret_val) {
                         var all_posts = '### ' + linkNow + '\r\n';
                         $(searchAll).find('a').each( function() {

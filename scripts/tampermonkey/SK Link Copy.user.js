@@ -29,6 +29,9 @@ $(document).ready(
 <div id="tag_links" style="display: table-cell"></div>\
 </td>\
 </tr>\
+<tr>\
+<td colspan="3">Usage: Shift + (D)Toggle (G)Forward (F)GetAll</td>\
+<tr>\
 </table>\
 </center>\
 <script>\
@@ -59,7 +62,7 @@ function clear_list() {\
 
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if (key === codeMap[0] || key === 32) { // D
+            if (e.shiftKey && (key === codeMap[0] || key === 32)) { // Shift + D or Space
                 if (ret_val) {
                     copyStat.textContent = " < Link Copy Mode [ON] > ";
                     ret_val = false;
@@ -81,7 +84,7 @@ function clear_list() {\
         else {
             document.addEventListener('keydown', function(e) {
                 var key = e.keyCode || e.which;
-                if (key === codeMap[1]) { // G
+                if (e.shiftKey && key === codeMap[1]) { // G
                     copyText.select();
                     document.execCommand("copy");
                     copyText.blur();
@@ -94,7 +97,7 @@ function clear_list() {\
 
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if (key === codeMap[2]) { // F
+            if (e.shiftKey && key === codeMap[2]) { // F
                 if (!ret_val) {
                     var all_posts = '### ' + linkNow + '\r\n';
                     $("div.content > div > span.thumb").find("a").each( function() {

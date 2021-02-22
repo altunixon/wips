@@ -150,6 +150,9 @@ class json_db:
                 print ('[SKIP] JSON Table: Clean "%s", no flushing needed "%s"' % (table_name, table_path))
         self.db_cache = {}
         print ('[_OK_] Cache cleared: %s, Debug: [%s]' % (self.db_cache, debug_msg))
+        
+    def close(self):
+        self.flush(overwrite=True, msg='On Close')
     
     def __del__(self):
         self.flush(overwrite=True, msg='On Exit')

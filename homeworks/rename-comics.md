@@ -12,26 +12,39 @@ Z=${Z%% }; Z=${Z## }; echo "$Z"
 COMIC1 & Others
 ```bash
 ls -1 | grep -E '^\('
-ls -1 | grep -E '^\(' | sed -nE 's/(^\(.*\)) ?.*/\1/p'
-ls -1 | grep -E '^\(' | sed -nE 's/(^\(.*\)) ?(.*)/\1/p'
-Z=$(ls -1 | grep -E '^\(' | head -n 1 | sed -nE 's/(^\(.*\)) ?(.*)/\1/p')
+ls -1 | grep -E '^\(' | sed -nE 's/^\(([^)]*)\) ?(.*)/\1/p; s/[\d128-\d255]/-/g'
+ls -1 | grep -E '^\(' | sed -nE 's/(^\([^)]*\)) ?(.*)/\2/p'
+Z=$(ls -1 | grep -E '^\(' | head -n 1 | sed -nE 's/(^\([^)]*\)) ?(.*)/\2/p')
 echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
 Z=${Z%% }; Z=${Z## }; echo "$Z"
 ```
 #### Cooking with uranium
-```bash
-IFS=$'\r\n'
-CUR=$(pwd)
-for X in $(ls -1 | grep -E '^\(C[0-9]{1,2}\)'); do
-K=$(echo "$X" | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p')
-cd "$X" && /home/alt/bin-sh/rnpa -p "${K## }" -s "_" ./*
-cd "$CUR"
-Y=$(echo "$X" | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
-Y=$(echo "$Y" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//')
-mv --no-clobber -v "$X" "$Y"
-echo "mv '$Y' '$x'" >> /tmp/CXX_undo.txt
-done
-```
+- COMIKET:
+  ```bash
+  IFS=$'\r\n'
+  CUR=$(pwd)
+  for X in $(ls -1 | grep -E '^\(C[0-9]{1,2}\)'); do
+  K=$(echo "$X" | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p')
+  cd "$X" && /home/alt/bin-sh/rnpa -p "${K## }" -s "_" ./*
+  cd "$CUR"
+  Y=$(echo "$X" | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
+  Y=$(echo "$Y" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//')
+  mv --no-clobber -v "$X" "$Y"
+  echo "mv '$Y' '$X'" >> /tmp/CXX_undo.txt
+  done
+  ```
+- General DJ (remove first round brackets):
+  ```bash
+  IFS=$'\r\n'
+  CUR=$(pwd)
+  for X in $(ls -1 | grep -E '^\([^)]*\) ?'); do
+  K=$(echo "$X" | sed -nE 's/^\(([^)]*)\) ?(.*)/\1/p; s/[\d128-\d255]/-/g')
+  Y=$(echo "$X" | sed -nE 's/(^\([^)]*\)) ?(.*)/\2/p')
+  Y=$(echo "$Y" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//')
+  mv --no-clobber -v "$X" "$Y"
+  echo "mv '$Y' '$X'" >> /tmp/CXX_undo.txt
+  done
+  ```
 ### Find duplicate image by ID (the dumb way)
 ```bash
 for Y in ${@}; do

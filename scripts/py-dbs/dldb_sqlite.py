@@ -1,18 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-  
 
-
-import os
+from os import path
 from helpers.misc import telltime, print_log
 from databases.dldb_sqlweaver import sql_query_templates, FormatDefault, sql_weaver
-
-
 
 import sqlite3
 class dldb_sqlite():
     def __init__(self, db_path, **options):
         self.type = 'sqlite'
         self.db_path = db_path
+        assert path.isfile(self.db_path), '[ERRO] SQLITE Path: "%s" File does not Exists.' % self.db_path
         self.db_connector = sqlite3.connect(db_path)
         self.fetch_dict = options.get('fetch_dict', False)
         def dict_factory(cursor, row):
@@ -119,6 +117,9 @@ class dldb_sqlite():
     def close(self): 
         self.db_cursor.close()
         self.db_connector.close()
+        
+    def __del__(self):
+        self.close()
        
 
 

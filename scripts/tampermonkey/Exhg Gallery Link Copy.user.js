@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Exhg Gallery Link Copy
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @require      http://code.jquery.com/jquery-3.3.1.slim.min.js
 // @description  try to take over the pork!
 // @author       You
@@ -46,7 +46,7 @@ function clear_list() {\
 
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            if(key === 68) { // D
+            if(e.shiftKey && key === 68) { // D
                 if (ret_val) {
                     //$("a").css("pointer-events", "none");
                     //console.log("Link Copy Mode [ON]");
@@ -68,7 +68,7 @@ function clear_list() {\
         document.addEventListener('keydown',
             function(e) {
                 var key = e.keyCode || e.which;
-                if(key === 71) { // press G
+                if(e.shiftKey && key === 71) { // press G
                     var text_field = document.getElementById("copy_list");
                     text_field.select();
                     document.execCommand("copy");
@@ -81,7 +81,7 @@ function clear_list() {\
         document.addEventListener('keydown',
             function(e) {
                 var key = e.keyCode || e.which;
-                if(key === 65) { // press A
+                if(e.shiftKey && key === 65) { // press A
                     var text_field = document.getElementById("copy_list");
                     text_field.select();
                     document.execCommand("copy");

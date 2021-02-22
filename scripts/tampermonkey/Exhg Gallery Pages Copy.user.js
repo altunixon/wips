@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Exhg Gallery Pages Copy
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  try to take over the pork!
 // @author       You
 // @require      http://code.jquery.com/jquery-3.3.1.slim.min.js
@@ -25,6 +25,9 @@ $(document).ready(
 <tr>\
 <td colspan="3"><textarea id="copy_list"></textarea></td>\
 <tr>\
+<tr>\
+<td colspan="3">Usage: [Universal: Shift + (D)Toggle/Copy (A)Back (G)Forward (C)lear] and [Copy Mode: (F)Input<-> (R)Input<,>]</td>\
+</tr>\
 </table>\
 </center>\
 <script>\
@@ -47,8 +50,7 @@ function clear_list() {\
         /* https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes */
         document.addEventListener('keydown', function(e) {
             var key = e.keyCode || e.which;
-            // press D
-            if(key === 68) {
+            if(e.shiftKey && key === 68) { // Shift + D
                 var text_field = document.getElementById("copy_list");
                 if (ret_val) {
                     //$("a").css("pointer-events", "none");
@@ -89,7 +91,7 @@ function clear_list() {\
         document.addEventListener('keydown',
             function(e) {
                 var key = e.keyCode || e.which; // press F
-                if(key === 70) {
+                if(! ret_val && key === 70) {
                     var pg_hsl = document.createTextNode('-');
                     document.getElementById("copy_list").appendChild(pg_hsl);
                 }
@@ -97,8 +99,8 @@ function clear_list() {\
         );
         document.addEventListener('keydown',
             function(e) {
-                var key = e.keyCode || e.which; // press E
-                if(key === 82) {
+                var key = e.keyCode || e.which; // press R
+                if(! ret_val && key === 82) {
                     var pg_hsl = document.createTextNode(',');
                     document.getElementById("copy_list").appendChild(pg_hsl);
                 }
@@ -107,13 +109,13 @@ function clear_list() {\
         document.addEventListener('keydown',
             function(e) {
                 var key = e.keyCode || e.which; // press C
-                if(key === 67) { clear_list(); }
+                if(e.shiftKey && key === 67) { clear_list(); }
             }
         );
         document.addEventListener('keydown',
             function(e) {
                 var key = e.keyCode || e.which; // press G
-                if(key === 71) {
+                if(e.shiftKey && key === 71) {
                     var text_field = document.getElementById("copy_list");
                     text_field.select();
                     document.execCommand("copy");

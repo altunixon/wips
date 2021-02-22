@@ -1,23 +1,24 @@
 ### Rename the kets
 #### Test (FOR GODS SAKE! PLEASE DO THIS FIRST)
-COMIKET
-```bash
-ls -1 | grep -E '^\(C[0-9]{1,2}\)'
-ls -1 | grep -E '^\(C[0-9]{1,2}\)' | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p'
-ls -1 | grep -E '^\(C[0-9]{1,2}\)' | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p'
-Z=$(ls -1 | grep -E '^\(C[0-9]{1,2}\)' | head -n 1 | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
-echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
-Z=${Z%% }; Z=${Z## }; echo "$Z"
-```
-COMIC1 & Others
-```bash
-ls -1 | grep -E '^\('
-ls -1 | grep -E '^\(' | sed -nE 's/^\(([^)]*)\) ?(.*)/\1/p; s/[\d128-\d255]/-/g'
-ls -1 | grep -E '^\(' | sed -nE 's/(^\([^)]*\)) ?(.*)/\2/p'
-Z=$(ls -1 | grep -E '^\(' | head -n 1 | sed -nE 's/(^\([^)]*\)) ?(.*)/\2/p')
-echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
-Z=${Z%% }; Z=${Z## }; echo "$Z"
-```
+- COMIKET: </br>
+  ```bash
+  ls -1 | grep -E '^\(C[0-9]{1,2}\)'
+  ls -1 | grep -E '^\(C[0-9]{1,2}\)' | sed -nE 's/.*\((C[0-9]{1,2})\).*/\1/p'
+  ls -1 | grep -E '^\(C[0-9]{1,2}\)' | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p'
+  Z=$(ls -1 | grep -E '^\(C[0-9]{1,2}\)' | head -n 1 | sed -nE 's/.*\(C[0-9]{1,2}\)(.*)/\1/p')
+  echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
+  Z=${Z%% }; Z=${Z## }; echo "$Z"
+  ```
+- General DJ (COMIC1 & Tanks): </br>
+  `'s/^\([^)]*\) ?(.*)/\1/p' = 's/(^\([^)]*\)) ?(.*)/\2/p'`
+  ```bash
+  ls -1 | grep -E '^\('
+  ls -1 | grep -E '^\(' | sed -nE 's/^\(([^)]*)\) ?.*/\1/p; s/[\d128-\d255]/-/g'
+  ls -1 | grep -E '^\(' | sed -nE 's/^\([^)]*\) ?(.*)/\1/p'
+  Z=$(ls -1 | grep -E '^\(' | head -n 1 | sed -nE 's/(^\([^)]*\)) ?(.*)/\2/p')
+  echo "$Z" | sed -e 's/^[[:space:]]*//; s/[[:space:]]*$//'
+  Z=${Z%% }; Z=${Z## }; echo "$Z"
+  ```
 #### Cooking with uranium
 - COMIKET:
   ```bash

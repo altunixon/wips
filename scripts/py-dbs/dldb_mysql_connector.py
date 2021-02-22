@@ -151,3 +151,6 @@ class dldb_mysql():
         self.db_cursor.close()
         self.db_connector.disconnect()
         self.db_connector.close()
+        
+    def __del__(self):
+        self.close()

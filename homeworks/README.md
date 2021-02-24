@@ -1,4 +1,4 @@
-### 2021/02/22
+## TODOs
 - comment downloaded links in yande listfile booru-yande.txt
   ```bash
   IFS=$'\r\n'
@@ -8,6 +8,34 @@
   done
   cat /tmp/yande.txt > booru-yande.txt
   ```
+- Xtract watcher (WORKING) https://linux.die.net/man/1/inotifywait
+  ```bash
+  inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %w%f' ~/Xtracts
+  inotifywait --monitor --recursive --outfile /tmp/xtract_watch.txt --event modify --event move --event create --event delete --format '%:e %w%f' ~/Xtracts
+  function watcher_start() {
+    IFS=$'\r\n'
+    inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %w%f' --daemon "$1"
+    echo $! | tee /tmp/watcher.pid
+    watcher_pid=$(cat /tmp/watcher.pid)
+    echo "Watcher Process [$watcher_pid]: $(ps -p $watcher_pid -o command) [STARTED]\nUse: 'kill -9 $watcher_pid' or 'watcher_stop' to kill it."
+  }
+  function watcher_stop() {
+    if [ -s /tmp/watcher.pid ]; then
+      watcher_pid=$(cat /tmp/watcher.pid)
+      echo -n "[$watcher_pid] Killing: $(ps -p $watcher_pid -o command) "
+      kill -9 "$watcher_pid" && echo '[_OK_]' || echo '[FAIL]'
+    else
+      echo "No watcher process available"
+    fi
+  }
+  ```
+- booru.py > from helpers.text_file import keyed_list > list mark comment function keyed_list.comment(list_key, list_line, comment='#')
+- helpers.misc > init_db() > needs updating to include jsondb type
+- mysqldump (optional: sqlite) to json conversion
+- skbnya external search url, preferable dm2 (very low priority)
+- watcher list converter (inotifywait events to action)
+
+## DONE
 - rename dj match first brackets: </br>
   https://unix.stackexchange.com/questions/617505/sed-replace-string-in-square-brackets-with-key </br>
   `
@@ -37,29 +65,3 @@
   done
   ```
   `Tl;dr: [^)] = Negative set, match everything that is not ")" close bracket`
-- Xtract watcher https://linux.die.net/man/1/inotifywait
-  ```bash
-  inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %w%f' ~/Xtracts
-  inotifywait --monitor --recursive --outfile /tmp/xtract_watch.txt --event modify --event move --event create --event delete --format '%:e %w%f' ~/Xtracts
-  function watcher_start() {
-    IFS=$'\r\n'
-    inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %w%f' --daemon "$1"
-    echo $! | tee /tmp/watcher.pid
-    watcher_pid=$(cat /tmp/watcher.pid)
-    echo "Watcher Process [$watcher_pid]: $(ps -p $watcher_pid -o command) [STARTED]\nUse: 'kill -9 $watcher_pid' or 'watcher_stop' to kill it."
-  }
-  function watcher_stop() {
-    if [ -s /tmp/watcher.pid ]; then
-      watcher_pid=$(cat /tmp/watcher.pid)
-      echo -n "[$watcher_pid] Killing: $(ps -p $watcher_pid -o command) "
-      kill -9 "$watcher_pid" && echo '[_OK_]' || echo '[FAIL]'
-    else
-      echo "No watcher process available"
-    fi
-  }
-  ```
-### TODOs
-- booru.py > from helpers.text_file import keyed_list > list mark comment function keyed_list.comment(list_key, list_line, comment='#')
-- mysqldump (optional: sqlite) to json conversion
-- skbnya external search url, preferable dm2 (very low priority)
-- masamune_shirow/[Masamune Shirow] W TAILS CAT 1_Hs.zip: mismatch between local and central GPF bit 11 ("UTF-8"), continuing with central flag (IsUTF8 = 1)

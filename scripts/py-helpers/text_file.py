@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 
-import os, json
-from collections import defaultdict
+import json
+from os.path import isfile
+from collections import defaultdict, namedtuple
 #Class Text reader. consider split this to another file?
 class text_file():
     def __init__(self, t_file):
         self.file = t_file
-        from os.path import isfile
         self.check = False if not isfile(self.file) else True
         
     def read_raw(self):
@@ -125,7 +125,6 @@ class text_file():
 class xml_file():
     def __init__(self, xfile):
         from xml.dom import minidom
-        from os.path import isfile
         self.check = True if isfile(xfile) else False
         self.xdoc = minidom.parse(xfile)
         
@@ -151,7 +150,7 @@ class ini_file():
 
     def read_file(self, r_file=None):
         in_file = r_file if r_file is not None else self.file
-        if os.path.isfile(in_file):
+        if isfile(in_file):
             self.ini_reader.read(in_file)
             ini_dict = {}
             for k in self.ini_reader.sections():
@@ -168,7 +167,7 @@ class ini_file():
 class json_file():
     def __init__(self, jfile):
         self.file  = jfile
-        if os.path.isfile(jfile):
+        if isfile(jfile):
             try:
                 with open(jfile, 'r') as r:
                     self.json_dict = json.load(r)
@@ -182,7 +181,7 @@ class json_file():
         if r_file is None:
             return self.json_dict
         else:
-            if os.path.isfile(r_file):
+            if isfile(r_file):
                 with open(r_file, 'r') as r:
                     my_json_dict = json.load(r)
                 return my_json_dict
@@ -194,7 +193,7 @@ class json_file():
         if j_dict is None:
             pass
         else:
-            if os.path.isfile(out_file):
+            if isfile(out_file):
                 with open(out_file, 'w+') as w:
                     json.dump(
                         j_dict, w, 
@@ -208,17 +207,29 @@ class keyed_list():
     def __init__(self, list_file, **list_options):
         self.file_path = list_file
         self.file_style = list_options.pop('style', 'ini')
+        self.check = isfile(list_file)
+        self.list_key = None
+        self.list_cache = []
+        
+    def read_position(self, get_key, list_content, **options):
+        get_headtail = options.get('headtail', False)
+        return None
+        
+    def comment(self, line_comment, **options):
+        comment_char = options.get('comment', '# ')
+        for x, line_cached in enumerate(self.list_cache):
+            if line_comment == line_cached:
+                self.list_cache[x] = '{comment}{line_txt}'.format(comment=comment_char, line_txt=line_cached)
+                
+    def flush(self, **options)
+        return None
 
-    def read(self, **read_options):
-        read_aslist = read_options.pop('list', True)
-        read_key = read_options.pop('key', None)
-        if os.path.isfile(self.file_path):
+    def read(self, **options):
+        read_aslist = options.pop('list', True)
+        read_key = options.pop('key', None)
+        if self.check:
             with open(self.file_path, 'r') as lf:
-                content_lines = [t \
-                    for t in lf.read().splitlines() \
-                        if len(t) > 0 \
-                        and not t.startswith('#')
-                ]
+                content_lines = [t for t in lf.read().splitlines() if len(t) > 0 and not t.startswith('#')]
             if read_key is not None:
                 list_keys = []
                 list_range= []
@@ -242,44 +253,24 @@ class keyed_list():
                     else:
                         k_fomat = k
                     if '{}' in k_fomat:
-                        list_flines = [
-                            k_fomat.format(e) \
-                            if '://' not in e \
-                            else e \
-                            for e in list_sub
-                        ]
+                        list_flines = [k_fomat.format(e) if '://' not in e else e for e in list_sub]
                     elif '%s' in k_fomat:
-                        list_flines = [
-                            (k_fomat % e) \
-                            if '://' not in e \
-                            else e \
-                            for e in list_sub
-                        ]
+                        list_flines = [(k_fomat % e) if '://' not in e else e for e in list_sub]
                     else:
-                        list_flines = [
-                            (k_fomat + e) \
-                            if '://' not in e \
-                            else e \
-                            for e in list_sub
-                        ]
+                        list_flines = [(k_fomat + e) if '://' not in e else e for e in list_sub]
                     #print(k, list_flines)
                     list_dict[k] = list_flines
-                if read_aslist:
-                    list_list = []
-                    for k, v in list_dict.items():
+                if not read_aslist or read_key is None:
+                    return list_dict
+                else:
+                    for k in list_dict.keys():
                         if read_key in k:
-                            print('muh match [%s] = %s' % (read_key, k))
-                            list_list.extend(v)
+                            self.list_key = k
+                            self.list_cache = list_dict[k]
+                            return self.list_cache
                         else:
                             pass
-                    return list_list
-                else:
-                    # list_chosen = {}
-                    # for k, v in list_dict.items():
-                    #     if read_key in k:
-                    #         list_chosen[k] = v
                     return list_dict
-            else:
                 return [l for l in content_lines if not l.startswith('[')]
         else:
             return []
@@ -288,14 +279,12 @@ class custom_list():
     def __init__(self, d_file, k_marker="[]"):
         self.file   = d_file
         self.key_m  = list(k_marker)
-        self.check  = True if os.path.isfile(d_file) else False
+        self.check  = True if isfile(d_file) else False
 
     def read(self, **options):
         if self.check:
             with open(self.file, 'rt') as lfile:
-                lines_raw = [l for l in lfile.read().splitlines() \
-                    if len(l) > 0 \
-                    and not l.startswith('#')]
+                lines_raw = [l for l in lfile.read().splitlines() if len(l) > 0 and not l.startswith('#')]
             to_list     = options.pop('to_list', True)
             key_prefix  = options.pop('key_prefix', True)
             key_match   = options.pop('key_match', None)
@@ -317,10 +306,7 @@ class custom_list():
                     if lines_raw[i] == k:
                         n_start = i + 1
                     else:
-                        if any(
-                            lines_raw[i].startswith(lk) \
-                            for lk in self.key_m
-                        ):
+                        if any(lines_raw[i].startswith(lk) for lk in self.key_m):
                             if i > n_start:
                                 n_end = i
                                 break
@@ -338,10 +324,7 @@ class custom_list():
                     for k, v in lines_dic.items():
                         k_clean = k
                         for km in self.key_m: k_clean = k_clean.strip(km)
-                        k_match = False if \
-                            key_match is not None and \
-                            key_match not in k else \
-                            True
+                        k_match = False if key_match is not None and key_match not in k else True
                         if k_match:
                             if key_prefix:
                                 for i in v:

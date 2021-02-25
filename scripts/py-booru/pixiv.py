@@ -8,9 +8,8 @@ from urllib.parse           import unquote, urlsplit, urlencode
 
 from browsers.selenium      import SeleniumBrowser
 from browsers.scrapers      import lxml_scraper, lxml_spider, dump_html
-from helpers.misc           import db_init, print_log, print_color, countdown
+from helpers.misc           import db_init, wrapper_listfile, print_log, print_color, countdown
 from helpers.str_helper     import urlPrefixer, arr2str, string_sanitizer
-from helpers.text_caching   import text_cache
 
 from vars.conf_pixiv        import *
 from classes.checks         import dlcheck
@@ -398,8 +397,8 @@ def pix_main(urls):
     raw_urls = [] if urls is None else urls
     if console_args.url_file is not None:
         if ':' in console_args.url_file:
-            list_cache = text_cache(expire=1800)
             book_type, book_file = console_args.url_file.split(':', 1)
+            list_cache = wrapper_listfile(book_file, forcerw=True)
             # print (book_type, book_file)
             book_current = pix_home.list_following(
                 book_type, 
@@ -408,49 +407,29 @@ def pix_main(urls):
                 description = True
             )
             # print (book_current)
-            book_cache = list_cache.read(book_file)
+            book_cache = list_cache.read()
             raw_urls.extend([x for x in book_current if not x.startswith('#')])
             if len(book_cache) > 0:
                 print (len(book_cache), 'not Dump', book_file, json.dumps(book_cache, indent=4))
-                raw_urls.extend([
-                    u.strip() \
-                    for u in book_cache \
-                    if not u.startswith('#') \
-                    and len(u.strip()) > 0
-                ])
-                list_cache.upsert(book_file, book_current, comment='# ')
+                raw_urls.extend([u.strip() for u in book_cache if not u.startswith('#') and len(u.strip()) > 0])
+                list_cache.upsert(book_current)
             else:
-                list_cache.upsert(book_file, book_current, comment='# ')
+                list_cache.upsert(book_current)
                 print ('Dumping:', len(book_current), book_file)
-                list_cache.dump(book_file)
+                list_cache.dump()
         else:
             book_file = console_args.url_file
-            if book_file != 'private' \
-            and book_file != 'public' \
-            and os.path.isfile(book_file):
-                list_cache = text_cache(expire=1800)
-                raw_urls.extend(
-                    [u.strip() \
-                    for u in list_cache.read(book_file) \
-                    if not u.startswith('#') \
-                    and len(u.strip()) > 0]
-                )
+            if book_file != 'private' and book_file != 'public' and os.path.isfile(book_file):
+                list_cache = wrapper_listfile(book_file, forcerw=True)
+                raw_urls.extend([u.strip() for u in list_cache.read() if not u.startswith('#') and len(u.strip()) > 0])
             else:
-                raw_urls.extend(pix_home.list_following(
-                    book_file, 
-                    reverse = False, 
-                    limit = console_args.following_limit
-                ))
+                raw_urls.extend(pix_home.list_following(book_file, reverse=False, limit=console_args.following_limit))
                 list_cache = None
                 # list_cache.insert(book_file, raw_urls)
     else:
         list_cache = None
         if len(raw_urls) == 0:
-            raw_urls.extend(pix_home.list_following(
-                'private', 
-                reverse = False, 
-                limit = console_args.following_limit
-            ))
+            raw_urls.extend(pix_home.list_following('private', reverse=False, limit=console_args.following_limit))
         else:
             pass
     # print (len(raw_urls), raw_urls)
@@ -486,10 +465,7 @@ def pix_main(urls):
                         console_printer('info', 'VIEW# [SKIP] - Url: "%s", DB _misc: %s', v_url, len(v_check.data))
                         view_ok = True
                     else:
-                        view_ok = get_view(
-                            v_url, save_misc,
-                            title=None, uid=None, vid=v_id
-                        )
+                        view_ok = get_view(v_url, save_misc, title=None, uid=None, vid=v_id)
                     if not view_ok:
                         get_errors += 1
                     else:
@@ -513,8 +489,7 @@ def pix_main(urls):
                         pix_landing = pixiv_index(pix_url, pix_landing_html, verbose=console_args.debug, color=console_color)
                         pix_uid = pix_landing.uid
                         if not console_args.notree:
-                            index_savedir = '{uid}_{mname}'.format(
-                                uid = pix_uid, mname = pix_landing.userhp() )
+                            index_savedir = '{uid}_{mname}'.format(uid=pix_uid, mname=pix_landing.userhp())
                             save_index = os.path.normpath(os.path.join(save_path, index_savedir))
                         else:
                             save_index = os.path.normpath(save_path)
@@ -597,9 +572,9 @@ def pix_main(urls):
                         pass
                 countdown(gen_randwait(console_args.wait_time * 2), txt='Next Link in: ')
                 if list_cache is not None and get_errors == 0:
-                    list_cache.comment(book_file, one_url)
-                    list_cache.comment(book_file, one_url, comment=None if pix_available else '# 404 PURGED #')
-                    list_cache.check_dump(book_file)
+                    #list_cache.comment(one_url)
+                    list_cache.comment(one_url, comment='# ' if pix_available else '# 404 PURGED #')
+                    list_cache.check_dump()
                 else:
                     pass
             pix_browser.save_cookies(pix_cookies)

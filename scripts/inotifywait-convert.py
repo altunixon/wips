@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
-import argparse
+# inotifywait -m -r -o /tmp/watch.txt -e move --format '%:e:%w%f' --daemon "$1"
+import re, argparse
 from argparse import RawTextHelpFormatter
+from os import path, getcwd
 
 def lst2chunks(lst, n):
     """Yield successive n-sized chunks from lst."""
@@ -14,17 +16,51 @@ if __name__ == "__main__":
         argument_default=argparse.SUPPRESS, 
         formatter_class=RawTextHelpFormatter)
     args_parser.add_argument(
-        '-i', '--in-file', dest='file', nargs='?', default=None, 
+        '-i', '--in-file', dest='watch_file', nargs='?', default=None, 
         help='inotifywait file')
     args_parser.add_argument(
-        '-o', '--out-file', dest='saveto', nargs='?', 
+        '-o', '--out-file', dest='act_file', nargs='?', 
         default=os.path.join(os.getcwd(), 'downloads'), 
         help='Output file')
     args_parser.add_argument(
         '--all', dest='event_all', action='store_true', 
-        help='Match ALL events, not just ISDIR')
+        help='Match ALL events, not just ISDIR (Currently ONLY support ISDIR)')
     args_parser.set_defaults(debug=False)
     # Parse Console Args
     console_args = args_parser.parse_args()
+    action_lines = []
+    path_before = path_after = None
+    if path.isfile(console_args.watch_file):
+        watched_lines = (line for line in open(console_args.watch_file, 'rt'))
+        for wline in watched_lines:
+            if re.search('ISDIR', wline, re.IGNORECASE):
+                watched_event, watched_type, watched_path = wline.split(':', 2)
+                if watched_event == 'MOVED_FROM' and action_before is None:
+                    path_before = watched_path
+                elif watched_event == 'MOVED_TO' and action_after is None:
+                    path_after = watched_path
+                else:
+                    print ('[SKIP] Conflict Action: [%s] MOVED_FROM[%s] MOVED_TO[%s]' % (wline, path_before, path_after))
+                    path_before = path_after = None
+                
+                if path_before is not None and path_after is not None:
+                    name_after = path.dirname(path_after)
+                    action_bash = '[ test -d "{before}" ] && mv --no-clobber -v "{before}" "{after}"'.format(before=path_before, after=path_after)
+                    if re.search(name_after, path_before, re.IGNORECASE):
+                        print ('[VALID]: ' +action_bash)
+                        action_lines.append(action_bash)
+                    else:
+                        print ('[SKIP] Conflict? Object Name: MOVED_FROM[%s] MOVED_TO[%s]' % (path_before, path_after))
+                        action_lines.append('# %s' % action_bash)
+                    path_before = path_after = None
+                else:
+                    pass
+            else:
+                print ('[SKIP] NOTDIR Event: %s' % wline)
+    else:
+        pass
+    if console_args.act_file is not None and not path.isfile(console_args.act_file):
+        with open(console_args.act_file, 'wt+') as af:
+            af.writelines("%s\n" % act_cmd for act_cmd in action_lines)
 else:
     pass

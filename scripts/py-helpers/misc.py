@@ -21,6 +21,9 @@ def db_init(db_connect_str):
             elif db_connect_str.startswith('sqlite:'):
                 from databases.dldb_sqlite import dldb_sqlite
                 mydb = dldb_sqlite(db_connect_str.split(':', 1)[1])
+            elif db_connect_str.startswith('json:'):
+                from databases.dldb_json import json_db
+                mydb = json_db(db_connect_str.split(':', 1)[1])
             else:
                 mydb = None
     else:

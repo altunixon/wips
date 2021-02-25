@@ -10,6 +10,51 @@ def lst2chunks(lst, n):
     for i in range(0, len(lst), n):
         yield lst[i:i + n]
         
+def chunker_inpair(watched_lines):
+    for x in range(0, len(watched_lines), 2):
+        watch_before, watch_after = watched_lines[x:x+2]
+        event_before, type_before, path_before = watch_before.split(':', 2)
+        event_after, type_after, path_after = watch_after.split(':', 2)
+        name_before = path.dirname(path_before)
+        name_after = path.dirname(path_after)
+        name_match = match_percentage(name_after, name_before)
+        action_bash = '[ test -d "{before}" ] && mv --no-clobber -v "{before}" "{after}"'.format(before=path_before, after=path_after)
+        if name_match >= 80:
+            print ('[VALID] Matched %s%%: MOVED_FROM[%s] MOVED_TO[%s]' % (name_match, name_before, name_after))
+            yield action_bash
+        else:
+            print ('[WARN_] Conflict? matched %s%%: MOVED_FROM[%s] MOVED_TO[%s]' % (name_match, name_before, name_after))
+            yield ('# %s' % action_bash)
+        
+def chunker_inline(watched_lines):
+    action_lines = []
+    path_before = path_after = None
+    for wline in watched_lines:
+        watched_event, watched_type, watched_path = wline.split(':', 2)
+        if watched_event == 'MOVED_FROM' and action_before is None:
+            path_before = watched_path
+        elif watched_event == 'MOVED_TO' and action_after is None:
+            path_after = watched_path
+        else:
+            print ('[SKIP_] Conflict Action: [%s] MOVED_FROM[%s] MOVED_TO[%s]' % (wline, path_before, path_after))
+            path_before = path_after = None
+        
+        if path_before is not None and path_after is not None:
+            name_before = path.dirname(path_before)
+            name_after = path.dirname(path_after)
+            name_match = match_percentage(name_after, name_before)
+            action_bash = '[ test -d "{before}" ] && mv --no-clobber -v "{before}" "{after}"'.format(before=path_before, after=path_after)
+            if name_match >= 80:
+                print ('[VALID] Matched %s%%: MOVED_FROM[%s] MOVED_TO[%s]' % (name_match, name_before, name_after))
+                action_lines.append(action_bash)
+            else:
+                print ('[WARN_] Conflict? Object Name: MOVED_FROM[%s] MOVED_TO[%s]' % (path_before, path_after))
+                action_lines.append('# %s' % action_bash)
+            path_before = path_after = None
+        else:
+            pass
+    return action_lines
+        
 def match_percentage(string_1, string_2): # JANKY AF
     set_1 = set([x for x in string_1])
     set_2 = set([y for y in string_1])
@@ -41,37 +86,10 @@ if __name__ == "__main__":
     args_parser.set_defaults(debug=False)
     # Parse Console Args
     console_args = args_parser.parse_args()
-    action_lines = []
-    path_before = path_after = None
     if path.isfile(console_args.watch_file):
-        watched_lines = (line for line in open(console_args.watch_file, 'rt'))
-        for wline in watched_lines:
-            if re.search('ISDIR', wline, re.IGNORECASE):
-                watched_event, watched_type, watched_path = wline.split(':', 2)
-                if watched_event == 'MOVED_FROM' and action_before is None:
-                    path_before = watched_path
-                elif watched_event == 'MOVED_TO' and action_after is None:
-                    path_after = watched_path
-                else:
-                    print ('[SKIP_] Conflict Action: [%s] MOVED_FROM[%s] MOVED_TO[%s]' % (wline, path_before, path_after))
-                    path_before = path_after = None
-                
-                if path_before is not None and path_after is not None:
-                    name_before = path.dirname(path_before)
-                    name_after = path.dirname(path_after)
-                    name_match = match_percentage(name_after, name_before)
-                    action_bash = '[ test -d "{before}" ] && mv --no-clobber -v "{before}" "{after}"'.format(before=path_before, after=path_after)
-                    if name_match >= 80:
-                        print ('[VALID] Matched %s%%: MOVED_FROM[%s] MOVED_TO[%s]' % (name_match, name_before, name_after))
-                        action_lines.append(action_bash)
-                    else:
-                        print ('[SKIP_] Conflict? Object Name: MOVED_FROM[%s] MOVED_TO[%s]' % (path_before, path_after))
-                        action_lines.append('# %s' % action_bash)
-                    path_before = path_after = None
-                else:
-                    pass
-            else:
-                print ('[SKIP_] NOTDIR Event: %s' % wline)
+        watched_lines = (line for line in open(console_args.watch_file, 'rt') if re.search('ISDIR', line, re.IGNORECASE))
+        # action_lines = chunker_inline(watched_lines)
+        action_lines = chunker_inpair(watched_lines)
     else:
         pass
     if console_args.act_file is not None and not path.isfile(console_args.act_file):

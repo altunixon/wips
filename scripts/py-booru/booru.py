@@ -4,22 +4,21 @@
 # Python modules
 import os, sys, time, filetype, json
 import argparse
-from argparse                   import RawTextHelpFormatter
-from random                     import randint
-from urllib.parse               import unquote, urlsplit
-from collections                import namedtuple
+from argparse           import RawTextHelpFormatter
+from random             import randint
+from urllib.parse       import unquote, urlsplit
+from collections        import namedtuple
 # Custom modules
-from classes.utils              import *
-from classes.database           import checks
-from classes.utils              import get_siteconfigs, gen_randwait, gen_viewid, gen_tag, merge_two_dicts, isindex, gen_savename
-from classes                    import index, post
-from browsers.requests          import RequestsBrowser
-from browsers.login             import site_login_req
-from helpers.misc               import db_init, print_log, print_color, countdown, humanize_bytes
-from helpers.str_helper         import urlPrefixer, arr2str, string_sanitizer
-from helpers.dir_helper         import MkDirP
-from helpers.text_file          import keyed_list
-from vars.conf_booru            import naming_ifs, config_seperator, supported_sites
+from classes.utils      import *
+from classes.database   import checks
+from classes.utils      import get_siteconfigs, gen_randwait, gen_viewid, gen_tag, merge_two_dicts, isindex, gen_savename
+from classes            import index, post
+from browsers.requests  import RequestsBrowser
+from browsers.login     import site_login_req
+from helpers.misc       import db_init, txt_wrapper, print_log, print_color, countdown, humanize_bytes
+from helpers.str_helper import urlPrefixer, arr2str, string_sanitizer
+from helpers.dir_helper import MkDirP
+from vars.conf_booru    import naming_ifs, config_seperator, supported_sites
 
 def wrapper_check_lazy(index_table, views_first, views_last, **options):
     global mech_dbchecks, my_printer
@@ -28,27 +27,21 @@ def wrapper_check_lazy(index_table, views_first, views_last, **options):
     res_first = mech_dbchecks.views(views_first, index_table, verbose=False)
     if res_first.skip:
         if len(views_last) == 0:
-            my_printer('debug', 
-                'CHECK [LAZY] - NoSkip, First: "%s" [%s/%s] %s, Last: "%s" Unknown', 
-                refer_first, res_first.count, len(views_first), res_first.skip, refer_last, 
-            )
+            my_printer('debug', 'CHECK [LAZY] - NoSkip, First: "%s" [%s/%s] %s, Last: "%s" Unknown', 
+                refer_first, res_first.count, len(views_first), res_first.skip, refer_last)
             return False
         else:
             res_last  = mech_dbchecks.views(
                 views_last, index_table, verbose=False)
             if res_last.skip:
-                my_printer('debug', 
-                    'CHECK [LAZY] - SkipAll, First: "%s" [%s/%s] %s, Last: "%s" [%s/%s] %s', 
+                my_printer('debug', 'CHECK [LAZY] - SkipAll, First: "%s" [%s/%s] %s, Last: "%s" [%s/%s] %s', 
                     refer_first, res_first.count, len(views_first), res_first.skip, 
-                    refer_last, res_last.count, len(views_last), res_last.skip, 
-                )
+                    refer_last, res_last.count, len(views_last), res_last.skip)
                 return True
             else:
-                my_printer('debug', 
-                    'CHECK [LAZY] - NoSkip, First: "%s" [%s/%s] %s, Last: "%s" [%s/%s] %s', 
+                my_printer('debug', 'CHECK [LAZY] - NoSkip, First: "%s" [%s/%s] %s, Last: "%s" [%s/%s] %s', 
                     refer_first, res_first.count, len(views_first), res_first.skip, 
-                    refer_last, res_last.count, len(views_last), res_last.skip, 
-                )
+                    refer_last, res_last.count, len(views_last), res_last.skip)
                 return False
     else:
         my_printer('debug', 
@@ -92,19 +85,11 @@ def do_post(view_url, save_path, table_name, **options):
         n_max = len(post_images)
         if post_images is not None or n_max > 0:
             dlpost_returns['total'] = n_max
-            my_printer('info', 
-                'VIEW  [GET#] - Url: "%s", Id: "%s" (%s Imgs)', 
-                view_url, view_id, n_max
-            )
+            my_printer('info', 'VIEW  [GET#] - Url: "%s", Id: "%s" (%s Imgs)', view_url, view_id, n_max)
             for post_img in post_images:
                 post_exsource = post_img.source
-                image_saveas = os.path.join(
-                    save_path, post_img.file
-                )
-                post_dlstat = mech_browser.download(
-                    post_img.src, 
-                    image_saveas,
-                    refer   = view_url)
+                image_saveas = os.path.join(save_path, post_img.file)
+                post_dlstat = mech_browser.download(post_img.src, image_saveas, refer=view_url)
                 print_log('ok', 
                     'IMAGE [DONE] - Src: "%s", Dst: "%s", Success [%s], Size [%s/%s], Info [%s]',
                     post_img.src, 
@@ -118,25 +103,19 @@ def do_post(view_url, save_path, table_name, **options):
                     dlpost_returns['success'] += 1
                 else:
                     dlpost_returns['failed'] += 1
-            dlpost_result = namedtuple(
-                'DownloadPost', list(dlpost_returns.keys())
-            )
+            dlpost_result = namedtuple('DownloadPost', list(dlpost_returns.keys()))
             if dlpost_returns['success'] >= dlpost_returns['total'] \
             and dlpost_returns['success'] > 0:
-                my_printer('ok', 
-                    'IMAGE [DONE] - Url: "%s" (%s Imgs)', 
-                    view_url, dlpost_returns['success']
-                )
+                my_printer('ok', 'IMAGE [DONE] - Url: "%s" (%s Imgs)', 
+                    view_url, dlpost_returns['success'])
                 if mech_database is not None:
                     mech_database.insert_into(table=table_name, view=view_id, save=image_saveas)
                 else:
                     pass
                 dlpost_returns['ok'] = True
             else:
-                my_printer('error', 
-                    'IMAGE [FAIL] - Url: "%s" (%s/%s Imgs)', 
-                    view_url, dlpost_returns['success'], dlpost_returns['total']
-                )
+                my_printer('error', 'IMAGE [FAIL] - Url: "%s" (%s/%s Imgs)', 
+                    view_url, dlpost_returns['success'], dlpost_returns['total'])
             if post_exsource is not None:
                 external_source['{tag} {id}'.format(tag=table_name, id=view_id)] = post_exsource
             else:
@@ -148,10 +127,7 @@ def do_post(view_url, save_path, table_name, **options):
     else:
         post_files = []
         for post_info in post_images:
-            post_files.append({
-                'src': post_info.src, 
-                'saveas': post_info.saveas, 
-            })
+            post_files.append({'src': post_info.src, 'saveas': post_info.saveas})
         return post_files
 
 
@@ -163,10 +139,10 @@ def main(page_url, path_workdir, page_config, **options):
     global mech_loggedin, index_page, post_page
     global my_printer
 
-    page_tagname    = gen_tag(page_url, fifo=True)
-    page_saveto     = os.path.join(path_workdir, page_tagname)
+    page_tagname = gen_tag(page_url, fifo=True)
+    page_saveto = os.path.join(path_workdir, page_tagname)
     wrapper_prerun(page_tagname, page_saveto)
-    page_isdeviant  = True if 'deviantart.com' in page_config.fqdn else False
+    page_isdeviant = True if 'deviantart.com' in page_config.fqdn else False
 
     # LOGIN
     if page_config.login is None \
@@ -189,8 +165,7 @@ def main(page_url, path_workdir, page_config, **options):
     if not landing_page.code404 or landing_page.vcount > 0:
         # CHECK LAZY
         if console_args.lazy:
-            if page_config.index['last'] is None \
-            and page_config.index['list'] is None:
+            if page_config.index['last'] is None and page_config.index['list'] is None:
                 # print (landing_page.next, landing_page.last)
                 lazy_finish = False
             else:
@@ -199,17 +174,13 @@ def main(page_url, path_workdir, page_config, **options):
                     lazy_finish = False
                 else:
                     if landing_page.last is not None:
-                        views_page_last  = index_page.get_views(
-                            urlPrefixer(landing_page.last, page_url)
-                        ).views
+                        views_page_last  = index_page.get_views(urlPrefixer(landing_page.last, page_url)).views
                         # print (views_page_last)
                         views_page_first = landing_page.views
                     else:
                         if landing_page.list is not None \
                         and len(landing_page.list) > 0:
-                            views_page_last  = index_page.get_views(
-                                urlPrefixer(landing_page.list[-1], page_url)
-                            ).views
+                            views_page_last  = index_page.get_views(urlPrefixer(landing_page.list[-1], page_url)).views
                             views_page_first = landing_page.views
                         else:
                             views_page_first = None
@@ -239,64 +210,37 @@ def main(page_url, path_workdir, page_config, **options):
                     current_page, current_page_obj.vcount
                 )
                 # print ("DEBUG", current_page_obj.next); time.sleep(90)
-                index_precheck = mech_dbchecks.views(
-                    current_page_obj.views, 
-                    page_tagname, 
-                    verbose=False
-                )
+                index_precheck = mech_dbchecks.views(current_page_obj.views, page_tagname, verbose=False)
                 if index_precheck.skip:
                     download_returns['success'] += current_page_obj.vcount
-                    my_printer('info', 
-                        'INDEX [SKIP] - Url: "%s" [%s/%s] db/img', 
-                        current_page, 
-                        index_precheck.count, 
-                        current_page_obj.vcount
-                    )
+                    my_printer('info', 'INDEX [SKIP] - Url: "%s" [%s/%s] db/img', 
+                        current_page, index_precheck.count, current_page_obj.vcount)
                     current_page = urlPrefixer(current_page_obj.next, page_url) \
                         if current_page_obj.vcount > 0 \
                         and current_page_obj.next not in downloaded_indexes \
                         else None
-                    countdown(
-                        gen_randwait(console_args.wait, half=True), 
-                        txt = 'Next Index "%s" in:' % current_page
-                    )
+                    countdown(gen_randwait(console_args.wait, half=True), txt='Next Index "%s" in:' % current_page)
                 else:
                     download_returns['success'] = 0
                     for view_href in current_page_obj.views:
                         view_id  = gen_viewid(
                             view_href, deviant = page_isdeviant)
                         view_url = urlPrefixer(view_href, page_url)
-                        view_precheck = mech_dbchecks.view(
-                            view_href, 
-                            page_tagname, 
-                            id=view_id, 
-                            verbose=False
-                        )
+                        view_precheck = mech_dbchecks.view(view_href, page_tagname, id=view_id, verbose=False)
                         if view_precheck.skip:
                             download_returns['success'] += 1
                         else:
-                            post_dlresult = do_post(
-                                view_url, 
-                                page_saveto, 
-                                page_tagname, 
-                                id=view_id)
+                            post_dlresult = do_post(view_url, page_saveto, page_tagname, id=view_id)
                             if post_dlresult.ok:
                                 download_returns['success'] += 1
-                                countdown(
-                                    gen_randwait(console_args.wait, half=True), 
-                                    txt = 'Next Post in:'
-                                )
+                                countdown(gen_randwait(console_args.wait, half=True), txt='Next Post in:')
                             else:
                                 download_returns['failed'] += 1
-                        my_printer('info', 
-                            'INDEX [STAT] - Url: "%s" Currently at [%s/%s] Posts', 
-                            current_page, download_returns['success'], current_page_obj.vcount
-                        )
+                        my_printer('info', 'INDEX [STAT] - Url: "%s" Currently at [%s/%s] Posts', 
+                            current_page, download_returns['success'], current_page_obj.vcount)
                         # print (view_id, view_url)
-                    my_printer('info', 
-                        'INDEX [DONE] - Index: "%s" Downloaded [%s/%s] Posts', 
-                        current_page, download_returns['success'], current_page_obj.vcount
-                    )
+                    my_printer('info', 'INDEX [DONE] - Index: "%s" Downloaded [%s/%s] Posts', 
+                        current_page, download_returns['success'], current_page_obj.vcount)
                     # GET NEXT
                     current_page = urlPrefixer(current_page_obj.next, page_url) \
                         if current_page_obj.vcount > 0 \
@@ -304,9 +248,7 @@ def main(page_url, path_workdir, page_config, **options):
                         else None
                     my_printer('info', 'INDEX [NEXT] - Url: "%s"', current_page)
                     if current_page is not None:
-                        countdown(
-                            gen_randwait(console_args.wait, more=1.5), 
-                            txt = 'Next Index "%s" in:' % current_page)
+                        countdown(gen_randwait(console_args.wait, more=1.5), txt='Next Index "%s" in:' % current_page)
                     else:
                         pass
                 if console_args.only_update:
@@ -322,8 +264,7 @@ def main(page_url, path_workdir, page_config, **options):
     else:
         download_returns['code404'] = True
         my_printer('error', 'INDEX [#404] - Url: "%s"', page_url)
-    download_tally = namedtuple(
-        'DownloadTally', list(download_returns.keys()))
+    download_tally = namedtuple('DownloadTally', list(download_returns.keys()))
     return download_tally(**download_returns)
 
 if __name__ == "__main__":
@@ -423,13 +364,10 @@ if __name__ == "__main__":
     # Util & Wrapper Functions
     # ListFile
     if console_args.file is not None:
-        if ':' in console_args.file:
-            list_key, list_file = console_args.file.split(':', 1)
-        else:
-            list_key, list_file = None, console_args.file
-        list_custom = keyed_list(list_file)
-        file_klist = list_custom.read(list=True, key=list_key)
+        listfile_obj = txt_wrapper(list_file)
+        file_klist = listfile_obj.read()
     else:
+        listfile_obj = None
         file_klist = []
     index_combined = console_args.urls + file_klist
     # Main
@@ -443,54 +381,46 @@ if __name__ == "__main__":
             index_url   = index_urc
             index_workd = console_args.saveto
         site_conf = get_siteconfigs(index_url)
-        if site_conf is None:
-            my_printer('warn', 'SITE  [SKIP] - Url: "%s" Is not supported', index_urc)
-        else:
+        if site_conf is not None:
             # CREATING REUSABLE OBJECTS
-            index_page = index.page(
-                mech_browser, 
-                **site_conf.index
-            )
-            post_page = post.page(
-                mech_browser, 
-                **site_conf.image, 
-                lq = console_args.sample, 
-                onetag = True
-            )
+            index_page = index.page(mech_browser, **site_conf.index)
+            post_page = post.page(mech_browser, **site_conf.image, lq=console_args.sample, onetag=True)
             
             index_isurl_check = isindex(index_url)
             if index_isurl_check:
                 my_printer('info', 'TYPE  [INDX] - Url: "%s" Conf: (%s)', index_url, site_conf.fqdn)
-                page_dlresult = main(
-                    index_url, 
-                    index_workd, 
-                    site_conf
-                )
+                page_dlresult = main(index_url, index_workd, site_conf)
                 my_printer('info', 'INDEX [DONE] - Url: "%s" Conf: (%s), Downloaded [%s/%s] Img, Ok: %s', index_url, site_conf.fqdn, page_dlresult.success, page_dlresult.total, page_dlresult.ok)
             else:
                 my_printer('info', 'TYPE  [POST] - Url: "%s" Conf: (%s)', index_url, site_conf.fqdn)
                 wrapper_prerun('_misc', index_workd)
-                page_dlresult = do_post(
-                    index_url, index_workd, '_misc', 
-                    id='null' if 'rule34' in index_url else None)
+                page_dlresult = do_post(index_url, index_workd, '_misc', id='null' if 'rule34' in index_url else None)
                 my_printer('info', 'POST  [GET#] - Url: "%s" Conf: (%s), Downloaded [%s/%s] Img, Ok: %s', index_url, site_conf.fqdn, page_dlresult.success, page_dlresult.total, page_dlresult.ok)
-
+                
+            if page_dlresult.ok and listfile_obj is not None:
+                listfile_obj.comment(index_urc)
+                listfile_obj.check_dump()
+            else:
+                pass
             # WAIT Before Next Url
-            countdown(
-                gen_randwait(
-                    console_args.wait, 
-                    more=1.5 if index_isurl_check else 1), 
-                txt = 'Next Page in:')
-    my_printer(
-        'info', 'SITE  [DONE] - Processed: [%s] Urls', 
-        len(index_combined))
+            countdown(gen_randwait(console_args.wait, more=1.5 if index_isurl_check else 1), txt='Next Page in:')
+        else:
+            my_printer('warn', 'SITE  [SKIP] - Url: "%s" Is not supported', index_urc)
+    my_printer('info', 'SITE  [DONE] - Processed: [%s] Urls', len(index_combined))
     if len(external_source.keys()) > 0:
         if console_args.source_links is None:
-            my_printer('debug', 'Consider download (%s) from source\n%s\n', len(external_source.keys()), json.dumps(external_source, indent=4, sort_keys=True, ensure_ascii=False))
+            my_printer('debug', 'Consider download (%s) from source\n%s\n', 
+                len(external_source.keys()), 
+                json.dumps(external_source, indent=4, sort_keys=True, ensure_ascii=False))
         else:
             with open(console_args.source_links, 'w+') as source_jf:
                 json.dump(external_source, source_jf, indent=4, sort_keys=True, ensure_ascii=False)
-            my_printer('debug', 'Dumped (%s) External links to file "%s"', len(external_source.keys()), console_args.source_links)
+            my_printer('debug', 'Dumped (%s) External links to file "%s"', 
+                len(external_source.keys()), console_args.source_links)
+    else:
+        pass
+    if listfile_obj is not None:
+        listfile_obj.close()
     else:
         pass
 else:

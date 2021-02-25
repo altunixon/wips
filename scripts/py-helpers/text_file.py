@@ -204,42 +204,19 @@ class json_file():
                 pass
 
 class keyed_list():
-    def __init__(self, **list_options):
-        self.file_path = list_options.get('file', None)
+    def __init__(self, file_path, **list_options):
+        self.file_path = file_path
         self.file_style = list_options.get('style', 'ini')
         self.check = isfile(list_file)
         self.read_key = list_options.get('match', None)
         self.list_key = None
         self.list_cache = []
-        
-    def read_position(self, get_key, list_content, **options):
-        print ('PLACEBO for keyed_list compatibility')
-        return None
-    # text_caching compatibility purpose
-    def comment(self, file_name, file_line, **options):
-        print ('PLACEBO for keyed_list compatibility')
-        return None
-                
-    def check_dump(self, file_name, **options):
-        print ('PLACEBO for keyed_list compatibility')
-        return None
-    
-    def close(self):
-        print ('PLACEBO for keyed_list compatibility')
-        return None
-    
-    def upsert(self, file_name, list_current, **options):
-        print ('PLACEBO for keyed_list compatibility')
-        return None
-    
-    def dump(self, file_name):
-        print ('PLACEBO for keyed_list compatibility')
-        return None
 
-    def read(self, file_path, **options):
+    def read(self, **options):
         read_asdict = options.get('asdict', False)
+        read_key = options.get('key', self.read_key)
         if self.check:
-            with open(file_path, 'r') as lf:
+            with open(self.file_path, 'r') as lf:
                 content_lines = [t for t in lf.read().splitlines() if len(t) > 0 and not t.startswith('#')]
             list_keys = []
             list_range= []

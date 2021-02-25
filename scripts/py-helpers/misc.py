@@ -36,17 +36,18 @@ class wrapper_listfile():
             self.list_key, self.list_file = file_path.split(':', 1)
         else:
             self.list_key, self.list_file = None, file_path
-        if self.list_key is not None:
-            from helpers.text_file import keyed_list
-            self.list_obj = keyed_list(match=self.list_key)
-            self.warn_msg = 'LIST file "{file}" is of type ReadOnly(Keyed) [{key}] and does not support %s function'.format(file=self.list_file, key=self.list_key)
-            self.readonly = True
-        else:
+        self.forcerw = options.get('forcerw', False)
+        if self.forcerw or self.list_key is None:
             from helpers.text_caching import text_cache
             self.list_obj = text_cache(expire=1800)
             self.warn_msg = 'LIST file "{file}" is of type TextCache, Which is wierd since its suppsed to support %s function'.format(file=self.list_file)
             self.readonly = False
-
+        else:
+            from helpers.text_file import keyed_list
+            self.list_obj = keyed_list(match=self.list_key)
+            self.warn_msg = 'LIST file "{file}" is of type ReadOnly(Keyed) [{key}] and does not support %s function'.format(file=self.list_file, key=self.list_key)
+            self.readonly = True
+            
     def read(self, **options):
         if self.readonly:
             return self.list_obj.read(asdict=False)

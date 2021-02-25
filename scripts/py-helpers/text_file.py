@@ -204,74 +204,89 @@ class json_file():
                 pass
 
 class keyed_list():
-    def __init__(self, list_file, **list_options):
-        self.file_path = list_file
-        self.file_style = list_options.pop('style', 'ini')
+    def __init__(self, **list_options):
+        self.file_path = list_options.get('file', None)
+        self.file_style = list_options.get('style', 'ini')
         self.check = isfile(list_file)
+        self.read_key = list_options.get('match', None)
         self.list_key = None
         self.list_cache = []
         
     def read_position(self, get_key, list_content, **options):
-        get_headtail = options.get('headtail', False)
+        print ('PLACEBO for keyed_list compatibility')
         return None
-        
-    def comment(self, line_comment, **options):
-        comment_char = options.get('comment', '# ')
-        for x, line_cached in enumerate(self.list_cache):
-            if line_comment == line_cached:
-                self.list_cache[x] = '{comment}{line_txt}'.format(comment=comment_char, line_txt=line_cached)
+    # text_caching compatibility purpose
+    def comment(self, file_name, file_line, **options):
+        print ('PLACEBO for keyed_list compatibility')
+        return None
                 
-    def flush(self, **options)
+    def check_dump(self, file_name, **options):
+        print ('PLACEBO for keyed_list compatibility')
+        return None
+    
+    def close(self):
+        print ('PLACEBO for keyed_list compatibility')
+        return None
+    
+    def upsert(self, file_name, list_current, **options):
+        print ('PLACEBO for keyed_list compatibility')
+        return None
+    
+    def dump(self, file_name):
+        print ('PLACEBO for keyed_list compatibility')
         return None
 
-    def read(self, **options):
-        read_aslist = options.pop('list', True)
-        read_key = options.pop('key', None)
+    def read(self, file_path, **options):
+        read_asdict = options.get('asdict', False)
         if self.check:
-            with open(self.file_path, 'r') as lf:
+            with open(file_path, 'r') as lf:
                 content_lines = [t for t in lf.read().splitlines() if len(t) > 0 and not t.startswith('#')]
-            if read_key is not None:
-                list_keys = []
-                list_range= []
-                for i, l in enumerate(content_lines):
-                    if l.startswith('['):
-                        list_keys.append(l.strip('[').strip(']').strip())
-                        list_range.append(i) # line counter, for linebreak/bracket detecting
-                    else:
-                        pass
-                list_range.append(len(content_lines)) # add eof index
-
-                list_dict = defaultdict(list)
-                #print(list_dict, list_range)
-                for i, k in enumerate(list_keys):
-                    l_b = list_range[i]+1
-                    l_e = list_range[i+1]
-                    list_sub = content_lines[l_b:l_e]
-                    #print(k, l_b, l_e)
-                    if '|' in k:
-                        k_fomat = k.split('|', 1)[-1]
-                    else:
-                        k_fomat = k
-                    if '{}' in k_fomat:
-                        list_flines = [k_fomat.format(e) if '://' not in e else e for e in list_sub]
-                    elif '%s' in k_fomat:
-                        list_flines = [(k_fomat % e) if '://' not in e else e for e in list_sub]
-                    else:
-                        list_flines = [(k_fomat + e) if '://' not in e else e for e in list_sub]
-                    #print(k, list_flines)
-                    list_dict[k] = list_flines
-                if not read_aslist or read_key is None:
-                    return list_dict
+            list_keys = []
+            list_range= []
+            for i, l in enumerate(content_lines):
+                if l.startswith('['):
+                    l_k = l.strip('[').strip(']').strip()
+                    list_keys.append(l_k)
+                    list_range.append(i) # line counter, for linebreak/bracket detecting
                 else:
-                    for k in list_dict.keys():
+                    pass
+            list_range.append(len(content_lines)) # add eof index
+
+            list_dict = defaultdict(list)
+            #print(list_dict, list_range)
+            for i, k in enumerate(list_keys):
+                l_b = list_range[i]+1
+                l_e = list_range[i+1]
+                list_sub = content_lines[l_b:l_e]
+                #print(k, l_b, l_e)
+                if '|' in k:
+                    k_fomat = k.split('|', 1)[-1]
+                else:
+                    k_fomat = k
+                if '{}' in k_fomat:
+                    list_flines = [k_fomat.format(e) if '://' not in e else e for e in list_sub]
+                elif '%s' in k_fomat:
+                    list_flines = [(k_fomat % e) if '://' not in e else e for e in list_sub]
+                else:
+                    list_flines = [(k_fomat + e) if '://' not in e else e for e in list_sub]
+                #print(k, list_flines)
+                list_dict[k] = list_flines
+  
+            if not read_asdict:
+                if self.read_key is not None:
+                    for k, v in list_dict.iteritems():
                         if read_key in k:
                             self.list_key = k
-                            self.list_cache = list_dict[k]
+                            self.list_cache = v
                             return self.list_cache
                         else:
                             pass
-                    return list_dict
-                return [l for l in content_lines if not l.startswith('[')]
+                else:
+                    for k, v in list_dict.iteritems():
+                        self.list_cache += v
+                    return self.list_cache
+            else:
+                return list_dict
         else:
             return []
 

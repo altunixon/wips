@@ -30,6 +30,60 @@ def db_init(db_connect_str):
         mydb = None
     return mydb
 
+class txt_wrapper():
+    def __init__(self, file_path, **options):
+        if ':' in file_path:
+            self.list_key, self.list_file = file_path.split(':', 1)
+        else:
+            self.list_key, self.list_file = None, file_path
+        if self.list_key is not None:
+            from helpers.text_file import keyed_list
+            self.list_obj = keyed_list(match=self.list_key)
+            self.warn_msg = 'LIST file "{file}" is of type ReadOnly(Keyed) [{key}] and does not support %s function'.format(file=self.list_file, key=self.list_key)
+            self.readonly = True
+        else:
+            from helpers.text_caching import text_cache
+            self.list_obj = text_cache(expire=1800)
+            self.warn_msg = 'LIST file "{file}" is of type TextCache, Which is wierd since its suppsed to support %s function'.format(file=self.list_file)
+            self.readonly = False
+        
+    
+    def read(self, **options):
+        if self.readonly:
+            return self.list_obj.read(asdict=False)
+        else:
+            return self.list_obj.read(self.list_file)
+        
+    def comment(self, file_line, **options):
+        if self.readonly:
+            print (self.warn_msg % 'comment()')
+        else:
+            self.list_obj.comment(self.list_file, file_line, **options)
+    
+    def upsert(self, current_list, **options)
+        if self.readonly:
+            print (self.warn_msg % 'upsert()')
+        else:
+            self.list_obj.upsert(self.list_file, current_list, comment='# ')
+    
+    def dump(self):
+        if self.readonly:
+            print (self.warn_msg % 'dump()')
+        else:
+            self.list_obj.dump(self.list_file)
+            
+    def check_dump(self):
+        if self.readonly:
+            print (self.warn_msg % 'check_dump()')
+        else:
+            self.list_obj.check_dump(self.list_file)
+            
+    def close(self):
+        if self.readonly:
+            print (self.warn_msg % 'close()')
+        else:
+            self.list_obj.close()
+
 class FormatDefault(dict):
     def __missing__(self, key):
         return key
@@ -292,6 +346,17 @@ def cal_duration(tm_bs, tm_es, humanize=False):
     else:
         tm_str = str(tm_dur)
     return tm_str
+
+def seconds2human(int_seconds):
+    if int_seconds < 60:
+        return '{:02d}s'.format(int_second)
+    elif 60 < int_seconds < 3600:
+        m, s = divmod(int_seconds, 60)
+        return '{:02d}m{:02d}s'.format(m, s)
+    else:
+        m, s = divmod(int_seconds, 60)
+        h, m = divmod(m, 60)
+        return '{:02d}h{:02d}m{:02d}s'.format(h, m, s)
 # Misc Func
 def check_null(v_ariable):
     if v_ariable is None:
@@ -328,7 +393,6 @@ def text_write(text_file, text_lines, write_mode='w+'):
     except Exception as excp:
         print ('Unable to write File: "%s"\n' % text_file, excp)
         return False
-
 
 #===============================================================================
 # DEBUG

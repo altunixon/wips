@@ -15,7 +15,7 @@ from classes.utils      import get_siteconfigs, gen_randwait, gen_viewid, gen_ta
 from classes            import index, post
 from browsers.requests  import RequestsBrowser
 from browsers.login     import site_login_req
-from helpers.misc       import db_init, txt_wrapper, print_log, print_color, countdown, humanize_bytes
+from helpers.misc       import db_init, wrapper_listfile, print_log, print_color, countdown, humanize_bytes
 from helpers.str_helper import urlPrefixer, arr2str, string_sanitizer
 from helpers.dir_helper import MkDirP
 from vars.conf_booru    import naming_ifs, config_seperator, supported_sites
@@ -364,7 +364,7 @@ if __name__ == "__main__":
     # Util & Wrapper Functions
     # ListFile
     if console_args.file is not None:
-        listfile_obj = txt_wrapper(list_file)
+        listfile_obj = wrapper_listfile(list_file)
         file_klist = listfile_obj.read()
     else:
         listfile_obj = None

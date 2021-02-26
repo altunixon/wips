@@ -513,6 +513,7 @@ def pix_main(urls):
                                 pix_index = pixiv_index(current_url, pix_browser.read(), uid=pix_uid)
                             # LAZY
                             current_viewport = pix_index.views()
+                            # WTF!?
                             v_check_all = pix_check.vchecks_null
                             # print (json.dumps(current_viewport._asdict(), indent=4, ensure_ascii=False, sort_keys=True))    
                             if not v_check_all.skip:
@@ -526,11 +527,10 @@ def pix_main(urls):
                                     if pix_database is None:
                                         v_check = pix_check.vcheck_null
                                     else:
-                                        if current_viewport.count_multipage > 0 \
-                                        and v_href in current_viewport.multipage:
+                                        if current_viewport.count_multipage > 0 and v_href in current_viewport.multipage:
                                             console_printer('debug', 'VIEW# [MULT] - Url: "%s"', v_url)
-                                            if console_args.lazy_skip:
-                                                v_check = pix_check.bypass(pix_index.uid, v_id) # check the first? last? image in multipage
+                                            if console_args.lazy_skip: # check the first? last? image in multipage
+                                                v_check = pix_check.bypass(pix_index.uid, v_id)
                                             else:
                                                 v_check = pix_check.view(pix_index.uid, v_id)
                                         else:
@@ -556,7 +556,8 @@ def pix_main(urls):
                                         pass
                                 # END VIEWS
                             else:
-                                console_printer('debug', 'INDEX [SKIP] - Url: "%s" DB %s: [%s/%s]', current_url, pix_index.uid, v_check_all.done, v_check_all.total)
+                                console_printer('debug', 'INDEX [SKIP] - Url: "%s" DB %s: [%s/%s]', 
+                                    current_url, pix_index.uid, v_check_all.done, v_check_all.total)
                             # END PORT
                             current_url = pix_index.nextpg(pool=processed_indexes) \
                                 if len(current_viewport.views) > 0 \

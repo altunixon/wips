@@ -34,7 +34,18 @@
 - watcher list converter (inotifywait events to action)
 - Patch booru.py, pixiv.py
 - Patch helpers/{text_file.py,misc.py}
-- pixiv.py > v_check_all = pix_check.vchecks_null Harcoded v_check_all!? why use such blasphemy
+- pixiv.py > classes > pix_check > glob_glob(path, uid, vid)
+  ```python
+  from glob import glob
+  def glob_glob(self, save_path, user_id, view_id, **options):
+      glob_path = os.path.join(save_path, '{uid}_{vid}_p*.*'.format(uid=user_id, vid=view_id))
+      glob_found = glob(glob_path)
+      if len(glob_found) > 0:
+          glob_retval = namedtuple('CheckGlob', ['done', 'skip', 'result'])
+          return glob_retval(done=True, skip=True, result=glob_found[0])
+      else:
+          return self.vcheck_null
+  ```
 
 ## DONE
 - rename dj match first brackets: </br>

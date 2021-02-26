@@ -144,11 +144,7 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
 
     pix_view_title = pix_view_meta.pop('title', None)
     pix_safe_title = string_sanitizer(
-        spider_checkattr(
-            pix_view_title, 
-            pix_presenter, 
-            text_title = xpath_pview_title
-        )
+        spider_checkattr(pix_view_title, pix_presenter, text_title=xpath_pview_title)
     )
     pix_meta = {
         'userid': pix_safe_uid, 
@@ -494,7 +490,7 @@ def pix_main(urls):
                         else:
                             save_index = os.path.normpath(save_path)
                         # print (save_index)
-                        if pix_uid not in index_chckd:
+                        if pix_uid not in index_chckd: # create table if not exists
                             index_chckd.add(pix_uid)
                             pix_check.createnew(pix_uid, save_index)
                         else:
@@ -513,8 +509,10 @@ def pix_main(urls):
                                 pix_index = pixiv_index(current_url, pix_browser.read(), uid=pix_uid)
                             # LAZY
                             current_viewport = pix_index.views()
-                            # WTF!?
-                            v_check_all = pix_check.vchecks_null
+                            if pix_database is not None:
+                                v_check_all = pix_check.views(pix_index.uid, current_viewport.views)
+                            else:
+                                v_check_all = pix_check.vchecks_null
                             # print (json.dumps(current_viewport._asdict(), indent=4, ensure_ascii=False, sort_keys=True))    
                             if not v_check_all.skip:
                                 # NAVIGATING CURRENT VIEWS
@@ -525,11 +523,16 @@ def pix_main(urls):
                                     # v_url = urlPrefixer(v_href, pixiv_fqdn)
                                     v_url = pixiv_illust_view.format(vid=v_id)
                                     if pix_database is None:
-                                        v_check = pix_check.vcheck_null
+                                        if console_args.lazy_skip:
+                                            # from glob import glob > glob('{path}/{uid}_{vid}_p*.*'.format())
+                                            v_check = pix_check.glob_glob(save_index, pix_index.uid, v_id)
+                                        else:
+                                            v_check = pix_check.vcheck_null
                                     else:
                                         if current_viewport.count_multipage > 0 and v_href in current_viewport.multipage:
                                             console_printer('debug', 'VIEW# [MULT] - Url: "%s"', v_url)
-                                            if console_args.lazy_skip: # check the first? last? image in multipage
+                                            if console_args.lazy_skip:
+                                                # check the first? last? image in multipage (the _pXX part)
                                                 v_check = pix_check.bypass(pix_index.uid, v_id)
                                             else:
                                                 v_check = pix_check.view(pix_index.uid, v_id)
@@ -539,6 +542,8 @@ def pix_main(urls):
                                     if v_check.skip:
                                         console_printer('info', 'VIEW# [SKIP] - Url: "%s", DB %s: [%s]', v_url, pix_index.uid, v_check.done)
                                         view_ok = True
+                                        if console_args.lazy_skip:
+                                            break
                                     else:
                                         # PORTING? KEEP
                                         view_ok = get_view(
@@ -556,7 +561,7 @@ def pix_main(urls):
                                         pass
                                 # END VIEWS
                             else:
-                                console_printer('debug', 'INDEX [SKIP] - Url: "%s" DB %s: [%s/%s]', 
+                                console_printer('debug', 'INDEX [SKIP] - Url: "%s" DB Table %s: [%s/%s]', 
                                     current_url, pix_index.uid, v_check_all.done, v_check_all.total)
                             # END PORT
                             current_url = pix_index.nextpg(pool=processed_indexes) \

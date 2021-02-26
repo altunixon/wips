@@ -34,6 +34,7 @@
 - watcher list converter (inotifywait events to action)
 - Patch booru.py, pixiv.py
 - Patch helpers/{text_file.py,misc.py}
+- pixiv.py > v_check_all = pix_check.vchecks_null Harcoded v_check_all!? why use such blasphemy
 
 ## DONE
 - rename dj match first brackets: </br>

@@ -10,11 +10,11 @@
   ```
 - Xtract watcher (WORKING) https://linux.die.net/man/1/inotifywait
   ```bash
-  inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %w%f' ~/Xtracts
-  inotifywait --monitor --recursive --outfile /tmp/xtract_watch.txt --event modify --event move --event create --event delete --format '%:e %w%f' ~/Xtracts
+  inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e:%w%f' ~/Xtracts
+  inotifywait --monitor --recursive --outfile /tmp/xtract_watch.txt --event modify --event move --event create --event delete --format '%:e:%w%f' ~/Xtracts
   function watcher_start() {
     IFS=$'\r\n'
-    inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e %w%f' --daemon "$1"
+    inotifywait -m -r -o /tmp/xtract_watch.txt -e move --format '%:e:%w%f' --daemon "$1"
     echo $! | tee /tmp/watcher.pid
     watcher_pid=$(cat /tmp/watcher.pid)
     echo "Watcher Process [$watcher_pid]: $(ps -p $watcher_pid -o command) [STARTED]\nUse: 'kill -9 $watcher_pid' or 'watcher_stop' to kill it."
@@ -29,11 +29,11 @@
     fi
   }
   ```
-- booru.py > from helpers.text_file import keyed_list > list mark comment function keyed_list.comment(list_key, list_line, comment='#')
-- helpers.misc > init_db() > needs updating to include jsondb type
 - mysqldump (optional: sqlite) to json conversion
 - skbnya external search url, preferable dm2 (very low priority)
 - watcher list converter (inotifywait events to action)
+- Patch booru.py, pixiv.py
+- Patch helpers/{text_file.py,misc.py}
 
 ## DONE
 - rename dj match first brackets: </br>
@@ -65,3 +65,5 @@
   done
   ```
   `Tl;dr: [^)] = Negative set, match everything that is not ")" close bracket`
+- booru.py > from helpers.text_file import keyed_list > list mark comment function keyed_list.comment(list_key, list_line, comment='#')
+- helpers.misc > init_db() > needs updating to include jsondb type

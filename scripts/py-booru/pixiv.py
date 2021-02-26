@@ -479,7 +479,7 @@ def pix_main(urls):
                     pix_available = pix_browser.dom_click(xpath_pindex_seeall, meltdown=False, desc="Reveal Indexes")
                     if pix_available:
                         countdown(console_args.wait_time, txt='Revealing Artworks in')
-                        print ('REVEAL', pix_browser.driver.current_url)
+                        # print ('REVEAL', pix_browser.driver.current_url)
                         # pix_landing_html = pix_browser.read(reload=True)
                         pix_landing_html = pix_browser.read()
                         pix_landing = pixiv_index(pix_url, pix_landing_html, verbose=console_args.debug, color=console_color)
@@ -499,6 +499,7 @@ def pix_main(urls):
                         current_url = pix_url = pix_browser.driver.current_url
                         # print (current_url, pix_url, pix_browser.driver.current_url)
                         processed_indexes = set([])
+                        current_skip = False
                         while current_url is not None:
                             processed_indexes.add(current_url)
                             current_url = urlPrefixer(current_url, pixiv_fqdn) # JANKY AF
@@ -515,6 +516,8 @@ def pix_main(urls):
                                 v_check_all = pix_check.vchecks_null
                             # print (json.dumps(current_viewport._asdict(), indent=4, ensure_ascii=False, sort_keys=True))    
                             if not v_check_all.skip:
+                                console_printer('info', 'INDEX [INFO] - Url: "%s" %s: [%s/%s]', 
+                                    current_url, pix_index.uid, v_check_all.done, v_check_all.total)
                                 # NAVIGATING CURRENT VIEWS
                                 for v_data in current_viewport.views:
                                     # print (json.dumps(v_data, indent=4, ensure_ascii=False, sort_keys=True))
@@ -543,7 +546,8 @@ def pix_main(urls):
                                         console_printer('info', 'VIEW# [SKIP] - Url: "%s", %s: [%s]', v_url, pix_index.uid, v_check.done)
                                         view_ok = True
                                         if console_args.lazy_skip:
-                                            console_printer('info', 'INDEX [LAZY] - Url: "%s", Break at VID: %s: [%s]', current_url, v_url)
+                                            console_printer('info', 'INDEX [LAZY] - Url: "%s", Break at View: "%s" Found[%s]', current_url, v_url, v_check.done)
+                                            current_skip = True
                                             break
                                     else:
                                         # PORTING? KEEP
@@ -564,9 +568,11 @@ def pix_main(urls):
                             else:
                                 console_printer('debug', 'INDEX [SKIP] - Url: "%s" %s: [%s/%s]', 
                                     current_url, pix_index.uid, v_check_all.done, v_check_all.total)
+                                if console_args.lazy_skip:
+                                    current_skip = True
                             # END PORT
                             current_url = pix_index.nextpg(pool=processed_indexes) \
-                                if len(current_viewport.views) > 0 \
+                                if len(current_viewport.views) > 0 and not current_skip \
                                 else None
                             if current_url is not None:
                                 countdown(console_args.wait_time, txt='Next: "%s"' % current_url)

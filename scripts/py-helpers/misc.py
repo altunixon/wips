@@ -60,7 +60,7 @@ class wrapper_listfile():
         else:
             self.list_obj.comment(self.list_file, file_line, **options)
     
-    def upsert(self, current_list, **options)
+    def upsert(self, current_list, **options):
         if self.readonly:
             print (self.warn_msg % 'upsert()')
         else:

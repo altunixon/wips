@@ -540,9 +540,10 @@ def pix_main(urls):
                                             console_printer('debug', 'VIEW# [SNGL] - Url: "%s"', v_url)
                                             v_check = pix_check.view(pix_index.uid, v_id)
                                     if v_check.skip:
-                                        console_printer('info', 'VIEW# [SKIP] - Url: "%s", DB %s: [%s]', v_url, pix_index.uid, v_check.done)
+                                        console_printer('info', 'VIEW# [SKIP] - Url: "%s", %s: [%s]', v_url, pix_index.uid, v_check.done)
                                         view_ok = True
                                         if console_args.lazy_skip:
+                                            console_printer('info', 'INDEX [LAZY] - Url: "%s", Break at VID: %s: [%s]', current_url, v_url)
                                             break
                                     else:
                                         # PORTING? KEEP
@@ -561,7 +562,7 @@ def pix_main(urls):
                                         pass
                                 # END VIEWS
                             else:
-                                console_printer('debug', 'INDEX [SKIP] - Url: "%s" DB Table %s: [%s/%s]', 
+                                console_printer('debug', 'INDEX [SKIP] - Url: "%s" %s: [%s/%s]', 
                                     current_url, pix_index.uid, v_check_all.done, v_check_all.total)
                             # END PORT
                             current_url = pix_index.nextpg(pool=processed_indexes) \

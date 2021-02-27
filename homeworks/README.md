@@ -32,19 +32,16 @@
 - mysqldump (optional: sqlite) to json conversion
 - skbnya external search url, preferable dm2 (very low priority)
 - watcher list converter (inotifywait events to action)
-- Patch booru.py, pixiv.py
-- Patch helpers/{text_file.py,misc.py}
-- pixiv.py > classes > pix_check > glob_glob(path, uid, vid)
-  ```python
-  from glob import glob
-  def glob_glob(self, save_path, user_id, view_id, **options):
-      glob_path = os.path.join(save_path, '{uid}_{vid}_p*.*'.format(uid=user_id, vid=view_id))
-      glob_found = glob(glob_path)
-      if len(glob_found) > 0:
-          glob_retval = namedtuple('CheckGlob', ['done', 'skip', 'result'])
-          return glob_retval(done=True, skip=True, result=glob_found[0])
-      else:
-          return self.vcheck_null
+- pixiv.py > classes > view error
+  ```html
+    <div class="_unit error-unit">
+    <h2 class="error-title">An error has occurred.</h2>
+        <p class="error-message">Work has been deleted or the ID does not exist.</p>
+        <p class="error-message"><a href="/">Back</a></p>
+        <div class="bigbanner">
+            <iframe src="https://pixon.ads-pixiv.net/show?zone_id=bigbanner&amp;format=html&amp;s=1&amp;up=0&amp;a=31&amp;ng=g&amp;l=en&amp;uri=%2Fen%2Fartworks%2F_PARAM_&amp;K=5419686e6159a&amp;ab_test_digits_first=31&amp;yuid=M3E0gxg&amp;suid=Pgo1yecskyiw00p54&amp;num=6039c2e575" marginwidth="0" marginheight="0" allowtransparency="true" scrolling="no" class="ad-bigbanner" width="500" height="520" frameborder="0"></iframe>
+        </div>
+    </div>
   ```
 
 ## DONE
@@ -79,3 +76,5 @@
   `Tl;dr: [^)] = Negative set, match everything that is not ")" close bracket`
 - booru.py > from helpers.text_file import keyed_list > list mark comment function keyed_list.comment(list_key, list_line, comment='#')
 - helpers.misc > init_db() > needs updating to include jsondb type
+- Patch booru.py, pixiv.py
+- Patch helpers/{text_file.py,misc.py}

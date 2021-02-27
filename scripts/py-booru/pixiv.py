@@ -586,7 +586,7 @@ def pix_main(urls):
                 countdown(gen_randwait(console_args.wait_time * 2), txt='Next Link in: ')
                 if list_cache is not None and get_errors == 0:
                     #list_cache.comment(one_url)
-                    list_cache.comment(one_url, comment='# ' if pix_available else '# 404 PURGED #')
+                    list_cache.comment(one_url, comment='#' if pix_available else '# 404 PURGED #')
                     list_cache.check_dump()
                 else:
                     pass

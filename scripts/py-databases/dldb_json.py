@@ -1,5 +1,5 @@
 import json
-from os import path, normpath
+from os import path
 from glob import glob
 from time import time, localtime, strftime
 
@@ -9,24 +9,24 @@ from time import time, localtime, strftime
 
 class json_db:
     def __init__(self, db_root, **options):
-        self.type = 'json'
+        self.db_type = 'json'
         self.db_root = db_root
         self.db_cache = {}
         self.db_meltdown = options.get('meltdown', True)
         if self.db_root is not None:
             if path.isdir(self.db_root):
                 self.db_tables = {}
-                for x in glob('%s/*.json' % normpath(self.db_root)):
+                for x in glob('%s/*.json' % path.normpath(self.db_root)):
                     table_name = path.splitext(path.basename(x))[0]
                     self.db_tables[table_name] = x
             else:
-                raise Exception('[ERRO] JSON Path: Database DB_ROOT jsondb("%s") does not exists.' % self.db_root)
+                raise Exception('[JSON DB] Database ROOT_PATH jsondb(db="%s") NotFound.')
         else:
-            raise Exception('[ERRO] JSON Path: Database DB_ROOT jsondb("root_path") has not been defined.')
+            raise Exception('[JSON DB] Database ROOT_PATH jsondb(db="x") has not been defined.')
         self.db_dirty_tables = set([])
         self.db_delete_on_drop = options.get('delete_on_drop', True)
-        self.warn_not_cached = lambda x, y: '[WARN] JSON Cache: Executing [%s] on uncached table [%s]\nCurrent Cache:\n%s\n' % \
-            (x, y, json.dumps(self.db_cache, indent=4))
+        self.warn_not_cached = lambda x: 'Query table [%s] has not been cached\nCurrent Cache:\n%s\n' % \
+            (x, json.dumps(self.db_cache, indent=4))
         
     def timestamp(self):
         table_ctime = time()
@@ -43,7 +43,7 @@ class json_db:
     def create_table(self, **query_data):
         table_name = query_data.pop('table', None)
         assert (table_name is not None), \
-            '[ERRO] JSON Query: CREATE TABLE %s FAILED, Data=%s' % (table_name, query_data)
+            '[JSON DB] Could not CREATE TABLE with NUL <table_name> value: %s' % query_data
         table_file = '{root}/{table}.json'.format(root=self.db_root, table=table_name)
         table_comment = query_data.pop('comment', None)
         col_key = col_val = None
@@ -53,7 +53,7 @@ class json_db:
             else:
                 col_val = k
         assert (col_key is not None and col_val is not None), \
-            '[ERRO] JSON Query: CREATE TABLE "%s" FAILED, Invalid key/value pairs: %s' % (table_name, query_data)
+            '[JSON DB] Could not CREATE TABLE with Invalid key/value pairs: %s' % query_data
         if table_name not in self.db_tables.keys() or not path.isfile(table_file):
             table_cdate = self.timestamp()
             table_new = {
@@ -75,41 +75,39 @@ class json_db:
     
     def insert_into(self, **query_data):
         table_name = query_data.pop('table', None)
-        assert (table_name is not None and table_name in self.db_cache.keys()), \
-            self.warn_not_cached('INSERT', table_name)
+        assert (table_name is not None and table_name in self.db_cache.keys()), self.warn_not_cached(table_name)
         col_key = self.db_cache[table_name]['key']
         data_key = query_data.get(col_key, None)
         col_val = self.db_cache[table_name]['value']
         data_val = query_data.get(col_val, None)
         assert (data_key is not None and data_val is not None), \
-            '[ERRO] JSON Query: INSERT INTO "%s" FAILED, Invalid key/value pairs: %s' % (table_name, query_data)
-        mode_update = options.pop('update', True)
+            '[JSON DB] Could not INSERT INTO "%s" with Invalid key/value pairs: %s' % (table_name, query_data)
+        mode_update = query_data.pop('update', True)
         data_old = None
         if data_key in self.db_cache[table_name]['data'].keys():
             data_old = self.db_cache[table_name]['data'][data_key]
         if mode_update or data_old is None:
             self.db_cache[table_name]['data'][data_key] = data_val
             self.db_dirty_tables.add(table_name)
-            print ('[_OK_] JSON Query: INSERT or UPDATE into {table}|{key}: "{value_old}" -> "{value_new}" flag Update={uflag}'.format(
+            print ('[JSON DB] INSERT or UPDATE into {table}|{key}: "{value_old}" -> "{value_new}" flag Update={uflag}'.format(
                 table=table_name, key=data_key, 
-                value_old=data_old, value_new=data_value, 
+                value_old=data_old, value_new=data_val, 
                 uflag=mode_update
             ))
         else:
-            print ('[SKIP] JSON Query: IGNORE UPDATE into {table}|{key}: "{value_old}" -> "{value_new}" since Update={uflag}'.format(
+            print ('[JSON DB] IGNORE UPDATE into {table}|{key}: "{value_old}" -> "{value_new}" since Update={uflag}'.format(
                 table=table_name, key=data_key, 
-                value_old=data_old, value_new=data_value, 
+                value_old=data_old, value_new=data_val, 
                 uflag=mode_update
             ))
         
     def select_from(self, **query_data):
         table_name = query_data.pop('table', None)
-        assert (table_name is not None and table_name in self.db_cache.keys()), \
-            self.warn_not_cached('SELECT', table_name)
+        assert (table_name is not None and table_name in self.db_cache.keys()), self.warn_not_cached(table_name)
         col_key = self.db_cache[table_name]['key']
         data_match = query_data.get(col_key, None)
         assert (data_match is not None), \
-            '[ERRO] JSON Query: SELECT FROM "%s" WHERE, Invalid key/value pairs: %s' % (table_name, query_data)
+            '[JSON DB] Could not INSERT INTO "%s" with Invalid key/value pairs: %s' % (table_name, query_data)
         match_exact = query_data.get('exact', True)
         match_count = query_data.get('count', False)
         match_key = match_value = None
@@ -133,29 +131,22 @@ class json_db:
             return 0 if match_count else None
 
     def flush(self, **options):
-        file_overwrite = options.get('overwrite', True)
-        debug_msg = options.get('msg', None)
+        from_msg = options.get('msg', None)
         for table_name, table_data in self.db_cache.items():
             if table_name in self.db_dirty_tables:
                 table_path = self.db_tables[table_name]
-                table_data['rows'] = table_data['data'].keys().count()
+                table_data['rows'] = len(table_data['data'].keys())
                 table_data['modified_date'] = self.timestamp()
-                if not path.isfile(table_path) or file_overwrite:
-                    with open(table_path, "w+") as fp:
-                        json.dump(table_data, fp)
-                    print ('[DUMP] JSON Table: "%s" Flushed to "%s"' % (table_name, table_path))
-                else:
-                    print ('[SKIP] JSON File : NoClobber "%s" to "%s" since Overwrite=[%s]' % (table_name, table_path, file_overwrite))
+                with open(table_path, 'w+') as fp:
+                    json.dump(table_data, fp)
+                print ('[JSON DB] Table "%s" Flushed to "%s"' % (table_name, table_path))
             else:
-                print ('[SKIP] JSON Table: Clean "%s", no flushing needed "%s"' % (table_name, table_path))
+                print ('[JSON DB] Table "%s" is clean, skip flushing to "%s"' % (table_name, table_path))
         self.db_cache = {}
-        print ('[_OK_] Cache cleared: %s, Debug: [%s]' % (self.db_cache, debug_msg))
-        
-    def close(self):
-        self.flush(overwrite=True, msg='On Close')
+        print ('[JSON DB] Cache cleared: %s' % self.db_cache)
     
     def __del__(self):
-        self.flush(overwrite=True, msg='On Exit')
+        self.flush()
     
         
         

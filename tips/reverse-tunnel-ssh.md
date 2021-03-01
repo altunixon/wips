@@ -72,6 +72,6 @@ means: connect with ssh to connectToHost, and forward all connection attempts to
 
 
 [stackexchange]: https://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work
-[image tunnel]: https://i.stack.imgur.com/HbSEM.png =x180
-[image tunL]: https://i.stack.imgur.com/a28N8.png =x180
-[image tunR]: https://i.stack.imgur.com/4iK3b.png =x180
+[image tunnel]: https://i.stack.imgur.com/HbSEM.png
+[image tunL]: https://i.stack.imgur.com/a28N8.png
+[image tunR]: https://i.stack.imgur.com/4iK3b.png

@@ -32,7 +32,7 @@
 - mysqldump (optional: sqlite) to json conversion
 - skbnya external search url, preferable dm2 (very low priority)
 - watcher list converter (inotifywait events to action)
-- pixiv.py > classes > view error
+- pixiv.py > classes > view / index 404, index 404 example / xpath
   ```html
     <div class="_unit error-unit">
     <h2 class="error-title">An error has occurred.</h2>
@@ -43,6 +43,7 @@
         </div>
     </div>
   ```
+- test booru.py with -d json:/media/$USER/ramdisk1/jsondb-booru/
 
 ## DONE
 - rename dj match first brackets: </br>

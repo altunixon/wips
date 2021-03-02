@@ -42,7 +42,7 @@ def show_obscured(**options):
 def pix_get_image(pix_view_urls, pix_dlmeta_data):
     global pix_browser
     # print (pix_view_urls, pix_dlmeta_data)
-    errors_count = 0
+    success_count = errors_count = 0
     for pix_href in pix_view_urls:
         pix_saveas =  path.join(pix_dlmeta_data['saveto'], pixiv_savename(pix_href, **pix_dlmeta_data))
         save_name_old = path.join(
@@ -51,20 +51,21 @@ def pix_get_image(pix_view_urls, pix_dlmeta_data):
         )
         if path.isfile(save_name_old):
             move_oldfile(save_name_old, pix_saveas, keep=True)
+            success_count += 1
         else:
             dl_status = pix_browser.download(pix_href, pix_saveas, refer=pix_dlmeta_data['refer'])
             if not dl_status['ok']:
                 errors_count += 1
             else:
-                pass
+                success_count += 1
             countdown(gen_randwait(console_args.wait_time), txt='Wait before processing next Image')
-    return {'save': pix_saveas, 'error': errors_count}
+    return {'save': pix_saveas, 'error': errors_count, 'done': success_count}
 
 # https://www.pixiv.net/member.php?id=37227739
 def pix_get_multi(pix_view_urls, pix_dlmeta_data):
     global pix_browser
     # print (pix_view_url, pix_view_hrefs)
-    multi_errors_count = 0
+    multi_done_count = multi_errors_count = 0
     for pix_href in pix_view_urls:
         pix_browser.get(pix_href, wait=gen_randwait(console_args.wait_time))
         pix_full_view = lxml_scraper(
@@ -87,18 +88,14 @@ def pix_get_multi(pix_view_urls, pix_dlmeta_data):
                 )['src']
                 # print (pix_full_src)
                 if len(pix_full_src) > 0:
-                    dl_status = pix_get_image(
-                        set([urlPrefixer(u, pixiv_fqdn) for u in pix_full_src]),
-                        pix_dlmeta_data
-                    )
+                    dl_status = pix_get_image(set([urlPrefixer(u, pixiv_fqdn) for u in pix_full_src]), pix_dlmeta_data)
                 else:
-                    dl_status = {'save': None, 'error': 0}
-                    pass
+                    dl_status = {'save': None, 'error': 0, 'done': 0}
                 multi_errors_count += dl_status['error']
+                multi_done_count += dl_status['done']
         else:
             dl_status = {'save': None, 'error': 0}
-            pass
-    return {'save': dl_status['save'], 'error': multi_errors_count}
+    return {'save': dl_status['save'], 'error': multi_errors_count, 'done': multi_done_count}
 
 def get_view(pix_view_url, pix_save_to, **pix_view_meta):
     global console_args
@@ -134,7 +131,7 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
         'saveto': pix_save_to, 
         'refer' : pix_view_url
     }
-    return_dict = {'ok': False, 'saveas': None, 'done': 0, 'total': 0, 'ismulti': True, 'lastimg': 0, 'purged': False}
+    return_dict = {'ok': False, 'saveas': None, 'done': 0, 'error': 0, 'total': 0, 'ismulti': True, 'lastimg': 0, 'purged': False}
     if pix_safe_uid is not None and pix_safe_title is not None:
         for k, v in pix_dlmeta.items():
             assert v is not None, console_printer('debug', 'Debug Meta [%s] is NUL', k, asstring=True)
@@ -165,14 +162,20 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
         show_obscured(show=True, meltdown=False)
         pix_seeall_html = pix_browser.read()
         pix_seeall_view = lxml_scraper(pix_seeall_html, href=xpath_pview_image, uniq=True, verbose=console_args.debug)['href']
-        if len(pix_seeall_view) > 0:
+        pix_seeall_count = len(pix_seeall_view)
+        if pix_seeall_count > 0:
             # Eliminate View Dupications
             pix_originals = [i for i in pix_originals if i not in pix_seeall_view]
             console_printer('debug', 'VIEWM [GET#] - Url: "%s" Downloading New Multipage (%s)', pix_view_url, len(pix_seeall_view))
             # print (pix_dlmeta)
             # print (json.dumps(pix_dlmeta, indent=4, ensure_ascii=False))
-            
             view_status = pix_get_image(get_set_url(pix_seeall_view), pix_dlmeta)
+            return_dict['saveas'] = view_status['saveas']
+            return_dict['done'] += view_status['done']
+            return_dict['error'] += view_status['error']
+            return_dict['total'] += pix_seeall_count
+            return_dict['lastimg'] = '_p%s.' % (pix_seeall_count - 1)
+            return_dict['purged'] = False
         else:
             console_printer('debug', 'VIEWM [#404] - Multipage View "%s" could not find any img-original links, maybe increase wait time?', pix_view_url)
     else:
@@ -180,6 +183,7 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
     # GET MASKED Type "manga" ?
     scripted_src = lambda x: x.split(' = ', 1)[-1].replace('\\', '').stri('"').strip("'")
     if len(pix_masked) > 0:
+        return_dict['ismulti'] = True
         console_printer('debug', 'VIEW0 [MASK] - Url: "%s" [%s]', pix_view_url, pix_masked)
         if pix_browser.dom_click(xpath_pview_btnshow, hover=False, meltdown=False, desc="MASKED"):
             show_obscured(show=False, meltdown=False)
@@ -263,13 +267,9 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
                 # Referrer has not changed
                 #pix_dlmeta['refer'] = pix_masked_show
                 console_printer('debug', 'VIEWM [MASK] - Url: "%s" is MultiPage (%s)', pix_view_url, len(pix_masked_multipage))
-                view_status = pix_get_multi(
-                    [pix_masked_show],
-                    pix_dlmeta
-                )
+                view_status = pix_get_multi([pix_masked_show], pix_dlmeta)
             else:
                 console_printer('warn', 'VIEWU [MASK] - Url: "%s" Has unknown type, Refer: "%s"', pix_view_url, pix_dlmeta['refer'])
-                pass
             #dump_html(pix_browser.driver.page_source, '/tmp/masked.html')
     else:
         pass

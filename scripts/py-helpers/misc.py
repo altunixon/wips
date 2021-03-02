@@ -182,13 +182,13 @@ def time2epoch(time_str, format_str):
     return timegm(utc_time)
     # -> 1236472051.807
 
-def print_color(log_type, format_string, *insert_strings):
+def print_color(log_type, format_string, *insert_strings, **options):
+    format_return = options.get('asstring', False)
     if len(insert_strings) > 0:
         try:
             print_data = format_string % insert_strings
         except:
-            insert_tuple = tuple(insert_strings)
-            print_data = format_string % insert_tuple
+            print_data = format_string % tuple(insert_strings)
     else:
         print_data = format_string
     if log_type == 'info':
@@ -204,21 +204,20 @@ def print_color(log_type, format_string, *insert_strings):
     else:
         message_type = '\033[1;35m%s\033[0m' % '{:_^4.4}'.format(
             log_type.upper()) # Purple
-    print (
-        '{time} [{type}]: {msg}'.format(
-            time = telltime('nix'), 
-            type = message_type, 
-            msg  = print_data
-        )
-    )
+    message_string = '{time} [{type}]: {msg}'.format(
+        **{'time'=telltime('nix'), 'type'=message_type, 'msg'=print_data})
+    if not format_return:
+        print (message_string)
+    else:
+        return format_string
 
-def print_log(log_type, format_string, *insert_strings):
+def print_log(log_type, format_string, *insert_strings, **options):
+    format_return = options.get('asstring', False)
     if len(insert_strings) > 0:
         try:
             print_data = format_string % insert_strings
         except:
-            insert_tuple = tuple(insert_strings)
-            print_data = format_string % insert_tuple
+            print_data = format_string % tuple(insert_strings)
     else:
         print_data = format_string
     if   log_type == 'info': message_type= 'INFO'
@@ -227,13 +226,12 @@ def print_log(log_type, format_string, *insert_strings):
     elif log_type == 'error' or log_type == 'err': message_type= 'ERR'
     elif log_type == 'debug' or log_type == 'dbg': message_type= 'DBUG'
     else: message_type = log_type
-    print(
-        '{time} [{type:_^4.4}]: {msg}'.format(
-            time = telltime('nix'), 
-            type = message_type, 
-            msg  = print_data
-        )
-    )
+    message_string = '{time} [{type:_^4.4}]: {msg}'.format(
+        **{'time'=telltime('nix'), 'type'=message_type, 'msg'=print_data})
+    if not format_return:
+        print (message_string)
+    else:
+        return format_string
 
 def bandwith_calc(time_start, time_end, size_downloaded):
     time_total = time_end - time_start

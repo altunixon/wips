@@ -34,6 +34,19 @@
 - watcher list converter (inotifywait events to action)
 - pixiv.py > classes > view / index 404, index 404 example / xpath
   ```html
+  <div id="wrapper">
+    <div class="_unit error-unit">
+    <h2 class="error-title">An error has occurred.</h2>
+        <p class="error-message">This user account has been suspended.</p>
+        <p class="error-message"><a href="/">Back</a></p>
+        <div class="bigbanner">
+            <iframe src="https://pixon.ads-pixiv.net/show?zone_id=bigbanner&amp;format=html&amp;s=1&amp;up=0&amp;a=31&amp;ng=g&amp;l=en&amp;uri=%2Fen%2Fusers%2F_PARAM_&amp;K=5419686e6159a&amp;ab_test_digits_first=51&amp;yuid=E5mXGWU&amp;suid=Pgo5wym9pxidiak1h&amp;num=603e46f5194" marginwidth="0" marginheight="0" allowtransparency="true" scrolling="no" class="ad-bigbanner" width="500" height="520" frameborder="0"></iframe>
+        </div>
+    </div>
+  </div>
+  ```
+  ```html
+  <div id="wrapper">
     <div class="_unit error-unit">
     <h2 class="error-title">An error has occurred.</h2>
         <p class="error-message">Work has been deleted or the ID does not exist.</p>
@@ -42,6 +55,7 @@
             <iframe src="https://pixon.ads-pixiv.net/show?zone_id=bigbanner&amp;format=html&amp;s=1&amp;up=0&amp;a=31&amp;ng=g&amp;l=en&amp;uri=%2Fen%2Fartworks%2F_PARAM_&amp;K=5419686e6159a&amp;ab_test_digits_first=31&amp;yuid=M3E0gxg&amp;suid=Pgo1yecskyiw00p54&amp;num=6039c2e575" marginwidth="0" marginheight="0" allowtransparency="true" scrolling="no" class="ad-bigbanner" width="500" height="520" frameborder="0"></iframe>
         </div>
     </div>
+  </div>
   ```
 - test booru.py with -d json:/media/$USER/ramdisk1/jsondb-booru/
 

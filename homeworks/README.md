@@ -75,6 +75,12 @@
         Exception:
         No connection adapters were found for '# https://yande.re/post/show/561669',
   Try: [1/2] None
+  ...
+  Exception ignored in: <bound method json_db.__del__ of <databases.dldb_json.json_db object at 0x7f7bf56e6c50>>
+  Traceback (most recent call last):
+    File "/opt/git-bucket/script-python3/downloader-booru/databases/dldb_json.py", line 149, in __del__
+    File "/opt/git-bucket/script-python3/downloader-booru/databases/dldb_json.py", line 144, in flush
+  UnboundLocalError: local variable 'table_path' referenced before assignment
   ```
 
 ## DONE

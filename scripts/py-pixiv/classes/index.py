@@ -7,7 +7,7 @@ from browsers.scrapers import lxml_spider
 from helpers.misc import countdown, print_log, print_color
 from helpers.str_helper import urlPrefixer, string_sanitizer
 from classes.utils import pixiv_userid, nijie_id, gen_artistname, check_html, spider_checkattr
-from vars.conf_pixiv import pixiv_fqdn, xpath_pindex_header, xpath_pindex_hpjump, xpath_pindex_nextpg, xpath_pview_pair, xpath_pview_link, xpath_ptype_svg
+from vars.conf_pixiv import pixiv_fqdn, xpath_pindex_header, xpath_pindex_hpjump, xpath_pindex_nextpg, xpath_pview_pair, xpath_pview_link, xpath_ptype_svg, xpath_pindex_purged
 from vars.conf_nijie import nijie_fqdn, xpath_nindex_header, xpath_nindex_hpjump, xpath_nindex_nextpg, xpath_nview_pair, xpath_nview_link
 from random import randint
 
@@ -22,11 +22,7 @@ def index_init(self, index_url, index_html, **options):
         pass
     self.refer = options.pop('refer', None)
     self.verbose = options.pop('verbose', False)
-    self.indexspider = lxml_spider(
-        index_html, 
-        verbose = self.verbose, 
-        refer = self.refer
-    )
+    self.indexspider = lxml_spider(index_html, verbose=self.verbose, refer=self.refer)
     # self.macros = macros(self.browser, verbose = self.verbose)
     self._brint  = print_log if not options.pop('color', False) else print_color
 
@@ -37,15 +33,14 @@ def spider_chknul(self, page_html):
         pagespider = lxml_spider(page_html, verbose=self.verbose, refer=self.refer)
     return pagespider
 
+def check_user_available(self, **options):
+    text_purged = self.indexspider(text_error=self.xpath_purged)['text_error']
+    print (text_purged)
+    return False if len(text_purged) > 0 else True
+
 def common_userhp(self, **options):
-    index_info = self.indexspider.scraper(
-        text_head = self.xpath_header, 
-        href = self.xpath_hpjump
-    )
-    index_userhp = gen_artistname(
-        index_info['text_head'],
-        index_info['href']
-    )
+    index_info = self.indexspider.scraper(text_head=self.xpath_header, href=self.xpath_hpjump)
+    index_userhp = gen_artistname(index_info['text_head'], index_info['href'])
     return string_sanitizer(index_userhp)
 
 def common_nextpg(self, page_html=None, **options):
@@ -56,9 +51,9 @@ def common_nextpg(self, page_html=None, **options):
     ## print (next_page_detected)
     if len(next_page_detected) > 0:
         next_page_lastest = next_page_detected[-1]
-        next_page = next_page_lastest \
-            if next_page_lastest not in index_pool \
-            else None
+        next_page = next_page_lastest if \
+            next_page_lastest not in index_pool else \
+            None
     else:
         next_page = None
     return next_page
@@ -90,19 +85,13 @@ def pixiv_views(self, page_html=None, **options):
     views_dict['next'] = next_page[-1] if len(next_page) > 0 else None
     
     views_dict['total'] = len(views_dict['views'])
-    views_dict['multipage'] = set([
-        h for h in pagespider.scraper(
-            href = xpath_ptype_svg, 
-            uniq = True,
-            match_all = True, 
-        )['href'] \
-        if len(h) > 0
-    ])
+    views_dict['multipage'] = set([h for h in \
+            pagespider.scraper(href=xpath_ptype_svg, uniq=True, match_all=True)['href'] if \
+        len(h) > 0])
     views_dict['singlepage'] = set([])
     for h in views_dict['views']:
         if len(h['href']) > 0:
-            if len(h['href'][0]) > 0 \
-            and h['href'][0] not in views_dict['multipage']:
+            if len(h['href'][0]) > 0 and h['href'][0] not in views_dict['multipage']:
                 views_dict['singlepage'].add(h['href'][0])
             else:
                 pass
@@ -147,11 +136,13 @@ pixiv_index = type("pixiv_index", (), {
     "xpath_header": xpath_pindex_header, 
     "xpath_hpjump": xpath_pindex_hpjump, 
     "xpath_nextpg": xpath_pindex_nextpg, 
+    "xpath_purged": xpath_pindex_purged, 
     "__init__": index_init,
     "spider_chknul": spider_chknul, 
     "userhp": common_userhp, 
     "nextpg": common_nextpg, 
-    "views" : pixiv_views
+    "views" : pixiv_views, 
+    "available": check_user_available
 })
 
 ############################

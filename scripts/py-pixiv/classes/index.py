@@ -35,7 +35,7 @@ def spider_chknul(self, page_html):
 
 def check_user_available(self, **options):
     text_purged = self.indexspider(text_error=self.xpath_purged)['text_error']
-    print (text_purged)
+    self._brint ('debug', '[#404] User: (%s) PURGED, "%s" %s', self.uid, self.url, text_purged)
     return False if len(text_purged) > 0 else True
 
 def common_userhp(self, **options):

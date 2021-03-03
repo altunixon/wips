@@ -57,6 +57,7 @@
     </div>
   </div>
   ```
+  `xpath_pindex_purged = '//div[@id="wrapper"]/div[contains(@class, "error-unit")]/p[@class="error-message"]'`
 - test booru.py with -d json:/media/$USER/ramdisk1/jsondb-booru/
 - Diskstation: synouser --setpw admin <yourpassword>
 

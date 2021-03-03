@@ -4,6 +4,7 @@
 import sys, time, json, configparser, re
 import argparse
 from argparse           import RawTextHelpFormatter
+from copy               import deepcopy
 from os                 import path
 from os                 import name as os_name
 from collections        import namedtuple
@@ -55,7 +56,7 @@ def view_status_update(current_status, update_status=None, **update_optional):
 def pix_get_image(pix_view_urls, pix_dlmeta_data):
     global pix_browser
     # print (pix_view_urls, pix_dlmeta_data)
-    get_status = {'saveas': None, 'error': 0, 'done': 0, 'total': len(pix_view_urls)}
+    get_status = {'saveas': None, 'error': 0, 'done': 0, 'total': len(pix_view_urls), 'type': 1}
     success_count = errors_count = 0
     for pix_href in pix_view_urls:
         pix_saveas =  path.join(pix_dlmeta_data['saveto'], pixiv_savename(pix_href, **pix_dlmeta_data))
@@ -79,7 +80,7 @@ def pix_get_image(pix_view_urls, pix_dlmeta_data):
 def pix_get_multi(pix_view_urls, pix_dlmeta_data):
     global pix_browser
     # print (pix_view_url, pix_view_hrefs)
-    dlmulti_status = {'saveas': None, 'error': 0, 'done': 0, 'total': 0}
+    dlmulti_status = {'saveas': None, 'error': 0, 'done': 0, 'total': 0, 'type': 2}
     for pix_href in pix_view_urls:
         pix_browser.get(pix_href, wait=gen_randwait(console_args.wait_time))
         pix_full_view = lxml_scraper(
@@ -113,8 +114,8 @@ def pix_get_multi(pix_view_urls, pix_dlmeta_data):
 def get_view(pix_view_url, pix_save_to, **pix_view_meta):
     global console_args
     global pix_browser
-    view_status = {'ok': False, 'saveas': None, 'done': 0, 'error': 0, 'total': 0, 'ismulti': True, 'lastimg': 0, 'purged': False}
-    pix_view_status = namedtuple('GetViewResult', view_status.items())
+    global view_status_ntuple, view_default_ok, view_default_fail
+    view_status = deepcopy(view_default_fail)
     pix_view_refer = pix_view_meta.get('refer', None)
     pix_browser.get(pix_view_url, ait=gen_randwait(console_args.wait_time))
     pix_presenter = lxml_spider(pix_browser.read(), refer=pix_view_refer, verbose=console_args.debug, uniq=True)
@@ -237,7 +238,7 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
         if len(pix_masked_view_multi) > 0:
             view_status['ismulti'] = True
             view_status['purged'] = False
-            view_status['lastimg'] = lastimg='_p{}.'.format(len(pix_masked_view_multi) - 1)
+            view_status['lastimg'] = '_p{}.'.format(len(pix_masked_view_multi) - 1)
             
         for pix_masked_reader in pix_masked_view_multi:
             pix_masked_show = urlPrefixer(pix_masked_reader, pixiv_fqdn)
@@ -268,7 +269,8 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
                 # Referrer has not changed
                 #pix_dlmeta['refer'] = pix_masked_show
                 console_printer('debug', 'VIEWM [MASK] - Url: "%s" is MultiPage (%s)', pix_view_url, len(pix_masked_multipage))
-                view_status = pix_get_multi([pix_masked_show], pix_dlmeta)
+                type_masked_status = pix_get_multi([pix_masked_show], pix_dlmeta)
+                view_status = view_status_update(view_status, type_masked_status)
             else:
                 console_printer('warn', 'VIEWU [MASK] - Url: "%s" Has unknown type, Refer: "%s"', pix_view_url, pix_dlmeta['refer'])
             #dump_html(pix_browser.driver.page_source, '/tmp/masked.html')
@@ -276,6 +278,8 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
         pass
     # GET IMAGE Original
     if len(pix_originals) > 0:
+        view_status['purged'] = False
+        view_status['lastimg'] = '_p0.'
         console_printer('debug', 'VIEWI [ORIG] - GET ImageBig %s', pix_originals)
         type_big_status = pix_get_image(get_set_url(pix_originals), pix_dlmeta)
         view_status = view_status_update(view_status, type_big_status)
@@ -283,6 +287,8 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
         pass
     # GET GIF
     if len(pix_gifzip) > 0:
+        view_status['purged'] = False
+        view_status['lastimg'] = 'ugoira'
         console_printer('debug', 'VIEWI [UGOI] - GET Gif %s', pix_gifzip)
         ugoira_meta_url = "{site}/ajax/illust/{viewid}/ugoira_meta".format(site=pixiv_fqdn, viewid=pix_dlmeta['viewid'])
         # print (ugoira_meta_txt)
@@ -315,9 +321,7 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
         else:
             ugoira_meta_dat = json.loads(ugoira_meta_txt)
             ugoira_file_zip = [ugoira_meta_dat['body']['originalSrc']]
-        #ugoira_file_frames = [
-        #    f['file'] for f in ugoira_meta_dat['body']['frames']
-        #]
+            
         type_gif_status = pix_get_image(ugoira_file_zip, pix_dlmeta)
         view_status = view_status_update(view_status, type_gif_status)
     else:
@@ -346,6 +350,7 @@ def get_view(pix_view_url, pix_save_to, **pix_view_meta):
 def pix_main(urls):
     global console_args, console_color
     global pix_browser, pix_database, pix_cookies
+    global view_status_ntuple, view_default_ok, view_default_fail
     pix_home.login(meltdown=True)
     pix_browser.dom_click(xpath_pindex_newspop, meltdown=False, desc="Close Update Notification")
 
@@ -417,14 +422,14 @@ def pix_main(urls):
                     v_check = pix_check.view('_misc', v_id)
                     if v_check.skip:
                         console_printer('info', 'VIEW# [SKIP] - Url: "%s", DB _misc: %s', v_url, len(v_check.data))
-                        view_ok = True
+                        view_get = view_status_ntuple(view_default_ok)
                     else:
-                        view_ok = get_view(v_url, save_misc, title=None, uid=None, vid=v_id)
-                    if not view_ok:
+                        view_get = get_view(v_url, save_misc, title=None, uid=None, vid=v_id)
+                    if not view_get.ok:
                         get_errors += 1
                     else:
                         pass
-                    pix_available = True
+                    pix_available = True if not view_get.purged else False
                 else:
                     #pix_url = pixiv_illust_index + parsed_url if \
                     #    parsed_url.isdigit() else \
@@ -544,7 +549,7 @@ def pix_main(urls):
                 countdown(gen_randwait(console_args.wait_time * 2), txt='Next Link in: ')
                 if list_cache is not None and get_errors == 0:
                     #list_cache.comment(one_url)
-                    list_cache.comment(one_url, comment='#' if pix_available else '# 404 USER #')
+                    list_cache.comment(one_url, comment='#' if pix_available else '# 404 #')
                     list_cache.check_dump()
                 else:
                     pass
@@ -703,6 +708,9 @@ if __name__ == "__main__":
         wait = console_args.wait_time, 
         color = console_color
     )
+    view_default_ok = {'ok': True, 'saveas': None, 'done': 0, 'error': 0, 'total': 0, 'ismulti': False, 'lastimg': None, 'purged': False, 'type': 0}
+    view_default_fail = {'ok': False, 'saveas': None, 'done': 0, 'error': 0, 'total': 0, 'ismulti': False, 'lastimg': None, 'purged': False, 'type': 0}
+    view_status_ntuple = namedtuple('GetViewResult', view_status.items())
     try:
         pix_main(console_args.url_list)
     except Exception as excp:

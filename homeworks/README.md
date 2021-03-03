@@ -58,6 +58,7 @@
   </div>
   ```
 - test booru.py with -d json:/media/$USER/ramdisk1/jsondb-booru/
+- Diskstation: synouser --setpw admin <yourpassword>
 
 ## DONE
 - rename dj match first brackets: </br>

@@ -58,8 +58,24 @@
   </div>
   ```
   `xpath_pindex_purged = '//div[@id="wrapper"]/div[contains(@class, "error-unit")]/p[@class="error-message"]'`
-- test booru.py with -d json:/media/$USER/ramdisk1/jsondb-booru/
 - Diskstation: synouser --setpw admin <yourpassword>
+- booru.py -d json:/media/$USER/ramdisk1/jsondb-booru/
+  ```bash
+  # ON EXIT
+  2021-03-02 00:32:06 +0900 [INFO]: SITE  [DONE] - Processed: [221] Urls
+  Exception ignored in: <bound method json_db.__del__ of <databases.dldb_json.json_db object at 0x7f10ef5abc50>>
+  Traceback (most recent call last):
+    File "/opt/git-bucket/script-python3/downloader-booru/databases/dldb_json.py", line 149, in __del__
+    File "/opt/git-bucket/script-python3/downloader-booru/databases/dldb_json.py", line 140, in flush
+  NameError: name 'open' is not defined
+
+  # ON START
+  [JSON DB] Cache cleared: {}
+  2021-03-04 00:26:43 +0900 [ERR_]: REQBR [#None] - Url: "# https://yande.re/post/show/561669" False,
+        Exception:
+        No connection adapters were found for '# https://yande.re/post/show/561669',
+  Try: [1/2] None
+  ```
 
 ## DONE
 - rename dj match first brackets: </br>

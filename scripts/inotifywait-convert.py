@@ -78,7 +78,7 @@ if __name__ == "__main__":
         help='inotifywait file')
     args_parser.add_argument(
         '-o', '--out-file', dest='act_file', nargs='?', 
-        default=os.path.join(os.getcwd(), 'downloads'), 
+        default=path.join(getcwd(), 'downloads'), 
         help='Output file')
     args_parser.add_argument(
         '--all', dest='event_all', action='store_true', 
@@ -87,7 +87,9 @@ if __name__ == "__main__":
     # Parse Console Args
     console_args = args_parser.parse_args()
     if path.isfile(console_args.watch_file):
-        watched_lines = (line for line in open(console_args.watch_file, 'rt') if re.search('ISDIR', line, re.IGNORECASE))
+        with open(console_args.watch_file, 'rt') as wf:
+            wls = wf.readlines()
+        watched_lines = [line for line in wls if re.search('ISDIR', line, re.IGNORECASE)]
         # action_lines = chunker_inline(watched_lines)
         action_lines = chunker_inpair(watched_lines)
     else:

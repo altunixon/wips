@@ -87,12 +87,15 @@ if __name__ == "__main__":
     # Parse Console Args
     console_args = args_parser.parse_args()
     if path.isfile(console_args.watch_file):
-        with open(console_args.watch_file, 'rt') as wf:
+        print (console_args.watch_file)
+        with open(console_args.watch_file, 'r') as wf:
             wls = wf.readlines()
-        watched_lines = [line for line in wls if re.search('ISDIR', line, re.IGNORECASE)]
+        print (len(wls))
+        watched_lines = [line for line in wls if line.find('ISDIR') >= 0]
         # action_lines = chunker_inline(watched_lines)
         action_lines = chunker_inpair(watched_lines)
     else:
+        print ('XXX')
         pass
     if console_args.act_file is not None and not path.isfile(console_args.act_file):
         with open(console_args.act_file, 'wt+') as af:

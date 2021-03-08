@@ -9,34 +9,35 @@ set -o noclobber
 
 ec_profile='xxx'
 ec_search="Name=tag:Name,Values=xxx"
-ec_hostfile="/tmp/ec2-publicdns.txt"
 ec_pidfile="/tmp/ec2-rtunnel.pid"
 ec_user="xxx"
 ec_sshkey="xxx"
 ec_sshport=22
 ec_sshopts=(-p $ec_sshport -f -N -o StrictHostKeyChecking=no -i $ec_sshkey -T -R2222:localhost:22)
 
-[ -f "$ec_hostfile" ] && rm "$ec_hostfile"
-/usr/local/bin/aws --profile $ec_profile ec2 describe-instances --filters "$ec_search" | /usr/bin/jq -s -r '.[]|.Reservations[]|.Instances[]|.NetworkInterfaces[]|.Association|.PublicDnsName' > "$ec_hostfile"
+# ec_hostfile="/tmp/ec2-publicdns.txt"
+# [ -f "$ec_hostfile" ] && rm "$ec_hostfile"
+ec_hostname=$(/usr/local/bin/aws --profile $ec_profile ec2 describe-instances --filters "$ec_search" | /usr/bin/jq -s -r '.[]|.Reservations[]|.Instances[]|.NetworkInterfaces[]|.Association|.PublicDnsName')
+#ec_hostname=$(cat "$ec_hostname")
 
 function ec_check() {
     echo -n "$(date) [#PID] "
     if [ ! -f "$ec_pidfile" ]; then
-        echo -n "$(date) [HOST] "
+        echo -n "$(date) [CHCK] Hostname: ($ec_hostname)"
         if [ -z $ec_hostname ] || [ "$ec_hostname" == "null" ]; then
             ec_stat='host-fail'
         else
-            echo -n "$(date) [PORT] "
+            echo -n "$(date) [CHCK] Port: "
             nc -z -v -w10 $ec_hostname $ec_sshport
             if [ $? -eq 0 ]; then
-                ec_stat='ok'
+                ec_stat='available'
             else
                 ec_stat='port-fail'
             fi
         fi
     else
         ssh_pid=$(cat $ec_pidfile)
-        echo "$ec_pidfile ($ssh_pid)"
+        echo "$(date) [CHCK] Session Exists: $ec_pidfile ($ssh_pid)"
         echo -n "$(date) [#CMD] "
         ps -p $(ssh_pid) -o command=
         if [ $? -eq 0 ]; then
@@ -48,59 +49,56 @@ function ec_check() {
 }
 
 function ec_connect() {
-    ec_creds="${ec_user}@$(cat $ec_hostfile)"
+    ec_creds="${ec_user}@${ec_hostname}"
     # ssh ${ec_sshopts[@]} "ec2-user@$(cat $ec_hostfile)"
     ssh ${ec_sshopts[@]} "$ec_creds"
     ps aux | grep "$ec_creds" | grep ssh | awk '{print $2}' > "$ec_pidfile"
+    ec_current=$(ps -p $(cat $ec_pidfile) -o command=)
+    echo "$(date) [DONE] Session Started: $ec_current"
 }
 
 function ec_kill() {
     kill -9 $(cat $ec_pidfile)
     rm "$ec_pidfile"
-    rm "$ec_hostfile"
+    echo "$(date) [KILL] Session Killed"
 }
 
 ec_act=${1:-status}
-ec_hostname=$(cat "$ec_hostfile")
-echo "$(date) [INIT] Connection: ${ec_user}@${ec_hostfile}:${ec_sshport}"
-ec_stat='preflight'
+echo "$(date) [INIT] Connection: ${ec_user}@${ec_hostname}:${ec_sshport}"
+ec_stat='pre-flight'
 ec_check
 case $ec_stat in
-    fail|off)
+    *fail)
         echo "$(date) [CHCK] Failed: ${ec_stat}"
+        echo "$(date) [SKIP] Action: ${ec_act} (${ec_stat})"
     ;;
     *)
-        echo "$(date) [CHCK] Status: ${ec_stat}"
         case $ec_act in
             start)
                 case $ec_stat in
-                    ok)
+                    available)
                         ec_connect
-                        echo "$(date) [DONE] $ec_act"
                     ;;
-                    broken)
+                    sshtun-zombie)
                         ec_kill
                         ec_connect
-                        echo "$(date) [DONE] Restart broken tunnel"
                     ;;
                     *)
-                        echo "$(date) [SKIP] Action: $ec_act"
+                        echo "$(date) [CHCK] Status: ${ec_stat}"
                     ;;
                 esac
             ;;
             restart)
                 ec_kill
-                echo "$(date) [KILL] $ec_act"
                 ec_connect
-                echo "$(date) [STRT] $ec_act"
             ;;
             stop)
                 ec_kill
-                echo "$(date) [DONE] $ec_act"
             ;;
             *)
-                echo "$(date) [HUH?] $0: $ec_act"
+                echo "$(date) [CHCK] Status: ${ec_stat}"
             ;;
         esac
     ;;
 esac
+echo "$(date) [FIN#] ${ec_act} (${ec_stat})"

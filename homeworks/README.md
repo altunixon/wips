@@ -58,7 +58,6 @@
   </div>
   ```
   `xpath_pindex_purged = '//div[@id="wrapper"]/div[contains(@class, "error-unit")]/p[@class="error-message"]'`
-- Diskstation: synouser --setpw admin <yourpassword>
 - booru.py -d json:/media/$USER/ramdisk1/jsondb-booru/
   ```bash
   # ON EXIT
@@ -117,3 +116,4 @@
 - helpers.misc > init_db() > needs updating to include jsondb type
 - Patch booru.py, pixiv.py
 - Patch helpers/{text_file.py,misc.py}
+- Diskstation: alias passwd="synouser --setpw" # admin <yourpassword>

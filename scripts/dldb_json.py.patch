@@ -1,0 +1,39 @@
+--- /home/alt/git-repo/script-python3/databases/dldb_json.py	2021-03-01 23:52:26.432689663 +0900
++++ py-databases/dldb_json.py	2021-03-09 17:31:05.694906398 +0900
+@@ -131,19 +131,23 @@
+             return 0 if match_count else None
+ 
+     def flush(self, **options):
+-        from_msg = options.get('msg', None)
+-        for table_name, table_data in self.db_cache.items():
+-            if table_name in self.db_dirty_tables:
+-                table_path = self.db_tables[table_name]
+-                table_data['rows'] = len(table_data['data'].keys())
+-                table_data['modified_date'] = self.timestamp()
+-                with open(table_path, 'w+') as fp:
+-                    json.dump(table_data, fp)
+-                print ('[JSON DB] Table "%s" Flushed to "%s"' % (table_name, table_path))
+-            else:
+-                print ('[JSON DB] Table "%s" is clean, skip flushing to "%s"' % (table_name, table_path))
+-        self.db_cache = {}
+-        print ('[JSON DB] Cache cleared: %s' % self.db_cache)
++        # from_msg = options.get('msg', None)
++        if len(self.db_cache.keys()) > 0:
++            for table_name, table_data in self.db_cache.items():
++                if table_name in self.db_dirty_tables:
++                    table_path = self.db_tables[table_name]
++                    table_data['rows'] = len(table_data['data'].keys())
++                    table_data['modified_date'] = self.timestamp()
++                    print ('[JSON DB] Flushing Table "%s" to "%s" @%s' % (table_name, table_path, table_data['modified_date']))
++                    with open(table_path, 'w+') as fp:
++                        json.dump(table_data, fp)
++                    print ('[JSON DB] Table "%s" Flushed %s rows to "%s"' % (table_name, table_data['rows'], table_path))
++                else:
++                    print ('[JSON DB] Table "%s" is clean, skip flushing to "%s"' % (table_name, table_path))
++            self.db_cache = {}
++            print ('[JSON DB] Cache cleared: %s' % self.db_cache)
++        else:
++            print ('[JSON DB] Cache Empty no need to flush()')
+     
+     def __del__(self):
+         self.flush()

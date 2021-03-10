@@ -55,6 +55,10 @@ passwd root
   blacklist brcmutil
   EOT
   ```
+  disable /etc/profile wificheck.sh
+  ```bash
+  sudo mv /etc/profile.d/wifi-check.sh{,-disabled}
+  ```
 - Static addresses (optional, static ip setup via dhcp is preferred)
   ```bash
   vim /etc/dhcpcd.conf

@@ -41,11 +41,9 @@ def chunker_inline(watched_lines):
         else:
             print ('[SKIP_] Conflict Action: [%s/%s] MOVED_FROM[%s] MOVED_TO[%s]' % (action_previous, watched_event, path_before, path_after))
             path_before = path_after = action_previous = None
-        print (path_before, path_after)
         if path_before is not None and path_after is not None:
-            name_before = path.dirname(path_before) if sep in path_before else path_before
-            name_after = path.dirname(path_after) if sep in path_after else path_after
-            print (name_before)
+            name_before = path.basename(path.normpath(path_before))
+            name_after = path.basename(path.normpath(path_after))
             name_match = match_percentage(name_after, name_before)
             action_bash = '[ -d "{before}" ] && mv --no-clobber -v "{before}" "{after}"'.format(before=path_before, after=path_after)
             if name_match >= 70:
@@ -90,7 +88,14 @@ if __name__ == "__main__":
     args_parser.add_argument(
         '--all', dest='event_all', action='store_true',
         help='Match ALL events, not just ISDIR (Currently ONLY support ISDIR)')
-    args_parser.set_defaults(debug=False)
+    args_parser.set_defaults(event_all=False)
+    args_parser.add_argument(
+        '--pair', dest='match_pair', action='store_true',
+        help='Match algorithim, use pairing instead of line by line (less accurate? maybe?)')
+    args_parser.set_defaults(match_pair=False)
+    args_parser.add_argument(
+        '--map', dest='path_map', nargs='?', default=None,
+        help='Replace path in inotify file with supplied path, format path_inotify|path_replace')
     # Parse Console Args
     console_args = args_parser.parse_args()
     if path.isfile(console_args.watch_file):
@@ -100,13 +105,23 @@ if __name__ == "__main__":
         # print (len(wls))
         watched_lines = [line.rstrip('\n') for line in wls if line.find('ISDIR') >= 0 and
                          line.find('MOVE') >= 0]
-        # action_lines = chunker_inline(watched_lines)
-        action_lines = chunker_inpair(watched_lines)
+        if console_args.match_pair:
+            action_lines = chunker_inpair(watched_lines)
+        else:
+            action_lines = chunker_inline(watched_lines)
+        if console_args.path_map is not None and '|' in console_args.path_map:
+            path_orig, path_swap = console_args.path_map.split('|', 1)
+        else:
+            path_orig = path_swap = None
+        if console_args.act_file is not None:
+            with open(console_args.act_file, 'w+') as af:
+                if path_swap is None:
+                    af.writelines("%s\n" % act_cmd for act_cmd in action_lines)
+                else:
+                    af.writelines("%s\n" % act_cmd.replace(path_orig.strip(),
+                                                           path_swap.strip()) for act_cmd in action_lines)
     else:
         print ('XXX')
         pass
-    if console_args.act_file is not None:
-        with open(console_args.act_file, 'w+') as af:
-            af.writelines("%s\n" % act_cmd for act_cmd in action_lines)
 else:
     pass

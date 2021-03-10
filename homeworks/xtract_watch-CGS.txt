@@ -1,32 +1,32 @@
-MOVED_FROM:ISDIR (同人CG集) [まろん☆まろん、青水庵] ラッキードスケベ！ 前編
-MOVED_TO:ISDIR [まろん☆まろん、青水庵] ラッキードスケベ！ 前編
-MOVED_FROM:ISDIR (同人CG集) [まろん☆まろん、青水庵] ラッキードスケベ！ 後編
-MOVED_TO:ISDIR [まろん☆まろん、青水庵] ラッキードスケベ！ 後編
-MOVED_FROM:ISDIR (同人CG集) [ヨールキ・パールキ (露々々木もげら)] 冷蔵子ネムの不機嫌な理由
-MOVED_TO:ISDIR [ヨールキ・パールキ (露々々木もげら)] 冷蔵子ネムの不機嫌な理由
-MOVED_FROM:ISDIR (同人CG集) [ヨールキ・パールキ (露々々木もげら)] 婿殿は地縛霊
-MOVED_TO:ISDIR [ヨールキ・パールキ (露々々木もげら)] 婿殿は地縛霊
-MOVED_FROM:ISDIR (同人CG集) [ヨールキ・パールキ] S家に嫁いだM嬢の日常
-MOVED_TO:ISDIR [ヨールキ・パールキ] S家に嫁いだM嬢の日常
-MOVED_FROM:ISDIR (同人CG集) [ヨールキ・パールキ] シャルトリューズ国立科学研究所 Vol 1 博士と助手とお友達
-MOVED_TO:ISDIR [ヨールキ・パールキ] シャルトリューズ国立科学研究所 Vol 1 博士と助手とお友達
-MOVED_FROM:ISDIR (同人CG集) [ヨールキ・パールキ] 事故物件×留学生～四畳半の不可思議な情事～
-MOVED_TO:ISDIR [ヨールキ・パールキ] 事故物件×留学生～四畳半の不可思議な情事～
-MOVED_FROM:ISDIR (同人CG集) [ヨールキ・パールキ] 夜な夜な学園の怪奇たちとドスケベしちゃうJCのお話
-MOVED_TO:ISDIR [ヨールキ・パールキ] 夜な夜な学園の怪奇たちとドスケベしちゃうJCのお話
-MOVED_FROM:ISDIR (同人CG集) [ヨールキ・パールキ] 孕み神と憑かれた姪
-MOVED_TO:ISDIR [ヨールキ・パールキ] 孕み神と憑かれた姪
-MOVED_FROM:ISDIR (同人CG集) [ヨールキ・パールキ] 軍隊式射精管理
-MOVED_TO:ISDIR [ヨールキ・パールキ] 軍隊式射精管理
-MOVED_FROM:ISDIR (同人CG集) [地底の肉屋] 下水道学園 ～奥守亜子の場合～
-MOVED_TO:ISDIR [地底の肉屋] 下水道学園 ～奥守亜子の場合～
-MOVED_FROM:ISDIR (同人CG集) [色点屋 ] だるま隊長
-MOVED_TO:ISDIR [色点屋 ] だるま隊長
-MOVED_FROM:ISDIR (同人CG集) [色点屋] おもちかえり!
-MOVED_TO:ISDIR [色点屋] おもちかえり!
-MOVED_FROM:ISDIR (同人CG集) [色点屋] 漂着物とイタズラ
-MOVED_TO:ISDIR [色点屋] 漂着物とイタズラ
-MOVED_FROM:ISDIR (同人誌) [ヨールキ・パールキ (露々々木もげら)] L教会と異端者一家 (オリジナル)
-MOVED_TO:ISDIR [ヨールキ・パールキ (露々々木もげら)] L教会と異端者一家 (オリジナル)
-MOVED_FROM:ISDIR (同人誌) [色点屋] エルフの里とオーガ軍 [DL版]
-MOVED_TO:ISDIR [色点屋] エルフの里とオーガ軍 [DL版]
+MOVED_FROM:ISDIR:(同人CG集) [まろん☆まろん、青水庵] ラッキードスケベ！ 前編
+MOVED_TO:ISDIR:[まろん☆まろん、青水庵] ラッキードスケベ！ 前編
+MOVED_FROM:ISDIR:(同人CG集) [まろん☆まろん、青水庵] ラッキードスケベ！ 後編
+MOVED_TO:ISDIR:[まろん☆まろん、青水庵] ラッキードスケベ！ 後編
+MOVED_FROM:ISDIR:(同人CG集) [ヨールキ・パールキ (露々々木もげら)] 冷蔵子ネムの不機嫌な理由
+MOVED_TO:ISDIR:[ヨールキ・パールキ (露々々木もげら)] 冷蔵子ネムの不機嫌な理由
+MOVED_FROM:ISDIR:(同人CG集) [ヨールキ・パールキ (露々々木もげら)] 婿殿は地縛霊
+MOVED_TO:ISDIR:[ヨールキ・パールキ (露々々木もげら)] 婿殿は地縛霊
+MOVED_FROM:ISDIR:(同人CG集) [ヨールキ・パールキ] S家に嫁いだM嬢の日常
+MOVED_TO:ISDIR:[ヨールキ・パールキ] S家に嫁いだM嬢の日常
+MOVED_FROM:ISDIR:(同人CG集) [ヨールキ・パールキ] シャルトリューズ国立科学研究所 Vol 1 博士と助手とお友達
+MOVED_TO:ISDIR:[ヨールキ・パールキ] シャルトリューズ国立科学研究所 Vol 1 博士と助手とお友達
+MOVED_FROM:ISDIR:(同人CG集) [ヨールキ・パールキ] 事故物件×留学生～四畳半の不可思議な情事～
+MOVED_TO:ISDIR:[ヨールキ・パールキ] 事故物件×留学生～四畳半の不可思議な情事～
+MOVED_FROM:ISDIR:(同人CG集) [ヨールキ・パールキ] 夜な夜な学園の怪奇たちとドスケベしちゃうJCのお話
+MOVED_TO:ISDIR:[ヨールキ・パールキ] 夜な夜な学園の怪奇たちとドスケベしちゃうJCのお話
+MOVED_FROM:ISDIR:(同人CG集) [ヨールキ・パールキ] 孕み神と憑かれた姪
+MOVED_TO:ISDIR:[ヨールキ・パールキ] 孕み神と憑かれた姪
+MOVED_FROM:ISDIR:(同人CG集) [ヨールキ・パールキ] 軍隊式射精管理
+MOVED_TO:ISDIR:[ヨールキ・パールキ] 軍隊式射精管理
+MOVED_FROM:ISDIR:(同人CG集) [地底の肉屋] 下水道学園 ～奥守亜子の場合～
+MOVED_TO:ISDIR:[地底の肉屋] 下水道学園 ～奥守亜子の場合～
+MOVED_FROM:ISDIR:(同人CG集) [色点屋 ] だるま隊長
+MOVED_TO:ISDIR:[色点屋 ] だるま隊長
+MOVED_FROM:ISDIR:(同人CG集) [色点屋] おもちかえり!
+MOVED_TO:ISDIR:[色点屋] おもちかえり!
+MOVED_FROM:ISDIR:(同人CG集) [色点屋] 漂着物とイタズラ
+MOVED_TO:ISDIR:[色点屋] 漂着物とイタズラ
+MOVED_FROM:ISDIR:(同人誌) [ヨールキ・パールキ (露々々木もげら)] L教会と異端者一家 (オリジナル)
+MOVED_TO:ISDIR:[ヨールキ・パールキ (露々々木もげら)] L教会と異端者一家 (オリジナル)
+MOVED_FROM:ISDIR:(同人誌) [色点屋] エルフの里とオーガ軍 [DL版]
+MOVED_TO:ISDIR:[色点屋] エルフの里とオーガ軍 [DL版]

@@ -3,7 +3,7 @@
 # inotifywait -m -r -o /tmp/watch.txt -e move --format '%:e:%w%f' --daemon "$1"
 import re, argparse
 from argparse import RawTextHelpFormatter
-from os import path, getcwd
+from os import path, getcwd, sep
 
 def lst2chunks(lst, n):
     """Yield successive n-sized chunks from lst."""
@@ -12,26 +12,25 @@ def lst2chunks(lst, n):
 
 def chunker_inpair(watched_lines):
     for x in range(0, len(watched_lines), 2):
-        print (watched_lines[x:x+2])
+        print (x, watched_lines[x:x+2])
         watch_before, watch_after = watched_lines[x:x+2]
         event_before, type_before, path_before = watch_before.split(':', 2)
         event_after, type_after, path_after = watch_after.split(':', 2)
-        name_before = path.dirname(path_before)
-        name_after = path.dirname(path_after)
+        name_before = path.basename(path.normpath(path_before))
+        name_after = path.basename(path.normpath(path_after))
         name_match = match_percentage(name_after, name_before)
-        action_bash = '[ test -d "{before}" ] && mv --no-clobber -v "{before}" "{after}"'.format(before=path_before, after=path_after)
-        if name_match >= 80:
-            print ('[VALID] Matched %s%%: MOVED_FROM[%s] MOVED_TO[%s]' % (name_match, name_before, name_after))
+        action_bash = '[ -d "{before}" ] && mv --no-clobber -v "{before}" "{after}"'.format(before=path_before, after=path_after)
+        if name_match >= 60:
+            print ('[VALID] Matched %s%%: MOVED_FROM "%s" MOVED_TO "%s"' % (name_match, name_before, name_after))
             yield action_bash
         else:
-            print ('[WARN_] Conflict? matched %s%%: MOVED_FROM[%s] MOVED_TO[%s]' % (name_match, name_before, name_after))
+            print ('[WARN_] Conflict? matched %s%%: MOVED_FROM "%s" MOVED_TO "%s"' % (name_match, name_before, name_after))
             yield ('# %s' % action_bash)
 
 def chunker_inline(watched_lines):
     action_lines = []
     path_before = path_after = action_previous  = None
     for wline in watched_lines:
-        print (wline)
         watched_event, watched_type, watched_path = wline.split(':', 2)
         if watched_event == 'MOVED_FROM' and action_previous is None:
             path_before = watched_path
@@ -42,17 +41,18 @@ def chunker_inline(watched_lines):
         else:
             print ('[SKIP_] Conflict Action: [%s/%s] MOVED_FROM[%s] MOVED_TO[%s]' % (action_previous, watched_event, path_before, path_after))
             path_before = path_after = action_previous = None
-
+        print (path_before, path_after)
         if path_before is not None and path_after is not None:
-            name_before = path.dirname(path_before)
-            name_after = path.dirname(path_after)
+            name_before = path.dirname(path_before) if sep in path_before else path_before
+            name_after = path.dirname(path_after) if sep in path_after else path_after
+            print (name_before)
             name_match = match_percentage(name_after, name_before)
-            action_bash = '[ test -d "{before}" ] && mv --no-clobber -v "{before}" "{after}"'.format(before=path_before, after=path_after)
-            if name_match >= 80:
-                print ('[VALID] Matched %s%%: MOVED_FROM[%s] MOVED_TO[%s]' % (name_match, name_before, name_after))
+            action_bash = '[ -d "{before}" ] && mv --no-clobber -v "{before}" "{after}"'.format(before=path_before, after=path_after)
+            if name_match >= 70:
+                print ('[VALID] Matched %s%%: MOVED_FROM "%s" MOVED_TO "%s"' % (name_match, name_before, name_after))
                 action_lines.append(action_bash)
             else:
-                print ('[WARN_] Conflict? Object Name: MOVED_FROM[%s] MOVED_TO[%s]' % (path_before, path_after))
+                print ('[WARN_] Conflict? matched %s%%: MOVED_FROM "%s" MOVED_TO "%s"' % (name_match, path_before, path_after))
                 action_lines.append('# %s' % action_bash)
             path_before = path_after = action_previous = None
         else:
@@ -61,7 +61,7 @@ def chunker_inline(watched_lines):
 
 def match_percentage(string_1, string_2): # JANKY AF
     set_1 = set([x for x in string_1])
-    set_2 = set([y for y in string_1])
+    set_2 = set([y for y in string_2])
     if len(string_2) > len(string_1):
         needles, haystack = set_1, set_2
     else:
@@ -70,8 +70,10 @@ def match_percentage(string_1, string_2): # JANKY AF
     for n in needles:
         if n in haystack:
             m += 1
-    print (m)
-    return (m * 100) / len(haystack)
+    if m > 0:
+        return int((m * 100) / len(haystack))
+    else:
+        return 0
 
 if __name__ == "__main__":
     args_parser = argparse.ArgumentParser(
@@ -96,14 +98,15 @@ if __name__ == "__main__":
         with open(console_args.watch_file, 'r') as wf:
             wls = wf.readlines()
         # print (len(wls))
-        watched_lines = [line for line in wls if line.find('ISDIR') >= 0]
-        action_lines = chunker_inline(watched_lines)
-        # action_lines = chunker_inpair(watched_lines)
+        watched_lines = [line.rstrip('\n') for line in wls if line.find('ISDIR') >= 0 and
+                         line.find('MOVE') >= 0]
+        # action_lines = chunker_inline(watched_lines)
+        action_lines = chunker_inpair(watched_lines)
     else:
         print ('XXX')
         pass
-    if console_args.act_file is not None and not path.isfile(console_args.act_file):
-        with open(console_args.act_file, 'wt+') as af:
+    if console_args.act_file is not None:
+        with open(console_args.act_file, 'w+') as af:
             af.writelines("%s\n" % act_cmd for act_cmd in action_lines)
 else:
     pass

@@ -1,0 +1,238 @@
+<div class="field-item even" property="schema:articleBody content:encoded"><p>Every object on your Linux system has a permission mode that describes what actions a user can perform on it. There are three types of permissions: read (<strong>r</strong>), write (<strong>w</strong>), and execute (<strong>x</strong>).</p>
+
+<p>To <strong>read</strong> a file is to view its contents. For example, a text file must have <strong>read</strong> permission for someone to read the text within. If the user wants to add a sentence to that file, it needs <strong>write</strong> permission. The <strong>execute</strong> permission enables someone to run a file, such as a shell script or a binary program file.</p>
+
+<h2 id="basic-permissions">Basic permissions</h2>
+
+<p>The <strong>ls -l</strong> command displays the permissions assigned to a file. For example:</p>
+
+<pre><div class="geshifilter"><div class="bash geshifilter-bash"><span class="kw2">ls</span> <span class="re5">-l</span><br>
+<span class="re5">-rw-rw-r--</span> <span class="nu0">1</span> bruce bruce &nbsp; &nbsp;<span class="nu0">0</span> Jul <span class="nu0">30</span> <span class="nu0">16</span>:<span class="nu0">25</span> schedule1.txt</div></div></pre>
+
+<p>Some permissions (<strong>rw</strong>) appear more than once because they are referring to different entities: <em>user</em>, <em>group</em>, and <em>other</em>. <em>User</em> is synonymous with the owner, and <em>group</em> refers to the user's primary group, both of which are <strong>bruce</strong>. <em>Other</em> refers to all other users.</p>
+
+<p>The first position denotes the object's type: <strong>-</strong> for a file, <strong>d</strong> for a directory, and <strong>l</strong> for a symbolic link. The next nine positions are grouped in threes and describe the permission mode. The positions are ordered <strong>r</strong>,<strong>w</strong>,<strong>x</strong>, and the groups are ordered <strong>user</strong>, <strong>group</strong>, <strong>other</strong>.</p>
+
+<table cellspacing="1" cellpadding="1" border="1"><tbody><tr><td>--- --- ---</td>
+			<td>rwx rwx rwx</td>
+		</tr><tr><td>uuu ggg ooo</td>
+			<td>u=user, g=group, o=other</td>
+		</tr></tbody></table><h3 id="files">Files</h3>
+
+<p>A file with read, write, and execute bits set for all entities would appear:</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash">rwxrwxrwx </code></span></pre>
+
+<p>Of course, we don't usually configure files this permissively in the real world; this is just an illustration of how each position is used.</p>
+
+<p>In the following example, a file is configured for its owner (<strong>pablo</strong>) to have read and write permissions, for members of the group to only have read permission, and for everyone else to have no permissions.</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash"><span class="re5">-rw-r-----</span> <span class="nu0">1</span> pablo pablo &nbsp; &nbsp;<span class="nu0">0</span> Jul <span class="nu0">30</span> <span class="nu0">16</span>:<span class="nu0">25</span> textfile</code></span></pre>
+
+<p>The <strong>chmod</strong> command modifies the permission mode of objects in the system. It is one of the most used and important commands in the set of Linux security commands.</p>
+
+<p>A plus (<strong>+</strong>) symbol adds a permission, and a minus (<strong>-</strong>) symbol removes a permission. You can read <strong>chmod u+r</strong> as "user plus read," as it gives the user <em>read</em> permission. The command <strong>chmod u-r</strong> means "user minus read," as it takes the <em>read</em> permission away from the user.</p>
+
+<h3 id="directories">Directories</h3>
+
+<p>The same three permissions also apply to a directory. A directory must have the <em>read</em> permission for a user to view its contents. It will need <em>write</em> permission for a user to add to the directory (e.g., to create a new file). For a user to change to a directory (<strong>cd</strong>), it must have <em>execute</em> permission.</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash">drw-rw-r-- <span class="nu0">2</span> pablo pablo <span class="nu0">4096</span> Jul <span class="nu0">30</span> <span class="nu0">15</span>:<span class="nu0">56</span> JBOSS</code></span></pre>
+
+<p>Pablo may be the owner of the JBOSS directory, but since he doesn't have execute permission, he can not <strong>cd</strong> into it. He can use the command <strong>chmod u+x</strong> to add the permission, and then he can <strong>cd</strong> into it.</p>
+
+<pre><div class="geshifilter"><div class="bash geshifilter-bash">$ <span class="kw3">cd</span> JBOSS<br>
+bash: cd: JBOSS: Permission denied<br>
+$ <span class="kw2">chmod</span> u+x JBOSS<br>
+$ <span class="kw2">ls</span> <span class="re5">-l</span><br>
+drwxrw-r-- <span class="nu0">2</span> pablo pablo <span class="nu0">4096</span> Jul <span class="nu0">30</span> <span class="nu0">15</span>:<span class="nu0">56</span> JBOSS<br>
+$ <span class="kw3">cd</span> JBOSS<br>
+$ <span class="kw3">pwd</span><br>
+<span class="sy0">/</span>opt<span class="sy0">/</span>JBOSS</div></div></pre>
+
+<h3 id="combined-arguments">Combined arguments</h3>
+
+<p>You can combine arguments using a comma. In this example, you only need one command to set permissions so the group cannot write to a file nor can the rest of the world read it:</p>
+
+<pre><div class="geshifilter"><div class="bash geshifilter-bash">$ <span class="kw2">chmod</span> o-r,g-w readme.txt<br>
+$ <span class="kw2">ls</span> <span class="re5">-l</span><br>
+<span class="re5">-rw-r-----</span> <span class="nu0">1</span> pablo share <span class="nu0">0</span> Jul <span class="nu0">31</span> <span class="nu0">13</span>:<span class="nu0">34</span> readme.txt</div></div></pre>
+
+<p>You can read this as "others minus read and group minus write."</p>
+
+<p>Suppose Denise has written a Bash script called <strong>home_backup.sh</strong> and wants to give it <em>execute</em> permission. She also wants to prevent anyone else from reading, writing, or executing it. One way to do this is with the plus and minus symbols:</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash"><span class="co4">$ </span><span class="kw2">chmod</span> go-rw,u+x home_backup.sh</code></span></pre>
+
+<p>Another way is by using the equals (<strong>=</strong>) symbol. This will set the permissions absolutely without regard for previous settings. Note that there is a space after the second equals; this indicates a value of <strong>none</strong>:</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash"><span class="co4">$ </span><span class="kw2">chmod</span> <span class="re2">u</span>=rwx,<span class="re2">go</span>= home_backup.sh</code></span></pre>
+
+<p>You can read this as "permissions for user equal read, write, and execute and permissions for group and other equal none."</p>
+
+<h2 id="numeric-mode">Numeric mode</h2>
+
+<p>Chmod also supports a numeric mode, which uses values assigned to each position:</p>
+
+<table cellspacing="1" cellpadding="1" border="1"><thead><tr><th colspan="3" rowspan="1" scope="col" style="width: 150px;">owner</th>
+			<th colspan="3" rowspan="1" scope="col" style="width: 150px;">group</th>
+			<th colspan="3" rowspan="1" scope="col" style="width: 150px;">other</th>
+		</tr></thead><tbody><tr><td class="rtecenter">r</td>
+			<td class="rtecenter">w</td>
+			<td class="rtecenter">x</td>
+			<td class="rtecenter">r</td>
+			<td class="rtecenter">w</td>
+			<td class="rtecenter">x</td>
+			<td class="rtecenter">r</td>
+			<td class="rtecenter">w</td>
+			<td class="rtecenter">x</td>
+		</tr><tr><td class="rteright">400</td>
+			<td class="rteright">200</td>
+			<td class="rteright">100</td>
+			<td class="rteright">40</td>
+			<td class="rteright">20</td>
+			<td class="rteright">10</td>
+			<td class="rteright">4</td>
+			<td class="rteright">2</td>
+			<td class="rteright">1</td>
+		</tr></tbody></table><p>The total value of a set of permissions can be calculated and passed to the chmod command as a single argument. Take the example with Denise and her backup script. If she uses numeric mode to set the permissions on her script, she must first calculate the value total:</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash"><span class="re5">-rwx------</span> <span class="nu0">1</span> denise denise <span class="nu0">0</span> Jul <span class="nu0">31</span> <span class="nu0">13</span>:<span class="nu0">53</span> home_backup.sh</code></span></pre>
+
+<p>Denise adds the numbers that correspond to each permission she wants to apply:</p>
+
+<p><strong>400 + 200 + 100 = 700</strong></p>
+
+<p>Her command will be <strong>chmod 700 home_backup.sh</strong>. Suppose Denise wanted to reset the original permissions on the file:</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash"><span class="re5">-rw-rw-r--</span> <span class="nu0">1</span> denise denise <span class="nu0">0</span> Jul <span class="nu0">31</span> <span class="nu0">13</span>:<span class="nu0">53</span> home_backup.sh</code></span></pre>
+
+<p>The value of these permissions calculates to 664:</p>
+
+<p><strong>400 + 200 + 40 + 20 + 4 = 664</strong></p>
+
+<p>Denise can use the command <strong>chmod 664 home_backup.sh</strong> to restore the original permissions.</p>
+
+<h2 id="special-modes">Special modes</h2>
+
+<p>Three other modes can be set on an object:</p>
+
+<table style="width:400px;" cellspacing="1" cellpadding="1" border="1"><thead><tr><th scope="col">name</th>
+			<th scope="col">symbolic</th>
+			<th scope="col">numeric</th>
+		</tr></thead><tbody><tr><td>setuid</td>
+			<td class="rtecenter">s</td>
+			<td class="rtecenter">4000</td>
+		</tr><tr><td>setgid</td>
+			<td class="rtecenter">s</td>
+			<td class="rtecenter">2000</td>
+		</tr><tr><td>sticky</td>
+			<td class="rtecenter">t</td>
+			<td class="rtecenter">1000</td>
+		</tr></tbody></table><p>The <strong>SetUID</strong> bit enforces user ownership on an executable file. When it is set, the file will execute with the file owner's user ID, not the person running it.</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash"><span class="co4">$ </span><span class="kw2">chmod</span> u+s</code></span></pre>
+
+<p>The <strong>SetGID</strong> bit enforces group ownership on files and directories. When it is set, any file or directory created in a directory will get the directory's group ownership, not the user's. When it is set on a file, the file will always be executed as its owning group rather than as the user:</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash"><span class="co4">$ </span><span class="kw2">chmod</span> g+s</code></span></pre>
+
+<p>The <strong>sticky</strong> bit, also referred to as the "restricted deletion flag," can be set on a directory to prevent anyone except the directory's owner from deleting a file in that directory:</p>
+
+<pre><span class="geshifilter"><code class="bash geshifilter-bash"><span class="co4">$ </span><span class="kw2">chmod</span> o+t</code></span></pre>
+
+<p>The sticky bit can be set in numerical mode by adding its value to those of the other permissions. If you have an object with a value of 755 and you want to set the sticky bit, add 1000:</p>
+
+<p><strong>1000 + 400 + 200 + 100 + 40 + 10 + 4 + 1 = 1755</strong></p>
+
+<p>This command would be <strong>chmod 1755</strong>. Several symbolic methods are equivalent; one example is <strong>chmod u=rwx,go=rx,o+t</strong>.</p>
+
+<h2 id="extras">Extras</h2>
+
+<p>The letter <strong>a</strong> is a shortcut to assign permissions to all users. The command <strong>chmod a+rwx</strong> is equivalent to <strong>chmod ugo+rwx</strong>.</p>
+
+<h3 id="recursive">Recursive</h3>
+
+<p>Like many other Linux commands, chmod has a recursive argument, <strong>-R</strong>, which allows you to operate on a directory and its contents recursively. By recursive, It is meant that the command will attempt to operate on all objects below the specified directory rather than just the directory itself. This example starts in an empty directory and adds the <strong>-v</strong> (verbose) argument, so chmod will report what it is doing:</p>
+
+<pre><div class="geshifilter"><div class="bash geshifilter-bash">$ <span class="kw2">ls</span> <span class="re5">-l</span> . conf<br>
+.:<br>
+drwxrwxr-x <span class="nu0">2</span> alan alan <span class="nu0">4096</span> Aug &nbsp;<span class="nu0">5</span> <span class="nu0">15</span>:<span class="nu0">33</span> conf<br>
+<br>
+conf:<br>
+<span class="re5">-rw-rw-r--</span> <span class="nu0">1</span> alan alan <span class="nu0">0</span> Aug &nbsp;<span class="nu0">5</span> <span class="nu0">15</span>:<span class="nu0">33</span> conf.xml<br>
+$ <span class="kw2">chmod</span> <span class="re5">-vR</span> <span class="nu0">700</span> conf<br>
+mode of <span class="st_h">'conf'</span> changed from 0775 <span class="br0">(</span>rwxrwxr-x<span class="br0">)</span> to 0700 <span class="br0">(</span>rwx------<span class="br0">)</span><br>
+mode of <span class="st_h">'conf/conf.xml'</span> changed from 0664 <span class="br0">(</span>rw-rw-r--<span class="br0">)</span> to 0700 <span class="br0">(</span>rwx------<span class="br0">)</span></div></div></pre>
+
+<h3 id="reference">Reference</h3>
+
+<p>A reference file command (<strong>--reference=RFILE</strong>) can be used to duplicate the mode of another file (<strong>RFILE</strong>), known as a reference file. This is handy when you are changing modes on files to match a certain configuration or when you don't know the exact mode—or don't want to take time to calculate it:</p>
+
+<pre><div class="geshifilter"><div class="bash geshifilter-bash">$ <span class="kw2">ls</span> <span class="re5">-l</span><br>
+<span class="re5">-rw-r--r-x</span> <span class="nu0">1</span> alan alan <span class="nu0">0</span> Aug &nbsp;<span class="nu0">5</span> <span class="nu0">17</span>:<span class="nu0">10</span> notes.txt<br>
+<span class="re5">-rw-rw-r--</span> <span class="nu0">1</span> alan alan <span class="nu0">0</span> Aug &nbsp;<span class="nu0">5</span> <span class="nu0">17</span>:<span class="nu0">10</span> readme.txt<br>
+$ <span class="kw2">chmod</span> <span class="re5">--reference</span>=readme.txt notes.txt<br>
+$ <span class="kw2">ls</span> <span class="re5">-l</span><br>
+<span class="re5">-rw-rw-r--</span> <span class="nu0">1</span> alan alan <span class="nu0">0</span> Aug &nbsp;<span class="nu0">5</span> <span class="nu0">17</span>:<span class="nu0">10</span> notes.txt<br>
+<span class="re5">-rw-rw-r--</span> <span class="nu0">1</span> alan alan <span class="nu0">0</span> Aug &nbsp;<span class="nu0">5</span> <span class="nu0">17</span>:<span class="nu0">10</span> readme.txt</div></div></pre>
+
+<h3 id="report-changes">Report changes</h3>
+
+<p></p><div id="more-linux-resources" class="embedded-callout-menu callout-float-right"><div class="view view-related-content-callout view-id-related_content_callout view-display-id-article_block view-dom-id-0c8ecb0e1ff767ef9a5ff3b608be4fa5">
+            <div class="view-header">
+      More Linux resources    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">      
+  <div class="views-field views-field-field-related-content-link">        <div class="field-content"><div class="item-list"><ul><li class="first"><a href="https://developers.redhat.com/cheat-sheets/linux-commands-cheat-sheet/?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Linux commands cheat sheet</a></li>
+<li><a href="https://developers.redhat.com/cheat-sheets/advanced-linux-commands/?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Advanced Linux commands cheat sheet</a></li>
+<li><a href="https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Free online course: RHEL Technical Overview</a></li>
+<li><a href="https://opensource.com/downloads/cheat-sheet-networking?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Linux networking cheat sheet</a></li>
+<li><a href="https://opensource.com/downloads/cheat-sheet-selinux?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">SELinux cheat sheet</a></li>
+<li><a href="https://opensource.com/downloads/linux-common-commands-cheat-sheet?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Linux common commands cheat sheet</a></li>
+<li><a href="https://opensource.com/resources/what-are-linux-containers?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">What are Linux containers?</a></li>
+<li class="last"><a href="https://opensource.com/tags/linux?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Our latest Linux articles</a></li>
+</ul></div></div>  </div>  </div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>The chmod command also has a <strong>-c</strong> (<strong>--changes</strong>) argument, which tells chmod to report only when a change is made (versus <strong>-v</strong>, or <strong>-verbose</strong>, which tells chmod to report all its output). Chmod will still report other things, such as if an operation is not allowed.<p></p>
+
+<p>The argument <strong>-f</strong> (<strong>--silent</strong>, <strong>--quiet</strong>) suppresses most error messages. Using this argument with <strong>-c</strong> will show only real changes.</p>
+
+<h3 id="preserve-root">Preserve root</h3>
+
+<p>The root (<strong>/</strong>) of the Linux filesystem should be treated with great respect. If someone makes a command mistake at this level, the consequences can be terrible and leave a system completely useless, particularly when you are running a recursive command that will make any kind of change—or worse: deletions. Fortunately, the chmod command's <strong>--preserve-root</strong> argument will protect and preserve the root. If the argument is used with a recursive chmod command on the root, nothing will happen, and you will see this message:</p>
+
+<pre><div class="geshifilter"><div class="bash geshifilter-bash"><span class="br0">[</span>alan<span class="sy0">@</span>localhost ~<span class="br0">]</span><span class="co0"># chmod -cfR --preserve-root a+w /</span><br>
+chmod: it is dangerous to operate recursively on <span class="st_h">'/'</span><br>
+chmod: use <span class="re5">--no-preserve-root</span> to override this failsafe</div></div></pre>
+
+<p>The option has no effect when it is not used with recursive. However, if the root user runs the command, the permissions of the <strong>/</strong> will change, but not those of other files or directories.</p>
+
+<pre><div class="geshifilter"><div class="bash geshifilter-bash"><span class="br0">[</span>alan<span class="sy0">@</span>localhost ~<span class="br0">]</span>$ <span class="kw2">chmod</span> <span class="re5">-c</span> <span class="re5">--preserve-root</span> a+<span class="kw2">w</span> <span class="sy0">/</span><br>
+chmod: changing permissions of <span class="st_h">'/'</span>: Operation not permitted<br>
+<span class="br0">[</span>root<span class="sy0">@</span>localhost <span class="sy0">/</span><span class="br0">]</span><span class="co0"># chmod -c --preserve-root a+w /</span><br>
+mode of <span class="st_h">'/'</span> changed from 0555 <span class="br0">(</span>r-xr-xr-x<span class="br0">)</span> to 0777 <span class="br0">(</span>rwxrwxrwx<span class="br0">)</span></div></div></pre>
+
+<p>Surprisingly, this is not the default argument; <strong>--no-preserve-root</strong> is. If you run a command without the "preserve" option, it will default to "no preserve" mode and possibly change permissions on files that shouldn't be changed.</p>
+
+<pre><div class="geshifilter"><div class="bash geshifilter-bash"><span class="br0">[</span>alan<span class="sy0">@</span>localhost ~<span class="br0">]</span>$ <span class="kw2">chmod</span> <span class="re5">-cfR</span> a+x <span class="sy0">/</span><br>
+mode of <span class="st_h">'/proc/1525/task/1525/comm'</span> changed from 0644 <span class="br0">(</span>rw-r--r--<span class="br0">)</span> to 0755 <span class="br0">(</span>rwxr-xr-x<span class="br0">)</span><br>
+mode of <span class="st_h">'/proc/1541/task/1541/comm'</span> changed from 0644 <span class="br0">(</span>rw-r--r--<span class="br0">)</span> to 0755 <span class="br">(</span>rwxr-xr-x<span class="br0">)</span><br>
+mode of <span class="st_h">'/proc/1541/task/1580/comm'</span> changed from 0644 <span class="br0">(</span>rw-r--r--<span class="br0">)</span> to 0755 <span class="br0">(</span>rwxr-xr-x<span class="br0">)</span><br>
+mode of <span class="st_h">'/proc/1541/task/1592/comm'</span> changed from 0644 <span class="br0">(</span>rw-r--r--<span class="br0">)</span> to 0755 <span class="br0">(</span>rwxr-xr-x<span class="br0">)</span><br>
+mode of <span class="st_h">'/proc/1557/task/1557/comm'</span> changed from 0644 <span class="br0">(</span>rw-r--r--<span class="br0">)</span> to 0755 <span class="br0">(</span>rwxr-xr-x<span class="br0">)</span><br>
+mode of <span class="st_h">'/proc/1558/task/1558/comm'</span> changed from 0644 <span class="br0">(</span>rw-r--r--<span class="br0">)</span> to 0755 <span class="br0">(</span>rwxr-xr-x<span class="br0">)</span><br>
+mode of <span class="st_h">'/proc/1561/task/1561/comm'</span> changed from 0644 <span class="br0">(</span>rw-r--r--<span class="br0">)</span> to 0755 <span class="br0">(</span>rwxr-xr-x<span class="br0">)</span></div></div></pre>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>All objects on a Linux system have a set of permissions. It is important to check and maintain them occasionally to prevent unwanted access.</p>
+</div>

@@ -10,12 +10,19 @@ def lst2chunks(lst, n):
     for i in range(0, len(lst), n):
         yield lst[i:i + n]
 
+def event_splitter(event_line):
+    if ':ISDIR:' in event_line:
+        return tuple(event_line.split(':', 2))
+    else:
+        event_act, event_obj = event_line.split(':', 1)
+        return tuple(event_act, None, event_obj)
+
 def chunker_inpair(watched_lines):
     for x in range(0, len(watched_lines), 2):
         print (x, watched_lines[x:x+2])
         watch_before, watch_after = watched_lines[x:x+2]
-        event_before, type_before, path_before = watch_before.split(':', 2)
-        event_after, type_after, path_after = watch_after.split(':', 2)
+        event_before, type_before, path_before = event_splitter(watch_before)
+        event_after, type_after, path_after = event_splitter(watch_after)
         name_before = path.basename(path.normpath(path_before))
         name_after = path.basename(path.normpath(path_after))
         name_match = match_percentage(name_after, name_before)
@@ -31,7 +38,7 @@ def chunker_inline(watched_lines):
     action_lines = []
     path_before = path_after = action_previous  = None
     for wline in watched_lines:
-        watched_event, watched_type, watched_path = wline.split(':', 2)
+        watched_event, watched_type, watched_path = event_splitter(wline)
         if watched_event == 'MOVED_FROM' and action_previous is None:
             path_before = watched_path
             action_previous = watched_event
@@ -103,8 +110,7 @@ if __name__ == "__main__":
         with open(console_args.watch_file, 'r') as wf:
             wls = wf.readlines()
         # print (len(wls))
-        watched_lines = [line.rstrip('\n') for line in wls if line.find('ISDIR') >= 0 and
-                         line.find('MOVE') >= 0]
+        watched_lines = [line.rstrip('\n') for line in wls if >= 0 and line.find('MOVED_') >= 0]
         if console_args.match_pair:
             action_lines = chunker_inpair(watched_lines)
         else:

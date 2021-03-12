@@ -1,14 +1,14 @@
 ### Disable thumbnail generation
-**(2012 community thread)**:
-DSM --> Control Panel --> Media Indexing --> Indexed Folder</br>
-Create: /photo/subdir: --> unselect all file types</br>
+**(2012 community thread)** </br>
+~~DSM --> Control Panel --> Media Indexing --> Indexed Folder</br>
+Create: /photo/subdir: --> unselect all file types~~</br>
 ```bash
 /usr/syno/etc/rc.d/S77synomkthumbd.sh stop
 /usr/syno/etc/rc.d/S77synomkthumbd.sh start
 ```
-Double checked Control Panel > Media Server > Thumbnail Settings > Thumbnail Progress</br>
+~~Double checked Control Panel > Media Server > Thumbnail Settings > Thumbnail Progress~~</br>
 </br>
-**(2017 jeffcosta blogpost)**:
+**(2017 jeffcosta blogpost)**
 ```bash
 ps aux | grep 'thumb\|@'
 6790 ? Ssl 0:00 /var/packages/FileStation/target/sbin/thumbd
@@ -32,8 +32,7 @@ cd /var/packages/FileStation/target/etc/conf
 mv thumbd.conf{,.orig}
 reboot
 ```
-SSH into the device and you should no longer see any instance of the thumbd.</br>
-or, slightly more official perhaps:
+SSH into the device and you should no longer see any instance of the thumbd. or, slightly more official perhaps:
 ```bash
 $ synoservice --help
 Copyright (c) 2003-2020 Synology Inc. All rights reserved.
@@ -64,8 +63,9 @@ Usage: synoservice
 
 $ synoservice --disable synomkthumbd
 $ synoservice --hard-disable synomkthumbd
+# you still needs to restart the dsm box for this to take effect, since even --hard-disable doesnt do what it said it does
 ```
-under DSM 7.0, which uses systemd, the command is basically:
+~~under DSM 7.0, which uses systemd, the command is basically~~: DSM(6.4) < 7 does not support systemctl (not using systemd)
 ```bash
 systemctl stop pkg-FileStation-thumbd.service
 systemctl disable pkg-FileStation-thumbd.service

@@ -62,7 +62,7 @@
 - use autossh instead of ssh to avaoid connection timeout
   ```bash
   # addition options 
-  ssh -o IdentitiesOnly=yes
+  ssh -o IdentitiesOnly=yes -o BatchMode=yes -o ServerAliveInterval=300 -o ServerAliveCountMax=3
   # does autossh supports -o flags?
   autossh -nNT -i ~/keypair.pem -R 2000:localhost:22 username@myoutsidebox.com &
   echo $! > /tmp/rtunnel.pid

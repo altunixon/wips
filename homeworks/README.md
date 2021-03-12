@@ -58,28 +58,14 @@
   </div>
   ```
   `xpath_pindex_purged = '//div[@id="wrapper"]/div[contains(@class, "error-unit")]/p[@class="error-message"]'`
-- booru.py -d json:/media/$USER/ramdisk1/jsondb-booru/
+- new ssh keypair
+- use autossh instead of ssh to avaoid connection timeout
   ```bash
-  # ON EXIT
-  2021-03-02 00:32:06 +0900 [INFO]: SITE  [DONE] - Processed: [221] Urls
-  Exception ignored in: <bound method json_db.__del__ of <databases.dldb_json.json_db object at 0x7f10ef5abc50>>
-  Traceback (most recent call last):
-    File "/opt/git-bucket/script-python3/downloader-booru/databases/dldb_json.py", line 149, in __del__
-    File "/opt/git-bucket/script-python3/downloader-booru/databases/dldb_json.py", line 140, in flush
-  NameError: name 'open' is not defined
-
-  # ON START
-  [JSON DB] Cache cleared: {}
-  2021-03-04 00:26:43 +0900 [ERR_]: REQBR [#None] - Url: "# https://yande.re/post/show/561669" False,
-        Exception:
-        No connection adapters were found for '# https://yande.re/post/show/561669',
-  Try: [1/2] None
-  ...
-  Exception ignored in: <bound method json_db.__del__ of <databases.dldb_json.json_db object at 0x7f7bf56e6c50>>
-  Traceback (most recent call last):
-    File "/opt/git-bucket/script-python3/downloader-booru/databases/dldb_json.py", line 149, in __del__
-    File "/opt/git-bucket/script-python3/downloader-booru/databases/dldb_json.py", line 144, in flush
-  UnboundLocalError: local variable 'table_path' referenced before assignment
+  # addition options 
+  ssh -o IdentitiesOnly=yes
+  # does autossh supports -o flags?
+  autossh -nNT -i ~/keypair.pem -R 2000:localhost:22 username@myoutsidebox.com &
+  echo $! > /tmp/rtunnel.pid
   ```
 
 ## DONE

@@ -103,3 +103,14 @@
 - Patch booru.py, pixiv.py
 - Patch helpers/{text_file.py,misc.py}
 - Diskstation: alias passwd="synouser --setpw" # admin <yourpassword>
+- rit empty
+  ```bash
+  find ./ -type d -empty -exec mv {} _empty/ \;
+  ls -1 _empty/ > /tmp/rit_trueform.txt
+  ls | grep -v '\]/$' > /tmp/rit_malformed.txt
+  for x in $(grep '^(' rit_malformed.txt); do
+  y=$(echo "$x" | sed -nE 's/^\(([^)]*)\) ?(.*)/\1/p'); 
+  z=$(grep "$y" /tmp/rit_trueform.txt | tr '\n' '|'); 
+  echo "${x}|${z}" | tee -a /tmp/rit_merged.txt; 
+  done
+  ```

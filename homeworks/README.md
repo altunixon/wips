@@ -9,26 +9,11 @@
   cat /tmp/yande.txt > booru-yande.txt
   ```
 - Xtract watcher (WORKING) https://linux.die.net/man/1/inotifywait
-  ```bash
-  inotifywait -m -r -o /tmp/xtract_watch.txt -e modify -e move -e create -e delete --format '%:e:%w%f' ~/Xtracts
-  inotifywait --monitor --recursive --outfile /tmp/xtract_watch.txt --event modify --event move --event create --event delete --format '%:e:%w%f' ~/Xtracts
-  function watcher_start() {
-    IFS=$'\r\n'
-    inotifywait -m -r -o /tmp/xtract_watch.txt -e move --format '%:e:%w%f' --daemon "$1"
-    echo $! | tee /tmp/watcher.pid
-    watcher_pid=$(cat /tmp/watcher.pid)
-    echo "Watcher Process [$watcher_pid]: $(ps -p $watcher_pid -o command) [STARTED]\nUse: 'kill -9 $watcher_pid' or 'watcher_stop' to kill it."
-  }
-  function watcher_stop() {
-    if [ -s /tmp/watcher.pid ]; then
-      watcher_pid=$(cat /tmp/watcher.pid)
-      echo -n "[$watcher_pid] Killing: $(ps -p $watcher_pid -o command) "
-      kill -9 "$watcher_pid" && echo '[_OK_]' || echo '[FAIL]'
-    else
-      echo "No watcher process available"
-    fi
-  }
-  ```
+  added to dedicated script, use bin-sh/folder-watcher start|stop
+- TP-LINK UE300 RTL8153
+  https://www.raspberrypi.org/forums/viewtopic.php?t=285867
+  https://www.tp-link.com/us/support/download/ue300/#Driver
+  https://elinux.org/RPi_USB_Ethernet_adapters
 - mysqldump (optional: sqlite) to json conversion
 - skbnya external search url, preferable dm2 (very low priority)
 - watcher list converter (inotifywait events to action)

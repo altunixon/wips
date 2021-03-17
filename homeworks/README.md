@@ -113,4 +113,5 @@
   z=$(grep "$y" /tmp/rit_trueform.txt | tr '\n' '|'); 
   echo "${x}|${z}" | tee -a /tmp/rit_merged.txt; 
   done
+  sed -i.bak 's/\/|/|/g; s/|$//' /tmp/rit_merged.txt
   ```

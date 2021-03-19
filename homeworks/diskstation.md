@@ -70,6 +70,33 @@ $ synoservice --hard-disable synomkthumbd
 systemctl stop pkg-FileStation-thumbd.service
 systemctl disable pkg-FileStation-thumbd.service
 ```
+### Kill @eaDir (invalid paths)
+To stop the folders from being created:
+```bash
+# most of these dont exists
+cd /usr/syno/etc.defaults/rc.d
+S66synoindexd.sh stop
+S77synomkthumbd.sh stop
+S88synomkflvd.sh stop
+S99iTunes.sh stop
+chmod 000 S66synoindexd.sh S77synomkthumbd.sh S88synomkflvd.sh S99iTunes.sh
+```
+To re-enable the folders being created:
+```bash
+# most of these dont exists
+cd /usr/syno/etc.defaults/rc.d
+chmod 655 S66synoindexd.sh synomkthumbd.sh S88synomkflvd.sh S99iTunes.sh
+S66synoindexd.sh start
+S77synomkthumbd.sh start
+S88synomkflvd.sh start
+S99iTunes.sh start
+```
+To delete *all* @eaDir folders on your system: </br>
+CAUTION:  This will delete files without confirmation, so be sure you have it right!!
+```bash
+cd /volume1/music
+find . -name @eaDir -print | while read n ; echo $n ; rm -rf "$n" ; done
+```
 ### Fan replacement guide (by asrk)
 Tl;dr: You need one with a "rotor lock" detection, not one of those with a PWM tachometer output.
 

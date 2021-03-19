@@ -92,3 +92,12 @@ var="${var%"${var##*[![:space:]]}"}"   # remove trailing whitespace characters
 
 echo "$var" | sed -n -e 'l'
 ```
+### Rename pixivs
+```bash
+find ./ -type f
+head pixi-mutou.txt | awk -F '/' '{n=split($NF, x, "_"); a=x[1]; b=x[2]; split(x[3], y, "-"); c=y[1]; l=split(x[(n)], z, "."); d=z[l]; $NF=""; print $0 a"_"b"_"c"."d}' | sed 's/ /\//g'
+for x in $(cat pixi-mutou.txt); do
+y=$(echo "$x" | awk -F '/' '{n=split($NF, x, "_"); a=x[1]; b=x[2]; split(x[3], y, "-"); c=y[1]; l=split(x[(n)], z, "."); d=z[l]; $NF=""; print $0 a"_"b"_"c"."d}' | sed 's/ /\//g');
+mv -v --no-clobber "$x" "$y";
+done
+```

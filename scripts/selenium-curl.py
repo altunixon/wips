@@ -6,7 +6,7 @@ import os, time, urllib, json, re
 from lxml                   import html
 from browsers.selenium      import SeleniumBrowser
 from browsers.login         import page_login_sel
-from browsers.scrapers      import lxmlhtml_scraper
+from browsers.scrapers      import lxml_scraper
 
 default_path = os.path.dirname(os.path.abspath(__file__))
 
@@ -72,7 +72,8 @@ def main():
     if console_args.py_readable:
         from readability import Document
         
-    re_filter = None if console_args.result_filter is None else re.compile(console_args.result_filter)
+    re_posfilter = None if console_args.result_match is None else re.compile(console_args.result_match)
+    re_negfilter = None if console_args.result_notmatch is None else re.compile(console_args.result_notmatch)
 
     try:
         for url_js in console_args.urls:
@@ -93,14 +94,19 @@ def main():
                     for x in console_args.elem_xpath.split('|'):
                         y, z = x.split(':', 1)
                         xpath_collection[y] = z
-                element_collection = lxmlhtml_scraper(html_doc, refer=url_js, **xpath_collection)
+                element_collection = lxml_scraper(html_doc, refer=url_js, **xpath_collection)
                 scrape_result = []
                 for tag_data, data_value in element_collection.items():
                     scrape_result.extend([x.strip() for x in data_value if len(x.strip()) > 0])
 
-                if re_filter is not None:
+                if re_posfilter is not None or re_negfilter is not None:
                     for scrape_d in scrape_result:
-                        if re_filter.search(scrape_d):
+                        if re_negfilter is not None:
+                            test_match = False if re_negfilter.search(scrape_d) else True
+                        else:
+                            test_match = True if re_posfilter is None else re_posfilter.search(scrape_d)
+
+                        if test_match:
                             print (scrape_d)
                         else:
                             pass
@@ -155,8 +161,10 @@ if __name__ == '__main__':
     parser.add_argument('--no-eol', dest='linebreak', action='store_false', 
         help='Do not print linebreak, only applies to links and xpath flag')
     parser.set_defaults(linebreak=True)
-    parser.add_argument('--regex', dest='result_filter', nargs='?', default=None,
+    parser.add_argument('--match', dest='result_match', nargs='?', default=None,
         help='Post process filter result with regex match, usually uses with links, use with other flags may produce unpredictable result')
+    parser.add_argument('--not-match', dest='result_notmatch', nargs='?', default=None,
+        help='Post process filter result with negative regex match, usually uses with links, use with other flags may produce unpredictable result')
     parser.add_argument('--login', dest='login_json', nargs='?', default=None,
         help='Login using json, also accept json file, use json:{string} or file:/path/to/file.json')
     parser.add_argument('-q', '--quiet', dest='verbose', action='store_false', 

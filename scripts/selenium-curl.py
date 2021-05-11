@@ -82,7 +82,7 @@ def main():
             if console_args.py_readable:
                 html_doc = Document(mybr.read()).summary()
             elif console_args.moz_readable:
-                html_doc = mybr.read()
+                html_doc = mybr.read() # PLACEHOLDER
             else:
                 html_doc = mybr.read()
 
@@ -100,18 +100,23 @@ def main():
                     scrape_result.extend([x.strip() for x in data_value if len(x.strip()) > 0])
 
                 if re_posfilter is not None or re_negfilter is not None:
+                    scrape_filtered = []
                     for scrape_d in scrape_result:
-                        if re_negfilter is not None:
-                            test_match = False if re_negfilter.search(scrape_d) else True
-                        else:
+                        test_match = False if re_negfilter is not None \
+                            and re_negfilter.search(scrape_d) else \
+                            True
+                        if test_match:
                             test_match = True if re_posfilter is None else re_posfilter.search(scrape_d)
+                        else:
+                            pass
 
                         if test_match:
-                            print (scrape_d)
+                            scrape_filtered.appen(scrape_d)
                         else:
                             pass
                 else:
-                    print (('\n' if console_args.linebreak else ' ').join(scrape_result))
+                    scrape_filtered = scrape_result
+                print (('\n' if console_args.linebreak else ' ').join(scrape_filtered))
             else:
                 print (html_doc)
             

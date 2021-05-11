@@ -104,7 +104,7 @@ def main():
                             print (scrape_d)
                         else:
                             pass
-                 else:
+                else:
                     print (('\n' if console_args.linebreak else ' ').join(scrape_result))
             else:
                 print (html_doc)
@@ -139,7 +139,7 @@ if __name__ == '__main__':
     parser.add_argument('--headless', dest='headless', action='store_true',
         help='Headless mode.')
     parser.set_defaults(headless=False)
-    parser.add_argument('--xpath', dest='env_display', nargs='?', default=None,
+    parser.add_argument('--display', dest='env_display', nargs='?', default=None,
         help='Set output display, see /tmp/.X11-unix/X* for available display values')
     parser.add_argument('--read-moz', dest='moz_readable', action='store_true',
         help='Parse html content with readability module, needs nodejs and npm install @mozilla/readability')

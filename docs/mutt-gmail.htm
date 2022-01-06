@@ -1,0 +1,158 @@
+<div class="inside-article">
+<header class="entry-header" aria-label="Content">
+<h1 class="entry-title" itemprop="headline">How to install, configure, and use mutt with a gmail account on Linux</h1> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date updated-date" datetime="2020-08-13T00:00:00+10:00" itemprop="dateModified">13 August 2020</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemtype="https://schema.org/Person" itemscope=""><a class="url fn n" href="https://linuxconfig.org/author/egidio" title="View all posts by Egidio Docile" rel="author" itemprop="url"><span class="author-name" itemprop="name">Egidio Docile</span></a></span></span> </div>
+</header>
+<div class="entry-content" itemprop="text">
+<p>Email reader programs such as Thunderbird or Evolution are great, but sometimes they can feel bloated. If you found yourself working mainly from CLI, you may find useful to learn how to install and configure Mutt, a command line email client: that’s what we will do in this tutorial.</p>
+<p><strong>In this tutorial you will learn</strong>:</p>
+<ul>
+<li>How to install Mutt</li>
+<li>How to configure Mutt to be used with a gmail account</li>
+<li>How to store sensitive information in an encrypted file and source it from the main Mutt configuration</li>
+<li>How to setup some macros to easily switch between mailbox directories</li>
+</ul>
+<p><span id="more-2171"></span></p>
+<div class="uk-margin">
+<div class="uk-thumbnail uk-thumbnail-expand"><a title="How to install, configure, and use mutt with a gmail account on Linux" href="https://linuxconfig.org/wp-content/uploads/2020/07/00-how-to-install-configure-and-use-mutt-with-a-gmail-account-on-linux.png" data-lightbox-type="image" data-uk-lightbox="{group:group1}"><img src="https://linuxconfig.org/wp-content/uploads/2020/07/00-how-to-install-configure-and-use-mutt-with-a-gmail-account-on-linux.png" alt="How to install, configure, and use mutt with a gmail account on Linux"></a><p></p>
+<div class="uk-thumbnail-caption">How to install, configure, and use mutt with a gmail account on Linux</div>
+</div>
+</div>
+<h2>Software requirements and conventions used</h2>
+<table class="uk-table uk-table-strIPed uk-table-condensed">
+<caption>Software Requirements and Linux Command Line Conventions</caption>
+<thead>
+<tr>
+<th>Category</th>
+<th>Requirements, Conventions or Software Version Used</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="uk-text-primary uk-text-bold">System</td>
+<td>Distribution-independent</td>
+</tr>
+<tr>
+<td class="uk-text-primary uk-text-bold">Software</td>
+<td>Mutt, gpg to encrypt sensitive information</td>
+</tr>
+<tr>
+<td class="uk-text-primary uk-text-bold">Other</td>
+<td>It is assumed you have a working gpg setup with personal keypairs</td>
+</tr>
+<tr>
+<td class="uk-text-primary uk-text-bold">Conventions</td>
+<td># – <a href="linux-commands">linux-commands</a> to be executed with root privileges either directly as a root user or by use of <code>sudo</code> command<br>
+$ – <a href="linux-commands">linux-commands</a> to be executed as a regular non-privileged user</td>
+</tr>
+</tbody>
+</table>
+<h2>Installation</h2>
+<hr>
+<p>Mutt is available by default in the official repository of all the major Linux distributions, therefore we can easily install it using our favorite package manager. On the Fedora family of distributions, we can use <strong>dnf</strong>:</p>
+<pre>$ sudo dnf install mutt
+</pre>
+<p>On Debian and derivatives we can use <strong>apt</strong>:</p>
+<pre>$ sudo apt install mutt
+</pre>
+<p>Mutt is also available in the Archlinux <strong>extra</strong> repository. To install it we can use <strong>pacman</strong>:</p>
+<pre>$ sudo pacman -S mutt
+</pre>
+<p>Once installed we can proceed and configure the application. In this tutorial we will tune it to work with a gmail account.</p>
+<h2>Basic configuration</h2>
+<p>We can choose among many paths to create the Mutt configuration file, however the most common ones are <code>~/.muttrc</code> and <code>~/.config/mutt/muttrc</code>; in this tutorial we will use the former. Here are some of the directives we may want to use inside of it:</p>
+<pre>set ssl_force_tls = yes
+set abort_nosubject = no
+set mail_check = 60
+set timeout = 10
+set sort = "reverse-date-received"
+set signature = "~/.mutt/signature"
+set copy = no
+</pre>
+<p>Let’s take some time to explain what is the meaning of the variables we set above, and how they alter the behavior of Mutt.</p>
+<h3>Force tls connection</h3>
+<p>The version of Mutt we installed should be compiled with support for <strong>tls</strong>: this is needed to enable encrypted communication with remote servers. To verify it, we can launch the following command:</p>
+<pre>$ mutt -v | grep tls
+</pre>
+<hr>
+<p>As the result of the above command, we should see <code>--with-gnutls</code> among the configuration options highlighted as a match. If mutt is configured with this option we can use set <code>ssl_force_tls</code> to “yes” to make Mutt require all connections with remote servers to be encrypted. Mutt will try to use encryption even when communicating with those server which not officially support it, and will abort the connection if it doesn’t succeed.</p>
+<h3>Abort if a message contains no subject</h3>
+<p>Via the <code>abort_nosubject</code> we can setup how Mutt will behave when a message is composed but no subject is given at the subject prompt. The default for this option is <code>ask-yes</code>, meaning that will be asked to confirm if we really want to send the message anyway, with the “yes” option used as default. In this case we used <code>no</code> as value, so messages without a subject will be sent without the need for a confirmation.</p>
+<h3>Check for new emails</h3>
+<p>Mutt updates the status of all directories every time an input is received from the keyboard. We normally want to be notified of new emails even on idle, without the need to press a key. The variable which governs this behavior is <code>timeout</code>. It takes a value in seconds which is the maximum time to wait for an input from the user. If no user input is received during the amount of time specified, the update operation takes place anyway. The default value for the variable is <code>600</code> seconds, so if no input is given, we would receive updates every 10 minutes. The default value is too high, we use <code>10</code>.</p>
+<p>As we said, each time a user input is received mutt looks for updates; on a high keyboard activity this would cause too many access operations, therefore we want to limit this frequency anyway. To accomplish the task we can use the <code>mail_check</code> variable. As happens for <code>timeout</code> this variable accepts a numerical value, which is interpreted as the minimum time in seconds between two scans. The default value for the variable is <code>5</code> so mutt will search for new mails every <code>5</code> second even if keys are pressed very often. We want to increase the value of this variable, especially if using multiple mailboxes, to avoid possible slowdowns: <code>60</code> should be a reasonable value.</p>
+<hr>
+<h3>Set the email sort order in the index page</h3>
+<p>By default emails, in the “index” menu (where the list of messages is displayed) are sorted by date in ascending order, so newer emails will be displayed at the bottom. To change the way email are sorted, we can use and set the value of the <code>sort_order</code> variable. In this case we used <code>reverse-data-received</code> in order for newer emails to appear at the top of the list. Other parameters can be used as sorting factors, as for example <strong>subject</strong> and <strong>size</strong>.</p>
+<h3>Appending a signature to outgoing emails</h3>
+<p>If we want to append a specific signature to our outgoing emails, we can set and use the <code>signature</code> variable. With this variable we specify the path of a file containing the signature. If the filename ends with a <code>|</code> (pipe) it is interpreted as the shell command the output of which should be used as a signature. In this case we just used the path of an existing file: <code>~/.mutt/signature</code>.</p>
+<h3>Save copy of outgoing messages</h3>
+<p>By default, in Mutt, the <code>copy</code> variable is set to ‘yes’, so copies of outgoing messages are saved for later references in the file specified via the <code>record</code> variable, which, by default, is <code>~/sent</code>. Since we are configuring Mutt to work with gmail, which has this functionality built in (outgoing email are stored in the remote “[Gmail]/Sent Mail” folder), we want to set <code>copy</code> to false, otherwise sent emails would be also saved locally, in the location we saw above (<code>$record</code>).</p>
+<hr>
+<h2>Configuring Mutt to work with gmail</h2>
+<p>Until now we saw and set few basic and important options. Now we will see how we can configure Mutt to work with a gmail account.</p>
+<h3>Generating an app-specific-password for Mutt</h3>
+<p>If we are using google two-factor authentication, to be able to access our gmail account from Mutt, we need to generate an <strong>app-specific-password</strong>, since google requires it for the applications that don’t use <strong>Oauth2</strong> as authentication method. To generate an app-specific-password, just navigate to <a href="https://security.google.com/settings/security/apppasswords">this address</a>, authenticate yourself, and follow the instructions to generate the password: we will use it in the configuration.</p>
+<h3>Gmail account configuration</h3>
+<p>The options we want to set in order to use Mutt with gmail are the following (we use a dummy address):</p>
+<pre>set from = "foo.bar@gmail.com"
+set realname = "Foo Bar"
+
+# Imap settings
+set imap_user = "foo.bar@gmail.com"
+set imap_pass = "&lt;mutt-app-specific-password&gt;"
+
+# Smtp settings
+set smtp_url = "smtps://foo.bar@smtp.gmail.com"
+set smtp_pass = "&lt;mutt-app-specific-password&gt;"
+
+# Remote gmail folders
+set folder = "imaps://imap.gmail.com/"
+set spoolfile = "+INBOX"
+set postponed = "+[Gmail]/Drafts"
+set record = "+[Gmail]/Sent Mail"
+set trash = "+[Gmail]/Trash"
+</pre>
+<hr>
+<p>Let’s take a look at the variables we defined above. First of all, we have <code>from</code> and <code>realname</code>: with them we specify, respectively, the value of the “From:” header parameter and the “real name” (your first and last name) that will be used in the emails we will send.</p>
+<p>The next thing we did above was to specify the <code>imap_user</code> and <code>imap_pass</code> variables. The former is practically your address, the same we used for <code>from</code>; the value we assign to the latter is the <strong>app-specific-password</strong> we generated earlier for our account.</p>
+<p>We then proceeded to set the value to use for <code>smtp_url</code> and <code>smtp_pass</code>. The first one defines the url where to send messages for delivery, in the case of gmail it is <code>smtp://&lt;yourusername&gt;@smtp.gmail.com</code>. The value of the <code>smtp_pass</code> variable, must be, again, the generated <strong>app-specific-password</strong>.</p>
+<p>As the last thing we defined some gmail folders:</p>
+<ul>
+<li><code>folder</code>: the location of our mailbox, in the case of gmail is <code>imaps://imap.gmail.com</code>;</li>
+<li><code>spoolfile</code>: the folder, inside the mailbox, where emails arrive;</li>
+<li><code>postponed</code>: the folder to use to store postponed messages (drafts);</li>
+<li><code>record</code>: the directory where gmail stores sent messages;</li>
+<li><code>trash</code>: the directory where to store delete emails, instead of purging them directly.</li>
+</ul>
+<hr>
+<p>As we said before, gmail stores sent mails in the dedicated folder automatically; here we assigned the value of the <code>record</code> directory (<code>+[Gmail]/Sent Mail</code>) just to be able to reference it later in macros without hard-coding the path (gmail is not the only mailbox provider).</p>
+<p>We also defined <code>trash</code>: it is the directory where mails marked for deletion will be moved when closing Mutt or synchronizing its state, instead of being purged directly: this gives us the chance to retrieve accidentally deleted messages. This functionality is included by default in recent versions of Mutt; to obtain it in older versions, the so called “trash patch” should be applied, even though it could be achieved also via macros.</p>
+<h3>Securing sensitive account information</h3>
+<p>At this point a question should raise in you: isn’t it dangerous to put sensitive information like the <strong>app-specific-password</strong> we generated for Mutt in a plain configuration file? Of course it is! This is something that should never be done! On the other hand, having to provide a password each time we want to connect to our mailbox would be really, really tedious. The solution to this problem is to store our gmail account information in a separate file we will encrypt using <strong>gpg</strong>; the file will be then sourced and decrypted in memory from the main mutt configuration file.</p>
+<p>Here is an example of how to do it. Move all the gmail information we setup in the previous section in a file called <code>~/.mutt/gmail</code> and encrypt it using gpg, running the command:</p>
+<pre>$ gpg --recipient &lt;recipientname&gt; --encrypt ~/.mutt/gmail
+</pre>
+<hr>
+<p>The above command would generate a new encrypted file, <code>~/.mutt/gmail.gpg</code>. You can now delete the original, plain text one. To source the encrypted file from the main Mutt configuration, all we have to do is to place this line at the beginning of the <code>~/.muttrc</code> configuration file:</p>
+<pre># Source default account configuration
+source "gpg2 -dq ~/.mutt/gmail.gpg |"
+</pre>
+<p>Notice the traling pipe: this is important to let Mutt use the output of the command. If you are using the “pass” password manager, you don’t need to encrypt the file manually, but create an entry for it that will be stored in the password-store. Want to know more? We talked about pass in <a href="https://linuxconfig.org/how-to-organize-your-passwords-using-pass-password-manager">How to organize your passwords using pass password manager</a> article.</p>
+<h2>Defining macros</h2>
+<p>Mutt let us define some “Macros” we can use for various purposes, as for example to establish shortcuts to switch between folders. Here are some useful ones we can place in our <code>~/.muttrc</code> file. Their purpose is self-explanatory:</p>
+<pre>macro index gd "&lt;change-folder&gt;$postponed&lt;enter&gt;" "go to drafts"
+macro index gs "&lt;change-folder&gt;$record&lt;enter&gt;" "go to sent"
+macro index gi "&lt;change-folder&gt;$spoolfile&lt;Enter&gt;" "go to inbox"
+macro index gt "&lt;change-folder&gt;$trash&lt;enter&gt;" "go to trash""
+</pre>
+<h2>Conclusions</h2>
+<p>In this article we learned how to install and configure Mutt, a command line mail client, on some of the major Linux distributions. We learned how to set some of the most important options, how to configure Mutt in order to use it with a gmail account, and how to store sensitive information in a separate, encrypted file with gpg, which is sourced from the main Mutt configuration file. We also created some macros in order to quickly switch directories. Now you can enjoy reading your emails from your terminal!</p>
+<div class="crp_related  "><h3>Related Linux Tutorials:</h3><ul><li><a href="https://linuxconfig.org/how-to-install-thunderbird-on-ubuntu-20-04-focal-fossa-linux-desktop" target="_blank" class="crp_link post-2054"><span class="crp_title">How to install Thunderbird on Ubuntu 20.04 Focal…</span></a></li><li><a href="https://linuxconfig.org/things-to-install-on-ubuntu-20-04" target="_blank" class="crp_link post-2035"><span class="crp_title">Things to install on Ubuntu 20.04</span></a></li><li><a href="https://linuxconfig.org/install-arch-linux-on-thinkpad-x1-carbon-gen-7-with-encrypted-filesystem-and-uefi" target="_blank" class="crp_link post-1830"><span class="crp_title">Install ARCH Linux on ThinkPad X1 Carbon Gen 7 with…</span></a></li><li><a href="https://linuxconfig.org/how-to-run-a-speed-test-from-command-line-using-speedtest-cli" target="_blank" class="crp_link post-1661"><span class="crp_title">How to run a speed test from command line using…</span></a></li><li><a href="https://linuxconfig.org/ubuntu-20-04-list-of-torrent-clients" target="_blank" class="crp_link post-2105"><span class="crp_title">Ubuntu 20.04: List of torrent clients</span></a></li><li><a href="https://linuxconfig.org/how-to-setup-a-openvpn-server-on-ubuntu-20-04" target="_blank" class="crp_link post-2080"><span class="crp_title">How to setup a OpenVPN server on Ubuntu 20.04</span></a></li><li><a href="https://linuxconfig.org/things-to-do-after-installing-ubuntu-20-04-focal-fossa-linux" target="_blank" class="crp_link post-2072"><span class="crp_title">Things to do after installing Ubuntu 20.04 Focal Fossa Linux</span></a></li><li><a href="https://linuxconfig.org/how-to-install-adobe-acrobat-reader-dc-wine-on-ubuntu-20-04-focal-fossa-linux" target="_blank" class="crp_link post-1870"><span class="crp_title">How to Install Adobe Acrobat Reader DC (WINE) on…</span></a></li><li><a href="https://linuxconfig.org/how-to-configure-smartd-and-be-notified-of-hard-disk-problems-via-email" target="_blank" class="crp_link post-2266"><span class="crp_title">How to configure smartd and be notified of hard disk…</span></a></li><li><a href="https://linuxconfig.org/how-to-install-adobe-acrobat-reader-on-ubuntu-20-04-focal-fossa-linux" target="_blank" class="crp_link post-1869"><span class="crp_title">How to Install Adobe Acrobat Reader on Ubuntu 20.04…</span></a></li></ul><div class="crp_clear"></div></div> </div>
+<footer class="entry-meta" aria-label="Entry meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z"></path></svg></span><span class="screen-reader-text">Categories </span><a href="https://linuxconfig.org/system-administration-configuration" rel="category tag">System Administration</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 00196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path><path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z"></path></svg></span><span class="screen-reader-text">Tags </span><a href="https://linuxconfig.org/tag/commands" rel="tag">commands</a>, <a href="https://linuxconfig.org/tag/desktop" rel="tag">desktop</a>, <a href="https://linuxconfig.org/tag/installation" rel="tag">installation</a>, <a href="https://linuxconfig.org/tag/mail" rel="tag">mail</a></span> <nav id="nav-below" class="post-navigation" aria-label="Single Post">
+<span class="screen-reader-text">Post navigation</span>
+<div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg viewBox="0 0 192 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z" fill-rule="nonzero"></path></svg></span><span class="prev" title="Previous"><a href="https://linuxconfig.org/enable-disable-firewall-on-manjaro-linux" rel="prev">Enable/Disable Firewall on Manjaro Linux</a></span></div><div class="nav-next"><span class="gp-icon icon-arrow-right"><svg viewBox="0 0 192 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z" fill-rule="nonzero"></path></svg></span><span class="next" title="Next"><a href="https://linuxconfig.org/how-to-install-third-party-codecs-extras-on-manjaro-linux" rel="next">How to Install Third Party Codecs &amp; Extras on Manjaro Linux</a></span></div> </nav>
+</footer>
+
+</div>

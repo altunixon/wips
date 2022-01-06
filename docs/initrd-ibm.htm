@@ -1,0 +1,743 @@
+<html>
+ <body>
+  <section class="wp-content">
+   <!-- begin main body content -->
+   <h2 id="what-s-an-initial-ram-disk-" xmlns="http://www.w3.org/1999/xhtml">
+    What’s an initial RAM disk?
+   </h2>
+   <p>
+    The
+    <em>
+     initial RAM disk (initrd)
+    </em>
+    is an initial root file system that is mounted prior to when the real root file system is available. The initrd is bound to the kernel and loaded as part of the kernel boot procedure. The kernel then mounts this initrd as part of the two-stage boot process to load the modules to make the real file systems available and get at the real root file system.
+   </p>
+   <p>
+    The initrd contains a minimal set of directories and executables to achieve this, such as the
+    <code style="font-family:monospace;font-size:1rem">
+     insmod
+    </code>
+    tool to install kernel modules into the kernel.
+   </p>
+   <p>
+    In the case of desktop or server Linux systems, the initrd is a transient file system. Its lifetime is short, only serving as a bridge to the real root file system. In embedded systems with no mutable storage, the initrd is the permanent root file system. This article explores both of these contexts.
+   </p>
+   <h2 id="anatomy-of-the-initrd">
+    Anatomy of the initrd
+   </h2>
+   <p>
+    The initrd image contains the necessary executables and system files to support the second-stage boot of a Linux system.
+   </p>
+   <p>
+    Depending on which version of Linux you’re running, the method for creating the initial RAM disk can vary. Prior to Fedora Core 3, the initrd is constructed using the
+    <em>
+     loop device
+    </em>
+    . The
+    <em>
+     loop device
+    </em>
+    is a device driver that allows you to mount a file as a block device and then interpret the file system it represents. The loop device may not be present in your kernel, but you can enable it through the kernel’s configuration tool (
+    <code style="font-family:monospace;font-size:1rem">
+     make menuconfig
+    </code>
+    ) by selecting
+    <strong>
+     Device Drivers &gt; Block Devices &gt; Loopback Device Support
+    </strong>
+    . You can inspect the loop device as follows (your initrd file name will vary):
+   </p>
+   <p>
+   </p>
+   <div class="ibm-codeblock">
+    <h5 class="ibm-h5" id="listing1">
+     Listing 1. Inspecting the initrd (prior to FC3)
+    </h5>
+    <div class="bx--snippet bx--snippet--multi" data-code-snippet="">
+     <div aria-label="Code Snippet Text" class="bx--snippet-container">
+      <pre><code>                
+#mkdir temp ; cd temp
+#cp /boot/initrd.img.gz .
+#gunzip initrd.img.gz
+#mount ‑t ext ‑o loop initrd.img /mnt/initrd
+#ls ‑la /mnt/initrd
+#</code></pre>
+     </div>
+     <button aria-label="Copy code" class="bx--snippet-button" data-copy-btn="" tabindex="0" type="button">
+      <svg class="bx--snippet__icon" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M1 10H0V2C0 .9.9 0 2 0h8v1H2c-.6 0-1 .5-1 1v8z">
+       </path>
+       <path d="M11 4.2V8h3.8L11 4.2zM15 9h-4c-.6 0-1-.4-1-1V4H4.5c-.3 0-.5.2-.5.5v10c0 .3.2.5.5.5h10c.3 0 .5-.2.5-.5V9zm-4-6c.1 0 .3.1.4.1l4.5 4.5c0 .1.1.3.1.4v6.5c0 .8-.7 1.5-1.5 1.5h-10c-.8 0-1.5-.7-1.5-1.5v-10C3 3.7 3.7 3 4.5 3H11z">
+       </path>
+      </svg>
+      <div class="bx--btn--copy__feedback" data-feedback="Copied!">
+      </div>
+     </button>
+     <button class="bx--btn bx--btn--ghost bx--btn--sm bx--snippet-btn--expand" type="button">
+      <span class="bx--snippet-btn--text" data-show-less-text="Show less" data-show-more-text="Show more">
+       Show more
+      </span>
+      <svg aria-label="Show more icon" class="bx--icon-chevron--down" height="7" viewbox="0 0 12 7" width="12">
+       <title>
+        Show more icon
+       </title>
+       <path d="M6.002 5.55L11.27 0l.726.685L6.003 7 0 .685.726 0z" fill-rule="nonzero">
+       </path>
+      </svg>
+     </button>
+    </div>
+   </div>
+   <p xmlns="http://www.w3.org/1999/xhtml">
+    You can now inspect the /mnt/initrd subdirectory for the contents of the initrd. Note that even if your initrd image file does not end with the .gz suffix, it’s a compressed file, and you can add the .gz suffix to gunzip it.
+   </p>
+   <p>
+    Beginning with Fedora Core 3, the default initrd image is a compressed cpio archive file. Instead of mounting the file as a compressed image using the loop device, you can use a cpio archive. To inspect the contents of a cpio archive, use the following commands:
+   </p>
+   <p>
+   </p>
+   <div class="ibm-codeblock">
+    <h5 class="ibm-h5" id="listing2">
+     Listing 2. Inspecting the initrd (FC3 and later)
+    </h5>
+    <div class="bx--snippet bx--snippet--multi" data-code-snippet="">
+     <div aria-label="Code Snippet Text" class="bx--snippet-container">
+      <pre><code>                
+#mkdir temp ; cd temp
+#cp /boot/initrd‑2.6.14.2.img initrd‑2.6.14.2.img.gz
+#gunzip initrd‑2.6.14.2.img.gz
+#cpio ‑i ‑‑make‑directories &lt; initrd‑2.6.14.2.img
+#</code></pre>
+     </div>
+     <button aria-label="Copy code" class="bx--snippet-button" data-copy-btn="" tabindex="0" type="button">
+      <svg class="bx--snippet__icon" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M1 10H0V2C0 .9.9 0 2 0h8v1H2c-.6 0-1 .5-1 1v8z">
+       </path>
+       <path d="M11 4.2V8h3.8L11 4.2zM15 9h-4c-.6 0-1-.4-1-1V4H4.5c-.3 0-.5.2-.5.5v10c0 .3.2.5.5.5h10c.3 0 .5-.2.5-.5V9zm-4-6c.1 0 .3.1.4.1l4.5 4.5c0 .1.1.3.1.4v6.5c0 .8-.7 1.5-1.5 1.5h-10c-.8 0-1.5-.7-1.5-1.5v-10C3 3.7 3.7 3 4.5 3H11z">
+       </path>
+      </svg>
+      <div class="bx--btn--copy__feedback" data-feedback="Copied!">
+      </div>
+     </button>
+     <button class="bx--btn bx--btn--ghost bx--btn--sm bx--snippet-btn--expand" type="button">
+      <span class="bx--snippet-btn--text" data-show-less-text="Show less" data-show-more-text="Show more">
+       Show more
+      </span>
+      <svg aria-label="Show more icon" class="bx--icon-chevron--down" height="7" viewbox="0 0 12 7" width="12">
+       <title>
+        Show more icon
+       </title>
+       <path d="M6.002 5.55L11.27 0l.726.685L6.003 7 0 .685.726 0z" fill-rule="nonzero">
+       </path>
+      </svg>
+     </button>
+    </div>
+   </div>
+   <p xmlns="http://www.w3.org/1999/xhtml">
+    The result is a small root file system, as shown in Listing 3. The small, but necessary, set of applications are present in the ./bin directory, including
+    <code style="font-family:monospace;font-size:1rem">
+     nash
+    </code>
+    (not a shell, a script interpreter),
+    <code style="font-family:monospace;font-size:1rem">
+     insmod
+    </code>
+    for loading kernel modules, and
+    <code style="font-family:monospace;font-size:1rem">
+     lvm
+    </code>
+    (logical volume manager tools).
+   </p>
+   <p>
+   </p>
+   <div class="ibm-codeblock">
+    <h5 class="ibm-h5" id="listing3">
+     Listing 3. Default Linux initrd directory structure
+    </h5>
+    <div class="bx--snippet bx--snippet--multi" data-code-snippet="">
+     <div aria-label="Code Snippet Text" class="bx--snippet-container">
+      <pre><code>                
+#ls ‑la
+#
+drwxr‑xr‑x  10 root root    4096 May 7 02:48 .
+drwxr‑x‑‑‑  15 root root    4096 May 7 00:54 ..
+drwxr‑xr‑x  2  root root    4096 May 7 02:48 bin
+drwxr‑xr‑x  2  root root    4096 May 7 02:48 dev
+drwxr‑xr‑x  4  root root    4096 May 7 02:48 etc
+‑rwxr‑xr‑x  1  root root     812 May 7 02:48 init
+‑rw‑r‑‑r‑‑  1  root root 1723392 May 7 02:45 initrd‑2.6.14.2.img
+drwxr‑xr‑x  2  root root    4096 May 7 02:48 lib
+drwxr‑xr‑x  2  root root    4096 May 7 02:48 loopfs
+drwxr‑xr‑x  2  root root    4096 May 7 02:48 proc
+lrwxrwxrwx  1  root root       3 May 7 02:48 sbin ‑&gt; bin
+drwxr‑xr‑x  2  root root    4096 May 7 02:48 sys
+drwxr‑xr‑x  2  root root    4096 May 7 02:48 sysroot
+#</code></pre>
+     </div>
+     <button aria-label="Copy code" class="bx--snippet-button" data-copy-btn="" tabindex="0" type="button">
+      <svg class="bx--snippet__icon" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M1 10H0V2C0 .9.9 0 2 0h8v1H2c-.6 0-1 .5-1 1v8z">
+       </path>
+       <path d="M11 4.2V8h3.8L11 4.2zM15 9h-4c-.6 0-1-.4-1-1V4H4.5c-.3 0-.5.2-.5.5v10c0 .3.2.5.5.5h10c.3 0 .5-.2.5-.5V9zm-4-6c.1 0 .3.1.4.1l4.5 4.5c0 .1.1.3.1.4v6.5c0 .8-.7 1.5-1.5 1.5h-10c-.8 0-1.5-.7-1.5-1.5v-10C3 3.7 3.7 3 4.5 3H11z">
+       </path>
+      </svg>
+      <div class="bx--btn--copy__feedback" data-feedback="Copied!">
+      </div>
+     </button>
+     <button class="bx--btn bx--btn--ghost bx--btn--sm bx--snippet-btn--expand" type="button">
+      <span class="bx--snippet-btn--text" data-show-less-text="Show less" data-show-more-text="Show more">
+       Show more
+      </span>
+      <svg aria-label="Show more icon" class="bx--icon-chevron--down" height="7" viewbox="0 0 12 7" width="12">
+       <title>
+        Show more icon
+       </title>
+       <path d="M6.002 5.55L11.27 0l.726.685L6.003 7 0 .685.726 0z" fill-rule="nonzero">
+       </path>
+      </svg>
+     </button>
+    </div>
+   </div>
+   <p xmlns="http://www.w3.org/1999/xhtml">
+    Of interest in Listing 3 is the init file at the root. This file, like the traditional Linux boot process, is invoked when the initrd image is decompressed into the RAM disk. We’ll explore this later in the article.
+   </p>
+   <h2 id="tools-for-creating-an-initrd">
+    Tools for creating an initrd
+   </h2>
+   <div class="dw-article-sidebar ibm-background-cool-white-20">
+    <p>
+     <strong>
+      The cpio command
+     </strong>
+    </p>
+    <p>
+     Using the
+     <code style="font-family:monospace;font-size:1rem">
+      cpio
+     </code>
+     command, you can manipulate
+     <code style="font-family:monospace;font-size:1rem">
+      cpio
+     </code>
+     files. Cpio is also a file format that is simply a concatenation of files with headers. The
+     <code style="font-family:monospace;font-size:1rem">
+      cpio
+     </code>
+     file format permits both ASCII and binary files. For portability, use ASCII. For a reduced file size, use the binary version.
+    </p>
+   </div>
+   <p>
+    Let’s now go back to the beginning to formally understand how the initrd image is constructed in the first place. For a traditional Linux system, the initrd image is created during the Linux build process. Numerous tools, such as
+    <code style="font-family:monospace;font-size:1rem">
+     mkinitrd
+    </code>
+    , can be used to automatically build an initrd with the necessary libraries and modules for bridging to the real root file system. The
+    <code style="font-family:monospace;font-size:1rem">
+     mkinitrd
+    </code>
+    utility is actually a shell script, so you can see exactly how it achieves its result. There’s also the
+    <code style="font-family:monospace;font-size:1rem">
+     YAIRD
+    </code>
+    (Yet Another Mkinitrd) utility, which permits customization of every aspect of the initrd construction.
+   </p>
+   <h2 id="manually-building-a-custom-initial-ram-disk">
+    Manually building a custom initial RAM disk
+   </h2>
+   <p>
+    Because there is no hard drive in many embedded systems based on Linux, the initrd also serves as the permanent root file system. Listing 4 shows how to create an initrd image. I’m using a standard Linux desktop so you can follow along without an embedded target. Other than cross-compilation, the concepts (as they apply to initrd construction) are the same for an embedded target.
+   </p>
+   <p>
+   </p>
+   <div class="ibm-codeblock">
+    <h5 class="ibm-h5" id="listing4">
+     Listing 4. Utility (mkird) to create a custom initrd
+    </h5>
+    <div class="bx--snippet bx--snippet--multi" data-code-snippet="">
+     <div aria-label="Code Snippet Text" class="bx--snippet-container">
+      <pre><code>                
+#!/bin/bash
+
+# Housekeeping...
+rm ‑f /tmp/ramdisk.img
+rm ‑f /tmp/ramdisk.img.gz
+
+# Ramdisk Constants
+RDSIZE=4000
+BLKSIZE=1024
+
+# Create an empty ramdisk image
+dd if=/dev/zero of=/tmp/ramdisk.img bs=$BLKSIZE count=$RDSIZE
+
+# Make it an ext2 mountable file system
+/sbin/mke2fs ‑F ‑m 0 ‑b $BLKSIZE /tmp/ramdisk.img $RDSIZE
+
+# Mount it so that we can populate
+mount /tmp/ramdisk.img /mnt/initrd ‑t ext2 ‑o loop=/dev/loop0
+
+# Populate the filesystem (subdirectories)
+mkdir /mnt/initrd/bin
+mkdir /mnt/initrd/sys
+mkdir /mnt/initrd/dev
+mkdir /mnt/initrd/proc
+
+# Grab busybox and create the symbolic links
+pushd /mnt/initrd/bin
+cp /usr/local/src/busybox‑1.1.1/busybox .
+ln ‑s busybox ash
+ln ‑s busybox mount
+ln ‑s busybox echo
+ln ‑s busybox ls
+ln ‑s busybox cat
+ln ‑s busybox ps
+ln ‑s busybox dmesg
+ln ‑s busybox sysctl
+popd
+
+# Grab the necessary dev files
+cp ‑a /dev/console /mnt/initrd/dev
+cp ‑a /dev/ramdisk /mnt/initrd/dev
+cp ‑a /dev/ram0 /mnt/initrd/dev
+cp ‑a /dev/null /mnt/initrd/dev
+cp ‑a /dev/tty1 /mnt/initrd/dev
+cp ‑a /dev/tty2 /mnt/initrd/dev
+
+# Equate sbin with bin
+pushd /mnt/initrd
+ln ‑s bin sbin
+popd
+
+# Create the init file
+cat &gt;&gt; /mnt/initrd/linuxrc &lt;&lt; EOF
+#!/bin/ash
+echo
+echo "Simple initrd is active"
+echo
+mount ‑t proc /proc /proc
+mount ‑t sysfs none /sys
+/bin/ash ‑‑login
+EOF
+
+chmod +x /mnt/initrd/linuxrc
+
+# Finish up...
+umount /mnt/initrd
+gzip ‑9 /tmp/ramdisk.img
+cp /tmp/ramdisk.img.gz /boot/ramdisk.img.gz</code></pre>
+     </div>
+     <button aria-label="Copy code" class="bx--snippet-button" data-copy-btn="" tabindex="0" type="button">
+      <svg class="bx--snippet__icon" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M1 10H0V2C0 .9.9 0 2 0h8v1H2c-.6 0-1 .5-1 1v8z">
+       </path>
+       <path d="M11 4.2V8h3.8L11 4.2zM15 9h-4c-.6 0-1-.4-1-1V4H4.5c-.3 0-.5.2-.5.5v10c0 .3.2.5.5.5h10c.3 0 .5-.2.5-.5V9zm-4-6c.1 0 .3.1.4.1l4.5 4.5c0 .1.1.3.1.4v6.5c0 .8-.7 1.5-1.5 1.5h-10c-.8 0-1.5-.7-1.5-1.5v-10C3 3.7 3.7 3 4.5 3H11z">
+       </path>
+      </svg>
+      <div class="bx--btn--copy__feedback" data-feedback="Copied!">
+      </div>
+     </button>
+     <button class="bx--btn bx--btn--ghost bx--btn--sm bx--snippet-btn--expand" type="button">
+      <span class="bx--snippet-btn--text" data-show-less-text="Show less" data-show-more-text="Show more">
+       Show more
+      </span>
+      <svg aria-label="Show more icon" class="bx--icon-chevron--down" height="7" viewbox="0 0 12 7" width="12">
+       <title>
+        Show more icon
+       </title>
+       <path d="M6.002 5.55L11.27 0l.726.685L6.003 7 0 .685.726 0z" fill-rule="nonzero">
+       </path>
+      </svg>
+     </button>
+    </div>
+   </div>
+   <div class="dw-article-sidebar ibm-background-cool-white-20">
+    <p xmlns="http://www.w3.org/1999/xhtml">
+     <strong>
+      An initrd Linux distribution
+     </strong>
+    </p>
+    <p>
+     An interesting open source project that was designed to be a Linux distribution that fits within an initrd is Minimax. It’s 32MB in size and uses BusyBox and uClibc for its ultra small size. Despite its small size, it’s a 2.6 Linux kernel with a large array of useful tools.
+    </p>
+   </div>
+   <p>
+    To create an initrd, begin by creating an empty file, using
+    <code style="font-family:monospace;font-size:1rem">
+     /dev/zero
+    </code>
+    (a stream of zeroes) as input writing to the ramdisk.img file. The resulting file is 4MB in size (4000 1K blocks). Then use the
+    <code style="font-family:monospace;font-size:1rem">
+     mke2fs
+    </code>
+    command to create an ext2 (second extended) file system using the empty file. Now that this file is an ext2 file system, mount the file to /mnt/initrd using the loop device. At the mount point, you now have a directory that represents an ext2 file system that you can populate for your initrd. Much of the rest of the script provides this functionality.
+   </p>
+   <p>
+    The next step is creating the necessary subdirectories that make up your root file system: /bin, /sys, /dev, and /proc. Only a handful are needed (for example, no libraries are present), but they contain quite a bit of functionality.
+   </p>
+   <div class="dw-article-sidebar ibm-background-cool-white-20">
+    <p>
+     <strong>
+      Alternative to the ext2 file system
+     </strong>
+    </p>
+    <p>
+     While ext2 is a common Linux file system format, there are alternatives that can reduce the size of the initrd image and the resulting mounted file systems. Examples include romfs (ROM file system), cramfs (compressed ROM file system), and squashfs (highly compressed read-only file system). If you need to transiently write data to the file system, ext2 works fine. Finally, the e2compr is an extension to the ext2 file system driver that supports online compression.
+    </p>
+   </div>
+   <p>
+    To make your root file system useful, use BusyBox. This utility is a single image that contains many individual utilities commonly found in Linux systems (such as ash, awk, sed, insmod, and so on). The advantage of BusyBox is that it packs many utilities into one while sharing their common elements, resulting in a much smaller image. This is ideal for embedded systems. Copy the BusyBox image from its source directory into your root in the /bin directory. A number of symbolic links are then created that all point to the BusyBox utility. BusyBox figures out which utility was invoked and performs that functionality. A small set of links are created in this directory to support your init script (with each command link pointing to BusyBox).
+   </p>
+   <p>
+    The next step is the creation of a small number of special device files. I copy these directly from my current /dev subdirectory, using the
+    <code style="font-family:monospace;font-size:1rem">
+     -a
+    </code>
+    option (archive) to preserve their attributes.
+   </p>
+   <p>
+    The penultimate step is to generate the linuxrc file. After the kernel mounts the RAM disk, it searches for an
+    <code style="font-family:monospace;font-size:1rem">
+     init
+    </code>
+    file to execute. If an
+    <code style="font-family:monospace;font-size:1rem">
+     init
+    </code>
+    file is not found, the kernel invokes the linuxrc file as its startup script. You do the basic setup of the environment in this file, such as mounting the /proc file system. In addition to /proc, I also mount the /sys file system and emit a message to the console. Finally, I invoke
+    <code style="font-family:monospace;font-size:1rem">
+     ash
+    </code>
+    (a Bourne Shell clone) so I can interact with the root file system. The linuxrc file is then made executable using
+    <code style="font-family:monospace;font-size:1rem">
+     chmod
+    </code>
+    .
+   </p>
+   <p>
+    Finally, your root file system is complete. It’s unmounted and then compressed using
+    <code style="font-family:monospace;font-size:1rem">
+     gzip
+    </code>
+    . The resulting file (ramdisk.img.gz) is copied to the /boot subdirectory so it can be loaded via GNU GRUB.
+   </p>
+   <p>
+    To build the initial RAM disk, you simply invoke
+    <code style="font-family:monospace;font-size:1rem">
+     mkird
+    </code>
+    , and the image is automatically created and copied to /boot.
+   </p>
+   <div class="dw-article-sidebar ibm-background-cool-white-20">
+    <p>
+     <strong>
+      Initrd support in the Linux kernel
+     </strong>
+    </p>
+    <p>
+     For the Linux kernel to support the initial RAM disk, the kernel must be compiled with the
+     <code style="font-family:monospace;font-size:1rem">
+      CONFIG_BLK_DEV_RAM
+     </code>
+     and
+     <code style="font-family:monospace;font-size:1rem">
+      CONFIG_BLK_DEV_INITRD
+     </code>
+     options.
+    </p>
+   </div>
+   <h2 id="testing-the-custom-initial-ram-disk">
+    Testing the custom initial RAM disk
+   </h2>
+   <p>
+    Your new initrd image is in /boot, so the next step is to test it with your default kernel. You can now restart your Linux system. When GRUB appears, press the C key to enable the command-line utility within GRUB. You can now interact with GRUB to define the specific kernel and initrd image to load. The
+    <code style="font-family:monospace;font-size:1rem">
+     kernel
+    </code>
+    command allows you to define the kernel file, and the
+    <code style="font-family:monospace;font-size:1rem">
+     initrd
+    </code>
+    command allows you to specify the particular initrd image file. When these are defined, use the
+    <code style="font-family:monospace;font-size:1rem">
+     boot
+    </code>
+    command to boot the kernel, as shown in Listing 5.
+   </p>
+   <p>
+    <strong>
+     Listing 5. Manually booting the kernel and initrd using GRUB
+    </strong>
+   </p>
+   <div class="bx--snippet bx--snippet--multi" data-code-snippet="">
+    <div aria-label="Code Snippet Text" class="bx--snippet-container">
+     <pre><code>GNU GRUB  version 0.95  (638K lower / 97216K upper memory)
+
+[ Minimal BASH-like line editing is supported. For the first word, TAB
+  lists possible command completions. Anywhere else TAB lists the possible
+  completions of a device/filename. ESC at any time exits.]
+
+grub&gt; kernel /bzImage-2.6.1
+   [Linux-bzImage, setup=0x1400, size=0x29672e]
+
+grub&gt; initrd /ramdisk.img.gz
+   [Linux-initrd @ 0x5f2a000, 0xb5108 bytes]
+
+grub&gt; boot
+
+Uncompressing Linux... OK, booting the kernel.
+</code></pre>
+    </div>
+    <button aria-label="Copy code" class="bx--snippet-button" data-copy-btn="" tabindex="0" type="button">
+     <svg class="bx--snippet__icon" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+      <path d="M1 10H0V2C0 .9.9 0 2 0h8v1H2c-.6 0-1 .5-1 1v8z">
+      </path>
+      <path d="M11 4.2V8h3.8L11 4.2zM15 9h-4c-.6 0-1-.4-1-1V4H4.5c-.3 0-.5.2-.5.5v10c0 .3.2.5.5.5h10c.3 0 .5-.2.5-.5V9zm-4-6c.1 0 .3.1.4.1l4.5 4.5c0 .1.1.3.1.4v6.5c0 .8-.7 1.5-1.5 1.5h-10c-.8 0-1.5-.7-1.5-1.5v-10C3 3.7 3.7 3 4.5 3H11z">
+      </path>
+     </svg>
+     <div class="bx--btn--copy__feedback" data-feedback="Copied!">
+     </div>
+    </button>
+    <button class="bx--btn bx--btn--ghost bx--btn--sm bx--snippet-btn--expand" type="button">
+     <span class="bx--snippet-btn--text" data-show-less-text="Show less" data-show-more-text="Show more">
+      Show more
+     </span>
+     <svg aria-label="Show more icon" class="bx--icon-chevron--down" height="7" viewbox="0 0 12 7" width="12">
+      <title>
+       Show more icon
+      </title>
+      <path d="M6.002 5.55L11.27 0l.726.685L6.003 7 0 .685.726 0z" fill-rule="nonzero">
+      </path>
+     </svg>
+    </button>
+   </div>
+   <p xmlns="http://www.w3.org/1999/xhtml">
+    After the kernel starts, it checks to see if an initrd image is available (more on this later), and then loads and mounts it as the root file system. You can see the end of this particular Linux startup in Listing 6. When started, the ash shell is available to enter commands. In this example, I explore the root file system and interrogate a virtual proc file system entry. I also demonstrate that you can write to the file system by touching a file (thus creating it). Note here that the first process created is
+    <code style="font-family:monospace;font-size:1rem">
+     linuxrc
+    </code>
+    (commonly
+    <code style="font-family:monospace;font-size:1rem">
+     init
+    </code>
+    ).
+   </p>
+   <p>
+   </p>
+   <div class="ibm-codeblock">
+    <h5 class="ibm-h5" id="listing6">
+     Listing 6. Booting a Linux kernel with your simple initrd
+    </h5>
+    <div class="bx--snippet bx--snippet--multi" data-code-snippet="">
+     <div aria-label="Code Snippet Text" class="bx--snippet-container">
+      <pre><code>                
+...
+md: Autodetecting RAID arrays
+md: autorun
+md: ... autorun DONE.
+RAMDISK: Compressed image found at block 0
+VFS: Mounted root (ext2 file system).
+Freeing unused kernel memory: 208k freed
+/ $ ls
+bin         etc       linuxrc       proc        sys
+dev         lib       lost+found    sbin
+/ $ cat /proc/1/cmdline
+/bin/ash/linuxrc
+/ $ cd bin
+/bin $ ls
+ash      cat      echo     mount    sysctl
+busybox  dmesg    ls       ps
+/bin $ touch zfile
+/bin $ ls
+ash      cat      echo     mount    sysctl
+busybox  dmesg    ls       ps       zfile</code></pre>
+     </div>
+     <button aria-label="Copy code" class="bx--snippet-button" data-copy-btn="" tabindex="0" type="button">
+      <svg class="bx--snippet__icon" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M1 10H0V2C0 .9.9 0 2 0h8v1H2c-.6 0-1 .5-1 1v8z">
+       </path>
+       <path d="M11 4.2V8h3.8L11 4.2zM15 9h-4c-.6 0-1-.4-1-1V4H4.5c-.3 0-.5.2-.5.5v10c0 .3.2.5.5.5h10c.3 0 .5-.2.5-.5V9zm-4-6c.1 0 .3.1.4.1l4.5 4.5c0 .1.1.3.1.4v6.5c0 .8-.7 1.5-1.5 1.5h-10c-.8 0-1.5-.7-1.5-1.5v-10C3 3.7 3.7 3 4.5 3H11z">
+       </path>
+      </svg>
+      <div class="bx--btn--copy__feedback" data-feedback="Copied!">
+      </div>
+     </button>
+     <button class="bx--btn bx--btn--ghost bx--btn--sm bx--snippet-btn--expand" type="button">
+      <span class="bx--snippet-btn--text" data-show-less-text="Show less" data-show-more-text="Show more">
+       Show more
+      </span>
+      <svg aria-label="Show more icon" class="bx--icon-chevron--down" height="7" viewbox="0 0 12 7" width="12">
+       <title>
+        Show more icon
+       </title>
+       <path d="M6.002 5.55L11.27 0l.726.685L6.003 7 0 .685.726 0z" fill-rule="nonzero">
+       </path>
+      </svg>
+     </button>
+    </div>
+   </div>
+   <h2 id="booting-with-an-initial-ram-disk" xmlns="http://www.w3.org/1999/xhtml">
+    Booting with an initial RAM disk
+   </h2>
+   <p>
+    Now that you’ve seen how to build and use a custom initial RAM disk, this section explores how the kernel identifies and mounts the initrd as its root file system. I walk through some of the major functions in the boot chain and explain what’s happening.
+   </p>
+   <p>
+    The boot loader, such as GRUB, identifies the kernel that is to be loaded and copies this kernel image and any associated initrd into memory. You can find much of this functionality in the ./init subdirectory under your Linux kernel source directory.
+   </p>
+   <p>
+    After the kernel and initrd images are decompressed and copied into memory, the kernel is invoked. Various initialization is performed and, eventually, you find yourself in
+    <code style="font-family:monospace;font-size:1rem">
+     init/main.c:init()
+    </code>
+    (subdir/file:function). This function performs a large amount of subsystem initialization. A call is made here to
+    <code style="font-family:monospace;font-size:1rem">
+     init/do_mounts.c:prepare_namespace()
+    </code>
+    , which is used to prepare the namespace (mount the dev file system, RAID, or md, devices, and, finally, the initrd). Loading the initrd is done through a call to
+    <code style="font-family:monospace;font-size:1rem">
+     init/do_mounts_initrd.c:initrd_load()
+    </code>
+    .
+   </p>
+   <p>
+    The
+    <code style="font-family:monospace;font-size:1rem">
+     initrd_load()
+    </code>
+    function calls
+    <code style="font-family:monospace;font-size:1rem">
+     init/do_mounts_rd.c:rd_load_image()
+    </code>
+    , which determines the RAM disk image to load through a call to
+    <code style="font-family:monospace;font-size:1rem">
+     init/do_mounts_rd.c:identify_ramdisk_image()
+    </code>
+    . This function checks the magic number of the image to determine if it’s a minux, etc2, romfs, cramfs, or gzip format. Upon return to
+    <code style="font-family:monospace;font-size:1rem">
+     initrd_load_image
+    </code>
+    , a call is made to
+    <code style="font-family:monospace;font-size:1rem">
+     init/do_mounts_rd:crd_load()
+    </code>
+    . This function allocates space for the RAM disk, calculates the cyclic redundancy check (CRC), and then uncompresses and loads the RAM disk image into memory. At this point, you have the initrd image in a block device suitable for mounting.
+   </p>
+   <p>
+    Mounting the block device now as root begins with a call to
+    <code style="font-family:monospace;font-size:1rem">
+     init/do_mounts.c:mount_root()
+    </code>
+    . The root device is created, and then a call is made to
+    <code style="font-family:monospace;font-size:1rem">
+     init/do_mounts.c:mount_block_root()
+    </code>
+    . From here,
+    <code style="font-family:monospace;font-size:1rem">
+     init/do_mounts.c:do_mount_root()
+    </code>
+    is called, which calls
+    <code style="font-family:monospace;font-size:1rem">
+     fs/namespace.c:sys_mount()
+    </code>
+    to actually mount the root file system and then
+    <code style="font-family:monospace;font-size:1rem">
+     chdir
+    </code>
+    to it. This is where you see the familiar message shown in Listing 6:
+    <code style="font-family:monospace;font-size:1rem">
+     VFS: Mounted root (ext2 file system).
+    </code>
+   </p>
+   <p>
+    Finally, you return to the
+    <code style="font-family:monospace;font-size:1rem">
+     init
+    </code>
+    function and call
+    <code style="font-family:monospace;font-size:1rem">
+     init/main.c:run_init_process
+    </code>
+    . This results in a call to
+    <code style="font-family:monospace;font-size:1rem">
+     execve
+    </code>
+    to start the init process (in this case
+    <code style="font-family:monospace;font-size:1rem">
+     /linuxrc
+    </code>
+    ). The linuxrc can be an executable or a script (as long as a script interpreter is available for it).
+   </p>
+   <p>
+    The hierarchy of functions called is shown in Listing 7. Not all functions that are involved in copying and mounting the initial RAM disk are shown here, but this gives you a rough overview of the overall flow.
+   </p>
+   <p>
+   </p>
+   <div class="ibm-codeblock">
+    <h5 class="ibm-h5" id="listing7">
+     Listing 7. Hierarchy of major functions in initrd loading and mounting
+    </h5>
+    <div class="bx--snippet bx--snippet--multi" data-code-snippet="">
+     <div aria-label="Code Snippet Text" class="bx--snippet-container">
+      <pre><code>                
+init/main.c:init
+  init/do_mounts.c:prepare_namespace
+    init/do_mounts_initrd.c:initrd_load
+      init/do_mounts_rd.c:rd_load_image
+        init/do_mounts_rd.c:identify_ramdisk_image
+        init/do_mounts_rd.c:crd_load
+          lib/inflate.c:gunzip
+    init/do_mounts.c:mount_root
+      init/do_mounts.c:mount_block_root
+         init/do_mounts.c:do_mount_root
+           fs/namespace.c:sys_mount
+  init/main.c:run_init_process
+    execve</code></pre>
+     </div>
+     <button aria-label="Copy code" class="bx--snippet-button" data-copy-btn="" tabindex="0" type="button">
+      <svg class="bx--snippet__icon" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M1 10H0V2C0 .9.9 0 2 0h8v1H2c-.6 0-1 .5-1 1v8z">
+       </path>
+       <path d="M11 4.2V8h3.8L11 4.2zM15 9h-4c-.6 0-1-.4-1-1V4H4.5c-.3 0-.5.2-.5.5v10c0 .3.2.5.5.5h10c.3 0 .5-.2.5-.5V9zm-4-6c.1 0 .3.1.4.1l4.5 4.5c0 .1.1.3.1.4v6.5c0 .8-.7 1.5-1.5 1.5h-10c-.8 0-1.5-.7-1.5-1.5v-10C3 3.7 3.7 3 4.5 3H11z">
+       </path>
+      </svg>
+      <div class="bx--btn--copy__feedback" data-feedback="Copied!">
+      </div>
+     </button>
+     <button class="bx--btn bx--btn--ghost bx--btn--sm bx--snippet-btn--expand" type="button">
+      <span class="bx--snippet-btn--text" data-show-less-text="Show less" data-show-more-text="Show more">
+       Show more
+      </span>
+      <svg aria-label="Show more icon" class="bx--icon-chevron--down" height="7" viewbox="0 0 12 7" width="12">
+       <title>
+        Show more icon
+       </title>
+       <path d="M6.002 5.55L11.27 0l.726.685L6.003 7 0 .685.726 0z" fill-rule="nonzero">
+       </path>
+      </svg>
+     </button>
+    </div>
+   </div>
+   <h2 id="diskless-boot" xmlns="http://www.w3.org/1999/xhtml">
+    Diskless Boot
+   </h2>
+   <p>
+    Much like embedded booting scenarios, a local disk (floppy or CD-ROM) isn’t necessary to boot a kernel and ramdisk root filesystem. The Dynamic Host Configuration Protocol (or DHCP) can be used to identify network parameters such as IP address and subnet mask. The Trivial File Transfer Protocol (or TFTP) can then be used to transfer the kernel image and the initial ramdisk image to the local device. Once transferred, the Linux kernel can be booted and initrd mounted, as is done in a local image boot.
+   </p>
+   <h2 id="shrinking-your-initrd">
+    Shrinking your initrd
+   </h2>
+   <p>
+    When you’re building an embedded system and want the smallest initrd image possible, there are a few tips to consider. The first is to use BusyBox (demonstrated in this article). BusyBox takes several megabytes of utilities and shrinks them down to several hundred kilobytes.
+   </p>
+   <p>
+    In this example, the BusyBox image is statically linked so that no libraries are required. However, if you need the standard C library (for your custom binaries), there are other options beyond the massive glibc. The first small library is uClibc, which is a minimized version of the standard C library for space-constrained systems. Another library that’s ideal for space-constrained environments is dietlib. Keep in mind that you’ll need to recompile the binaries that you want in your embedded system using these libraries, so some additional work is required (but worth it).
+   </p>
+   <h2 id="summary">
+    Summary
+   </h2>
+   <p>
+    The initial RAM disk was originally created to support bridging the kernel to the ultimate root file system through a transient root file system. The initrd is also useful as a non-persistent root file system mounted in a RAM disk for embedded Linux systems.
+   </p>
+   <footer class="code--entry-footer">
+   </footer>
+  </section>
+ </body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Xpath-Copy",
+  "version": "0.1",
+
+  "description": "Copy element attribute with attribute:xpath",
+
+  "icons": {
+    "48": "xcopy.svg"
+  },
+  
+  "content_scripts": [
+    {
+      "matches": ["*"],
+      "js": ["XCopy.js"]
+    }
+  ]
+}
